@@ -1,0 +1,202 @@
+{
+  "generated_at": "2026-10-22T14:35:02+07:00",
+  "run_metadata": {
+    "data_dir": "C:\\Users\\Tung Khanh Luong\\Downloads\\english_stories_cleaned_1000-20261016T141759Z-1-001\\english_stories_cleaned_1000",
+    "input_pattern": "book_*.txt",
+    "labels_file": "C:\\Users\\Tung Khanh Luong\\Downloads\\english_stories_cleaned_1000-20261016T141759Z-1-001\\english_stories_cleaned_1000\\labels.jsonl",
+    "output_dir": "C:\\Users\\Tung Khanh Luong\\Downloads\\english_stories_cleaned_1000-20261016T141759Z-1-001\\english_stories_cleaned_1000\\gd1_out",
+    "script_path": "C:\\Users\\Tung Khanh Luong\\Downloads\\english_stories_cleaned_1000-20261016T141759Z-1-001\\english_stories_cleaned_1000\\gd1_stats.py",
+    "n_input_files": 1000,
+    "input_encodings": {
+      "utf-8-sig": 1000
+    },
+    "platform": "Windows-10-10.0.26200-SP0",
+    "python_version": "3.10.11",
+    "numpy_version": "2.2.6",
+    "pandas_version": "2.3.3",
+    "matplotlib_version": "3.10.9",
+    "scikit_learn_version": "1.7.2",
+    "scipy_version": "1.15.3",
+    "nltk_version": "3.10.3"
+  },
+  "method": {
+    "word_count_regex": "[a-z]+(?:'[a-z]+)?",
+    "min_words": 12000,
+    "words_per_page_assumption": 600,
+    "stopword_source": "scikit-learn ENGLISH_STOP_WORDS + EXTRA_STOP",
+    "stemming": "NLTK PorterStemmer",
+    "zipf_reference": "f(1)/rank; visual reference only, no exponent fitted",
+    "tfidf": {
+      "min_df": 3,
+      "max_df": 0.6,
+      "sublinear_tf": true,
+      "use_idf": true,
+      "smooth_idf": true,
+      "norm": "l2"
+    },
+    "near_duplicate_cosine_threshold": 0.9,
+    "exact_duplicate_hash": "SHA-256 of normalized token sequence",
+    "label_aliases": {
+      "science_fiction": "science_fiction_speculative"
+    }
+  },
+  "length": {
+    "n_files": 1000,
+    "total_words": 34344608,
+    "min": 12072,
+    "mean": 34344.608,
+    "median": 35209.5,
+    "max": 53913,
+    "std": 12262.554142364894,
+    "min_word_threshold": 12000,
+    "words_per_page_assumption": 600,
+    "files_below_12000": 0,
+    "approx_pages_mean_(600w/page)": 57.241013333333335,
+    "approx_pages_min": 20.12,
+    "approx_pages_max": 89.855
+  },
+  "vocabulary": {
+    "total_tokens": 34344608,
+    "vocab_raw": 165943,
+    "vocab_after_stopwords": 149436,
+    "vocab_after_stemming": 103482,
+    "stem_note": "PorterStemmer ap dung cho token truoc khi tao TF-IDF",
+    "stopword_types_in_vocab": 863,
+    "stopword_token_share": 0.5732317282526561,
+    "removed_token_share_(stop+fragments+chapter+roman)": 0.5788560463406658,
+    "hapax_legomena": 62126,
+    "hapax_type_share_pct": 37.43815647541626
+  },
+  "tfidf_vocab_size_(min_df=3,max_df=0.6)": 34416,
+  "svd_2d_explained_variance_ratio": [
+    0.004956261374168313,
+    0.019367894081548636
+  ],
+  "exact_duplicate_groups": [],
+  "near_duplicate_pairs_(cos>0.90)": 0,
+  "residue": {
+    "gutenberg": {
+      "files_affected": 0,
+      "total_hits": 0
+    },
+    "copyright": {
+      "files_affected": 14,
+      "total_hits": 18
+    },
+    "chapter_heading": {
+      "files_affected": 541,
+      "total_hits": 8211
+    },
+    "star_line": {
+      "files_affected": 6,
+      "total_hits": 65
+    },
+    "mojibake": {
+      "files_affected": 0,
+      "total_hits": 0
+    },
+    "all_caps_line": {
+      "files_affected": 626,
+      "total_hits": 7960
+    },
+    "url": {
+      "files_affected": 0,
+      "total_hits": 0
+    }
+  },
+  "labels": {
+    "n_labels": 14,
+    "missing_label_files": 0,
+    "smallest_label_count": 3,
+    "labels_below_2pct": [
+      "children_animals"
+    ],
+    "confidence_counts": {
+      "low": 0,
+      "medium": 276,
+      "high": 724,
+      "other_or_invalid": 0,
+      "missing": 0
+    },
+    "validation": {
+      "input_label_rows": 1000,
+      "unique_label_files": 1000,
+      "duplicate_label_rows": 0,
+      "conflicting_label_files": 0,
+      "dataset_files_without_label": 0,
+      "label_files_not_in_dataset": 0,
+      "rows_without_filename": 0,
+      "coverage_pct": 100.0,
+      "label_alias_rules": {
+        "science_fiction": "science_fiction_speculative"
+      },
+      "labels_without_english_display_name": []
+    }
+  },
+  "kmeans": {
+    "svd_components": 100,
+    "silhouette_by_k": [
+      {
+        "k": 6,
+        "silhouette": 0.04176185862586358,
+        "clusters_found": 6,
+        "status": "ok"
+      },
+      {
+        "k": 7,
+        "silhouette": 0.04852462266752815,
+        "clusters_found": 7,
+        "status": "ok"
+      },
+      {
+        "k": 8,
+        "silhouette": 0.04482455337738149,
+        "clusters_found": 8,
+        "status": "ok"
+      },
+      {
+        "k": 9,
+        "silhouette": 0.04615156929979688,
+        "clusters_found": 9,
+        "status": "ok"
+      },
+      {
+        "k": 10,
+        "silhouette": 0.04772827058032927,
+        "clusters_found": 10,
+        "status": "ok"
+      },
+      {
+        "k": 11,
+        "silhouette": 0.042888575691274224,
+        "clusters_found": 11,
+        "status": "ok"
+      },
+      {
+        "k": 12,
+        "silhouette": 0.04652892604712448,
+        "clusters_found": 12,
+        "status": "ok"
+      },
+      {
+        "k": 13,
+        "silhouette": 0.05486747107862925,
+        "clusters_found": 13,
+        "status": "ok"
+      },
+      {
+        "k": 14,
+        "silhouette": 0.05492772141984948,
+        "clusters_found": 14,
+        "status": "ok"
+      }
+    ],
+    "interpretation": "Chi so tham khao mo ta cau truc gom cum; khong phai accuracy phan loai.",
+    "best_k_by_silhouette": 14,
+    "k_equal_n_labels": 14,
+    "documents_compared_to_labels": 1000,
+    "unlabeled_documents_excluded": 0,
+    "NMI_vs_labels": 0.3027004082232436,
+    "ARI_vs_labels": 0.14569668198283403
+  }
+}

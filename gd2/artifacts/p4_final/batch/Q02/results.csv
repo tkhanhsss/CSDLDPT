@@ -1,0 +1,4 @@
+rank,doc_id,filename,title,author_display,label_code,score,zero_score,relative_path,copy_path,raw_sha256
+1,1,book_0001.txt,A BRACE OF BOYS,Fitz Hugh Ludlow,romance_social,0.3752845162320391,False,data/corpus/book_0001.txt,rank1_book_0001.txt,edae673a38dd109538e9b2e22ed0e7d79a8a9afba913e2f47b3297fb963d41e5
+2,221,book_0221.txt,Aunt Hannah and Seth,James Otis,adventure_exploration,0.08668082802300715,False,data/corpus/book_0221.txt,rank2_book_0221.txt,7f79de558f22b87244063e362e65f907234e49c3ca63b5b438d974c5264bd1f2
+3,362,book_0362.txt,Chinese Diamonds for the King of Kings,ROSALIND GOFORTH,religion_philosophy,0.08453961329300334,False,data/corpus/book_0362.txt,rank3_book_0362.txt,e96fc24a5fe48d820678dc9b63466a6d0ef9681025894dd5ad8532cd82e72ce1

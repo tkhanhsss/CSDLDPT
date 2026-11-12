@@ -1,0 +1,83 @@
+{
+  "status": "passed",
+  "phase": "P4",
+  "purpose": "technical tests only; not P5/P6 quality evaluation",
+  "build_id": "gd2-p3-0274798c40134e5e91eb3452500cda71",
+  "database_sha256": "46d8295c0a909a886a8880c4b2898a4f08d939a61d2fe21f1002b6cef9b922ea",
+  "expected_batch_exit_code": 1,
+  "checks": [
+    {
+      "fixture": "technical_maritime.txt",
+      "status": "ok",
+      "max_query_difference": 0.0,
+      "max_score_difference": 0.0,
+      "all_scores_ranked_correctly": true,
+      "contributions": [
+        {
+          "rank": 1,
+          "filename": "book_0487.txt",
+          "score": 0.08819101516070367,
+          "sum_contributions": 0.08819101516070368,
+          "absolute_error": 1.3877787807814457e-17
+        },
+        {
+          "rank": 2,
+          "filename": "book_0745.txt",
+          "score": 0.08481487059691796,
+          "sum_contributions": 0.08481487059691797,
+          "absolute_error": 1.3877787807814457e-17
+        },
+        {
+          "rank": 3,
+          "filename": "book_0310.txt",
+          "score": 0.08021149932858433,
+          "sum_contributions": 0.08021149932858433,
+          "absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "fixture": "technical_self.txt",
+      "status": "ok",
+      "max_query_difference": 0.0,
+      "max_score_difference": 0.0,
+      "all_scores_ranked_correctly": true,
+      "contributions": [
+        {
+          "rank": 1,
+          "filename": "book_0001.txt",
+          "score": 0.3752845162320391,
+          "sum_contributions": 0.3752845162320391,
+          "absolute_error": 0.0
+        },
+        {
+          "rank": 2,
+          "filename": "book_0221.txt",
+          "score": 0.08668082802300715,
+          "sum_contributions": 0.08668082802300715,
+          "absolute_error": 0.0
+        },
+        {
+          "rank": 3,
+          "filename": "book_0362.txt",
+          "score": 0.08453961329300334,
+          "sum_contributions": 0.08453961329300334,
+          "absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "fixture": "empty_vector.txt",
+      "status": "empty_vector",
+      "max_query_difference": 0.0,
+      "max_score_difference": 0.0,
+      "all_scores_ranked_correctly": true,
+      "contributions": []
+    }
+  ],
+  "source_sha256": {
+    "search.py": "93d16f0c280a9ac6dddef03b581f44763fc89620d5bceb103b5304e8e35023f4",
+    "verify_search.py": "0105168af33777482f34524420eb7aad669e11ffe649494534b2516aeee1b191",
+    "preprocess.py": "d25e7a624591fdce25ad1fe8619b58ed8518af849454cb7fbdc79d63f26d25ec"
+  }
+}

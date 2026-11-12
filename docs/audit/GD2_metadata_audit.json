@@ -1,0 +1,127 @@
+{
+  "audit_date": "2026-11-04",
+  "source": "selected_stories.csv",
+  "scope": "CSV structure and filename coverage only; content identity and external sources not yet verified",
+  "n_rows": 1000,
+  "columns": [
+    "new_filename",
+    "title",
+    "author"
+  ],
+  "unique_new_filenames": 1000,
+  "missing_files": [],
+  "extra_files": [],
+  "duplicate_new_filenames": {},
+  "blank_fields": {
+    "new_filename": 0,
+    "title": 0,
+    "author": 0
+  },
+  "malformed_rows": [],
+  "duplicate_title_author_groups": [
+    {
+      "title": "grania, the story of an island (complete)",
+      "author": "emily lawless",
+      "files": [
+        "book_0637.txt",
+        "book_0797.txt"
+      ]
+    },
+    {
+      "title": "the earl's promise",
+      "author": "mrs. j. h. riddell",
+      "files": [
+        "book_0927.txt",
+        "book_0988.txt"
+      ]
+    }
+  ],
+  "sample_rows": [
+    {
+      "new_filename": "book_0001.txt",
+      "title": "A BRACE OF BOYS",
+      "author": "Fitz Hugh Ludlow"
+    },
+    {
+      "new_filename": "book_0002.txt",
+      "title": "The Exiles",
+      "author": "Honoré de Balzac"
+    },
+    {
+      "new_filename": "book_0003.txt",
+      "title": "The Band Played On",
+      "author": "LESTER DEL REY"
+    },
+    {
+      "new_filename": "book_0500.txt",
+      "title": "Trotwood's Monthly, Vol. I, No. 3, December 1905",
+      "author": "Various"
+    },
+    {
+      "new_filename": "book_1000.txt",
+      "title": "Selections from Poe",
+      "author": "Edgar Allan Poe"
+    }
+  ],
+  "duplicate_pair_content_checks": [
+    {
+      "title": "grania, the story of an island (complete)",
+      "documents": [
+        {
+          "new_filename": "book_0637.txt",
+          "title": "Grania, The Story of an Island (Complete)",
+          "author": "Emily Lawless",
+          "word_count": 41213,
+          "raw_sha256": "a7da5a273f49c6c8f126245106ebf1fd3f4d970941b9e218c5b55e9d65eb7840",
+          "normalized_sha256": "386e168dd1a816a6d2d69fc9b39cf85f679b9c93c2504411da04750b8bcb7cc7",
+          "opening": "PART I\n\nSEPTEMBER\n\n\nPART I\n\n_SEPTEMBER_\n\n\nCHAPTER I\n\n\nA mild September afternoon, thirty years ago, in the middle of Galway\nBay.\n\nClouds over the whole expanse of sky, nowhere showing any immediate\ndisposition to fall as rain, yet nowhere allowing the sky to appear\ndecidedly, nowhere even becoming themselves decided, keeping everywhere\na broad indefinable wash of greyness, a grey so dim, uniform, and\nall-pervasive, that it defied observation, floating and melting away\ninto a dimly blotted horizon, an horizon which, whether at any given\npoint to call sea or sky, land or water, it was all but impossible to\ndecide.\n\nHere and there in that wide cloud-covered sweep of sky a sort of break\nor window occurred, and through this break or window long shafts of\nsunlight fell in a cold and chastened dr",
+          "ending": " but on the whole pleasurable, settling down upon\nhis handsome weather-beaten old features.\n\nThe aunt from the other side of the island had nearly reached her own\nhome again, and even Peggy Dowd had long disappeared, wheezing and\ngrunting up the craggy pathway, before he ventured to leave his\narm-chair and contemplative gaze at the horizon, and once more seek out\nthe cabin and that atmosphere of storm which seemed to hang about it as\nclosely and almost as persistently as its veil of peat smoke.\n"
+        },
+        {
+          "new_filename": "book_0797.txt",
+          "title": "Grania, The Story of an Island (Complete)",
+          "author": "Emily Lawless",
+          "word_count": 46812,
+          "raw_sha256": "200c5124f9363a5c8c371149a95f0885d2c6818397cae6c2d7fd7cf74c4400cc",
+          "normalized_sha256": "2417eb87f6ec35047293affdb323a605c7d5a4eaebf223303164278c21af0c0a",
+          "opening": "PART III\n\n_MAY TO AUGUST_\n\n\nCHAPTER I\n\n\nThus the weeks went on, one week after the other, all exactly alike, and\nno new light came to aid Grania in her investigations about the stolen\nturf. What was hardly less important, however, the depredations\nthemselves ceased. From the night on which she had pursued the thief\nthrough the gully and lost him at the mouth of it, no fresh inroads, so\nfar as she could discover, had been made in the stack, and, this being\nthe case, she was content for the present to let the matter be. She had\na kindly feeling towards poor Pete Durane, and if he were the culprit\nwould have been sorry to have been forced to bring the guilt home to\nhim. If, on the other hand, it was Shan Daly--the only other person she\ncould think of as likely to be guilty--though she hated t",
+          "ending": "y\nmatter-of-fact daylight had returned to Inishmaan, her journey thither\nwas accomplished. Already, even while the priest stood beside her, while\nthe prayers she had so longed for, those prayers which Grania had died\nto obtain for her, were being uttered, she was drifting across its\nborderland; already its sounds rather than his voice, rather than any\nearthly voices, were in her ears; already her foot was upon its\nthreshold. And upon that threshold, perhaps--who knows?--who can\ntell?--they met.\n"
+        }
+      ],
+      "identical_normalized_text": false,
+      "same_first_100_tokens": false
+    },
+    {
+      "title": "the earl's promise",
+      "documents": [
+        {
+          "new_filename": "book_0927.txt",
+          "title": "The Earl's promise",
+          "author": "Mrs. J. H. Riddell",
+          "word_count": 51277,
+          "raw_sha256": "01dfe134cdea5a8e350239f2e72554995eb8d4d626d4de6fb56e94d2713d8eb9",
+          "normalized_sha256": "52e3b1dd6fa234c0e3a28ef7877beb59177c7ac0775a18928db984e05f8e3291",
+          "opening": "CHAPTER I.\n                      KINGSLOUGH _née_ BALLYLOUGH.\n\n\nKingslough at high noon was ordinarily the stupidest, dullest, dirtiest\nlittle town that could have been found in the Province of Ulster. On\nmarket and fair, and party-procession days, the inhabitants seemed to\nexpend the whole of their strength. An almost unbroken calm ensued after\nwild excitement, a death-like stillness followed the shouts and cries of\nfaction, the shrieks of drunken merriment, the shrill piping of fifes,\nthe braying of trumpets, and the bang-banging of drums.\n\nExcepting on such and such-like festive occasions as those above\nenumerated, the town, figuratively speaking, looked as though it had\ngone to bed to sleep off the effects of its last excitement or debauch.\n\nIn the bright sunlight it appeared like a pl",
+          "ending": " Larkins.\n\n“I do not think—asking your pardon, ma’am, for being so free—that it\nwould be a very seemly thing for any of our ladies to be seen going to\nMaryville.”\n\nFrom which remark it will be understood that Nettie’s relations did not\nintend to visit her, and that popular opinion already applauded their\nresolution.\n\nAnd so Nettie’s return and marriage made a nine days’ talk, and caused a\nnine days’ wonder, at the expiration of which time another event\noccurred, which made a greater talk still.\n"
+        },
+        {
+          "new_filename": "book_0988.txt",
+          "title": "The Earl's promise",
+          "author": "Mrs. J. H. Riddell",
+          "word_count": 53226,
+          "raw_sha256": "d9829f97c575407eb6685951bf5204b75ee054f458a1d1d588d9bfc6341f5561",
+          "normalized_sha256": "12a87126618a0d9f619d78c20a5a358422397498ac4c71111e61c4875867c49a",
+          "opening": "CHAPTER I.\n                  MRS. BRADY UNDERSTANDS HER POSITION.\n\n\nTacitly Kingslough had decided that Mrs. Brady was not to be visited.\nJust as by one consent the public sometimes agrees to condemn an untried\nman, so gentle and simple made up their minds not to enter the gates of\nMaryville.\n\nThose of Nettie’s own class, having regard to that which they considered\na _mésalliance_, quietly tabooed the fact of her marriage and her\nexistence; those of a lower grade, remembering what Miss O’Hara’s father\nhad been, and what the Rileys were, feeling if they called upon the\nyoung wife she might not feel grateful for their attentions, agreed it\nmight be prudent for them to abstain from showing any.\n\nWherein they were wise. Scant civility would any one have met from\nNettie, who, presuming upon an ",
+          "ending": "ctors themselves or the friends of those they have\nbeen attending.”\n\n“A pleasant confession,” thought Mr. Hanlon as he once again seated\nhimself by the window and resumed his watch for dawn.\n\nSlowly the streaks of light became broader, day gently pushed aside the\ncurtains of night from the sea, darkness lifted itself gradually, the\nclouds became suffused with crimson, then the sun appeared above the\nhorizon, and once again the ever-recurring miracle of a new day had been\nwrought upon the earth.\n"
+        }
+      ],
+      "identical_normalized_text": false,
+      "same_first_100_tokens": false
+    }
+  ],
+  "source_sha256": "7a498010c9ed332dd598b6495a4eaed66b55456f23cede9e06865d61776ab11c",
+  "schema_cleanup": {
+    "date": "2026-11-04T18:30:47+07:00",
+    "note": "Đã bỏ trường tên tệp trước đổi tên theo yêu cầu người dùng; nội dung đối chiếu và hash nguồn lịch sử giữ nguyên."
+  }
+}

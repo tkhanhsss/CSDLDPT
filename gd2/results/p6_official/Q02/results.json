@@ -1,0 +1,65 @@
+{
+  "query_id": "Q02",
+  "query_path": "C:\\Users\\Tung Khanh Luong\\Desktop\\CSDLDPT\\gd2\\queries\\Q02.txt",
+  "query_sha256": "09a5c53ca21c51558eb09e7cda03933d500041e8d864806b623d917e8e94bc2f",
+  "build_id": "gd2-p3-0274798c40134e5e91eb3452500cda71",
+  "status": "ok",
+  "word_count": 1018,
+  "statistics": {
+    "content_token_count": 397,
+    "unique_stems": 302,
+    "in_vocabulary_types": 121,
+    "oov_types": 181,
+    "oov_tokens": 238,
+    "nnz": 121
+  },
+  "query_l2_raw": 41.96137111157841,
+  "top3": [
+    {
+      "rank": 1,
+      "doc_id": 880,
+      "filename": "book_0880.txt",
+      "title": "GEOFFREY THE LOLLARD.",
+      "author_display": "FRANCES EASTWOOD",
+      "label_code": "historical_biographical",
+      "score": 0.06670651585951687,
+      "zero_score": false,
+      "relative_path": "data/corpus/book_0880.txt",
+      "copy_path": "rank1_book_0880.txt",
+      "raw_sha256": "0e551cf093c298ce8e9b2e7debc26ebe60ff47799a70f1e878defc4efff4b5e2"
+    },
+    {
+      "rank": 2,
+      "doc_id": 505,
+      "filename": "book_0505.txt",
+      "title": "Is Polite Society Polite? And Other Essays",
+      "author_display": "Julia Ward Howe",
+      "label_code": "literary_other",
+      "score": 0.06503419498146372,
+      "zero_score": false,
+      "relative_path": "data/corpus/book_0505.txt",
+      "copy_path": "rank2_book_0505.txt",
+      "raw_sha256": "3b84faa6271acc9d525b6793ca16867a70bb0fed9f4dfe8a56b276b41556cd17"
+    },
+    {
+      "rank": 3,
+      "doc_id": 233,
+      "filename": "book_0233.txt",
+      "title": "THE POOR CLARE",
+      "author_display": "Elizabeth Cleghorn Gaskell",
+      "label_code": "fantasy_supernatural",
+      "score": 0.06471713052059251,
+      "zero_score": false,
+      "relative_path": "data/corpus/book_0233.txt",
+      "copy_path": "rank3_book_0233.txt",
+      "raw_sha256": "c47fc2a3ccf516e9ecc850a3938eb2b12265159814ab138f80b4706b9fcc910b"
+    }
+  ],
+  "message": "",
+  "timing_seconds": {
+    "transform": 0.005826900000101887,
+    "score": 0.005472599994391203,
+    "ranking": 0.0002877999941119924,
+    "total_before_report": 0.0496489999932237
+  }
+}

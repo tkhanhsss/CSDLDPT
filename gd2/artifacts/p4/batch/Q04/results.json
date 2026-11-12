@@ -1,0 +1,9 @@
+{
+  "query_id": "Q04",
+  "query_path": "C:\\Users\\Tung Khanh Luong\\Desktop\\CSDLDPT\\gd2\\artifacts\\p4\\inputs\\no_tokens.txt",
+  "build_id": "gd2-p3-0274798c40134e5e91eb3452500cda71",
+  "status": "error",
+  "top3": [],
+  "error_type": "ValueError",
+  "message": "Query contains no word tokens"
+}

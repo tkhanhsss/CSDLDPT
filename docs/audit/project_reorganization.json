@@ -1,0 +1,5172 @@
+{
+  "date": "2026-11-04",
+  "moved_files": 1033,
+  "all_moved_file_hashes_unchanged": true,
+  "moves": [
+    {
+      "OldPath": "book_0001.txt",
+      "NewPath": "data/corpus/book_0001.txt",
+      "ExpectedHash": "edae673a38dd109538e9b2e22ed0e7d79a8a9afba913e2f47b3297fb963d41e5"
+    },
+    {
+      "OldPath": "book_0002.txt",
+      "NewPath": "data/corpus/book_0002.txt",
+      "ExpectedHash": "09fed25327e8175d011c0fcea5f41d620c0c496d334b5174b66522cf14a440fa"
+    },
+    {
+      "OldPath": "book_0003.txt",
+      "NewPath": "data/corpus/book_0003.txt",
+      "ExpectedHash": "0a6aed778b0bf7d57dc21166ab6f3adb9a9b4ffd995f4806f96f0b5e46a08e26"
+    },
+    {
+      "OldPath": "book_0004.txt",
+      "NewPath": "data/corpus/book_0004.txt",
+      "ExpectedHash": "383ee5163e3467396c00878f99e048b4865c2bd587a7e31279447c9235d14bdc"
+    },
+    {
+      "OldPath": "book_0005.txt",
+      "NewPath": "data/corpus/book_0005.txt",
+      "ExpectedHash": "d593bfed034188c4c79fbe86e0a61d831a2d26cfd03bd28e047b935fa2d61920"
+    },
+    {
+      "OldPath": "book_0006.txt",
+      "NewPath": "data/corpus/book_0006.txt",
+      "ExpectedHash": "dbe64828b16b0268edaa7a91067b670dee2b7bdc7da7f9c20ccde161e2d594ae"
+    },
+    {
+      "OldPath": "book_0007.txt",
+      "NewPath": "data/corpus/book_0007.txt",
+      "ExpectedHash": "85f986363a025434729426f2f5e9fdd1d8dec8f696a311d696e3284baf206078"
+    },
+    {
+      "OldPath": "book_0008.txt",
+      "NewPath": "data/corpus/book_0008.txt",
+      "ExpectedHash": "6c34cd0a2b0f056848b0424dc59f9ce7ebe5fd569954f1b736cbf3b905d0f318"
+    },
+    {
+      "OldPath": "book_0009.txt",
+      "NewPath": "data/corpus/book_0009.txt",
+      "ExpectedHash": "4f4746ed4b3649ee7c24ca37c05e99d0cf4c66ed37c14ed0c65e0b07fdb94e61"
+    },
+    {
+      "OldPath": "book_0010.txt",
+      "NewPath": "data/corpus/book_0010.txt",
+      "ExpectedHash": "cc5c82eebf9c0e64cc8964b369dd604e01b4c6bca3999abe645ae239d3da1aa3"
+    },
+    {
+      "OldPath": "book_0011.txt",
+      "NewPath": "data/corpus/book_0011.txt",
+      "ExpectedHash": "0ad3653a652650f00b0eedfd13b3b74c048a115d129483f78a67eed3496dc591"
+    },
+    {
+      "OldPath": "book_0012.txt",
+      "NewPath": "data/corpus/book_0012.txt",
+      "ExpectedHash": "a55e2bbfa78d293c03924561701b8011dd8d6626aefa426b47a394e446b5db9a"
+    },
+    {
+      "OldPath": "book_0013.txt",
+      "NewPath": "data/corpus/book_0013.txt",
+      "ExpectedHash": "08e69c0d28912e0d1f95a12f8242b713a93ba6c2ff79b73eb770c7421e93d408"
+    },
+    {
+      "OldPath": "book_0014.txt",
+      "NewPath": "data/corpus/book_0014.txt",
+      "ExpectedHash": "69f0dc07bdf9749e023a67f0bec0f3c781cb3af0699dfa601303534859077160"
+    },
+    {
+      "OldPath": "book_0015.txt",
+      "NewPath": "data/corpus/book_0015.txt",
+      "ExpectedHash": "751202c2915921bb87fc07292a92bcd56d65f9ec404dfdd833aa1962c0818c7e"
+    },
+    {
+      "OldPath": "book_0016.txt",
+      "NewPath": "data/corpus/book_0016.txt",
+      "ExpectedHash": "f00f2f24c0cef61c661def34dec38d37bc0ad7c2f55574f32613ecad35ed8c30"
+    },
+    {
+      "OldPath": "book_0017.txt",
+      "NewPath": "data/corpus/book_0017.txt",
+      "ExpectedHash": "3c736485088c5755bf85f4728a50949386fe9922951d39acb0a37da047244280"
+    },
+    {
+      "OldPath": "book_0018.txt",
+      "NewPath": "data/corpus/book_0018.txt",
+      "ExpectedHash": "60412c0d73bd944110cd5d789bdaa90f612ca48814933a7b4158a25217fdb906"
+    },
+    {
+      "OldPath": "book_0019.txt",
+      "NewPath": "data/corpus/book_0019.txt",
+      "ExpectedHash": "f6e1dc4fca80d30cf3157d9bc6fba9d881dc7224b950d15ecd6872dcb48cef28"
+    },
+    {
+      "OldPath": "book_0020.txt",
+      "NewPath": "data/corpus/book_0020.txt",
+      "ExpectedHash": "f3f23bbe319caa75c9b7fed9b295fc8d0864b1d9c51d9fdd954ee7b734f02549"
+    },
+    {
+      "OldPath": "book_0021.txt",
+      "NewPath": "data/corpus/book_0021.txt",
+      "ExpectedHash": "c7e091994c5d6ac7162b11ca70c6d38fd4809d9d0e0b84c700eff414f8136486"
+    },
+    {
+      "OldPath": "book_0022.txt",
+      "NewPath": "data/corpus/book_0022.txt",
+      "ExpectedHash": "99ac9501db3f662615006a9639ee816d2e4b009e335e15da85ad664252b8328b"
+    },
+    {
+      "OldPath": "book_0023.txt",
+      "NewPath": "data/corpus/book_0023.txt",
+      "ExpectedHash": "70184ebe5c446c2b68573bc5cdcd9cedeabe5190861dcf5cd131f321a252e03c"
+    },
+    {
+      "OldPath": "book_0024.txt",
+      "NewPath": "data/corpus/book_0024.txt",
+      "ExpectedHash": "071b8da6c48f1e914f553314c16d6c89e174c892a39a1b0648f1ad81e7d21324"
+    },
+    {
+      "OldPath": "book_0025.txt",
+      "NewPath": "data/corpus/book_0025.txt",
+      "ExpectedHash": "d5f59a24c69272fc66fd2005d45f3d3e7ead45f3391856ce291a6831896c3c09"
+    },
+    {
+      "OldPath": "book_0026.txt",
+      "NewPath": "data/corpus/book_0026.txt",
+      "ExpectedHash": "333aa4600027afafddff3389fca4008694267fad272405b0fc1380ad6ba9ebdd"
+    },
+    {
+      "OldPath": "book_0027.txt",
+      "NewPath": "data/corpus/book_0027.txt",
+      "ExpectedHash": "6840f119eb69549182efc28ee3b30236d2ca5627f946a756b7d5ab1315ebae84"
+    },
+    {
+      "OldPath": "book_0028.txt",
+      "NewPath": "data/corpus/book_0028.txt",
+      "ExpectedHash": "f43b896dc2a4064c3d0eb59b2629aee0a44b7402ed0473750616cba2b141f60b"
+    },
+    {
+      "OldPath": "book_0029.txt",
+      "NewPath": "data/corpus/book_0029.txt",
+      "ExpectedHash": "dca4dca5fa44f5c9e85152d3d4a13dfcfa547f77f0765884a03cb83058902d52"
+    },
+    {
+      "OldPath": "book_0030.txt",
+      "NewPath": "data/corpus/book_0030.txt",
+      "ExpectedHash": "86343fd415d91eca2c40de2a1b821b24078e7727c2352d614bfaccf08d4c3326"
+    },
+    {
+      "OldPath": "book_0031.txt",
+      "NewPath": "data/corpus/book_0031.txt",
+      "ExpectedHash": "0f73090e9d5f1f07b403cf09d3739e8f16ceea02d3118e5554499915f1bf1c2d"
+    },
+    {
+      "OldPath": "book_0032.txt",
+      "NewPath": "data/corpus/book_0032.txt",
+      "ExpectedHash": "dc73314a6334b35adf74196e97c73cb90f85e040eb95246cb50a078b719956a1"
+    },
+    {
+      "OldPath": "book_0033.txt",
+      "NewPath": "data/corpus/book_0033.txt",
+      "ExpectedHash": "648d5765824345c91eb52fdaf7f86220cd257794c92f0d70e8997196e76f3884"
+    },
+    {
+      "OldPath": "book_0034.txt",
+      "NewPath": "data/corpus/book_0034.txt",
+      "ExpectedHash": "e16dc2e369c3aaa0f872f375e493b79633b59b744270eef65d5b784d4e40b573"
+    },
+    {
+      "OldPath": "book_0035.txt",
+      "NewPath": "data/corpus/book_0035.txt",
+      "ExpectedHash": "fe7f2506c10c6041ea76a0cd815e0c2ed3209acf318dbf896c5f433cce3c6dd0"
+    },
+    {
+      "OldPath": "book_0036.txt",
+      "NewPath": "data/corpus/book_0036.txt",
+      "ExpectedHash": "7857312b6f99f464c3d99284112953da93cd6d11d9fa1d19c93b5ba9a1898908"
+    },
+    {
+      "OldPath": "book_0037.txt",
+      "NewPath": "data/corpus/book_0037.txt",
+      "ExpectedHash": "3bf7df34272c24de5636e5e3baef86d30637d8e149e900048c1f85f64b2fe004"
+    },
+    {
+      "OldPath": "book_0038.txt",
+      "NewPath": "data/corpus/book_0038.txt",
+      "ExpectedHash": "1ec99db8bdae33c07d868b722faab10c5877f57b6f202fb655e713f0491ae2bb"
+    },
+    {
+      "OldPath": "book_0039.txt",
+      "NewPath": "data/corpus/book_0039.txt",
+      "ExpectedHash": "966e8f6c63bc2a962bb72088656ddd2e80821c3043a902f9d6aeb84fe42155f2"
+    },
+    {
+      "OldPath": "book_0040.txt",
+      "NewPath": "data/corpus/book_0040.txt",
+      "ExpectedHash": "89758998ed882c9712d09e82db1d95eaeedf9fe0be6eac1eaa1557fa46ff3a78"
+    },
+    {
+      "OldPath": "book_0041.txt",
+      "NewPath": "data/corpus/book_0041.txt",
+      "ExpectedHash": "899b225fcdc15ec6e9e7908333499c4375d8aa0ac60f05479c36a178bc5d7bc1"
+    },
+    {
+      "OldPath": "book_0042.txt",
+      "NewPath": "data/corpus/book_0042.txt",
+      "ExpectedHash": "0891e12d653731d6b40c7d51aef2ae8f3a8358c5ded9b01850612b66bfee3fac"
+    },
+    {
+      "OldPath": "book_0043.txt",
+      "NewPath": "data/corpus/book_0043.txt",
+      "ExpectedHash": "4550b833b2fb8204f56f0f22caae7b2d027613a7e73cda28bba0aa1c239a9a6d"
+    },
+    {
+      "OldPath": "book_0044.txt",
+      "NewPath": "data/corpus/book_0044.txt",
+      "ExpectedHash": "d418b26d723aa52dba011ff5e4dd743da8b84e517068b5399cef09b79f6e0782"
+    },
+    {
+      "OldPath": "book_0045.txt",
+      "NewPath": "data/corpus/book_0045.txt",
+      "ExpectedHash": "0d68edc3bb534474f1d71dbf4009b91c14096967ef3b357b33b5a7cd571d70c1"
+    },
+    {
+      "OldPath": "book_0046.txt",
+      "NewPath": "data/corpus/book_0046.txt",
+      "ExpectedHash": "22088b427a65b150c140f0ab414bd496140c60bf5d558dbd78779b84805fafa5"
+    },
+    {
+      "OldPath": "book_0047.txt",
+      "NewPath": "data/corpus/book_0047.txt",
+      "ExpectedHash": "a1773551d9325406e3dbd3b5db1cc23060b558f06b82cc93d9a525f7992eeeb5"
+    },
+    {
+      "OldPath": "book_0048.txt",
+      "NewPath": "data/corpus/book_0048.txt",
+      "ExpectedHash": "b05f7467340399a902a01caa9e96a64e6dfb47a12d7ba76dde001e285ff03ed4"
+    },
+    {
+      "OldPath": "book_0049.txt",
+      "NewPath": "data/corpus/book_0049.txt",
+      "ExpectedHash": "43a4518513ffd1260c1fabd76c32b68eb72a4b9be440dc9d01b8c4f5bb36d2f3"
+    },
+    {
+      "OldPath": "book_0050.txt",
+      "NewPath": "data/corpus/book_0050.txt",
+      "ExpectedHash": "c6784412f94112db9b06d2bfe5d014b4e1badc9c284154ecf9dff1700c4bb3f6"
+    },
+    {
+      "OldPath": "book_0051.txt",
+      "NewPath": "data/corpus/book_0051.txt",
+      "ExpectedHash": "7f7e2b61abd3e41ccd9f8223039b8259f18e5d1ec56f2141eaa1fe0dda875106"
+    },
+    {
+      "OldPath": "book_0052.txt",
+      "NewPath": "data/corpus/book_0052.txt",
+      "ExpectedHash": "709bb96fa4ca9020b3484c06f06b147e642e51217617c2c7d1ee5a382ccec4dc"
+    },
+    {
+      "OldPath": "book_0053.txt",
+      "NewPath": "data/corpus/book_0053.txt",
+      "ExpectedHash": "dce6c87e6670d82be39409b9cb8d1fbce2a6d47aae406cffa1a6fa475d2c8278"
+    },
+    {
+      "OldPath": "book_0054.txt",
+      "NewPath": "data/corpus/book_0054.txt",
+      "ExpectedHash": "e5cef1466f1b857e878e88e639b14e32e1bbed777cb6685f76753acf822c4b53"
+    },
+    {
+      "OldPath": "book_0055.txt",
+      "NewPath": "data/corpus/book_0055.txt",
+      "ExpectedHash": "f36417870565cc9e6510f1bb1e05879e8b07ac747005f9da36ce6ae40c8a89df"
+    },
+    {
+      "OldPath": "book_0056.txt",
+      "NewPath": "data/corpus/book_0056.txt",
+      "ExpectedHash": "7b596588a6c7dccec4ef6e93cb81870033485f5cd08735a3d6d2313454ce822e"
+    },
+    {
+      "OldPath": "book_0057.txt",
+      "NewPath": "data/corpus/book_0057.txt",
+      "ExpectedHash": "b5dfe79ae0d48f60aa4a2653f8d338eb520ff6a71e862fbdfc7b690b95cdb87b"
+    },
+    {
+      "OldPath": "book_0058.txt",
+      "NewPath": "data/corpus/book_0058.txt",
+      "ExpectedHash": "5a64641fe2ef31cba4e56d07db5964e210b8d93fa854bc5ac46c68c0bd6d51d9"
+    },
+    {
+      "OldPath": "book_0059.txt",
+      "NewPath": "data/corpus/book_0059.txt",
+      "ExpectedHash": "8e4b535e16bba26dc9c4fe3caf4063732302f5fc702b660e5972c4a6544391e0"
+    },
+    {
+      "OldPath": "book_0060.txt",
+      "NewPath": "data/corpus/book_0060.txt",
+      "ExpectedHash": "0015210f69d4a490515d196102844d4aa0a102ac470a078ab55afcc5a108d28c"
+    },
+    {
+      "OldPath": "book_0061.txt",
+      "NewPath": "data/corpus/book_0061.txt",
+      "ExpectedHash": "1ba3994e857a618956e7d5a0f4dedbf0249da596c1a2ac49fbb29d2ec55c909b"
+    },
+    {
+      "OldPath": "book_0062.txt",
+      "NewPath": "data/corpus/book_0062.txt",
+      "ExpectedHash": "afe469be23260fe2bb2da858da530369432f6e2de897750c05bceeb48009a9be"
+    },
+    {
+      "OldPath": "book_0063.txt",
+      "NewPath": "data/corpus/book_0063.txt",
+      "ExpectedHash": "bfc46af440b50f0e843e8adb2cd63165f31ec928ba55334a0221891ac0323026"
+    },
+    {
+      "OldPath": "book_0064.txt",
+      "NewPath": "data/corpus/book_0064.txt",
+      "ExpectedHash": "4275a14f04ef32318e1d4ac2ac9371a6aa0ae3e1172fe39012e13f7b65d28a04"
+    },
+    {
+      "OldPath": "book_0065.txt",
+      "NewPath": "data/corpus/book_0065.txt",
+      "ExpectedHash": "420ce0019fcfde7ebe1611391ecff5b66ae0530852c2be0db59ca01cf8f714fe"
+    },
+    {
+      "OldPath": "book_0066.txt",
+      "NewPath": "data/corpus/book_0066.txt",
+      "ExpectedHash": "bc9b4165cdd172ca8b1b17d560f766be42434d0a40c940ceb56cdb3b261c9059"
+    },
+    {
+      "OldPath": "book_0067.txt",
+      "NewPath": "data/corpus/book_0067.txt",
+      "ExpectedHash": "46ab6883b733a933f6b266ae48fc46193a76122abafa1efd1220b52cbad92915"
+    },
+    {
+      "OldPath": "book_0068.txt",
+      "NewPath": "data/corpus/book_0068.txt",
+      "ExpectedHash": "2cda2e7ec9ee9e8bba4a898f8ffc4a15dca0b941cef2c6704270f59d959c70f6"
+    },
+    {
+      "OldPath": "book_0069.txt",
+      "NewPath": "data/corpus/book_0069.txt",
+      "ExpectedHash": "aa41dd6ff98991c531d2bc6d9543d4518682a55184ec546157dcca74d2563ddb"
+    },
+    {
+      "OldPath": "book_0070.txt",
+      "NewPath": "data/corpus/book_0070.txt",
+      "ExpectedHash": "e5dabc7c6c5be579d78ddf00eb8305ee765002135d30006a3996b5b8131f8903"
+    },
+    {
+      "OldPath": "book_0071.txt",
+      "NewPath": "data/corpus/book_0071.txt",
+      "ExpectedHash": "1949d24971aeaae573ba3308d1e4ad2b37ab5cdb6e531469fe5f873a1f64602d"
+    },
+    {
+      "OldPath": "book_0072.txt",
+      "NewPath": "data/corpus/book_0072.txt",
+      "ExpectedHash": "143173ebc5c87519303a365e2fc0fc28ac1ecbfb476887314984e95ebbeb1c54"
+    },
+    {
+      "OldPath": "book_0073.txt",
+      "NewPath": "data/corpus/book_0073.txt",
+      "ExpectedHash": "ddee7b60d06273808d609013e912254e5c5ed605ae61b680d58f81fb56ff94f1"
+    },
+    {
+      "OldPath": "book_0074.txt",
+      "NewPath": "data/corpus/book_0074.txt",
+      "ExpectedHash": "b85e4c6b5144174f1d5dd735bb8954de2e626068393ba55676ba114f00bee732"
+    },
+    {
+      "OldPath": "book_0075.txt",
+      "NewPath": "data/corpus/book_0075.txt",
+      "ExpectedHash": "eba7b3180b5840d83b0a483aed58a13d707bc4c34e31b9562ad2204355472e7f"
+    },
+    {
+      "OldPath": "book_0076.txt",
+      "NewPath": "data/corpus/book_0076.txt",
+      "ExpectedHash": "764a52393f0b1b856c13e14f6d7eb6e75f94382226783025a002af647a08f18c"
+    },
+    {
+      "OldPath": "book_0077.txt",
+      "NewPath": "data/corpus/book_0077.txt",
+      "ExpectedHash": "3c7a509ac476c7d15c4f3c7a970b3afe53d1b04f74fee3b51f4fbc500775c031"
+    },
+    {
+      "OldPath": "book_0078.txt",
+      "NewPath": "data/corpus/book_0078.txt",
+      "ExpectedHash": "a52c2cc164a0878852d68be7ffa14241f54967a631cd3af90c643e1da8bf8996"
+    },
+    {
+      "OldPath": "book_0079.txt",
+      "NewPath": "data/corpus/book_0079.txt",
+      "ExpectedHash": "a5567359a6e2598b2577b15c873fff864e18fb09d5b9d17c849a35b833250ce7"
+    },
+    {
+      "OldPath": "book_0080.txt",
+      "NewPath": "data/corpus/book_0080.txt",
+      "ExpectedHash": "eaeec90345aa3971c4ee55f833bde9f9d61731907e24d1cbbebd1cc28a3b2163"
+    },
+    {
+      "OldPath": "book_0081.txt",
+      "NewPath": "data/corpus/book_0081.txt",
+      "ExpectedHash": "7a8c8f16d492bb4da2bf5e0c8eb28afc8158aa48055808e8c41cafd4dec85f21"
+    },
+    {
+      "OldPath": "book_0082.txt",
+      "NewPath": "data/corpus/book_0082.txt",
+      "ExpectedHash": "6cf039828a0c727d1abbf04f03b848ea35a33f08c0ce42aa803e0d0fb1ef6da2"
+    },
+    {
+      "OldPath": "book_0083.txt",
+      "NewPath": "data/corpus/book_0083.txt",
+      "ExpectedHash": "1b3f8aa9ec895f7ac8bbf4d933e015a0d489db6847fe985c37905df904c19fa8"
+    },
+    {
+      "OldPath": "book_0084.txt",
+      "NewPath": "data/corpus/book_0084.txt",
+      "ExpectedHash": "208d67524f051798c87a6ab0a33f11dfb2ff8d88f789df8bd9ce0ea64b0ee7aa"
+    },
+    {
+      "OldPath": "book_0085.txt",
+      "NewPath": "data/corpus/book_0085.txt",
+      "ExpectedHash": "b0559f902015e38722d665c612a1b6454c162f80b92aaf2f1dc68dae08a13686"
+    },
+    {
+      "OldPath": "book_0086.txt",
+      "NewPath": "data/corpus/book_0086.txt",
+      "ExpectedHash": "6f2193ddb5b93ae78e65fe86f6dfd01c055f629146c11de7b1ebe7322d8768ba"
+    },
+    {
+      "OldPath": "book_0087.txt",
+      "NewPath": "data/corpus/book_0087.txt",
+      "ExpectedHash": "28934d9d97f0e77300318bb56705867400f3c665424151ecfb4c37dcffb16d4c"
+    },
+    {
+      "OldPath": "book_0088.txt",
+      "NewPath": "data/corpus/book_0088.txt",
+      "ExpectedHash": "4873a8974827f75a9991fa91682e53df6f1ac10392d382cf59178cf27dc0a893"
+    },
+    {
+      "OldPath": "book_0089.txt",
+      "NewPath": "data/corpus/book_0089.txt",
+      "ExpectedHash": "85317b696cc7bedef9483a57226e50f0cfe19006b627b611b944e1eddc529744"
+    },
+    {
+      "OldPath": "book_0090.txt",
+      "NewPath": "data/corpus/book_0090.txt",
+      "ExpectedHash": "f417592ec68ab15ae11fce2a7b9f115f6c40a90582a519d87b32743f5d22a546"
+    },
+    {
+      "OldPath": "book_0091.txt",
+      "NewPath": "data/corpus/book_0091.txt",
+      "ExpectedHash": "2f5bf1c0b698e0bcb5907a16533b5ea11c336689a39feca88f99bc9b6e638901"
+    },
+    {
+      "OldPath": "book_0092.txt",
+      "NewPath": "data/corpus/book_0092.txt",
+      "ExpectedHash": "de2b6a016f84d327da4952c15a61ebd3b2f4c27b30798ff29a4a924d6c73674f"
+    },
+    {
+      "OldPath": "book_0093.txt",
+      "NewPath": "data/corpus/book_0093.txt",
+      "ExpectedHash": "d1f661edbac90b7699e89a8ba3fc6499abf4e488178882f98e355d70daaa0aa4"
+    },
+    {
+      "OldPath": "book_0094.txt",
+      "NewPath": "data/corpus/book_0094.txt",
+      "ExpectedHash": "f4832f5e80322c18c1bb32c54897ae3ca5f0ff8d75791c29d6bd56097d4a6e47"
+    },
+    {
+      "OldPath": "book_0095.txt",
+      "NewPath": "data/corpus/book_0095.txt",
+      "ExpectedHash": "1a9a9c00f6f9744bdf5fc4997f162907b4ab737757f27fb8e54b298b82d46ecc"
+    },
+    {
+      "OldPath": "book_0096.txt",
+      "NewPath": "data/corpus/book_0096.txt",
+      "ExpectedHash": "a9c64c7dcf9a93aa9567415ac61c12ca6b6293696045bf9d6cf61241e27727a8"
+    },
+    {
+      "OldPath": "book_0097.txt",
+      "NewPath": "data/corpus/book_0097.txt",
+      "ExpectedHash": "f73519d13c58e4feccb3989973db1738b197b6147b28ec1803a006e2aff18732"
+    },
+    {
+      "OldPath": "book_0098.txt",
+      "NewPath": "data/corpus/book_0098.txt",
+      "ExpectedHash": "d6a194898ae06e23378f229420c1511b4f937b00702a570a7fa27af335f4a47e"
+    },
+    {
+      "OldPath": "book_0099.txt",
+      "NewPath": "data/corpus/book_0099.txt",
+      "ExpectedHash": "eb72b1a3481a14074a9dc87c6ddbac2bd7656f8c5aaf503134b9647faaaa103d"
+    },
+    {
+      "OldPath": "book_0100.txt",
+      "NewPath": "data/corpus/book_0100.txt",
+      "ExpectedHash": "96bb1101185167404b3784ef6e52de5c5eff886b02a9b1ae3940810b4985e060"
+    },
+    {
+      "OldPath": "book_0101.txt",
+      "NewPath": "data/corpus/book_0101.txt",
+      "ExpectedHash": "f3e36e26281d4e6fcf686adab2f70c109867b21addfeb6e0dc9517da03e26630"
+    },
+    {
+      "OldPath": "book_0102.txt",
+      "NewPath": "data/corpus/book_0102.txt",
+      "ExpectedHash": "054d0c3d821d89d308a46aca942463ad0acf304f6493c07237289c36c9d5fbc2"
+    },
+    {
+      "OldPath": "book_0103.txt",
+      "NewPath": "data/corpus/book_0103.txt",
+      "ExpectedHash": "685df53735346551eadd33e90a8f85709459c72f7969bb025a25c166fd227a6a"
+    },
+    {
+      "OldPath": "book_0104.txt",
+      "NewPath": "data/corpus/book_0104.txt",
+      "ExpectedHash": "1f2de0a924a70e270dca7b3f77a77596d372d8acc524e68886dd46ad3aa2d91b"
+    },
+    {
+      "OldPath": "book_0105.txt",
+      "NewPath": "data/corpus/book_0105.txt",
+      "ExpectedHash": "87c8f658f37d984362578ce04b6b6adeafa79605eff5eb1c035f098923e639fc"
+    },
+    {
+      "OldPath": "book_0106.txt",
+      "NewPath": "data/corpus/book_0106.txt",
+      "ExpectedHash": "a26c6d5e6cb5909db2041ad7e2ef4803b35377f86fbe85444441bd18e8874ce5"
+    },
+    {
+      "OldPath": "book_0107.txt",
+      "NewPath": "data/corpus/book_0107.txt",
+      "ExpectedHash": "87e61b3dcfa1911bdf074df35bf7f50ab7f65862f13c6e61219533e38c4f8c27"
+    },
+    {
+      "OldPath": "book_0108.txt",
+      "NewPath": "data/corpus/book_0108.txt",
+      "ExpectedHash": "93828fafdeb83b525be7535752475bf9bed25761d04000a76b26b2eabe3e1486"
+    },
+    {
+      "OldPath": "book_0109.txt",
+      "NewPath": "data/corpus/book_0109.txt",
+      "ExpectedHash": "a0ea1f06d9f7dfba7c3ff7d71b83fb6a54d9d04990aa1e338ed42f5cbc362c8d"
+    },
+    {
+      "OldPath": "book_0110.txt",
+      "NewPath": "data/corpus/book_0110.txt",
+      "ExpectedHash": "134415c533e08f5883b7a3eabc8b6d6780091f97eed1af40bbdc436f2bf331ef"
+    },
+    {
+      "OldPath": "book_0111.txt",
+      "NewPath": "data/corpus/book_0111.txt",
+      "ExpectedHash": "1f892765aac54777cfbe8522beed42c7022f142ccca0e31b27056737b03b3635"
+    },
+    {
+      "OldPath": "book_0112.txt",
+      "NewPath": "data/corpus/book_0112.txt",
+      "ExpectedHash": "68e298ecb7f848bca7c9a91f4f233fc347b30e89ba74dbf98e9758f6b726277d"
+    },
+    {
+      "OldPath": "book_0113.txt",
+      "NewPath": "data/corpus/book_0113.txt",
+      "ExpectedHash": "e9d764ad08b252d661e73e66be5f4d0bd1dccdcc1a567895c4217cfd53372355"
+    },
+    {
+      "OldPath": "book_0114.txt",
+      "NewPath": "data/corpus/book_0114.txt",
+      "ExpectedHash": "bdacf09082746065e73dc05008956cca36a8a337298d7810c67d80e86357c8e0"
+    },
+    {
+      "OldPath": "book_0115.txt",
+      "NewPath": "data/corpus/book_0115.txt",
+      "ExpectedHash": "24e04a65146d668261788059565ecadb5204eb2a9b0f63d53821d042ccaacb7c"
+    },
+    {
+      "OldPath": "book_0116.txt",
+      "NewPath": "data/corpus/book_0116.txt",
+      "ExpectedHash": "274818dd9502bab06ae84439d626dac2dac38d5ac5bb925bd6f9930a3d966b0f"
+    },
+    {
+      "OldPath": "book_0117.txt",
+      "NewPath": "data/corpus/book_0117.txt",
+      "ExpectedHash": "d877d644a55c0c55554d0282c558cc6d5736671632ea95c7e3162c8484036297"
+    },
+    {
+      "OldPath": "book_0118.txt",
+      "NewPath": "data/corpus/book_0118.txt",
+      "ExpectedHash": "31367462632ec374626b3d98bd39dc38d07036f54aa102a88b9c3081b8c9896f"
+    },
+    {
+      "OldPath": "book_0119.txt",
+      "NewPath": "data/corpus/book_0119.txt",
+      "ExpectedHash": "59b9a28ec70d17a6b8ac6bdeadc2feb787ccd14fb34a8539d318aa6647e459dc"
+    },
+    {
+      "OldPath": "book_0120.txt",
+      "NewPath": "data/corpus/book_0120.txt",
+      "ExpectedHash": "a5b45200efeb8b7771897c0dc2ad2d06b0eb519ef94b7540d147c180242b40f3"
+    },
+    {
+      "OldPath": "book_0121.txt",
+      "NewPath": "data/corpus/book_0121.txt",
+      "ExpectedHash": "604a7dcadf87776f4fd42aceb363a43a185986ff8f55de7b3f31bbe04c88d87b"
+    },
+    {
+      "OldPath": "book_0122.txt",
+      "NewPath": "data/corpus/book_0122.txt",
+      "ExpectedHash": "1340ddb6a5a99978a4e89d47090fc139c5db339ce6062c6de573edb11a5e1057"
+    },
+    {
+      "OldPath": "book_0123.txt",
+      "NewPath": "data/corpus/book_0123.txt",
+      "ExpectedHash": "8acb47b73c4326784a57a40542d1927c3ae522d3e860c87c24eee033b4c730af"
+    },
+    {
+      "OldPath": "book_0124.txt",
+      "NewPath": "data/corpus/book_0124.txt",
+      "ExpectedHash": "342b0197b34401657d62d5f4a23df0669018264dea7066baf1f1815204192aa1"
+    },
+    {
+      "OldPath": "book_0125.txt",
+      "NewPath": "data/corpus/book_0125.txt",
+      "ExpectedHash": "fc697724361d1d927a23b4921307523d2a47be4e9d9e55e34e9f95ec9a6d0809"
+    },
+    {
+      "OldPath": "book_0126.txt",
+      "NewPath": "data/corpus/book_0126.txt",
+      "ExpectedHash": "e9fd4b492654bc8d582f80ac3e1070241a98cc0a95219fbc684e4872b2acb0ae"
+    },
+    {
+      "OldPath": "book_0127.txt",
+      "NewPath": "data/corpus/book_0127.txt",
+      "ExpectedHash": "e499991f8cfab3308e9e1ddfcca8c302f7f83addcd8cc38217fd8c0ef4250010"
+    },
+    {
+      "OldPath": "book_0128.txt",
+      "NewPath": "data/corpus/book_0128.txt",
+      "ExpectedHash": "ef99228a2a223eacd19e0dae13d5e0a7121ee318e3045b006fe62fb4626beca6"
+    },
+    {
+      "OldPath": "book_0129.txt",
+      "NewPath": "data/corpus/book_0129.txt",
+      "ExpectedHash": "b33a826a1d776b0d9c29bb03208d770fa96fca121399f191c367c1647793e0fa"
+    },
+    {
+      "OldPath": "book_0130.txt",
+      "NewPath": "data/corpus/book_0130.txt",
+      "ExpectedHash": "cebc459f66eeee2848277bd2beddb9152df428d798bd293947b5f9e9890e8078"
+    },
+    {
+      "OldPath": "book_0131.txt",
+      "NewPath": "data/corpus/book_0131.txt",
+      "ExpectedHash": "be313c87615791d44ff1a206897b44c22fb0c19a15be047bdc55b2e06faf0d35"
+    },
+    {
+      "OldPath": "book_0132.txt",
+      "NewPath": "data/corpus/book_0132.txt",
+      "ExpectedHash": "96029307a5b386ce91e979e384399ec059ce726bd55200100eb1ca81705ad4a5"
+    },
+    {
+      "OldPath": "book_0133.txt",
+      "NewPath": "data/corpus/book_0133.txt",
+      "ExpectedHash": "53cc7cbadb4c1d7a61f54805642238421f1bd8d5f30b417745720c0479590a4b"
+    },
+    {
+      "OldPath": "book_0134.txt",
+      "NewPath": "data/corpus/book_0134.txt",
+      "ExpectedHash": "744154c1f1db23091a97af4373bd23c00db62b4dea17fa2273909a90e42e3735"
+    },
+    {
+      "OldPath": "book_0135.txt",
+      "NewPath": "data/corpus/book_0135.txt",
+      "ExpectedHash": "e98eb2f32614a995c213ac5ede517a3a493221f9db267942908abceaa9266bf5"
+    },
+    {
+      "OldPath": "book_0136.txt",
+      "NewPath": "data/corpus/book_0136.txt",
+      "ExpectedHash": "ad0ebbbd1866b2460f1bf8398bb32d7bce067dacd4d3eb576431bbaab4a5c169"
+    },
+    {
+      "OldPath": "book_0137.txt",
+      "NewPath": "data/corpus/book_0137.txt",
+      "ExpectedHash": "487d4e3d8ee237f8729e0ff7b319858998ec957d07973d01dac4a71b2067fe08"
+    },
+    {
+      "OldPath": "book_0138.txt",
+      "NewPath": "data/corpus/book_0138.txt",
+      "ExpectedHash": "d6ff1d56d37d19c02a58c2323089095ac343e74f06f0b788e9ce6bfd0737c4a8"
+    },
+    {
+      "OldPath": "book_0139.txt",
+      "NewPath": "data/corpus/book_0139.txt",
+      "ExpectedHash": "4fad2cea1131a95c8766e498acbe56e2876e38ac7a3776a862b9f95060291966"
+    },
+    {
+      "OldPath": "book_0140.txt",
+      "NewPath": "data/corpus/book_0140.txt",
+      "ExpectedHash": "e9f28e8a08374bea311d205347ded2e87f446f4279547a942d41859e5b116ec1"
+    },
+    {
+      "OldPath": "book_0141.txt",
+      "NewPath": "data/corpus/book_0141.txt",
+      "ExpectedHash": "0d817e2c0d3c3195203c7b090b02cf8a83d550fb2f8a727137ac30ad7d962797"
+    },
+    {
+      "OldPath": "book_0142.txt",
+      "NewPath": "data/corpus/book_0142.txt",
+      "ExpectedHash": "f3ddaf566c4128ebcbdc2ee3284f27762fce497d1a280500f6a6c9720a106395"
+    },
+    {
+      "OldPath": "book_0143.txt",
+      "NewPath": "data/corpus/book_0143.txt",
+      "ExpectedHash": "a48faed841b8de414f4381a33a91db82c05b54b086b628e14b1e459188ad2a78"
+    },
+    {
+      "OldPath": "book_0144.txt",
+      "NewPath": "data/corpus/book_0144.txt",
+      "ExpectedHash": "8ecfc8675b680f219c27a767fbe5c81ca5f5792e9cea1d4d3be788b63b1b9aa4"
+    },
+    {
+      "OldPath": "book_0145.txt",
+      "NewPath": "data/corpus/book_0145.txt",
+      "ExpectedHash": "7e8a0c20c45cefae69d5ae9b4a8d46c1e3e7e5eb87f37656071277ba6ab7cd06"
+    },
+    {
+      "OldPath": "book_0146.txt",
+      "NewPath": "data/corpus/book_0146.txt",
+      "ExpectedHash": "779d01558830d4f2c455e9bf795d8ecc403e7cf79d67001730267d2d9b26b34a"
+    },
+    {
+      "OldPath": "book_0147.txt",
+      "NewPath": "data/corpus/book_0147.txt",
+      "ExpectedHash": "b069eb90d15cd257985a93f55225fc5823ec96ba68754f6569193fb6d03e8d97"
+    },
+    {
+      "OldPath": "book_0148.txt",
+      "NewPath": "data/corpus/book_0148.txt",
+      "ExpectedHash": "1c354eaa571581a153aa1e347bd6d920e6be97dac897d2b29411965f75a06390"
+    },
+    {
+      "OldPath": "book_0149.txt",
+      "NewPath": "data/corpus/book_0149.txt",
+      "ExpectedHash": "a644f43eb61459ce14effc0f0d96cb6ab9f2e609e6b9b3ed389b145e467d8aa4"
+    },
+    {
+      "OldPath": "book_0150.txt",
+      "NewPath": "data/corpus/book_0150.txt",
+      "ExpectedHash": "6a662399ff3bfc85fde465485298a6565177ad1131cddc7684042e6e5856b635"
+    },
+    {
+      "OldPath": "book_0151.txt",
+      "NewPath": "data/corpus/book_0151.txt",
+      "ExpectedHash": "4a5a83a1e13f419ea45a37955a14a709f99c607ebccd012de6bf4541a70a5e3c"
+    },
+    {
+      "OldPath": "book_0152.txt",
+      "NewPath": "data/corpus/book_0152.txt",
+      "ExpectedHash": "706810e3bd40de13fd1fa1084df4060d4c4308dc4b3c74baff56ab01ee9fc618"
+    },
+    {
+      "OldPath": "book_0153.txt",
+      "NewPath": "data/corpus/book_0153.txt",
+      "ExpectedHash": "a666dd1223a704e2a0d4b82bf4bc7d5c2f47012fc8e52e358b62d49c8233ce57"
+    },
+    {
+      "OldPath": "book_0154.txt",
+      "NewPath": "data/corpus/book_0154.txt",
+      "ExpectedHash": "1b97db99059acc234e5b662ee076c88a4ad2c619545c0f7ea6bbf4f6ad4d9c5f"
+    },
+    {
+      "OldPath": "book_0155.txt",
+      "NewPath": "data/corpus/book_0155.txt",
+      "ExpectedHash": "6f2ab5350f783d419cca97d9ee429f92bf4e7a21162f53731b500112ede357bc"
+    },
+    {
+      "OldPath": "book_0156.txt",
+      "NewPath": "data/corpus/book_0156.txt",
+      "ExpectedHash": "8e067e52b36a1ad7058b3dc6b230a5ca4a0aaaac49196e3d7cb797552b934d41"
+    },
+    {
+      "OldPath": "book_0157.txt",
+      "NewPath": "data/corpus/book_0157.txt",
+      "ExpectedHash": "09435b2120b0c262741c1b8f1ebbbc323a5e2c93643081fc63bdfbef32dbf392"
+    },
+    {
+      "OldPath": "book_0158.txt",
+      "NewPath": "data/corpus/book_0158.txt",
+      "ExpectedHash": "7884a92db764bbfa7e0194c4ec3e9f06613bd0e814bb90c9bca05e2b16ccc3ab"
+    },
+    {
+      "OldPath": "book_0159.txt",
+      "NewPath": "data/corpus/book_0159.txt",
+      "ExpectedHash": "d8d5fe3490642704a2a404f18c34aeed41be9777037781036b30922155ae3eaa"
+    },
+    {
+      "OldPath": "book_0160.txt",
+      "NewPath": "data/corpus/book_0160.txt",
+      "ExpectedHash": "0afddfa6e3dbda65ab02dd024e03e8b6fbce0951fd5a7882d422603118b7f461"
+    },
+    {
+      "OldPath": "book_0161.txt",
+      "NewPath": "data/corpus/book_0161.txt",
+      "ExpectedHash": "c34a8aaf3740d59186f6391a5b6c3e2fbc8e2e9e0a33d01a79e12a4c966c8eef"
+    },
+    {
+      "OldPath": "book_0162.txt",
+      "NewPath": "data/corpus/book_0162.txt",
+      "ExpectedHash": "283a06118b33d1f330acae42bfdcaec761599083957c9851b8cb51320def027f"
+    },
+    {
+      "OldPath": "book_0163.txt",
+      "NewPath": "data/corpus/book_0163.txt",
+      "ExpectedHash": "5f773a2a3e722f9a805ec8f3c692295d6901f02021d40bbb6fc72575d83fe10e"
+    },
+    {
+      "OldPath": "book_0164.txt",
+      "NewPath": "data/corpus/book_0164.txt",
+      "ExpectedHash": "297f65b3b275bab9817ce74efca0978befbaddcc550aaf84746d5c81989a9188"
+    },
+    {
+      "OldPath": "book_0165.txt",
+      "NewPath": "data/corpus/book_0165.txt",
+      "ExpectedHash": "fc3accd40c137c13aace7ec6a0442ec5b4ca72c98103be52d5bfb538f0e6d56c"
+    },
+    {
+      "OldPath": "book_0166.txt",
+      "NewPath": "data/corpus/book_0166.txt",
+      "ExpectedHash": "28bdc8fb6b76759994f57e035173e6b2c8b5998dd1de4b6ec4d0813a8db719a4"
+    },
+    {
+      "OldPath": "book_0167.txt",
+      "NewPath": "data/corpus/book_0167.txt",
+      "ExpectedHash": "1d9d296fd015e664e3811e34a6913c0e6d889180745cb6a5aa7284f7c75e1dd0"
+    },
+    {
+      "OldPath": "book_0168.txt",
+      "NewPath": "data/corpus/book_0168.txt",
+      "ExpectedHash": "27fe6b96b5dcc13aa275e6d7cccc207588a2ad2cf4657c526cdb8e3f6ecbafc4"
+    },
+    {
+      "OldPath": "book_0169.txt",
+      "NewPath": "data/corpus/book_0169.txt",
+      "ExpectedHash": "a6e38b7dc4ecc0a822e7376f7724baf7dbb87edcc1f24b8c1231be63b9d6c322"
+    },
+    {
+      "OldPath": "book_0170.txt",
+      "NewPath": "data/corpus/book_0170.txt",
+      "ExpectedHash": "41dd67e73e663b6630842684de5209cce48c1e8fc5e2c13a04e565f3c43d728b"
+    },
+    {
+      "OldPath": "book_0171.txt",
+      "NewPath": "data/corpus/book_0171.txt",
+      "ExpectedHash": "e186a61d986af633a879cf476b5aef39c4e679aafdc9719ea7cbf286e445a9fa"
+    },
+    {
+      "OldPath": "book_0172.txt",
+      "NewPath": "data/corpus/book_0172.txt",
+      "ExpectedHash": "15dd4a0530437d567e6c891c35167f59a343db6d3166d8b25f7062bac52404db"
+    },
+    {
+      "OldPath": "book_0173.txt",
+      "NewPath": "data/corpus/book_0173.txt",
+      "ExpectedHash": "202e1f74ea7ff2f43362b4f10be53b756c0ead50cbf117f2e213cbbde7606740"
+    },
+    {
+      "OldPath": "book_0174.txt",
+      "NewPath": "data/corpus/book_0174.txt",
+      "ExpectedHash": "6915da4e012e02038e59958aca175d04429041d81a9f7d5880bfc932ef1bb73a"
+    },
+    {
+      "OldPath": "book_0175.txt",
+      "NewPath": "data/corpus/book_0175.txt",
+      "ExpectedHash": "5ea22cf0ccc97dbe0005f6a4c7a8e18d72e12bd6e77be56a9a235eae64422b97"
+    },
+    {
+      "OldPath": "book_0176.txt",
+      "NewPath": "data/corpus/book_0176.txt",
+      "ExpectedHash": "e4b2c23cded1a4c02daa57895e5c4ccd5350a8a8df1b4bdb073472cb9ef0c719"
+    },
+    {
+      "OldPath": "book_0177.txt",
+      "NewPath": "data/corpus/book_0177.txt",
+      "ExpectedHash": "e549d946be59b2f975775072d8f7b6c4e354a98f74c821695741532f714f2e87"
+    },
+    {
+      "OldPath": "book_0178.txt",
+      "NewPath": "data/corpus/book_0178.txt",
+      "ExpectedHash": "88a2624c504f3cf9c15fd89f4dacaf580d573814862480d8e17f7ebc2a6c9a56"
+    },
+    {
+      "OldPath": "book_0179.txt",
+      "NewPath": "data/corpus/book_0179.txt",
+      "ExpectedHash": "73ea911220547b6f16b79be6d42704b2e7fad8106f0e5848bb9377276d7c113e"
+    },
+    {
+      "OldPath": "book_0180.txt",
+      "NewPath": "data/corpus/book_0180.txt",
+      "ExpectedHash": "157c3b5aeb649ff71b8b43b7b39363cec63bf4f94d16cb67de409c214ee26336"
+    },
+    {
+      "OldPath": "book_0181.txt",
+      "NewPath": "data/corpus/book_0181.txt",
+      "ExpectedHash": "774580f41134c4c13ce8452b0f6710ffa6855742d16fe74418a5b3597ae3ea1c"
+    },
+    {
+      "OldPath": "book_0182.txt",
+      "NewPath": "data/corpus/book_0182.txt",
+      "ExpectedHash": "508a26d84e437f040f1cb5f7885cef303eba581d45fd04b7e574a605bdbe1b53"
+    },
+    {
+      "OldPath": "book_0183.txt",
+      "NewPath": "data/corpus/book_0183.txt",
+      "ExpectedHash": "e9bae5ef4f3a6fce2df59473203a8ed1dd90f09ccab68885602b40f6c846d92a"
+    },
+    {
+      "OldPath": "book_0184.txt",
+      "NewPath": "data/corpus/book_0184.txt",
+      "ExpectedHash": "332a8619539d9311b6ef341ad29b72b6ce671aed1e461a60c6b9c583aed52fb8"
+    },
+    {
+      "OldPath": "book_0185.txt",
+      "NewPath": "data/corpus/book_0185.txt",
+      "ExpectedHash": "902c93b62cfa7f6f78438fcca422505bbdab23c357a350985387642ab06bff0c"
+    },
+    {
+      "OldPath": "book_0186.txt",
+      "NewPath": "data/corpus/book_0186.txt",
+      "ExpectedHash": "fe804b7fc62662383e6ffe38985ed81354b090641d3f27182affdbc60e49a325"
+    },
+    {
+      "OldPath": "book_0187.txt",
+      "NewPath": "data/corpus/book_0187.txt",
+      "ExpectedHash": "a5cefc4fa026ec3d28a76b75ccddc4f48178841a03ec093f320e96cb0957b30d"
+    },
+    {
+      "OldPath": "book_0188.txt",
+      "NewPath": "data/corpus/book_0188.txt",
+      "ExpectedHash": "72ad1af01506f1d9a57d3561d510045ee35307b67a161765e5ecdfcf2d11c808"
+    },
+    {
+      "OldPath": "book_0189.txt",
+      "NewPath": "data/corpus/book_0189.txt",
+      "ExpectedHash": "73904c8efd181e0e67afdd2206faceb5c918f5eceb2c92d8e9fe3046d8d4ac7d"
+    },
+    {
+      "OldPath": "book_0190.txt",
+      "NewPath": "data/corpus/book_0190.txt",
+      "ExpectedHash": "7d3984c41769bf4e9818cf3b6560ec230a1fa87f31828909fabdc2a62cb5ec24"
+    },
+    {
+      "OldPath": "book_0191.txt",
+      "NewPath": "data/corpus/book_0191.txt",
+      "ExpectedHash": "db0f156bd1afa29ff7cd0c333847705a587e5263fa0ca36fdc388098576d140d"
+    },
+    {
+      "OldPath": "book_0192.txt",
+      "NewPath": "data/corpus/book_0192.txt",
+      "ExpectedHash": "919c334bfe2ac30b0d3a28920d83c7b182fab1dc3d443fe84c1008d8ed4fa14c"
+    },
+    {
+      "OldPath": "book_0193.txt",
+      "NewPath": "data/corpus/book_0193.txt",
+      "ExpectedHash": "d435d27c7f6e2a94e03409985e325f67c1382c66c819d54c1061682e353910ee"
+    },
+    {
+      "OldPath": "book_0194.txt",
+      "NewPath": "data/corpus/book_0194.txt",
+      "ExpectedHash": "f21b542c98c0f54883f8d7c8fdcdcd43b0890b11f6512f551ee39f64ba770e75"
+    },
+    {
+      "OldPath": "book_0195.txt",
+      "NewPath": "data/corpus/book_0195.txt",
+      "ExpectedHash": "44b2dca6ae7e6cd7551e19721113a7ee69e4a2541bcffea69bd59281b01be250"
+    },
+    {
+      "OldPath": "book_0196.txt",
+      "NewPath": "data/corpus/book_0196.txt",
+      "ExpectedHash": "2bb995ebbcb6c6fe9619fb68c7dfa8066750b16103242c16677a11802b512161"
+    },
+    {
+      "OldPath": "book_0197.txt",
+      "NewPath": "data/corpus/book_0197.txt",
+      "ExpectedHash": "c4aee065d714e3c20bef3d81092bbe6149cef06730e78e82aba52b7f9c3595f1"
+    },
+    {
+      "OldPath": "book_0198.txt",
+      "NewPath": "data/corpus/book_0198.txt",
+      "ExpectedHash": "fc706dbeca9573782f7e43f19929f7590d8013c2fc4423f43829203b53ef56a8"
+    },
+    {
+      "OldPath": "book_0199.txt",
+      "NewPath": "data/corpus/book_0199.txt",
+      "ExpectedHash": "eda660516575aa3e9d98fa1bf5a49f4c466a04e02bce16b8cf4fdefb20e24773"
+    },
+    {
+      "OldPath": "book_0200.txt",
+      "NewPath": "data/corpus/book_0200.txt",
+      "ExpectedHash": "bfe1ac9f78e97e11424607e1a2f49fccdf63da48e7f4f6b95db985fb928dddc2"
+    },
+    {
+      "OldPath": "book_0201.txt",
+      "NewPath": "data/corpus/book_0201.txt",
+      "ExpectedHash": "1e68c065c31c8797818a1534ada03a475fec43b48bbf23a91e93b9e19cafb3b1"
+    },
+    {
+      "OldPath": "book_0202.txt",
+      "NewPath": "data/corpus/book_0202.txt",
+      "ExpectedHash": "0562999c3b09cd4a0508ec15b586619ce089ae2f7cb96fc0d052f238aeccde69"
+    },
+    {
+      "OldPath": "book_0203.txt",
+      "NewPath": "data/corpus/book_0203.txt",
+      "ExpectedHash": "3da01ba1a70e6a4140ab16e128c22f807cde19c4c4d6a2a36037eb9408238576"
+    },
+    {
+      "OldPath": "book_0204.txt",
+      "NewPath": "data/corpus/book_0204.txt",
+      "ExpectedHash": "41a99155648bfca90f2bc10349191b60e47394809f0d7d5a22ff746bfb37233e"
+    },
+    {
+      "OldPath": "book_0205.txt",
+      "NewPath": "data/corpus/book_0205.txt",
+      "ExpectedHash": "4efd4941cba2b36a51768541a94e4d52d012a20ba6d90c69a698f4264fba7d37"
+    },
+    {
+      "OldPath": "book_0206.txt",
+      "NewPath": "data/corpus/book_0206.txt",
+      "ExpectedHash": "e7be2ba7e399c6bbf7b4b0ecd250a937c135d94d3e67044cfab3df26089c980e"
+    },
+    {
+      "OldPath": "book_0207.txt",
+      "NewPath": "data/corpus/book_0207.txt",
+      "ExpectedHash": "fc8ef48264362c4a21b7903e4631e7e38f2c27a51be9ee0cc0875f9f81a27f4a"
+    },
+    {
+      "OldPath": "book_0208.txt",
+      "NewPath": "data/corpus/book_0208.txt",
+      "ExpectedHash": "8967c47d8e15fb73faee873382c3a8d1a735139777ac5fb328d3fe60a9ddd983"
+    },
+    {
+      "OldPath": "book_0209.txt",
+      "NewPath": "data/corpus/book_0209.txt",
+      "ExpectedHash": "52e418f7c0a48775816c1f20663a86c4bd022068edaba4b0d9c0c1ef1300d81f"
+    },
+    {
+      "OldPath": "book_0210.txt",
+      "NewPath": "data/corpus/book_0210.txt",
+      "ExpectedHash": "c5bda1ebf766b153e66a84a66823349c19d35cc7dfa8a03c0b937dc742027c65"
+    },
+    {
+      "OldPath": "book_0211.txt",
+      "NewPath": "data/corpus/book_0211.txt",
+      "ExpectedHash": "1dfc9cf120fc6c613e7c8ae871246335b0dced72de9ab1d15a429735c8d8c1b0"
+    },
+    {
+      "OldPath": "book_0212.txt",
+      "NewPath": "data/corpus/book_0212.txt",
+      "ExpectedHash": "f10e7dbbdeee6d8b01af350fe5c4a5c9b2a4d905cd3ad6327357ff6843cc4eed"
+    },
+    {
+      "OldPath": "book_0213.txt",
+      "NewPath": "data/corpus/book_0213.txt",
+      "ExpectedHash": "69532ca18bcdbfbe3de61ec8fb4ee40611fda6c11c7a35407f2d364bf0d784d4"
+    },
+    {
+      "OldPath": "book_0214.txt",
+      "NewPath": "data/corpus/book_0214.txt",
+      "ExpectedHash": "80e1b326fed31527d5e7071bb1dc030a4788a757eaa31540f2787825144599f5"
+    },
+    {
+      "OldPath": "book_0215.txt",
+      "NewPath": "data/corpus/book_0215.txt",
+      "ExpectedHash": "9a67bc6a33728e56833b386d68522bdae57aef68d19239f9f745348a79b7376b"
+    },
+    {
+      "OldPath": "book_0216.txt",
+      "NewPath": "data/corpus/book_0216.txt",
+      "ExpectedHash": "9a4d81ca0ca0152d5324a532c9aaabd2f8ea0de7d296c3512c0d59bdea9cd15f"
+    },
+    {
+      "OldPath": "book_0217.txt",
+      "NewPath": "data/corpus/book_0217.txt",
+      "ExpectedHash": "cadb006bb3499f6f872fdc737819d0895d7008668cf5b013ab1c63d5b1ef453b"
+    },
+    {
+      "OldPath": "book_0218.txt",
+      "NewPath": "data/corpus/book_0218.txt",
+      "ExpectedHash": "656d110a56d2d853c897f556a4824106a7fb4b3ff27aba10390340a3fbbe4caa"
+    },
+    {
+      "OldPath": "book_0219.txt",
+      "NewPath": "data/corpus/book_0219.txt",
+      "ExpectedHash": "51c5d6b511d4d9634b42a7b8c35cbc8dce47e04a7000b701db7c0681b9b59ccd"
+    },
+    {
+      "OldPath": "book_0220.txt",
+      "NewPath": "data/corpus/book_0220.txt",
+      "ExpectedHash": "cc4211c8ec5cec5eb9e9bc15c0a340ac214a9ea10229801d278e9ef0d804cb6e"
+    },
+    {
+      "OldPath": "book_0221.txt",
+      "NewPath": "data/corpus/book_0221.txt",
+      "ExpectedHash": "7f79de558f22b87244063e362e65f907234e49c3ca63b5b438d974c5264bd1f2"
+    },
+    {
+      "OldPath": "book_0222.txt",
+      "NewPath": "data/corpus/book_0222.txt",
+      "ExpectedHash": "9e82fd2395559275c95e13d5a095594b78be7e6b83b8e7b43e5543f50c698e6e"
+    },
+    {
+      "OldPath": "book_0223.txt",
+      "NewPath": "data/corpus/book_0223.txt",
+      "ExpectedHash": "5480d675822666d6e3ceb013f7d9c0df0a1166bd2285d846661882464ba034be"
+    },
+    {
+      "OldPath": "book_0224.txt",
+      "NewPath": "data/corpus/book_0224.txt",
+      "ExpectedHash": "e2f41d7b0d223b67656aba4ad8369235b2cb81211d88a5006498c8dbbeca2bf8"
+    },
+    {
+      "OldPath": "book_0225.txt",
+      "NewPath": "data/corpus/book_0225.txt",
+      "ExpectedHash": "19c0685124561aa1f7b66b455bbe98bc5c62a4e3b7f56c47ef996ffa500720ec"
+    },
+    {
+      "OldPath": "book_0226.txt",
+      "NewPath": "data/corpus/book_0226.txt",
+      "ExpectedHash": "ae794700a732a44c0e9fb2805f82a350556b48b591b9d3f2dd2bc50c902ff895"
+    },
+    {
+      "OldPath": "book_0227.txt",
+      "NewPath": "data/corpus/book_0227.txt",
+      "ExpectedHash": "2c34e6f2d4ed8c8041f3b78b14ce22d762861e54e0157c04f1eae02458d7f96c"
+    },
+    {
+      "OldPath": "book_0228.txt",
+      "NewPath": "data/corpus/book_0228.txt",
+      "ExpectedHash": "2604d366cd5df28723440da45b493bf0cdfced7594408c09dd3c4b97f2d0e7bd"
+    },
+    {
+      "OldPath": "book_0229.txt",
+      "NewPath": "data/corpus/book_0229.txt",
+      "ExpectedHash": "66390ecc7c166a4d4b1adcbb56dd5fde305e3960ab8e97c407138b1f0cdc302f"
+    },
+    {
+      "OldPath": "book_0230.txt",
+      "NewPath": "data/corpus/book_0230.txt",
+      "ExpectedHash": "069d08d6a7193bfe5f5f4262f301e5ce43f87b009671ddbe22d89e004995ad9b"
+    },
+    {
+      "OldPath": "book_0231.txt",
+      "NewPath": "data/corpus/book_0231.txt",
+      "ExpectedHash": "044f10b9fe3b7fba6aaaa72864ade932bb439343c59ec3b01b04ffc6304119b4"
+    },
+    {
+      "OldPath": "book_0232.txt",
+      "NewPath": "data/corpus/book_0232.txt",
+      "ExpectedHash": "67e15faf83f3b443167df000402128230eb129778005129795a21f048fce4d05"
+    },
+    {
+      "OldPath": "book_0233.txt",
+      "NewPath": "data/corpus/book_0233.txt",
+      "ExpectedHash": "c47fc2a3ccf516e9ecc850a3938eb2b12265159814ab138f80b4706b9fcc910b"
+    },
+    {
+      "OldPath": "book_0234.txt",
+      "NewPath": "data/corpus/book_0234.txt",
+      "ExpectedHash": "cf71a995da2ff7d91fa991128d1d2b7af613c7161054c54b474bbc46a1d21692"
+    },
+    {
+      "OldPath": "book_0235.txt",
+      "NewPath": "data/corpus/book_0235.txt",
+      "ExpectedHash": "48fbcdfe8037c577aeb35180ccf96892498d4ed5307749b759a4c2d24f42e47d"
+    },
+    {
+      "OldPath": "book_0236.txt",
+      "NewPath": "data/corpus/book_0236.txt",
+      "ExpectedHash": "1438e2bbbba4940cacfe2468e392824fd5b1e7e65c982fe18bee447ae794920e"
+    },
+    {
+      "OldPath": "book_0237.txt",
+      "NewPath": "data/corpus/book_0237.txt",
+      "ExpectedHash": "c99dad09481e64f4be86e97c016ae15080da6afb3d94ecf9dbc7ad5afea0272f"
+    },
+    {
+      "OldPath": "book_0238.txt",
+      "NewPath": "data/corpus/book_0238.txt",
+      "ExpectedHash": "9158cb53327bfe445a1599dcaaafd909dd5d4d1dade16ad187a08c3e9665c0f4"
+    },
+    {
+      "OldPath": "book_0239.txt",
+      "NewPath": "data/corpus/book_0239.txt",
+      "ExpectedHash": "853988755f132c4df281bfb632ed930e828d5e1dc37714f2dfc0440f57096e7d"
+    },
+    {
+      "OldPath": "book_0240.txt",
+      "NewPath": "data/corpus/book_0240.txt",
+      "ExpectedHash": "782075fde2c1fa132000aafab0924786990a2eb425332324317568de1daaa333"
+    },
+    {
+      "OldPath": "book_0241.txt",
+      "NewPath": "data/corpus/book_0241.txt",
+      "ExpectedHash": "77a8bb76abc5bb73e9c7958dab7aed453dc805b6ba557d26377662fa58795a61"
+    },
+    {
+      "OldPath": "book_0242.txt",
+      "NewPath": "data/corpus/book_0242.txt",
+      "ExpectedHash": "14b48d12431faf35a2cb331b88d09e20564e057c770ec5ff3538a9f5183019a4"
+    },
+    {
+      "OldPath": "book_0243.txt",
+      "NewPath": "data/corpus/book_0243.txt",
+      "ExpectedHash": "a24457246c32a228b8904067f698e0a81477ea66851ea0ed149407c24970b3c1"
+    },
+    {
+      "OldPath": "book_0244.txt",
+      "NewPath": "data/corpus/book_0244.txt",
+      "ExpectedHash": "2b1443cbd8cb9955a87251bd66afc9a35f25fcdde714856d10e7f90e17ed6f2d"
+    },
+    {
+      "OldPath": "book_0245.txt",
+      "NewPath": "data/corpus/book_0245.txt",
+      "ExpectedHash": "a51d257a97eecd0a7675523f8bd02845ea4b63bdb70ea069179f3ac603ebbcb2"
+    },
+    {
+      "OldPath": "book_0246.txt",
+      "NewPath": "data/corpus/book_0246.txt",
+      "ExpectedHash": "04bb4d58f2faede7a7e66e8f111c4f3bf92f60bb5719ea637c3693f11e14e4ac"
+    },
+    {
+      "OldPath": "book_0247.txt",
+      "NewPath": "data/corpus/book_0247.txt",
+      "ExpectedHash": "0b11e2ba1cec22a18cba88cddc0c2b3ef33f38627001bea5a49dff9095a22c25"
+    },
+    {
+      "OldPath": "book_0248.txt",
+      "NewPath": "data/corpus/book_0248.txt",
+      "ExpectedHash": "d2afebc3d1628c465129173593dc57b475bfbf40b941d765fa8053c16a1acbe0"
+    },
+    {
+      "OldPath": "book_0249.txt",
+      "NewPath": "data/corpus/book_0249.txt",
+      "ExpectedHash": "69056d32126783069079a7f0aa9104e78bee354ee6d0a228972593b1d466d8f0"
+    },
+    {
+      "OldPath": "book_0250.txt",
+      "NewPath": "data/corpus/book_0250.txt",
+      "ExpectedHash": "d6856665c84c8088515c5a9bfe0acb2b45050b9ad9f1187e5eb97c745d418b79"
+    },
+    {
+      "OldPath": "book_0251.txt",
+      "NewPath": "data/corpus/book_0251.txt",
+      "ExpectedHash": "a01609b0a66dfd82057b29426ff84c2be9f40a0f2d98d3656a1de11659d2e679"
+    },
+    {
+      "OldPath": "book_0252.txt",
+      "NewPath": "data/corpus/book_0252.txt",
+      "ExpectedHash": "1336e570d2b3c843c9e1496c501f87a3f2cd39832b2bff8466e5995716470fe3"
+    },
+    {
+      "OldPath": "book_0253.txt",
+      "NewPath": "data/corpus/book_0253.txt",
+      "ExpectedHash": "4f34b39bec78692e379e28e8262d58119698b768dcbec8a929c298c3b329aa4a"
+    },
+    {
+      "OldPath": "book_0254.txt",
+      "NewPath": "data/corpus/book_0254.txt",
+      "ExpectedHash": "727f18916c6c2f90344948ff9178e3ee88eb16b0bcacacf1daab318a5447e507"
+    },
+    {
+      "OldPath": "book_0255.txt",
+      "NewPath": "data/corpus/book_0255.txt",
+      "ExpectedHash": "941a6b887e4be13bb576df2c4f1810f892addf5448105c3a1420bbbcf2f89e3f"
+    },
+    {
+      "OldPath": "book_0256.txt",
+      "NewPath": "data/corpus/book_0256.txt",
+      "ExpectedHash": "7f96ba12eaae3c3fee76889e7dcb3e33499e720ff712694624e5104ddceda050"
+    },
+    {
+      "OldPath": "book_0257.txt",
+      "NewPath": "data/corpus/book_0257.txt",
+      "ExpectedHash": "c8115323fa6b9f1da386971ce77215eb405cde52a5e1e284667890fe86063800"
+    },
+    {
+      "OldPath": "book_0258.txt",
+      "NewPath": "data/corpus/book_0258.txt",
+      "ExpectedHash": "3ff4f490d7facc22fbe9569f8e7d2561370cc9323755eac3c63b45f65c7a5156"
+    },
+    {
+      "OldPath": "book_0259.txt",
+      "NewPath": "data/corpus/book_0259.txt",
+      "ExpectedHash": "1460c9364f7d96fa1a5da6a37774654785004a27a4ec81f9ae7c70e48e190713"
+    },
+    {
+      "OldPath": "book_0260.txt",
+      "NewPath": "data/corpus/book_0260.txt",
+      "ExpectedHash": "907b33a82ddf070b9af27a75ad9c6ebaac0dfd173a07891e69f241aa9050cf82"
+    },
+    {
+      "OldPath": "book_0261.txt",
+      "NewPath": "data/corpus/book_0261.txt",
+      "ExpectedHash": "0e2d67f290eb5681e1753713f21ed3301d350d1f5343edc407aca67b9cbaf300"
+    },
+    {
+      "OldPath": "book_0262.txt",
+      "NewPath": "data/corpus/book_0262.txt",
+      "ExpectedHash": "1b045deda1977fa92ff1109baac2aced8f0d5bedc1f42d233e0b0670b87b21e7"
+    },
+    {
+      "OldPath": "book_0263.txt",
+      "NewPath": "data/corpus/book_0263.txt",
+      "ExpectedHash": "50fdffd8537c0cf8f24f061f2ad26fbe7bc24e014f555d78ff985fa1388a81f8"
+    },
+    {
+      "OldPath": "book_0264.txt",
+      "NewPath": "data/corpus/book_0264.txt",
+      "ExpectedHash": "3f2e280c21bdbe7e08dddf71e32b6c8ccd45f9186f9ec0df75267b40708737a8"
+    },
+    {
+      "OldPath": "book_0265.txt",
+      "NewPath": "data/corpus/book_0265.txt",
+      "ExpectedHash": "7d57aca8e0fab9a6f7aa2d754d8c4a1aa86c4f5c2da29b88bdb91cf0c2caf7a1"
+    },
+    {
+      "OldPath": "book_0266.txt",
+      "NewPath": "data/corpus/book_0266.txt",
+      "ExpectedHash": "08aa725945a32877e4e949fe6ccf777eb4434ce685858cc65868a3481c8fa7d7"
+    },
+    {
+      "OldPath": "book_0267.txt",
+      "NewPath": "data/corpus/book_0267.txt",
+      "ExpectedHash": "6df474f529ab2b249e86a0ba7ca0974b4edadae80d2cbf152bbff095448e6cd2"
+    },
+    {
+      "OldPath": "book_0268.txt",
+      "NewPath": "data/corpus/book_0268.txt",
+      "ExpectedHash": "3151d8c3a9e29a382fead479bfd3d081ca5e7060a4a1abe3241009e0caaacdb9"
+    },
+    {
+      "OldPath": "book_0269.txt",
+      "NewPath": "data/corpus/book_0269.txt",
+      "ExpectedHash": "50e8868576b1f1565d51b22f443dd7c32f4014b9303d5a757a8b7549b4964261"
+    },
+    {
+      "OldPath": "book_0270.txt",
+      "NewPath": "data/corpus/book_0270.txt",
+      "ExpectedHash": "15f3b46a4ef059ee0b85e9486f1d13c60f6f51c6ca74ccc9ecf91694cc526a30"
+    },
+    {
+      "OldPath": "book_0271.txt",
+      "NewPath": "data/corpus/book_0271.txt",
+      "ExpectedHash": "cfd7837ed589276e6e1684bf6a30a2a433ea6552d3125f549ffda34adfc9431b"
+    },
+    {
+      "OldPath": "book_0272.txt",
+      "NewPath": "data/corpus/book_0272.txt",
+      "ExpectedHash": "917c5b3f8b1e105834d256bba25dafd8dc2ef50e6ded3a28ec185030c41ba682"
+    },
+    {
+      "OldPath": "book_0273.txt",
+      "NewPath": "data/corpus/book_0273.txt",
+      "ExpectedHash": "d2c6eaada774a4860f3191acfad651e9ee799523e1ce59f8a86e145c95ef65cc"
+    },
+    {
+      "OldPath": "book_0274.txt",
+      "NewPath": "data/corpus/book_0274.txt",
+      "ExpectedHash": "e364a03c1eae1285abbf68a12f602e128831e0075bc99219724b87ff27164838"
+    },
+    {
+      "OldPath": "book_0275.txt",
+      "NewPath": "data/corpus/book_0275.txt",
+      "ExpectedHash": "4b7ea068ac39949641826c62bf2f0a0f4a49a804856afd002a010df06bf82227"
+    },
+    {
+      "OldPath": "book_0276.txt",
+      "NewPath": "data/corpus/book_0276.txt",
+      "ExpectedHash": "d3df6f85b9fcac0ae00b02a18ef6118d8aecc8d6e7c57492a5ffc6b91b79542b"
+    },
+    {
+      "OldPath": "book_0277.txt",
+      "NewPath": "data/corpus/book_0277.txt",
+      "ExpectedHash": "f5db822388eea3859f56d7b1d23e1dda3242a13b46c5e8eb9201a47f28e0f1aa"
+    },
+    {
+      "OldPath": "book_0278.txt",
+      "NewPath": "data/corpus/book_0278.txt",
+      "ExpectedHash": "12d973b51921469fb566b0770bfa8befe56fc0175cbf404af8940222a4e82730"
+    },
+    {
+      "OldPath": "book_0279.txt",
+      "NewPath": "data/corpus/book_0279.txt",
+      "ExpectedHash": "3f8a1f7b2f110aa3ee4bf3c1da91debd8afb7d4aae492375fd2782dd182c24f0"
+    },
+    {
+      "OldPath": "book_0280.txt",
+      "NewPath": "data/corpus/book_0280.txt",
+      "ExpectedHash": "e2ddd4d6ff31a4957ab3c6605e75538befbd91c1d876ddac8bea7a4303be7072"
+    },
+    {
+      "OldPath": "book_0281.txt",
+      "NewPath": "data/corpus/book_0281.txt",
+      "ExpectedHash": "af185d8fa66e23e988654e94104651579670db9aa9ce0435d2dc9785bf14b574"
+    },
+    {
+      "OldPath": "book_0282.txt",
+      "NewPath": "data/corpus/book_0282.txt",
+      "ExpectedHash": "a8ea19fe9b89f0d1e306f97e12233fa1e2213e1a3742dd7561062e3deac7c762"
+    },
+    {
+      "OldPath": "book_0283.txt",
+      "NewPath": "data/corpus/book_0283.txt",
+      "ExpectedHash": "33d900dc7b90a716b304b29fd4f04863bc90d32f638a7e90c18cf9e8cf58b7df"
+    },
+    {
+      "OldPath": "book_0284.txt",
+      "NewPath": "data/corpus/book_0284.txt",
+      "ExpectedHash": "02c563ecfdf456ec46e1bc085dbacf2dcf2114bb1457e60c27c63fbc13a60677"
+    },
+    {
+      "OldPath": "book_0285.txt",
+      "NewPath": "data/corpus/book_0285.txt",
+      "ExpectedHash": "d64d00a9a67080193a8ebe4b9b2db0fa02ccac25f1f7936fdac2707dbcd45e0d"
+    },
+    {
+      "OldPath": "book_0286.txt",
+      "NewPath": "data/corpus/book_0286.txt",
+      "ExpectedHash": "950de50087c3b6200899c9fdf91f451e762d5c0a36fdfc20b3f94e444773502c"
+    },
+    {
+      "OldPath": "book_0287.txt",
+      "NewPath": "data/corpus/book_0287.txt",
+      "ExpectedHash": "6a7f5ca9490d1fefad5df978d760f0e6fa3a24d712553c9777a11deb43eea37b"
+    },
+    {
+      "OldPath": "book_0288.txt",
+      "NewPath": "data/corpus/book_0288.txt",
+      "ExpectedHash": "e128d63b073a946b5275e19ed023fb1185b0945bdc066394d919efcba659dc90"
+    },
+    {
+      "OldPath": "book_0289.txt",
+      "NewPath": "data/corpus/book_0289.txt",
+      "ExpectedHash": "23dd28e9b95ed3a8d2ec1c6f142cda1635b821fd8c54b3c5030ece51db9a8b18"
+    },
+    {
+      "OldPath": "book_0290.txt",
+      "NewPath": "data/corpus/book_0290.txt",
+      "ExpectedHash": "70024e3d9128183bdd986403a8fc5ca59ea785fb45f78c49b82e73721f816b10"
+    },
+    {
+      "OldPath": "book_0291.txt",
+      "NewPath": "data/corpus/book_0291.txt",
+      "ExpectedHash": "2c0a4da7d3c92ab9b73b1dd27a60dfe1f680c788d27bf7f848e5fdcc4449e073"
+    },
+    {
+      "OldPath": "book_0292.txt",
+      "NewPath": "data/corpus/book_0292.txt",
+      "ExpectedHash": "cf69053afd6c37d304b4123e3ca4d727f93dd2a9d316ee64e437082c55b985ff"
+    },
+    {
+      "OldPath": "book_0293.txt",
+      "NewPath": "data/corpus/book_0293.txt",
+      "ExpectedHash": "c19e920bce05f88d8af8e35e6c826dd52cc903259465630791712fcac020af22"
+    },
+    {
+      "OldPath": "book_0294.txt",
+      "NewPath": "data/corpus/book_0294.txt",
+      "ExpectedHash": "409ad2ff82c9b3782ce231ab790293880c7cc143db5ff8b90a9015d38a2a07d6"
+    },
+    {
+      "OldPath": "book_0295.txt",
+      "NewPath": "data/corpus/book_0295.txt",
+      "ExpectedHash": "7e836dd8e8f044b7bfb6b2444808705dd32bee5cb3f7ae0c14dde19f161c14ab"
+    },
+    {
+      "OldPath": "book_0296.txt",
+      "NewPath": "data/corpus/book_0296.txt",
+      "ExpectedHash": "537999a3575670a644e21247a10a5bf2a978b4e1ca3ce91b2667191a704d9fc1"
+    },
+    {
+      "OldPath": "book_0297.txt",
+      "NewPath": "data/corpus/book_0297.txt",
+      "ExpectedHash": "de98ef8d353a3a5050aa88804b8c370d9032052f41d9609bc3ddac58ade94c09"
+    },
+    {
+      "OldPath": "book_0298.txt",
+      "NewPath": "data/corpus/book_0298.txt",
+      "ExpectedHash": "e700e4128800f5c0d14de2c1944910ed1dfdacf7fbaef6c1668fcb60bf34b283"
+    },
+    {
+      "OldPath": "book_0299.txt",
+      "NewPath": "data/corpus/book_0299.txt",
+      "ExpectedHash": "0e01e64737b20b74baf0515b4e4c230d9a78a779af9e50b99512c27203ffef79"
+    },
+    {
+      "OldPath": "book_0300.txt",
+      "NewPath": "data/corpus/book_0300.txt",
+      "ExpectedHash": "e7dd32efe93562dea1463c303e762a199aef2e2c4242159c3dd64d20d32b0566"
+    },
+    {
+      "OldPath": "book_0301.txt",
+      "NewPath": "data/corpus/book_0301.txt",
+      "ExpectedHash": "09f81e70dce7abf15e035fea8afc3269aba6cb87cbbdf51eb836439b7a67adbb"
+    },
+    {
+      "OldPath": "book_0302.txt",
+      "NewPath": "data/corpus/book_0302.txt",
+      "ExpectedHash": "2adab0abca60b5191f3e76bba7c7e2de2530a3d653544be9ec9a7a9a66c4f50d"
+    },
+    {
+      "OldPath": "book_0303.txt",
+      "NewPath": "data/corpus/book_0303.txt",
+      "ExpectedHash": "707268a727b2b3ff9787de60f90d0b31da4fd1124ee29831f7319ed83516d3c9"
+    },
+    {
+      "OldPath": "book_0304.txt",
+      "NewPath": "data/corpus/book_0304.txt",
+      "ExpectedHash": "cc27bacd70f5127c3e0f5a887076508c56e6258fc399d5237d8b6922d0949645"
+    },
+    {
+      "OldPath": "book_0305.txt",
+      "NewPath": "data/corpus/book_0305.txt",
+      "ExpectedHash": "8e81bfe58cdd357afcbd2d79b32580b67d5c3c3f6f006aa248dc5f1186c2dd87"
+    },
+    {
+      "OldPath": "book_0306.txt",
+      "NewPath": "data/corpus/book_0306.txt",
+      "ExpectedHash": "f2a80cf9e40777c9a5fca8fc15f238b34fc77ae90c90193e4842012772b72548"
+    },
+    {
+      "OldPath": "book_0307.txt",
+      "NewPath": "data/corpus/book_0307.txt",
+      "ExpectedHash": "a94b118c728a26237b5bdd07ca089dbfc9f8bc9abf2d7203428f6997c91a7033"
+    },
+    {
+      "OldPath": "book_0308.txt",
+      "NewPath": "data/corpus/book_0308.txt",
+      "ExpectedHash": "c9c2f64bf8c22affbdd0d621c2c7d7ebb48d73df2c7d7f42a20b5bf488424e6d"
+    },
+    {
+      "OldPath": "book_0309.txt",
+      "NewPath": "data/corpus/book_0309.txt",
+      "ExpectedHash": "e0b6c2d2fd118f0f45f7696ef3e8575e13ed5e148b6539f8743d45b15786a4e4"
+    },
+    {
+      "OldPath": "book_0310.txt",
+      "NewPath": "data/corpus/book_0310.txt",
+      "ExpectedHash": "e515e5ceeaed73d5aaeb8e20e6836103f89d98f30e3594f2bb1d24b34c976891"
+    },
+    {
+      "OldPath": "book_0311.txt",
+      "NewPath": "data/corpus/book_0311.txt",
+      "ExpectedHash": "fa2406cf34df114a9a918e0c7c7d429029380b61af23b63a8998c73df37b3b0c"
+    },
+    {
+      "OldPath": "book_0312.txt",
+      "NewPath": "data/corpus/book_0312.txt",
+      "ExpectedHash": "846ac654b85fe64e753658e292544305f464d91a68d0e6e61f0c6620ef898028"
+    },
+    {
+      "OldPath": "book_0313.txt",
+      "NewPath": "data/corpus/book_0313.txt",
+      "ExpectedHash": "d5d21300f534f3eface71e4851cb089a6b9e24a0ed6a9b69b9cb1c9bbd286ec3"
+    },
+    {
+      "OldPath": "book_0314.txt",
+      "NewPath": "data/corpus/book_0314.txt",
+      "ExpectedHash": "24a8a292a30243d5a048c5da897510e694d60115e959b9ad72d84b739fd9a08f"
+    },
+    {
+      "OldPath": "book_0315.txt",
+      "NewPath": "data/corpus/book_0315.txt",
+      "ExpectedHash": "ce1602cbbeca2fc298fc407f5166b3cac3594553aa9e8abe6d76a6ec0b61acab"
+    },
+    {
+      "OldPath": "book_0316.txt",
+      "NewPath": "data/corpus/book_0316.txt",
+      "ExpectedHash": "b49e0973bcedddbbfc50601dcc0dcc12e85a3b0abd6d2aecd0ecb6acf1ae5d90"
+    },
+    {
+      "OldPath": "book_0317.txt",
+      "NewPath": "data/corpus/book_0317.txt",
+      "ExpectedHash": "61a157b22351b0cf0ff451e18bec8263767a6851af1f0c53b7d328b5a7cbd573"
+    },
+    {
+      "OldPath": "book_0318.txt",
+      "NewPath": "data/corpus/book_0318.txt",
+      "ExpectedHash": "c636bbc8b27b03b65bbb81cd00b6f45d06872ef18952f98d2651fafb25bd5a05"
+    },
+    {
+      "OldPath": "book_0319.txt",
+      "NewPath": "data/corpus/book_0319.txt",
+      "ExpectedHash": "1ddbb09fd547d7b9323328908dc4f7227c4c36712734da077dd520d0a2406657"
+    },
+    {
+      "OldPath": "book_0320.txt",
+      "NewPath": "data/corpus/book_0320.txt",
+      "ExpectedHash": "637af8988e1001960cf2f41775a9b0a4d17f353ea8577b8743430074f1992787"
+    },
+    {
+      "OldPath": "book_0321.txt",
+      "NewPath": "data/corpus/book_0321.txt",
+      "ExpectedHash": "806a72d2b7f253d2571c08d257c8cd6894452d310df04e52cf35e904f75c5d6b"
+    },
+    {
+      "OldPath": "book_0322.txt",
+      "NewPath": "data/corpus/book_0322.txt",
+      "ExpectedHash": "b8bfbd571a4f7145ceb0a3f42ab9e53da55b3d94f09863befe641b532085f852"
+    },
+    {
+      "OldPath": "book_0323.txt",
+      "NewPath": "data/corpus/book_0323.txt",
+      "ExpectedHash": "d47703e633c123036ad78f3df5f4dcaed8c87b0b289fd0069523f72259e594b7"
+    },
+    {
+      "OldPath": "book_0324.txt",
+      "NewPath": "data/corpus/book_0324.txt",
+      "ExpectedHash": "43630b4f23e35ae624c1b880c94feba270616f600de8b30a24331bda6c80a0f2"
+    },
+    {
+      "OldPath": "book_0325.txt",
+      "NewPath": "data/corpus/book_0325.txt",
+      "ExpectedHash": "52df01bf882db8fcade2c55be279fe8319761752c9e306b09b85ae3d68b5f80a"
+    },
+    {
+      "OldPath": "book_0326.txt",
+      "NewPath": "data/corpus/book_0326.txt",
+      "ExpectedHash": "3bc3772080af7d50e826eddecc3380eb8500ad5f33ed3e7a60eab4b6a55f5534"
+    },
+    {
+      "OldPath": "book_0327.txt",
+      "NewPath": "data/corpus/book_0327.txt",
+      "ExpectedHash": "aed40de65e05df0e9ddd2fa53a55c775c57c3c054ede732a2213f96ef27e3393"
+    },
+    {
+      "OldPath": "book_0328.txt",
+      "NewPath": "data/corpus/book_0328.txt",
+      "ExpectedHash": "9fa99bb633cda1b8baad4ee3dfef8b858fb01f2e4920b90e9d8ec1430da01968"
+    },
+    {
+      "OldPath": "book_0329.txt",
+      "NewPath": "data/corpus/book_0329.txt",
+      "ExpectedHash": "fa5ee4d96e4f03d128e47aca93fff912c24b476450cd496c901792d91a03c1e7"
+    },
+    {
+      "OldPath": "book_0330.txt",
+      "NewPath": "data/corpus/book_0330.txt",
+      "ExpectedHash": "66487aee027b40f2767f89a3df6495bd3d408b79b26bdf29f69d8fb72b697c95"
+    },
+    {
+      "OldPath": "book_0331.txt",
+      "NewPath": "data/corpus/book_0331.txt",
+      "ExpectedHash": "34c2a5771abab1bae225abc3bc115a308ac17611ecec5d8f97e5cfe5f478cded"
+    },
+    {
+      "OldPath": "book_0332.txt",
+      "NewPath": "data/corpus/book_0332.txt",
+      "ExpectedHash": "6cddb5354c2ddf26c2fe9a87d5852f30e1f742c6f5d8ab2ef23d9dd56e8876ae"
+    },
+    {
+      "OldPath": "book_0333.txt",
+      "NewPath": "data/corpus/book_0333.txt",
+      "ExpectedHash": "525a7c1fc797f2988c70050b4b6270fa0083234ea1268d1765ae6824bf4824bb"
+    },
+    {
+      "OldPath": "book_0334.txt",
+      "NewPath": "data/corpus/book_0334.txt",
+      "ExpectedHash": "aa97db478d90c1e0027bab7c27597268d4f0f97a8887b18c053f28253dd4ae28"
+    },
+    {
+      "OldPath": "book_0335.txt",
+      "NewPath": "data/corpus/book_0335.txt",
+      "ExpectedHash": "b56348df268abf715edb6ea61e37ce8e819f2d56f2dbc57bff02d540a1e3be5c"
+    },
+    {
+      "OldPath": "book_0336.txt",
+      "NewPath": "data/corpus/book_0336.txt",
+      "ExpectedHash": "4559e3ed68cce958800136f351493b4504cad2e280683aebb8ad19c47d7cc46c"
+    },
+    {
+      "OldPath": "book_0337.txt",
+      "NewPath": "data/corpus/book_0337.txt",
+      "ExpectedHash": "966b2249832c7e1518fb7b0d303fae2e148ef409d950e4274912d0a1b84e1836"
+    },
+    {
+      "OldPath": "book_0338.txt",
+      "NewPath": "data/corpus/book_0338.txt",
+      "ExpectedHash": "61724e21ef77b4f8606c01d44cc18db72513d44b5b92c92133c2db4087c7b44a"
+    },
+    {
+      "OldPath": "book_0339.txt",
+      "NewPath": "data/corpus/book_0339.txt",
+      "ExpectedHash": "4f65104d92569d273c63c135eb33cf725efecdf11bf772836e0cf9637e522fe7"
+    },
+    {
+      "OldPath": "book_0340.txt",
+      "NewPath": "data/corpus/book_0340.txt",
+      "ExpectedHash": "0228408098fde94533047a111486cb759c4e8321305d0b338f9c7bf88673d5d7"
+    },
+    {
+      "OldPath": "book_0341.txt",
+      "NewPath": "data/corpus/book_0341.txt",
+      "ExpectedHash": "a7e1a1ecb6c89e13509115e9e971feda31b10af2aae8e375b1bce267ce725991"
+    },
+    {
+      "OldPath": "book_0342.txt",
+      "NewPath": "data/corpus/book_0342.txt",
+      "ExpectedHash": "5335b59a2bcf90a821027f6de680f24a7c97d83870efe604b3f656b4dece6b39"
+    },
+    {
+      "OldPath": "book_0343.txt",
+      "NewPath": "data/corpus/book_0343.txt",
+      "ExpectedHash": "fd4834d82e8aed146ad1a8017acb7963a61c33fb0e3c0a3f98bdeaef688eb5bc"
+    },
+    {
+      "OldPath": "book_0344.txt",
+      "NewPath": "data/corpus/book_0344.txt",
+      "ExpectedHash": "77ab49aad87b36d8d2344f14c6a5627a065c92db33e32e48c87e70b94d0a6a5b"
+    },
+    {
+      "OldPath": "book_0345.txt",
+      "NewPath": "data/corpus/book_0345.txt",
+      "ExpectedHash": "d2f1626ad424478217e6e330d72986839e7d21485f1e0d83fe57a7163fe84a29"
+    },
+    {
+      "OldPath": "book_0346.txt",
+      "NewPath": "data/corpus/book_0346.txt",
+      "ExpectedHash": "5cc64182cb50322b84264a6c813eae99d658da3167de39fd9cc0b597bb4ddbcd"
+    },
+    {
+      "OldPath": "book_0347.txt",
+      "NewPath": "data/corpus/book_0347.txt",
+      "ExpectedHash": "f654b5df093117b9e21b3b639db2e5ab6639cd1d8d4082875b56679964036d57"
+    },
+    {
+      "OldPath": "book_0348.txt",
+      "NewPath": "data/corpus/book_0348.txt",
+      "ExpectedHash": "9c33b9053d0f5ac6d9f3db3223cae987470faf656ece8021d39e80b6d5527ff6"
+    },
+    {
+      "OldPath": "book_0349.txt",
+      "NewPath": "data/corpus/book_0349.txt",
+      "ExpectedHash": "ad46c5e4f93de2438ca6b371893ce5c608d0b9ec33f88b0c8499feeb002d1115"
+    },
+    {
+      "OldPath": "book_0350.txt",
+      "NewPath": "data/corpus/book_0350.txt",
+      "ExpectedHash": "cd2539d5a73bb69fecd3dd28e23f2dd33e7e5fc8809431771028cd7061be0d6d"
+    },
+    {
+      "OldPath": "book_0351.txt",
+      "NewPath": "data/corpus/book_0351.txt",
+      "ExpectedHash": "b1e7153d5b65d2662d458e38650074f816d2b265f6bd58bc1587938f3b0fe677"
+    },
+    {
+      "OldPath": "book_0352.txt",
+      "NewPath": "data/corpus/book_0352.txt",
+      "ExpectedHash": "0f7baa70fbaf70178bc867984da353f10bf03592dfd35e7c9f59b160bdf50026"
+    },
+    {
+      "OldPath": "book_0353.txt",
+      "NewPath": "data/corpus/book_0353.txt",
+      "ExpectedHash": "e1e05f1f8e9b473c2a89786d82bfd9e676059e61eacb84080fd38b916cf151f1"
+    },
+    {
+      "OldPath": "book_0354.txt",
+      "NewPath": "data/corpus/book_0354.txt",
+      "ExpectedHash": "1db2f34e3ad9f6ff278efa79892b577f0296aa12eae438b0698062734775fe7a"
+    },
+    {
+      "OldPath": "book_0355.txt",
+      "NewPath": "data/corpus/book_0355.txt",
+      "ExpectedHash": "3a491ae6cbcf21b39b5407147cd1f950b2e0d8538e04e4571fc337efdb71fe13"
+    },
+    {
+      "OldPath": "book_0356.txt",
+      "NewPath": "data/corpus/book_0356.txt",
+      "ExpectedHash": "cec2646e5241ec56c87db4ba87c44ab5b34f87f1111fdb3bb30d000c6db0ea55"
+    },
+    {
+      "OldPath": "book_0357.txt",
+      "NewPath": "data/corpus/book_0357.txt",
+      "ExpectedHash": "fa33594ae0bd9acf74d01f4599d796cbc948e915113a83a73162532bd990320a"
+    },
+    {
+      "OldPath": "book_0358.txt",
+      "NewPath": "data/corpus/book_0358.txt",
+      "ExpectedHash": "06de487b60ae7e3ab5008441810feb571c1081c59540e62e341b07f872b2a964"
+    },
+    {
+      "OldPath": "book_0359.txt",
+      "NewPath": "data/corpus/book_0359.txt",
+      "ExpectedHash": "6b349fab54e7501eeecc660850f802fc4d7d281a3d8833a239a0d84b8fd95931"
+    },
+    {
+      "OldPath": "book_0360.txt",
+      "NewPath": "data/corpus/book_0360.txt",
+      "ExpectedHash": "8329e78b1ba85d5f67e1b18ca044450a9bb8cc2d9fa82094a9468051d41ea297"
+    },
+    {
+      "OldPath": "book_0361.txt",
+      "NewPath": "data/corpus/book_0361.txt",
+      "ExpectedHash": "1d0f34fba93ab5cd74139a864b1ab98f91ad7d45934cc2b77354a1bd6b2c9781"
+    },
+    {
+      "OldPath": "book_0362.txt",
+      "NewPath": "data/corpus/book_0362.txt",
+      "ExpectedHash": "e96fc24a5fe48d820678dc9b63466a6d0ef9681025894dd5ad8532cd82e72ce1"
+    },
+    {
+      "OldPath": "book_0363.txt",
+      "NewPath": "data/corpus/book_0363.txt",
+      "ExpectedHash": "f596bc9804dd50dc82095c5896138455c1e90ada82dcb7de5f9f7a635d575b43"
+    },
+    {
+      "OldPath": "book_0364.txt",
+      "NewPath": "data/corpus/book_0364.txt",
+      "ExpectedHash": "ff506de18616b4f2d1c49d76115e56548d7a90b2962ac8d0d2183ecbda70ae1e"
+    },
+    {
+      "OldPath": "book_0365.txt",
+      "NewPath": "data/corpus/book_0365.txt",
+      "ExpectedHash": "efd374a468916f2945191df6aaa16f41af21c1b29709abbf99c8cab0f96547fe"
+    },
+    {
+      "OldPath": "book_0366.txt",
+      "NewPath": "data/corpus/book_0366.txt",
+      "ExpectedHash": "cba08067b0b19b13e47f32185d51f6b08927307794e10f5df7d88ebe211c60c5"
+    },
+    {
+      "OldPath": "book_0367.txt",
+      "NewPath": "data/corpus/book_0367.txt",
+      "ExpectedHash": "40cc85561d9aedbcfbcb879991c891c080d25f9bc33f40969b4632050ad3f57f"
+    },
+    {
+      "OldPath": "book_0368.txt",
+      "NewPath": "data/corpus/book_0368.txt",
+      "ExpectedHash": "95cb90ca85cbb788070b0336d1bac8a090304b956eafaeaff1a46cd627cc4f97"
+    },
+    {
+      "OldPath": "book_0369.txt",
+      "NewPath": "data/corpus/book_0369.txt",
+      "ExpectedHash": "654cacb69d064de0b69cdbe2c43fcb69c91d8975f6918f87f43f44ab2cbb07d4"
+    },
+    {
+      "OldPath": "book_0370.txt",
+      "NewPath": "data/corpus/book_0370.txt",
+      "ExpectedHash": "56802c5b1a664125c214e6814129f43aa8c8a33cdccee76d18df1a4aac0a25dd"
+    },
+    {
+      "OldPath": "book_0371.txt",
+      "NewPath": "data/corpus/book_0371.txt",
+      "ExpectedHash": "484d4f2afa8e062e34c997bf8fb54c7699a54f1ae36a423ae1d54e849404c2f4"
+    },
+    {
+      "OldPath": "book_0372.txt",
+      "NewPath": "data/corpus/book_0372.txt",
+      "ExpectedHash": "c056feefd4e142643bb98c0efd9e6b81739d651b24bbb3928f627762170e458f"
+    },
+    {
+      "OldPath": "book_0373.txt",
+      "NewPath": "data/corpus/book_0373.txt",
+      "ExpectedHash": "65bfb8fa95f8bae5ca7f2c1c968817941367ec2f501b9961752f9a5653f00658"
+    },
+    {
+      "OldPath": "book_0374.txt",
+      "NewPath": "data/corpus/book_0374.txt",
+      "ExpectedHash": "006ab473369b975e1b42d948436f1b9dfa23a37c29516943cbda7ed8b9e1420a"
+    },
+    {
+      "OldPath": "book_0375.txt",
+      "NewPath": "data/corpus/book_0375.txt",
+      "ExpectedHash": "43817b0fdf7d2800ba1176c05aad57e78b1ca6103fd6dc9b3de686f4dcc7a3d6"
+    },
+    {
+      "OldPath": "book_0376.txt",
+      "NewPath": "data/corpus/book_0376.txt",
+      "ExpectedHash": "62750547212afff02939081da12c90c7b84e9633af57cfbd457a48374af0f0b8"
+    },
+    {
+      "OldPath": "book_0377.txt",
+      "NewPath": "data/corpus/book_0377.txt",
+      "ExpectedHash": "fda8347f0e33a00710cb4069b19724020e39c14a7f3be80f397f0318420969d8"
+    },
+    {
+      "OldPath": "book_0378.txt",
+      "NewPath": "data/corpus/book_0378.txt",
+      "ExpectedHash": "7ee443ebec7ad5e41722aefbe9d00358f428314ca5503c51fff1320c4480601a"
+    },
+    {
+      "OldPath": "book_0379.txt",
+      "NewPath": "data/corpus/book_0379.txt",
+      "ExpectedHash": "d99dbd019319cbbc1cdc28d274375313a2903eee0897f963a0f72dee7d9dcb91"
+    },
+    {
+      "OldPath": "book_0380.txt",
+      "NewPath": "data/corpus/book_0380.txt",
+      "ExpectedHash": "728e43f636bd69e50a55cd1d6ce554dc3aa1dc40baaa916e0b736fa7c7e233f6"
+    },
+    {
+      "OldPath": "book_0381.txt",
+      "NewPath": "data/corpus/book_0381.txt",
+      "ExpectedHash": "1a4ab113fc28c80fc549b42bd387581af34d63587cca97581c0f85af6314f3f5"
+    },
+    {
+      "OldPath": "book_0382.txt",
+      "NewPath": "data/corpus/book_0382.txt",
+      "ExpectedHash": "e07f5c742f0372207b94bef368117733b6a9e8e74a4dbd80b355ad6722d27f18"
+    },
+    {
+      "OldPath": "book_0383.txt",
+      "NewPath": "data/corpus/book_0383.txt",
+      "ExpectedHash": "1c0978c9de55aab5fa6bf66840e5abad15768d448915b36a571adbaf48a78456"
+    },
+    {
+      "OldPath": "book_0384.txt",
+      "NewPath": "data/corpus/book_0384.txt",
+      "ExpectedHash": "1b8ca07ce5fde1ec26293452d3b441def70ed2c1bb03841f0a0ac5b082be7065"
+    },
+    {
+      "OldPath": "book_0385.txt",
+      "NewPath": "data/corpus/book_0385.txt",
+      "ExpectedHash": "d5b9bf6f8fdd2360e785d7d0b9c159e9bfcb2be814abf36f4ca683034bb03972"
+    },
+    {
+      "OldPath": "book_0386.txt",
+      "NewPath": "data/corpus/book_0386.txt",
+      "ExpectedHash": "2752d1c8e7003d2d6fe1cb4deaedebfceb93562d1e48446d7baaac76e4b00223"
+    },
+    {
+      "OldPath": "book_0387.txt",
+      "NewPath": "data/corpus/book_0387.txt",
+      "ExpectedHash": "e8a87b9b704d902518091f98fe1be676111f58d3a3a02958e7ddb5f9b9fa8e14"
+    },
+    {
+      "OldPath": "book_0388.txt",
+      "NewPath": "data/corpus/book_0388.txt",
+      "ExpectedHash": "bd55b1a793a4a8ac4e6687fe8f69043abc46929c993296fb193022b10d0bff05"
+    },
+    {
+      "OldPath": "book_0389.txt",
+      "NewPath": "data/corpus/book_0389.txt",
+      "ExpectedHash": "4ce1110af440d44c3ef03f17c79d48a6204b2271302b056dee5e63a1acf57486"
+    },
+    {
+      "OldPath": "book_0390.txt",
+      "NewPath": "data/corpus/book_0390.txt",
+      "ExpectedHash": "b07970c0bbb69dfa99f8b935e57e06b967c27bc2329988c88cd8eafa759cfb84"
+    },
+    {
+      "OldPath": "book_0391.txt",
+      "NewPath": "data/corpus/book_0391.txt",
+      "ExpectedHash": "037ae7ab709a139ad92fd6378c3dae549d0b5ce3049627d47e833292f3ec4b98"
+    },
+    {
+      "OldPath": "book_0392.txt",
+      "NewPath": "data/corpus/book_0392.txt",
+      "ExpectedHash": "defb23070ae361ff747eb562e866bb42cdfcf2b83dec0d0cb7cbb69c2f14729e"
+    },
+    {
+      "OldPath": "book_0393.txt",
+      "NewPath": "data/corpus/book_0393.txt",
+      "ExpectedHash": "05ec93efe7edf7ac87ed0a8ea4d24c7180e19122eb0e1e7f37fe751b3ed905e8"
+    },
+    {
+      "OldPath": "book_0394.txt",
+      "NewPath": "data/corpus/book_0394.txt",
+      "ExpectedHash": "3a9c51c529f703d2a694e6cf48862cb75e922aa35a5bc104aa3f272be3fee12e"
+    },
+    {
+      "OldPath": "book_0395.txt",
+      "NewPath": "data/corpus/book_0395.txt",
+      "ExpectedHash": "617094786b18cd0340ae8043264c73271d57f05f8cca78b899084835153b1782"
+    },
+    {
+      "OldPath": "book_0396.txt",
+      "NewPath": "data/corpus/book_0396.txt",
+      "ExpectedHash": "20e180c245c602e6789b256054f34d9ca7373cec8aa7193933e15983e0a3a3f0"
+    },
+    {
+      "OldPath": "book_0397.txt",
+      "NewPath": "data/corpus/book_0397.txt",
+      "ExpectedHash": "e11418f7fbf27909afa937b96fb94411e39436f8928ea00551e07875b62158ed"
+    },
+    {
+      "OldPath": "book_0398.txt",
+      "NewPath": "data/corpus/book_0398.txt",
+      "ExpectedHash": "773eae1bc100550c13187ad23013db91a931e46f4023f6c35f30b536401b75a3"
+    },
+    {
+      "OldPath": "book_0399.txt",
+      "NewPath": "data/corpus/book_0399.txt",
+      "ExpectedHash": "415b0d8fbf44fca8afbaceae586f5742054798e050ab0d85671cc7ca5a5f2e0d"
+    },
+    {
+      "OldPath": "book_0400.txt",
+      "NewPath": "data/corpus/book_0400.txt",
+      "ExpectedHash": "b48c318842c4dc91ddb5e1f79ad74fae120735374e0651422a7c01451462578c"
+    },
+    {
+      "OldPath": "book_0401.txt",
+      "NewPath": "data/corpus/book_0401.txt",
+      "ExpectedHash": "675668dcde774186b51a710f2a0ccc074c5974a63dc63cea7300564140be88e8"
+    },
+    {
+      "OldPath": "book_0402.txt",
+      "NewPath": "data/corpus/book_0402.txt",
+      "ExpectedHash": "79a6634baf1c841bd92336434712f9c254f1a7819a667f3aee080bb8d5bd6bf1"
+    },
+    {
+      "OldPath": "book_0403.txt",
+      "NewPath": "data/corpus/book_0403.txt",
+      "ExpectedHash": "aabe77c51a183adef41eb37efe51f5507f69c803b4a1e658f040974bd8a23944"
+    },
+    {
+      "OldPath": "book_0404.txt",
+      "NewPath": "data/corpus/book_0404.txt",
+      "ExpectedHash": "c984fbdef8955d324579e7975ac8d6c5f52a854ef5745cf025f8405c56a4cbd8"
+    },
+    {
+      "OldPath": "book_0405.txt",
+      "NewPath": "data/corpus/book_0405.txt",
+      "ExpectedHash": "c38413f5d299cb69724469ade54cc502d9ad98690bc099cb87f33071a0f99491"
+    },
+    {
+      "OldPath": "book_0406.txt",
+      "NewPath": "data/corpus/book_0406.txt",
+      "ExpectedHash": "f791ce1b8049ba340a19134fc9e78e9ad80e7dcd49f2b3b1952484559fb06923"
+    },
+    {
+      "OldPath": "book_0407.txt",
+      "NewPath": "data/corpus/book_0407.txt",
+      "ExpectedHash": "9fe6f514fb3e85ed570b1d86fa88f204029ecb547df9abf570194aa84b6b1c26"
+    },
+    {
+      "OldPath": "book_0408.txt",
+      "NewPath": "data/corpus/book_0408.txt",
+      "ExpectedHash": "a1b418b4f59a371d000d3af742c773c2ffdc48ccf16e0382f7f45a818b8ded9a"
+    },
+    {
+      "OldPath": "book_0409.txt",
+      "NewPath": "data/corpus/book_0409.txt",
+      "ExpectedHash": "ba6cbbadd18a11cc3918245a5495bc359e37f0a3f4ff677c0dd50acb24f384cd"
+    },
+    {
+      "OldPath": "book_0410.txt",
+      "NewPath": "data/corpus/book_0410.txt",
+      "ExpectedHash": "af82b9534bbb8542b6cdd2034fd14fbc9b92de9cfdcdb3c270a8fdbbd61b2b3f"
+    },
+    {
+      "OldPath": "book_0411.txt",
+      "NewPath": "data/corpus/book_0411.txt",
+      "ExpectedHash": "03d227b01ebd5988db69aa50f4b5ba3291db46ed8f3c5c7817fc3ccdf85b4921"
+    },
+    {
+      "OldPath": "book_0412.txt",
+      "NewPath": "data/corpus/book_0412.txt",
+      "ExpectedHash": "e57d22a3ae01de4eee39067bb62d44defa8f2cedabe1c0344ec96bb4b9744f0d"
+    },
+    {
+      "OldPath": "book_0413.txt",
+      "NewPath": "data/corpus/book_0413.txt",
+      "ExpectedHash": "68844dae09c496f90db634018b901aac9ee886febfb1424c8c1a93ba49debd63"
+    },
+    {
+      "OldPath": "book_0414.txt",
+      "NewPath": "data/corpus/book_0414.txt",
+      "ExpectedHash": "5cba50cc8526d7698815845733236b9aa5ff27185f2ec5f9b494b77cd20caa80"
+    },
+    {
+      "OldPath": "book_0415.txt",
+      "NewPath": "data/corpus/book_0415.txt",
+      "ExpectedHash": "24e1725dfa169a8690630cd87fe378a516602ec56295bfe5906584acdc6c0eb0"
+    },
+    {
+      "OldPath": "book_0416.txt",
+      "NewPath": "data/corpus/book_0416.txt",
+      "ExpectedHash": "3ffecfec141d37b690440db37f67be26962d569e303baee4425bb632669c0e57"
+    },
+    {
+      "OldPath": "book_0417.txt",
+      "NewPath": "data/corpus/book_0417.txt",
+      "ExpectedHash": "9fa196a97af11616432ed54fc72fcdf789187390294999884ea09f016a381fb8"
+    },
+    {
+      "OldPath": "book_0418.txt",
+      "NewPath": "data/corpus/book_0418.txt",
+      "ExpectedHash": "c9844f8914ab02c20048d5db8e8cd5e0e9d0c1fc2124629cfe61fd952971decb"
+    },
+    {
+      "OldPath": "book_0419.txt",
+      "NewPath": "data/corpus/book_0419.txt",
+      "ExpectedHash": "4889aca8951d023ea4d9887534f20729a9058ea1c9028d02714b3cf68887b8d8"
+    },
+    {
+      "OldPath": "book_0420.txt",
+      "NewPath": "data/corpus/book_0420.txt",
+      "ExpectedHash": "7efab4d40d5bc0d8dc5d3f50ebf27ba9ed994fb3956c0c8ec3642f05fb0dd31d"
+    },
+    {
+      "OldPath": "book_0421.txt",
+      "NewPath": "data/corpus/book_0421.txt",
+      "ExpectedHash": "94e404509ec1267db0c6304952c0361c87b9c31b13d28c006e1193485d7f06da"
+    },
+    {
+      "OldPath": "book_0422.txt",
+      "NewPath": "data/corpus/book_0422.txt",
+      "ExpectedHash": "1c575468ba459590a5a8eec38bec311af41cc43234667cce30689ad1e8062a44"
+    },
+    {
+      "OldPath": "book_0423.txt",
+      "NewPath": "data/corpus/book_0423.txt",
+      "ExpectedHash": "fd1f7adf8e8f6eef0ba1a04c81db97af1a87797265f29ccc41dd80f6f5e8403c"
+    },
+    {
+      "OldPath": "book_0424.txt",
+      "NewPath": "data/corpus/book_0424.txt",
+      "ExpectedHash": "684bed59a0450a2f76a2fb9ad52bab5e3e4f43773aaf01a00b2cbd06f8a73eb8"
+    },
+    {
+      "OldPath": "book_0425.txt",
+      "NewPath": "data/corpus/book_0425.txt",
+      "ExpectedHash": "88562c8de799db632d78b143930f85b72167bc9a283c78510cc0556c26cc6db9"
+    },
+    {
+      "OldPath": "book_0426.txt",
+      "NewPath": "data/corpus/book_0426.txt",
+      "ExpectedHash": "0063508cbd2abe3853786a76ab620914f26f7ae8ac0920954a9ec56fe97ba3c1"
+    },
+    {
+      "OldPath": "book_0427.txt",
+      "NewPath": "data/corpus/book_0427.txt",
+      "ExpectedHash": "d43f60966cd3e905dde54709acd9211f100848b4060cc7f4a0f0d7a23a4ad0e6"
+    },
+    {
+      "OldPath": "book_0428.txt",
+      "NewPath": "data/corpus/book_0428.txt",
+      "ExpectedHash": "0e967ed0879d24c8876185d8187b9904b1449d21f1861c77825a8843e9b6876c"
+    },
+    {
+      "OldPath": "book_0429.txt",
+      "NewPath": "data/corpus/book_0429.txt",
+      "ExpectedHash": "97a163771fdbbe102d70661c8415a07080b6806218e1fe7651bb79b98e3d3449"
+    },
+    {
+      "OldPath": "book_0430.txt",
+      "NewPath": "data/corpus/book_0430.txt",
+      "ExpectedHash": "bb53c922e302c64aa516d89aee8b3e1db534fce55e6bb02d3e5c19ce3d84b6dd"
+    },
+    {
+      "OldPath": "book_0431.txt",
+      "NewPath": "data/corpus/book_0431.txt",
+      "ExpectedHash": "7cef424fe14f7caf912f1de2b3e1552d57ffadd658becfab07c4ee8c56741b9b"
+    },
+    {
+      "OldPath": "book_0432.txt",
+      "NewPath": "data/corpus/book_0432.txt",
+      "ExpectedHash": "8ac3a88129f3a998f65b78f8f66a30d9bcf49adc4bfc0be961a179502ac5e941"
+    },
+    {
+      "OldPath": "book_0433.txt",
+      "NewPath": "data/corpus/book_0433.txt",
+      "ExpectedHash": "e4b103f84574b7b1590440674b9e2e9cedfb22415bd9991e8cf8b1949767693d"
+    },
+    {
+      "OldPath": "book_0434.txt",
+      "NewPath": "data/corpus/book_0434.txt",
+      "ExpectedHash": "b1a4de4ba615fd41bcedcb69fcef6ebda6f55e476c9f3b393c042dda1b728865"
+    },
+    {
+      "OldPath": "book_0435.txt",
+      "NewPath": "data/corpus/book_0435.txt",
+      "ExpectedHash": "c5f69595b1f0d448e71b38afa9795ccbab39e2e9cfe1ffa3901b3196d823965f"
+    },
+    {
+      "OldPath": "book_0436.txt",
+      "NewPath": "data/corpus/book_0436.txt",
+      "ExpectedHash": "a602f5d9b903ca0ad80b60d203d202fc9da4a17e6546bc61dd0b0b0ded3f15ee"
+    },
+    {
+      "OldPath": "book_0437.txt",
+      "NewPath": "data/corpus/book_0437.txt",
+      "ExpectedHash": "fb753ccedc43af7dfab3696ec73d2ca4e566bbe47236bb4faa6d52ff9f253a59"
+    },
+    {
+      "OldPath": "book_0438.txt",
+      "NewPath": "data/corpus/book_0438.txt",
+      "ExpectedHash": "ead2c85a7c5aff52a26538e8aba367cd885e274249362f9a9b894fd0ca4f53a7"
+    },
+    {
+      "OldPath": "book_0439.txt",
+      "NewPath": "data/corpus/book_0439.txt",
+      "ExpectedHash": "19d141b997dc7fe168cf9dd1cb43882f920b4b6ffba03cc8988b37c50f24b7ff"
+    },
+    {
+      "OldPath": "book_0440.txt",
+      "NewPath": "data/corpus/book_0440.txt",
+      "ExpectedHash": "bafc56b70ec496b7d97c2e62f1b95923b353e792b6cb3ae160a43a7ab2ed07ff"
+    },
+    {
+      "OldPath": "book_0441.txt",
+      "NewPath": "data/corpus/book_0441.txt",
+      "ExpectedHash": "bd0fd152e1d1fd70d9accd376be7d94c69edc9c76b633c5164c0a3f240fe876c"
+    },
+    {
+      "OldPath": "book_0442.txt",
+      "NewPath": "data/corpus/book_0442.txt",
+      "ExpectedHash": "cd4571331b86acea939885cdf8ed704955575cc1556917f31261aeeeb417977d"
+    },
+    {
+      "OldPath": "book_0443.txt",
+      "NewPath": "data/corpus/book_0443.txt",
+      "ExpectedHash": "89490cb2ce5e02161b7e6cc3bc7f9908a042558953b102a60cc48bb02cf38fbb"
+    },
+    {
+      "OldPath": "book_0444.txt",
+      "NewPath": "data/corpus/book_0444.txt",
+      "ExpectedHash": "5f47eb3fe307cedc8b10e6fb21e2802f4f3e903f14091f2bdb4c40dd11d63196"
+    },
+    {
+      "OldPath": "book_0445.txt",
+      "NewPath": "data/corpus/book_0445.txt",
+      "ExpectedHash": "9e2037b18fadd721789627d076defc84cc63a203a2353d87ad3f2e2c3528cd8f"
+    },
+    {
+      "OldPath": "book_0446.txt",
+      "NewPath": "data/corpus/book_0446.txt",
+      "ExpectedHash": "fb92cc34af1c77a9b4301bec8dcd2d355d051074791b5248fe0e4d9d252de223"
+    },
+    {
+      "OldPath": "book_0447.txt",
+      "NewPath": "data/corpus/book_0447.txt",
+      "ExpectedHash": "9aa31a59088e5100e992e6798df7c1e792856aa096609ec731986186970fa361"
+    },
+    {
+      "OldPath": "book_0448.txt",
+      "NewPath": "data/corpus/book_0448.txt",
+      "ExpectedHash": "395c1daa5692b3a9e233d8a7807c9cc9fc6957ede8775fbdf13abecfb4249f39"
+    },
+    {
+      "OldPath": "book_0449.txt",
+      "NewPath": "data/corpus/book_0449.txt",
+      "ExpectedHash": "f0d1f9e6bee79cce111dbf3be3e734cd53214e4ae3f2470ef1e7809af78c9ae8"
+    },
+    {
+      "OldPath": "book_0450.txt",
+      "NewPath": "data/corpus/book_0450.txt",
+      "ExpectedHash": "8427579fe17f04a5e0e1e48dc4f8c367975e4b13666a21bd977f4bf190398dba"
+    },
+    {
+      "OldPath": "book_0451.txt",
+      "NewPath": "data/corpus/book_0451.txt",
+      "ExpectedHash": "fda87e0d185c68b960be96f720dd458d87c51a2e9489a38082ee8a5655070a79"
+    },
+    {
+      "OldPath": "book_0452.txt",
+      "NewPath": "data/corpus/book_0452.txt",
+      "ExpectedHash": "b6762f59fb80ac1b48848627ffebf0d19c043a1cd900e23a3dcceb225e8245ff"
+    },
+    {
+      "OldPath": "book_0453.txt",
+      "NewPath": "data/corpus/book_0453.txt",
+      "ExpectedHash": "6f7530c01379c4b0fb15e7421ec0cf63f6b8ffd2b52f83a810c2a065a10c3f7a"
+    },
+    {
+      "OldPath": "book_0454.txt",
+      "NewPath": "data/corpus/book_0454.txt",
+      "ExpectedHash": "d067470ebf79688c96b8c92ce0ee986bfbfc5ddb708eaf8f58b396eb33932fe3"
+    },
+    {
+      "OldPath": "book_0455.txt",
+      "NewPath": "data/corpus/book_0455.txt",
+      "ExpectedHash": "a06856a1647f610dd80a8814810f008f778beb924ee874f24342d580ae24618a"
+    },
+    {
+      "OldPath": "book_0456.txt",
+      "NewPath": "data/corpus/book_0456.txt",
+      "ExpectedHash": "9cdc7ef3a5e513f6554245caca953f7b5104d993f77492470fb3b4a10d673625"
+    },
+    {
+      "OldPath": "book_0457.txt",
+      "NewPath": "data/corpus/book_0457.txt",
+      "ExpectedHash": "6cb58bb5130c1414ce3ec59285fbfac048ee0d5c049bf2632d20c3a7fa75d78a"
+    },
+    {
+      "OldPath": "book_0458.txt",
+      "NewPath": "data/corpus/book_0458.txt",
+      "ExpectedHash": "0f852744f0d8c1acede41cc2b820731e12f309aedcb20c54a1f6576334348775"
+    },
+    {
+      "OldPath": "book_0459.txt",
+      "NewPath": "data/corpus/book_0459.txt",
+      "ExpectedHash": "248af2878ee8668b32e6abea9c71ea559765303dedcd8a63eb2dba7037fb1649"
+    },
+    {
+      "OldPath": "book_0460.txt",
+      "NewPath": "data/corpus/book_0460.txt",
+      "ExpectedHash": "50d0583c01f3ffac573c43513b7726ba8308a97d09f98c55db253cd6429bb379"
+    },
+    {
+      "OldPath": "book_0461.txt",
+      "NewPath": "data/corpus/book_0461.txt",
+      "ExpectedHash": "b29713fdebf532adbca7280603a55b5bdaf6001f9367639d0d043e5e3ad7a448"
+    },
+    {
+      "OldPath": "book_0462.txt",
+      "NewPath": "data/corpus/book_0462.txt",
+      "ExpectedHash": "3ec5a93d239b19689927d12b4b8355d55d7550f406f28517dcb412ed0ed8a228"
+    },
+    {
+      "OldPath": "book_0463.txt",
+      "NewPath": "data/corpus/book_0463.txt",
+      "ExpectedHash": "98432848e9f12013f43102e782dfbc09ab6533368eb6901f0caeda9f6bf6b93b"
+    },
+    {
+      "OldPath": "book_0464.txt",
+      "NewPath": "data/corpus/book_0464.txt",
+      "ExpectedHash": "78e402ac01f5d39d62b953161f08e9c1c207a981cb5fbf584ff69b27b0ed84e9"
+    },
+    {
+      "OldPath": "book_0465.txt",
+      "NewPath": "data/corpus/book_0465.txt",
+      "ExpectedHash": "7901f2c9835a5b3cb5bc12e2805c03185c03a09f1b825460f658c3824815ad33"
+    },
+    {
+      "OldPath": "book_0466.txt",
+      "NewPath": "data/corpus/book_0466.txt",
+      "ExpectedHash": "1fb769470ff01562e58d05e7dd8c9f71fe8b1e46432f0218546a972226daadcc"
+    },
+    {
+      "OldPath": "book_0467.txt",
+      "NewPath": "data/corpus/book_0467.txt",
+      "ExpectedHash": "19ab28faf062aab80ae34a453842b466beb013b7fc46ac62776e6cb28463afcb"
+    },
+    {
+      "OldPath": "book_0468.txt",
+      "NewPath": "data/corpus/book_0468.txt",
+      "ExpectedHash": "4137ea83fb140fa6fb68b892c8c8a54f16c326115701d92ff819188893d2eaf7"
+    },
+    {
+      "OldPath": "book_0469.txt",
+      "NewPath": "data/corpus/book_0469.txt",
+      "ExpectedHash": "f3478293709aba3281c2361ef769ba1ad66a69124218a6eb212a1ddae9c83c4a"
+    },
+    {
+      "OldPath": "book_0470.txt",
+      "NewPath": "data/corpus/book_0470.txt",
+      "ExpectedHash": "463938b89ea8428c5a6187295551c9cb14f9e6dc86e0a8257c6889777a2cfad1"
+    },
+    {
+      "OldPath": "book_0471.txt",
+      "NewPath": "data/corpus/book_0471.txt",
+      "ExpectedHash": "2b73754ebbd761ee3ceb8c100d6d296be8b92c786699a2e63d44c75203a0cc10"
+    },
+    {
+      "OldPath": "book_0472.txt",
+      "NewPath": "data/corpus/book_0472.txt",
+      "ExpectedHash": "c2ee446952dd45795ee5deea9d23b7321fd9abf685012a5e760d4ef4e47fa884"
+    },
+    {
+      "OldPath": "book_0473.txt",
+      "NewPath": "data/corpus/book_0473.txt",
+      "ExpectedHash": "765f317e09b9d9f194305e983ac5663277639224a659217526a815853d5bed44"
+    },
+    {
+      "OldPath": "book_0474.txt",
+      "NewPath": "data/corpus/book_0474.txt",
+      "ExpectedHash": "aa66d6abff3cbfa9700e691ada0bdadd76afeb8bc8ca2234bf97eb5391d01386"
+    },
+    {
+      "OldPath": "book_0475.txt",
+      "NewPath": "data/corpus/book_0475.txt",
+      "ExpectedHash": "cd62a01f2f3a4ba114dc6dec3ae0ff14056148d64ecd1e68d123ab35f371d099"
+    },
+    {
+      "OldPath": "book_0476.txt",
+      "NewPath": "data/corpus/book_0476.txt",
+      "ExpectedHash": "a8f8b15b65d3731199a27a1bde49482689f716452d836b8321bd3685905672c1"
+    },
+    {
+      "OldPath": "book_0477.txt",
+      "NewPath": "data/corpus/book_0477.txt",
+      "ExpectedHash": "864ee72bb4a8e49e9ee2e72c4c1f8cf17f83d1f56eb67454c7d901eeaacabfc4"
+    },
+    {
+      "OldPath": "book_0478.txt",
+      "NewPath": "data/corpus/book_0478.txt",
+      "ExpectedHash": "b2f5eabe8a34df77999942c00f9d6a8b7bc59a7b40cff0d1b85ab1a31918971d"
+    },
+    {
+      "OldPath": "book_0479.txt",
+      "NewPath": "data/corpus/book_0479.txt",
+      "ExpectedHash": "49765765997632c5636cda0a54ee1abed4788133825096a164d8efde87b456df"
+    },
+    {
+      "OldPath": "book_0480.txt",
+      "NewPath": "data/corpus/book_0480.txt",
+      "ExpectedHash": "5a0f77189a8b6ce6e99f5ce6682da592bc2ed8af39a2700fc0f18d379cecf0a7"
+    },
+    {
+      "OldPath": "book_0481.txt",
+      "NewPath": "data/corpus/book_0481.txt",
+      "ExpectedHash": "c5cc654ab1184e55240a3d8622edea8081f9de0018e161610298999b902e39c9"
+    },
+    {
+      "OldPath": "book_0482.txt",
+      "NewPath": "data/corpus/book_0482.txt",
+      "ExpectedHash": "43f54664cef6a0f40feb654c39df035ef21fd61027557670ea22c261d7548614"
+    },
+    {
+      "OldPath": "book_0483.txt",
+      "NewPath": "data/corpus/book_0483.txt",
+      "ExpectedHash": "aaf2f3c86fa082f38498ee267a8c18b2d1b00538d5592c37efcca931a2418ce2"
+    },
+    {
+      "OldPath": "book_0484.txt",
+      "NewPath": "data/corpus/book_0484.txt",
+      "ExpectedHash": "a3041355f21bb8f366416f3b28ed1bfbc77de33f0505c7e71bc27d2206839518"
+    },
+    {
+      "OldPath": "book_0485.txt",
+      "NewPath": "data/corpus/book_0485.txt",
+      "ExpectedHash": "5b44c547d1a607b93f70a73801f8eb5979d12dddc18b8de5870ecfec872c86d2"
+    },
+    {
+      "OldPath": "book_0486.txt",
+      "NewPath": "data/corpus/book_0486.txt",
+      "ExpectedHash": "6ec8acea0603649acc0eaffcbe421b503fc8341bc4fa6d05c0b64123627b643f"
+    },
+    {
+      "OldPath": "book_0487.txt",
+      "NewPath": "data/corpus/book_0487.txt",
+      "ExpectedHash": "a694ec3d2a7939314e421ab7c602843bd2be447463d5f059f3cf33d158c05d2e"
+    },
+    {
+      "OldPath": "book_0488.txt",
+      "NewPath": "data/corpus/book_0488.txt",
+      "ExpectedHash": "c240824efcbad6ae37a5bb6a834c80738a0f55ea4208e7320ca05a509bf3ae06"
+    },
+    {
+      "OldPath": "book_0489.txt",
+      "NewPath": "data/corpus/book_0489.txt",
+      "ExpectedHash": "caa331dad3f8b27915cb60572a74933a0cc10172d45dc1a13a25ea4c57e0d38b"
+    },
+    {
+      "OldPath": "book_0490.txt",
+      "NewPath": "data/corpus/book_0490.txt",
+      "ExpectedHash": "7c43333008cf8e7c37ea569e756d76b9167b60f90108c114b8082eab96b66f6a"
+    },
+    {
+      "OldPath": "book_0491.txt",
+      "NewPath": "data/corpus/book_0491.txt",
+      "ExpectedHash": "4850db440a4bf9e44c626f98a712599616a21dfc84eda36ec04164f82891c59b"
+    },
+    {
+      "OldPath": "book_0492.txt",
+      "NewPath": "data/corpus/book_0492.txt",
+      "ExpectedHash": "33661603caf04f562da8f84b6363b0f1f4d859fc0e52d8a58f4231f26c0941c3"
+    },
+    {
+      "OldPath": "book_0493.txt",
+      "NewPath": "data/corpus/book_0493.txt",
+      "ExpectedHash": "920c9a5b50cbf7b4b5a0b43e49c38c28b2cab776e0d035d56ef23025f3a7e5b1"
+    },
+    {
+      "OldPath": "book_0494.txt",
+      "NewPath": "data/corpus/book_0494.txt",
+      "ExpectedHash": "b747ea5417fac9b5113054ec8e0084544c71ac1f4d4bff9c1bbdb552020258c5"
+    },
+    {
+      "OldPath": "book_0495.txt",
+      "NewPath": "data/corpus/book_0495.txt",
+      "ExpectedHash": "4ac72308b594d6a952d98ae99f58aaf98a3446a57e95be0e5b2751962c96eb3e"
+    },
+    {
+      "OldPath": "book_0496.txt",
+      "NewPath": "data/corpus/book_0496.txt",
+      "ExpectedHash": "b0a6b24d7489233051eee69aee62d41a04008bd112890f7cec22b1a94d2af05e"
+    },
+    {
+      "OldPath": "book_0497.txt",
+      "NewPath": "data/corpus/book_0497.txt",
+      "ExpectedHash": "8f9c5a32750f7a5857eeaf0305575125241864d7e4fdcb45177ab876a7d0d992"
+    },
+    {
+      "OldPath": "book_0498.txt",
+      "NewPath": "data/corpus/book_0498.txt",
+      "ExpectedHash": "f099a9aee3180cbd8d4e4f9be505c82514921d4b07aa3d54688a38317f746a75"
+    },
+    {
+      "OldPath": "book_0499.txt",
+      "NewPath": "data/corpus/book_0499.txt",
+      "ExpectedHash": "894f4c1299a110e61c369c884c2a844c39cebf8d8ecb4e6c66d921124cd6de3a"
+    },
+    {
+      "OldPath": "book_0500.txt",
+      "NewPath": "data/corpus/book_0500.txt",
+      "ExpectedHash": "8a504d81cf934946e289dbdd3a063db61eccd4846ce810ad7d24619704c3c4bf"
+    },
+    {
+      "OldPath": "book_0501.txt",
+      "NewPath": "data/corpus/book_0501.txt",
+      "ExpectedHash": "09384ed6e8df5b120909d4316cdba5f78ac26fa106465816dfe93bfb76877b97"
+    },
+    {
+      "OldPath": "book_0502.txt",
+      "NewPath": "data/corpus/book_0502.txt",
+      "ExpectedHash": "85112882127dbd33a6d491e2c7b19ce4afeb456091118b04da4e04aa31a8d9d8"
+    },
+    {
+      "OldPath": "book_0503.txt",
+      "NewPath": "data/corpus/book_0503.txt",
+      "ExpectedHash": "2b16bbf0d1975ef6a123e08db02a56337096ddbafe05a33aac1428663c445ba1"
+    },
+    {
+      "OldPath": "book_0504.txt",
+      "NewPath": "data/corpus/book_0504.txt",
+      "ExpectedHash": "9717d7a8b5128dcd14eef67e0c3f6d1045091e92f95f886ea0b1da64b40cbd2b"
+    },
+    {
+      "OldPath": "book_0505.txt",
+      "NewPath": "data/corpus/book_0505.txt",
+      "ExpectedHash": "3b84faa6271acc9d525b6793ca16867a70bb0fed9f4dfe8a56b276b41556cd17"
+    },
+    {
+      "OldPath": "book_0506.txt",
+      "NewPath": "data/corpus/book_0506.txt",
+      "ExpectedHash": "90a8dab812946d154a1f98389faf9e9054c909a50a3fb22cd7fd54b807607d3e"
+    },
+    {
+      "OldPath": "book_0507.txt",
+      "NewPath": "data/corpus/book_0507.txt",
+      "ExpectedHash": "68e1b391a3f492512729dda5a133dd0642cde4a45b9d53e99a64c8abe073fec6"
+    },
+    {
+      "OldPath": "book_0508.txt",
+      "NewPath": "data/corpus/book_0508.txt",
+      "ExpectedHash": "2473094934983bf10974b67f33506094c96b750477308da18be42f2051446845"
+    },
+    {
+      "OldPath": "book_0509.txt",
+      "NewPath": "data/corpus/book_0509.txt",
+      "ExpectedHash": "80cb54e0d1308f0629a39292bb278ae7ae18cc8799c24c1ed4ae9f22dd353991"
+    },
+    {
+      "OldPath": "book_0510.txt",
+      "NewPath": "data/corpus/book_0510.txt",
+      "ExpectedHash": "ce452088dc01c1c20dcd4bab9da4962760659d246894e5490dd5b647c020ba7b"
+    },
+    {
+      "OldPath": "book_0511.txt",
+      "NewPath": "data/corpus/book_0511.txt",
+      "ExpectedHash": "dc7a881d6ae1fb1d665b1b9353ef4964a5582f181ef1dc702eb23964b2ababb1"
+    },
+    {
+      "OldPath": "book_0512.txt",
+      "NewPath": "data/corpus/book_0512.txt",
+      "ExpectedHash": "a5e6e1ccb3b5439bc964896660e749d10713dc6e1f290fe2dcd2a1ec63e469e4"
+    },
+    {
+      "OldPath": "book_0513.txt",
+      "NewPath": "data/corpus/book_0513.txt",
+      "ExpectedHash": "09518479d01ee92759bf9f75bb7080cd64ef22e88dc0337f3a66dbd8dd8e832d"
+    },
+    {
+      "OldPath": "book_0514.txt",
+      "NewPath": "data/corpus/book_0514.txt",
+      "ExpectedHash": "a394d7a81c45342ffa28d5d7a2b435b67443156dcaf59355d8337d0d957497a3"
+    },
+    {
+      "OldPath": "book_0515.txt",
+      "NewPath": "data/corpus/book_0515.txt",
+      "ExpectedHash": "b41b5ab748e1c27b33031f2735ae77f782c86e80d17b42f59540437439dcb81b"
+    },
+    {
+      "OldPath": "book_0516.txt",
+      "NewPath": "data/corpus/book_0516.txt",
+      "ExpectedHash": "688c43d898765b74cc4592512ce2ae5016d383747f64fbc6146b5e3279b68366"
+    },
+    {
+      "OldPath": "book_0517.txt",
+      "NewPath": "data/corpus/book_0517.txt",
+      "ExpectedHash": "a93afe4291d2a81f9209922111a8092c1c634a5c3194d8d57d136cd5c996789a"
+    },
+    {
+      "OldPath": "book_0518.txt",
+      "NewPath": "data/corpus/book_0518.txt",
+      "ExpectedHash": "90e28d86566ea212c5b835b3fb5a255c93d115662d7496a34fcbae4a439de3e4"
+    },
+    {
+      "OldPath": "book_0519.txt",
+      "NewPath": "data/corpus/book_0519.txt",
+      "ExpectedHash": "0fd4d8604b8fbd1a5d16fd2d1d61a7013431494addf4129e4f113d160e24e723"
+    },
+    {
+      "OldPath": "book_0520.txt",
+      "NewPath": "data/corpus/book_0520.txt",
+      "ExpectedHash": "e78f8e4a421bbfc3ae8ce72053313cd5a80850440e2547807cf450fb776ccb22"
+    },
+    {
+      "OldPath": "book_0521.txt",
+      "NewPath": "data/corpus/book_0521.txt",
+      "ExpectedHash": "08fdd817a8679e5d1a7c51333e6062e6d5a21d350a7928e3314543c302891035"
+    },
+    {
+      "OldPath": "book_0522.txt",
+      "NewPath": "data/corpus/book_0522.txt",
+      "ExpectedHash": "64cee7cc1f526d2322c4e4c359e7d9fc28db04d5eb58c15dd17ab60c56625d1f"
+    },
+    {
+      "OldPath": "book_0523.txt",
+      "NewPath": "data/corpus/book_0523.txt",
+      "ExpectedHash": "7335ca2bea0c54b212ea881b3c9068a6463c7b9a14a0a016c001d47d65049434"
+    },
+    {
+      "OldPath": "book_0524.txt",
+      "NewPath": "data/corpus/book_0524.txt",
+      "ExpectedHash": "34ecb49606ffefac34896b9b4645a4617b5074420c594157e767abdcc09dbd23"
+    },
+    {
+      "OldPath": "book_0525.txt",
+      "NewPath": "data/corpus/book_0525.txt",
+      "ExpectedHash": "e9aa40324dda0775e7b063105a6c9ff8c8b40364b86eff12a8ac4a72f8176feb"
+    },
+    {
+      "OldPath": "book_0526.txt",
+      "NewPath": "data/corpus/book_0526.txt",
+      "ExpectedHash": "4695a0aaf8fa63d7ffcc2cb1364d9cd507af5aee0a0eebc7cbab22ea0d2d58d0"
+    },
+    {
+      "OldPath": "book_0527.txt",
+      "NewPath": "data/corpus/book_0527.txt",
+      "ExpectedHash": "5e835a94887b0aefa43288385c013e080e83f6d206224c5902d004a1ffb36624"
+    },
+    {
+      "OldPath": "book_0528.txt",
+      "NewPath": "data/corpus/book_0528.txt",
+      "ExpectedHash": "be70d44f56188fa34dd216a9d74aa619d1a0b33a368fad7dbe2b0a6dff1960c0"
+    },
+    {
+      "OldPath": "book_0529.txt",
+      "NewPath": "data/corpus/book_0529.txt",
+      "ExpectedHash": "d9a9be8752393d5d1e91f95af36b35196fbd51a40529999ddba768bc2ff52aa9"
+    },
+    {
+      "OldPath": "book_0530.txt",
+      "NewPath": "data/corpus/book_0530.txt",
+      "ExpectedHash": "0cb3648a35d1e0395d55ff7b7eb8b2fcab4f168a04da0f2d5b65e49a5408e76c"
+    },
+    {
+      "OldPath": "book_0531.txt",
+      "NewPath": "data/corpus/book_0531.txt",
+      "ExpectedHash": "a39d39c470d7496bb010b03fa70bd0784d34af88cc7a86c1747db8572fbe96fd"
+    },
+    {
+      "OldPath": "book_0532.txt",
+      "NewPath": "data/corpus/book_0532.txt",
+      "ExpectedHash": "b78dc8f4ae01fb89468b9ac2bbd9de0b46612d7b3d1bb4ed747d074fa7a03be4"
+    },
+    {
+      "OldPath": "book_0533.txt",
+      "NewPath": "data/corpus/book_0533.txt",
+      "ExpectedHash": "dcb872ffce1220f75fae5e80d496777764f981da04c9b285176a462ee635dd06"
+    },
+    {
+      "OldPath": "book_0534.txt",
+      "NewPath": "data/corpus/book_0534.txt",
+      "ExpectedHash": "c060c21245b42709e641f27fe12468457ac029d8782143cf137031bb4ced1091"
+    },
+    {
+      "OldPath": "book_0535.txt",
+      "NewPath": "data/corpus/book_0535.txt",
+      "ExpectedHash": "c3665e965aad82fbea31a8a9420cc5f0a6c89eee94036506a6ce9e0c2ac5f309"
+    },
+    {
+      "OldPath": "book_0536.txt",
+      "NewPath": "data/corpus/book_0536.txt",
+      "ExpectedHash": "6e8f85831f23d7f2cf0f3ccfd2507482b1ac03c1afee6f3b5f1d083eb6525575"
+    },
+    {
+      "OldPath": "book_0537.txt",
+      "NewPath": "data/corpus/book_0537.txt",
+      "ExpectedHash": "fea954f8e458b06eccd36bee53fd8afcf32e7b7f017e2cd6185929044b470ec5"
+    },
+    {
+      "OldPath": "book_0538.txt",
+      "NewPath": "data/corpus/book_0538.txt",
+      "ExpectedHash": "125682df06f7b7dd5f1a64389f9b307710e1debdfbfb1d218ff769fcba441979"
+    },
+    {
+      "OldPath": "book_0539.txt",
+      "NewPath": "data/corpus/book_0539.txt",
+      "ExpectedHash": "8eb2df4bcf9361867b9ef06b2488e1d33b24bb24e806b2c387f6b9e17973079d"
+    },
+    {
+      "OldPath": "book_0540.txt",
+      "NewPath": "data/corpus/book_0540.txt",
+      "ExpectedHash": "fb9184ca11517b05e0059428c7baf3d3e6e5e9e0a6639c4a9c8550c4f6a24311"
+    },
+    {
+      "OldPath": "book_0541.txt",
+      "NewPath": "data/corpus/book_0541.txt",
+      "ExpectedHash": "48f64bc94fa5c18c473ab959c19d821df18570c4dae623aded1f73c4a7655801"
+    },
+    {
+      "OldPath": "book_0542.txt",
+      "NewPath": "data/corpus/book_0542.txt",
+      "ExpectedHash": "16bfbdde476ca20392d382f922199936a082d1e78e6d2ca804dba4c9298f3155"
+    },
+    {
+      "OldPath": "book_0543.txt",
+      "NewPath": "data/corpus/book_0543.txt",
+      "ExpectedHash": "8a79c2ca04b5654d6c46fa5a33b4f13874a3fd7028efa0e04006a92a6b8ec3dd"
+    },
+    {
+      "OldPath": "book_0544.txt",
+      "NewPath": "data/corpus/book_0544.txt",
+      "ExpectedHash": "fdca785b52eb8172785afeb05395e5b08d8612e417d59d47650aa5c27609aac4"
+    },
+    {
+      "OldPath": "book_0545.txt",
+      "NewPath": "data/corpus/book_0545.txt",
+      "ExpectedHash": "2ea9b74d09418f450cc9ffe3005f648aad22bd31845daf836a32d8daebfd1135"
+    },
+    {
+      "OldPath": "book_0546.txt",
+      "NewPath": "data/corpus/book_0546.txt",
+      "ExpectedHash": "008cc686f34e26746ccd819a066570191c52808e9fe0d29100927ee876b3f6b1"
+    },
+    {
+      "OldPath": "book_0547.txt",
+      "NewPath": "data/corpus/book_0547.txt",
+      "ExpectedHash": "062cc9705d986a33c405dd0117aa7c922d40890d78042643a0bdfe584f6b09bc"
+    },
+    {
+      "OldPath": "book_0548.txt",
+      "NewPath": "data/corpus/book_0548.txt",
+      "ExpectedHash": "9658f2ec0c1c2c20b9d32d711470fbb542734b8f11cbbf229a4551f5471ce23a"
+    },
+    {
+      "OldPath": "book_0549.txt",
+      "NewPath": "data/corpus/book_0549.txt",
+      "ExpectedHash": "24872bf9bcc4ef2d475788c3e8caffab67d8ae640cfc2b2eabd83dcbbe8cc01b"
+    },
+    {
+      "OldPath": "book_0550.txt",
+      "NewPath": "data/corpus/book_0550.txt",
+      "ExpectedHash": "43d0c9efdd929ab284a362a60114261047795b8311b4ced5fa3f43027a323c64"
+    },
+    {
+      "OldPath": "book_0551.txt",
+      "NewPath": "data/corpus/book_0551.txt",
+      "ExpectedHash": "08ac112e547e2a5284c3473acaf68f51444f42ce3a89fd4df325750f9f3a07bc"
+    },
+    {
+      "OldPath": "book_0552.txt",
+      "NewPath": "data/corpus/book_0552.txt",
+      "ExpectedHash": "1e17dd1c69fdfe4eeb24e984371345122d196567e7ecb64a866ce81d82ed72e9"
+    },
+    {
+      "OldPath": "book_0553.txt",
+      "NewPath": "data/corpus/book_0553.txt",
+      "ExpectedHash": "30ef8768f09b4f306649a920b8dd436110d0c9d5e82335fa3ed7da000356e6d2"
+    },
+    {
+      "OldPath": "book_0554.txt",
+      "NewPath": "data/corpus/book_0554.txt",
+      "ExpectedHash": "7552d92a5a75b8788f597d473ce11a76c9d45bd61ba4f134d7f6548e7ffa7226"
+    },
+    {
+      "OldPath": "book_0555.txt",
+      "NewPath": "data/corpus/book_0555.txt",
+      "ExpectedHash": "15c99dbbb2ee0f0eb225ce6dec67af39b6fb6cb9706ffd5a034b87cda413b833"
+    },
+    {
+      "OldPath": "book_0556.txt",
+      "NewPath": "data/corpus/book_0556.txt",
+      "ExpectedHash": "815d62357ccf0b7c1601deef8960ff121c05156432006a909e6b6df26bca0707"
+    },
+    {
+      "OldPath": "book_0557.txt",
+      "NewPath": "data/corpus/book_0557.txt",
+      "ExpectedHash": "3915f04eb32ae7257e3c4ef5dd7622fa1d1c1e917f662b3827d3ba58b2af862f"
+    },
+    {
+      "OldPath": "book_0558.txt",
+      "NewPath": "data/corpus/book_0558.txt",
+      "ExpectedHash": "a0dd50882fe0d3cbfd0991e882d3eee7cd8d8fbd778a9955e80cd9bcf730b018"
+    },
+    {
+      "OldPath": "book_0559.txt",
+      "NewPath": "data/corpus/book_0559.txt",
+      "ExpectedHash": "86b80d346076a45cd39d62634b6f57b444a881b2941bb063ed187930359a00bd"
+    },
+    {
+      "OldPath": "book_0560.txt",
+      "NewPath": "data/corpus/book_0560.txt",
+      "ExpectedHash": "cfbdf2fea712b9433c4e7ca97994013568800312119e29a496d30903d6264702"
+    },
+    {
+      "OldPath": "book_0561.txt",
+      "NewPath": "data/corpus/book_0561.txt",
+      "ExpectedHash": "7fdf45114a698eb0453bfada8cef3bdce98837ac2ea1cbcedd648b8ec122cb82"
+    },
+    {
+      "OldPath": "book_0562.txt",
+      "NewPath": "data/corpus/book_0562.txt",
+      "ExpectedHash": "06addf63749cc315379e1890aed4a9f7238eb0a0732a258e2b6dac01bce3b2a4"
+    },
+    {
+      "OldPath": "book_0563.txt",
+      "NewPath": "data/corpus/book_0563.txt",
+      "ExpectedHash": "c69129b3b232fddeb2163846c26054fcd83e584f8526e03a239cc136dfc8c2f6"
+    },
+    {
+      "OldPath": "book_0564.txt",
+      "NewPath": "data/corpus/book_0564.txt",
+      "ExpectedHash": "08ff8cb77a452c9ae83bc85d41e185c14c7d213cf9b769bcf0fc8febcd65aab5"
+    },
+    {
+      "OldPath": "book_0565.txt",
+      "NewPath": "data/corpus/book_0565.txt",
+      "ExpectedHash": "07e64a5b041d108b48fe19eeff1d8185c992a188fa3121f392e7438ca5e16b0b"
+    },
+    {
+      "OldPath": "book_0566.txt",
+      "NewPath": "data/corpus/book_0566.txt",
+      "ExpectedHash": "f02a7b8ef20c22cb4572c637280cd16fed570bf35ea4512dfe0f676b9b1c172b"
+    },
+    {
+      "OldPath": "book_0567.txt",
+      "NewPath": "data/corpus/book_0567.txt",
+      "ExpectedHash": "35e51a0d03072e98932ef8bd7262da86b410ccee4a98ee301679150b663abec8"
+    },
+    {
+      "OldPath": "book_0568.txt",
+      "NewPath": "data/corpus/book_0568.txt",
+      "ExpectedHash": "0cdd2e91d549e6872f0b0ca46cc58361889081d7ed396815a87f774766093582"
+    },
+    {
+      "OldPath": "book_0569.txt",
+      "NewPath": "data/corpus/book_0569.txt",
+      "ExpectedHash": "9f32fc5a81bf28251330a1a3b2ba3c712e2e2593a2ed1180a23494d9c26d41b2"
+    },
+    {
+      "OldPath": "book_0570.txt",
+      "NewPath": "data/corpus/book_0570.txt",
+      "ExpectedHash": "a6ac808b8d0e5d3fb15449aee6a9a4dadf75db75dbdb6840dd616dfa01fd9ed8"
+    },
+    {
+      "OldPath": "book_0571.txt",
+      "NewPath": "data/corpus/book_0571.txt",
+      "ExpectedHash": "809116df5120d2063fea44c291308a1bdbb3b3f39e411d4cda935a9080896435"
+    },
+    {
+      "OldPath": "book_0572.txt",
+      "NewPath": "data/corpus/book_0572.txt",
+      "ExpectedHash": "6d8d4a566e02a078df9c5f3f963c0cc07d75a7b0649fa9715125eb6998b9093f"
+    },
+    {
+      "OldPath": "book_0573.txt",
+      "NewPath": "data/corpus/book_0573.txt",
+      "ExpectedHash": "fa0b9bb742b8a90d37f2f173f75a96ad3ca62ee9df53691725d6c0c9f89089fe"
+    },
+    {
+      "OldPath": "book_0574.txt",
+      "NewPath": "data/corpus/book_0574.txt",
+      "ExpectedHash": "24b54e5305fd0e627e2a17359cefa1348f5c83f3eb55d447489c7a9d9d180530"
+    },
+    {
+      "OldPath": "book_0575.txt",
+      "NewPath": "data/corpus/book_0575.txt",
+      "ExpectedHash": "4631469b71e6efe89b5015b57d2c1517a48605d7fe90ee3f73190b01f4a65337"
+    },
+    {
+      "OldPath": "book_0576.txt",
+      "NewPath": "data/corpus/book_0576.txt",
+      "ExpectedHash": "e1466e66c286d27a5e2397a3b364937de52243283510b3aa740b524524a91e6c"
+    },
+    {
+      "OldPath": "book_0577.txt",
+      "NewPath": "data/corpus/book_0577.txt",
+      "ExpectedHash": "99a12477cb789355297941b570f8932e690aa6e83191b84998aaa24a361e692c"
+    },
+    {
+      "OldPath": "book_0578.txt",
+      "NewPath": "data/corpus/book_0578.txt",
+      "ExpectedHash": "57d19856e27e56b8a76e5894a4d678080dc4106973307c9a839706792e587f9b"
+    },
+    {
+      "OldPath": "book_0579.txt",
+      "NewPath": "data/corpus/book_0579.txt",
+      "ExpectedHash": "88531fdd7996113455cbb895eff29745ef269adc294f8f2c0c12cc8052b41831"
+    },
+    {
+      "OldPath": "book_0580.txt",
+      "NewPath": "data/corpus/book_0580.txt",
+      "ExpectedHash": "bb4d750a9ce957d9f030ecb4924838f922b265954b08e52d194d41f83b4acec4"
+    },
+    {
+      "OldPath": "book_0581.txt",
+      "NewPath": "data/corpus/book_0581.txt",
+      "ExpectedHash": "35708005ee973688e2ef429d54070f78693a2b68bbb474c74385d28ef5fb7c91"
+    },
+    {
+      "OldPath": "book_0582.txt",
+      "NewPath": "data/corpus/book_0582.txt",
+      "ExpectedHash": "1471c9bb2c99f874d8efe3b8fb0195184f3888fb7d51f705ea693a0574f650da"
+    },
+    {
+      "OldPath": "book_0583.txt",
+      "NewPath": "data/corpus/book_0583.txt",
+      "ExpectedHash": "d6f78ac8ec8ce8992947a8140112d2b7ea14bb97b9f3a287ddea76f47bb05029"
+    },
+    {
+      "OldPath": "book_0584.txt",
+      "NewPath": "data/corpus/book_0584.txt",
+      "ExpectedHash": "90def795562d68655a08fe7aa17781e6fb3e388985f2edeb34b09062c862f20f"
+    },
+    {
+      "OldPath": "book_0585.txt",
+      "NewPath": "data/corpus/book_0585.txt",
+      "ExpectedHash": "b7b255e26b87348459b1d123b592488248c68f446c89e541ab871767231570ef"
+    },
+    {
+      "OldPath": "book_0586.txt",
+      "NewPath": "data/corpus/book_0586.txt",
+      "ExpectedHash": "31aca1d100179d6b212cd3f8dfb6b3a4dcf7ed807b76afa915e76bf8d8ccd250"
+    },
+    {
+      "OldPath": "book_0587.txt",
+      "NewPath": "data/corpus/book_0587.txt",
+      "ExpectedHash": "de684dd9cc2b93acc4da23f4abe8b9d8851d726049b9a578ed9dd2b0578e8307"
+    },
+    {
+      "OldPath": "book_0588.txt",
+      "NewPath": "data/corpus/book_0588.txt",
+      "ExpectedHash": "c53c61a376973db5c73e26f1a882f2e7058067e28219e1e921633f414c1bab2c"
+    },
+    {
+      "OldPath": "book_0589.txt",
+      "NewPath": "data/corpus/book_0589.txt",
+      "ExpectedHash": "af7c1b32c58d5e33bbb3779d9c76547acd30d132bc089c0596bb3cb95fd9e0b1"
+    },
+    {
+      "OldPath": "book_0590.txt",
+      "NewPath": "data/corpus/book_0590.txt",
+      "ExpectedHash": "dc8028c2acb95b677201a8a744c0fc57cf655a5166773548cf56a1e191206db4"
+    },
+    {
+      "OldPath": "book_0591.txt",
+      "NewPath": "data/corpus/book_0591.txt",
+      "ExpectedHash": "60a124cd85be4f70cbf20f09898c3829b5acab93424f5316e982f6cb5a48d784"
+    },
+    {
+      "OldPath": "book_0592.txt",
+      "NewPath": "data/corpus/book_0592.txt",
+      "ExpectedHash": "8ed90ffab8b030327aa5dc16b2425eebe34ac699eb268eee5576991821b80e85"
+    },
+    {
+      "OldPath": "book_0593.txt",
+      "NewPath": "data/corpus/book_0593.txt",
+      "ExpectedHash": "9b756fcc274bd3e41687d3fc83ddf777589b8527067c693bec1ffea1e9a5cb87"
+    },
+    {
+      "OldPath": "book_0594.txt",
+      "NewPath": "data/corpus/book_0594.txt",
+      "ExpectedHash": "8567ff28962f8cda70f538440de8a82ca8e72195ae56fe02f3db21cce64cd93b"
+    },
+    {
+      "OldPath": "book_0595.txt",
+      "NewPath": "data/corpus/book_0595.txt",
+      "ExpectedHash": "f5dfff80be4a85eccb41072f91e39758484d265be969a348f2f3871b6fe80ec2"
+    },
+    {
+      "OldPath": "book_0596.txt",
+      "NewPath": "data/corpus/book_0596.txt",
+      "ExpectedHash": "3c31ba2b2650c8a3cbc43df108d18aa25e059a906f245e45717923b768d2d7f9"
+    },
+    {
+      "OldPath": "book_0597.txt",
+      "NewPath": "data/corpus/book_0597.txt",
+      "ExpectedHash": "8923d526f7bccf0a1b286ad2c786cac37df34cf9423ec7c026457d7c58a5f4f6"
+    },
+    {
+      "OldPath": "book_0598.txt",
+      "NewPath": "data/corpus/book_0598.txt",
+      "ExpectedHash": "d3227b3a2599e07889d7f7b75e0e42d258f6513fc766f0b706bfdd607fcc7c56"
+    },
+    {
+      "OldPath": "book_0599.txt",
+      "NewPath": "data/corpus/book_0599.txt",
+      "ExpectedHash": "f6b021f074d188d2f5f14c249f6d97c67d532886f04093b6eec19555ffdba920"
+    },
+    {
+      "OldPath": "book_0600.txt",
+      "NewPath": "data/corpus/book_0600.txt",
+      "ExpectedHash": "7d8e2f6993016de2fe0be7ceaf505c7665b1a1c5d7dea85505d8635e13fbdc2a"
+    },
+    {
+      "OldPath": "book_0601.txt",
+      "NewPath": "data/corpus/book_0601.txt",
+      "ExpectedHash": "20bcc870f5a0bb61ffd524e8dbe7538d88f43ddb18699696fd1cd7040feccf47"
+    },
+    {
+      "OldPath": "book_0602.txt",
+      "NewPath": "data/corpus/book_0602.txt",
+      "ExpectedHash": "47d7af9027a6ee2a203f7386d855d3dc4a103dc6745e52837ab50ae049fd5721"
+    },
+    {
+      "OldPath": "book_0603.txt",
+      "NewPath": "data/corpus/book_0603.txt",
+      "ExpectedHash": "e5154ee480ed2577ed59e48a5591a6f65c8d5d747fc4c01fa60df5ac0f3b2133"
+    },
+    {
+      "OldPath": "book_0604.txt",
+      "NewPath": "data/corpus/book_0604.txt",
+      "ExpectedHash": "82dbc2f7403124d30c24b51540bb8e75ac270fc46a441e28d54f25c53686a2aa"
+    },
+    {
+      "OldPath": "book_0605.txt",
+      "NewPath": "data/corpus/book_0605.txt",
+      "ExpectedHash": "55b43de78dfa6868fbb202c29fe0cffb8523d3fce458fbed17711dd7ef097175"
+    },
+    {
+      "OldPath": "book_0606.txt",
+      "NewPath": "data/corpus/book_0606.txt",
+      "ExpectedHash": "e02c66668278fee890a147e88076f9b844bfb0aa0fbe1d29e672bd99a8c0fd64"
+    },
+    {
+      "OldPath": "book_0607.txt",
+      "NewPath": "data/corpus/book_0607.txt",
+      "ExpectedHash": "0d73bd4f073b084528db69123e9c3cb812d0ba02996b2229353b4d3c99800972"
+    },
+    {
+      "OldPath": "book_0608.txt",
+      "NewPath": "data/corpus/book_0608.txt",
+      "ExpectedHash": "7bc6e860e04071cd9f33734fa43286a8c018605fca8f710cc7ab34c2532635e0"
+    },
+    {
+      "OldPath": "book_0609.txt",
+      "NewPath": "data/corpus/book_0609.txt",
+      "ExpectedHash": "d27479ae7859e23fe133eef1cdfe697a54de066a555b83df0da5c8dc21ea953f"
+    },
+    {
+      "OldPath": "book_0610.txt",
+      "NewPath": "data/corpus/book_0610.txt",
+      "ExpectedHash": "235b209e94fa314c5f1e8bc3c72664885f5ba0cb6103f76363ebc92d88a11bce"
+    },
+    {
+      "OldPath": "book_0611.txt",
+      "NewPath": "data/corpus/book_0611.txt",
+      "ExpectedHash": "29f24b6def5e935ff7db6fbdf43a3b015bb7ed179f0863901c7956da2eeba338"
+    },
+    {
+      "OldPath": "book_0612.txt",
+      "NewPath": "data/corpus/book_0612.txt",
+      "ExpectedHash": "2499dda252c7a00ad7aa3def9dea021b6aefce37591c3222f03355ada4707fea"
+    },
+    {
+      "OldPath": "book_0613.txt",
+      "NewPath": "data/corpus/book_0613.txt",
+      "ExpectedHash": "19120bcaff9cac6b54c8ab1a35b78660102d594af63eca6bc9c9cab40f3e301a"
+    },
+    {
+      "OldPath": "book_0614.txt",
+      "NewPath": "data/corpus/book_0614.txt",
+      "ExpectedHash": "2f5d5ff99ed31d50a568d67ef2aeb6484b55a116fd97aeb05a0659d38822a177"
+    },
+    {
+      "OldPath": "book_0615.txt",
+      "NewPath": "data/corpus/book_0615.txt",
+      "ExpectedHash": "0590937ca789a80d1a8628c0987e77973acfe6ae101b540696db4f3f30510304"
+    },
+    {
+      "OldPath": "book_0616.txt",
+      "NewPath": "data/corpus/book_0616.txt",
+      "ExpectedHash": "1dab1c0451228c336aead01e7c92df7c2b96d18ad0659d1b30bdbfa9085a7493"
+    },
+    {
+      "OldPath": "book_0617.txt",
+      "NewPath": "data/corpus/book_0617.txt",
+      "ExpectedHash": "381b12afd528021afab60e6a21cd3cc5a2fb45b21ca795200c82040e68dcc1a9"
+    },
+    {
+      "OldPath": "book_0618.txt",
+      "NewPath": "data/corpus/book_0618.txt",
+      "ExpectedHash": "fb70ac48570de8110ac4e7f55e31222a86dff21238cf8215a9821dc2ddc3ee12"
+    },
+    {
+      "OldPath": "book_0619.txt",
+      "NewPath": "data/corpus/book_0619.txt",
+      "ExpectedHash": "2eba8f9b828f8901668d383ed2904cfdc64077c7d5d97b13b1a0ffbaf9413bc6"
+    },
+    {
+      "OldPath": "book_0620.txt",
+      "NewPath": "data/corpus/book_0620.txt",
+      "ExpectedHash": "1a0641c88aad53111b9c90b2925bd85a48ff2eea2a2e34e7dcb259801a86aabf"
+    },
+    {
+      "OldPath": "book_0621.txt",
+      "NewPath": "data/corpus/book_0621.txt",
+      "ExpectedHash": "83a3384266353331b5edaae8d23029dc298558c4ad026264f8b9a98f0cbb7d77"
+    },
+    {
+      "OldPath": "book_0622.txt",
+      "NewPath": "data/corpus/book_0622.txt",
+      "ExpectedHash": "81890d116601234458f35e362915d86e7ba9b0bcad8161388403d01214fa3ba2"
+    },
+    {
+      "OldPath": "book_0623.txt",
+      "NewPath": "data/corpus/book_0623.txt",
+      "ExpectedHash": "9561396aa95638b42f01677a5fdc97853aec4d332391f54d9be6994c394da871"
+    },
+    {
+      "OldPath": "book_0624.txt",
+      "NewPath": "data/corpus/book_0624.txt",
+      "ExpectedHash": "4e75ae26bc97dae4e372d499248ebf211bcb81f307aa3caa4569e340318efdd2"
+    },
+    {
+      "OldPath": "book_0625.txt",
+      "NewPath": "data/corpus/book_0625.txt",
+      "ExpectedHash": "8a86c8b2d4cb974a7f0e9255dc381bf793f40f17c3dbe75d8eaf68973686409b"
+    },
+    {
+      "OldPath": "book_0626.txt",
+      "NewPath": "data/corpus/book_0626.txt",
+      "ExpectedHash": "23a00a906c166b2d0374459b1a54c75abb31eb2a1c8d66a08b7d0f9f7a2a19d1"
+    },
+    {
+      "OldPath": "book_0627.txt",
+      "NewPath": "data/corpus/book_0627.txt",
+      "ExpectedHash": "78a72ec23f24b09a8b2374bc2e58c8d49160c45deb1fa04ef83b6421774f4762"
+    },
+    {
+      "OldPath": "book_0628.txt",
+      "NewPath": "data/corpus/book_0628.txt",
+      "ExpectedHash": "774248a459976c84e9d0c0d677e8428c898a5c6ed4a45bf29c6e689cf7eb02ef"
+    },
+    {
+      "OldPath": "book_0629.txt",
+      "NewPath": "data/corpus/book_0629.txt",
+      "ExpectedHash": "c54c918a1d2a20956a05f250b3d937a5f32cd385b7ab7855d7f8bf90bf615f37"
+    },
+    {
+      "OldPath": "book_0630.txt",
+      "NewPath": "data/corpus/book_0630.txt",
+      "ExpectedHash": "1f81621c7ae7cd1ebf2d04389ca51f50a86013f1ba33d590b7e4d55cb24ff64c"
+    },
+    {
+      "OldPath": "book_0631.txt",
+      "NewPath": "data/corpus/book_0631.txt",
+      "ExpectedHash": "9e3b84d870a2e3ffaa4cdebe6c0a0c07af0ffd407e5592ea94494c9296cc2acb"
+    },
+    {
+      "OldPath": "book_0632.txt",
+      "NewPath": "data/corpus/book_0632.txt",
+      "ExpectedHash": "a30b07b1ccce04799dc44d80b351e5ac281693daa0755eb09b6a1b6d951d1165"
+    },
+    {
+      "OldPath": "book_0633.txt",
+      "NewPath": "data/corpus/book_0633.txt",
+      "ExpectedHash": "0d30b20fb9e805c819c088f445efaf822e981696a8f2962c6279708adb50a281"
+    },
+    {
+      "OldPath": "book_0634.txt",
+      "NewPath": "data/corpus/book_0634.txt",
+      "ExpectedHash": "183ea9cb559f719101a606cca4283608551ef8d5ff5e7481e514716e70dc5866"
+    },
+    {
+      "OldPath": "book_0635.txt",
+      "NewPath": "data/corpus/book_0635.txt",
+      "ExpectedHash": "ac7ccd17544253fa87a5cf1fece7c223aaaa1eb558b7bd07dde0be975cd35c32"
+    },
+    {
+      "OldPath": "book_0636.txt",
+      "NewPath": "data/corpus/book_0636.txt",
+      "ExpectedHash": "e5936ac32b650cc038d7915dab9e880b27229974a5a5d27f3687adbe84ebb37f"
+    },
+    {
+      "OldPath": "book_0637.txt",
+      "NewPath": "data/corpus/book_0637.txt",
+      "ExpectedHash": "a7da5a273f49c6c8f126245106ebf1fd3f4d970941b9e218c5b55e9d65eb7840"
+    },
+    {
+      "OldPath": "book_0638.txt",
+      "NewPath": "data/corpus/book_0638.txt",
+      "ExpectedHash": "13434170dff1ac98710c5dbb0402e3af8ea2102761133a673b0d9c53c8fdbbab"
+    },
+    {
+      "OldPath": "book_0639.txt",
+      "NewPath": "data/corpus/book_0639.txt",
+      "ExpectedHash": "60b628a69df35b0cb9e3b43c8e8f69f606f9e88b4ab4d79ad71c377de834bd18"
+    },
+    {
+      "OldPath": "book_0640.txt",
+      "NewPath": "data/corpus/book_0640.txt",
+      "ExpectedHash": "1d5d7550a5f38305b940737e6abc4479fa7bd6ac46ccab7646ffe433028f55f2"
+    },
+    {
+      "OldPath": "book_0641.txt",
+      "NewPath": "data/corpus/book_0641.txt",
+      "ExpectedHash": "32fb3334c8fb46e117baff21fcbf9880e5c704c5d073159b77a00f0a29501d9e"
+    },
+    {
+      "OldPath": "book_0642.txt",
+      "NewPath": "data/corpus/book_0642.txt",
+      "ExpectedHash": "fcacb3db07520304eb26f0c649483a79ca5ed04148da5ebeb204950a85fa8eb6"
+    },
+    {
+      "OldPath": "book_0643.txt",
+      "NewPath": "data/corpus/book_0643.txt",
+      "ExpectedHash": "61bc1df67827be23a640968df87093907c05877f41a9ceed67f9f8c0e99d2e1b"
+    },
+    {
+      "OldPath": "book_0644.txt",
+      "NewPath": "data/corpus/book_0644.txt",
+      "ExpectedHash": "bf5b4afa4f1c8d6176019a0e0b15c62e1353f9a8e9d1107dbb52005801e254d1"
+    },
+    {
+      "OldPath": "book_0645.txt",
+      "NewPath": "data/corpus/book_0645.txt",
+      "ExpectedHash": "ae6c06baf48bda7de0786adba6b75f92348007b112022ffd4bdae532cc73fa1c"
+    },
+    {
+      "OldPath": "book_0646.txt",
+      "NewPath": "data/corpus/book_0646.txt",
+      "ExpectedHash": "3c572e4a6b19e95c73f3c0ce3bbcfb19986e936e4d3d934ebeecfd7d6edfcf56"
+    },
+    {
+      "OldPath": "book_0647.txt",
+      "NewPath": "data/corpus/book_0647.txt",
+      "ExpectedHash": "3cf27b4f87fd321ef82ce17d8f3f609339bfa306df0010e084815ad13e276ac7"
+    },
+    {
+      "OldPath": "book_0648.txt",
+      "NewPath": "data/corpus/book_0648.txt",
+      "ExpectedHash": "1da3ed7abc28e7c535b44f19e3ba90a6073189259a1e0cdf6ae10ccbaa3a605b"
+    },
+    {
+      "OldPath": "book_0649.txt",
+      "NewPath": "data/corpus/book_0649.txt",
+      "ExpectedHash": "b8c74cd61db31c5b5e2fc83e01c8d62e6113f667c6385ae46632122531e69b75"
+    },
+    {
+      "OldPath": "book_0650.txt",
+      "NewPath": "data/corpus/book_0650.txt",
+      "ExpectedHash": "f46fb98c0701b8411432fc7e31d7c5f87912114c03f172c0b39ee4a1f68869a7"
+    },
+    {
+      "OldPath": "book_0651.txt",
+      "NewPath": "data/corpus/book_0651.txt",
+      "ExpectedHash": "592c6b67ec8579113de209e5793f31a00ae119f7050ae764923f2e59713cfec5"
+    },
+    {
+      "OldPath": "book_0652.txt",
+      "NewPath": "data/corpus/book_0652.txt",
+      "ExpectedHash": "de1fc9e7d3ee7bba2abb5e278aeb767262f1306095412d4e419eded3ec53d4e2"
+    },
+    {
+      "OldPath": "book_0653.txt",
+      "NewPath": "data/corpus/book_0653.txt",
+      "ExpectedHash": "663b64759bcfd4c824447a6bf57dbd580325cdd029456cffc97a2d70b0334c08"
+    },
+    {
+      "OldPath": "book_0654.txt",
+      "NewPath": "data/corpus/book_0654.txt",
+      "ExpectedHash": "10cdca14495e2b9002bee28536f779ccdfce9acf3961be73049c6e9e37851370"
+    },
+    {
+      "OldPath": "book_0655.txt",
+      "NewPath": "data/corpus/book_0655.txt",
+      "ExpectedHash": "6173538566f249ab14ac015915ecc55a3aad2d88ef139f50d1aa1b849d9483a7"
+    },
+    {
+      "OldPath": "book_0656.txt",
+      "NewPath": "data/corpus/book_0656.txt",
+      "ExpectedHash": "13cd08a3feac188dcaf51aef82182415c31ac86d451a260e4f90122c687d10e0"
+    },
+    {
+      "OldPath": "book_0657.txt",
+      "NewPath": "data/corpus/book_0657.txt",
+      "ExpectedHash": "bc1211062b048351dca78894f952ede4041ebe033b9eb13c3931b02255b0d176"
+    },
+    {
+      "OldPath": "book_0658.txt",
+      "NewPath": "data/corpus/book_0658.txt",
+      "ExpectedHash": "226898144e22a3dadf40150b7dbe9ae7156a70be08f693711c7b5a9800ca3b77"
+    },
+    {
+      "OldPath": "book_0659.txt",
+      "NewPath": "data/corpus/book_0659.txt",
+      "ExpectedHash": "d67c6c57f0edd6985f105b73ad3e26e91694039c5b5f7d80ca0b5dbba0ba781b"
+    },
+    {
+      "OldPath": "book_0660.txt",
+      "NewPath": "data/corpus/book_0660.txt",
+      "ExpectedHash": "f4ac449801110079748b0f77d4ace5fa975e2457120595ee9304cb04ddf6afa5"
+    },
+    {
+      "OldPath": "book_0661.txt",
+      "NewPath": "data/corpus/book_0661.txt",
+      "ExpectedHash": "885c0cfa604c21bb6cf7de661329b948433f9beafc944ce0167d9676f36a140f"
+    },
+    {
+      "OldPath": "book_0662.txt",
+      "NewPath": "data/corpus/book_0662.txt",
+      "ExpectedHash": "d9c5d02790490613691780f57141be40ebf76b8f32be7b5c1f5e1197b3cbf95a"
+    },
+    {
+      "OldPath": "book_0663.txt",
+      "NewPath": "data/corpus/book_0663.txt",
+      "ExpectedHash": "173bec9a0d70227d832e20b512a89025e609241a40b08dcf86f4a58e2b83af43"
+    },
+    {
+      "OldPath": "book_0664.txt",
+      "NewPath": "data/corpus/book_0664.txt",
+      "ExpectedHash": "2e15e1342478afdd649170b2a1a7236a531638972544b7007295626da46496a3"
+    },
+    {
+      "OldPath": "book_0665.txt",
+      "NewPath": "data/corpus/book_0665.txt",
+      "ExpectedHash": "740d0d02bf9df418d359f8791c5ea73bb622f5f099ff83bf23584c06d24dc14f"
+    },
+    {
+      "OldPath": "book_0666.txt",
+      "NewPath": "data/corpus/book_0666.txt",
+      "ExpectedHash": "a63d5fb080a6c8b4a72ec146bd98ec6eb17ae6e2d7f999676dd6c8d34aeeb1f3"
+    },
+    {
+      "OldPath": "book_0667.txt",
+      "NewPath": "data/corpus/book_0667.txt",
+      "ExpectedHash": "98c6d4cb1352635c9806c3d5ab052a51ccad9488439129bef0494d4a43d841c3"
+    },
+    {
+      "OldPath": "book_0668.txt",
+      "NewPath": "data/corpus/book_0668.txt",
+      "ExpectedHash": "bd23f4671770b35e2a734d7f432e087e4295ae0060468cc9b6abd0d8b4d79110"
+    },
+    {
+      "OldPath": "book_0669.txt",
+      "NewPath": "data/corpus/book_0669.txt",
+      "ExpectedHash": "a5f765d1f92bf92a265f2f408e65d40c2cd6ab4e6cf660416eb4ac9a3afe150d"
+    },
+    {
+      "OldPath": "book_0670.txt",
+      "NewPath": "data/corpus/book_0670.txt",
+      "ExpectedHash": "18bc0b24943fffe28fdc26b3537909561f7fb1f34219a23cc2eec266c4e3ccf0"
+    },
+    {
+      "OldPath": "book_0671.txt",
+      "NewPath": "data/corpus/book_0671.txt",
+      "ExpectedHash": "9a869288ffbbdafd3afa47a3358f34c4a53633b8743c0c10d3f63da98eec3c46"
+    },
+    {
+      "OldPath": "book_0672.txt",
+      "NewPath": "data/corpus/book_0672.txt",
+      "ExpectedHash": "97c766112fb8d4d182afa6de71c580d138b7048ebd3c6b9df72881ef3cb8d49f"
+    },
+    {
+      "OldPath": "book_0673.txt",
+      "NewPath": "data/corpus/book_0673.txt",
+      "ExpectedHash": "bd3fa07928c55b7415fc53f96c4f34a0396cc356d4cdff6ad49ba568ebafb946"
+    },
+    {
+      "OldPath": "book_0674.txt",
+      "NewPath": "data/corpus/book_0674.txt",
+      "ExpectedHash": "2793c4d57fc501a981bc1a28ca7fd23edb9ba9c8a6310abf45ad0164762c3ac9"
+    },
+    {
+      "OldPath": "book_0675.txt",
+      "NewPath": "data/corpus/book_0675.txt",
+      "ExpectedHash": "ac6191e27f2d0b935f8103ec44febc206a5252d60026c3380a7f17f71348076c"
+    },
+    {
+      "OldPath": "book_0676.txt",
+      "NewPath": "data/corpus/book_0676.txt",
+      "ExpectedHash": "2c253450d9ff5b0f0e9855fcc81863907aeb32c0abcb307b24c732ae2a22f754"
+    },
+    {
+      "OldPath": "book_0677.txt",
+      "NewPath": "data/corpus/book_0677.txt",
+      "ExpectedHash": "6c7b9cae746e3b650914e60e525a64538635658850197cdcab687efd83c40b0c"
+    },
+    {
+      "OldPath": "book_0678.txt",
+      "NewPath": "data/corpus/book_0678.txt",
+      "ExpectedHash": "77866dd17c6704fcc11d95314eeed365dcde64f26d0a6becd65e0de4c649e28d"
+    },
+    {
+      "OldPath": "book_0679.txt",
+      "NewPath": "data/corpus/book_0679.txt",
+      "ExpectedHash": "1e445640257f9f8703afbf3d9a79a350fbe04319f2a66c7910cf41dd352f7209"
+    },
+    {
+      "OldPath": "book_0680.txt",
+      "NewPath": "data/corpus/book_0680.txt",
+      "ExpectedHash": "9c9b654d4bb7e3add039b20c38aca3d98a4b6112002dd4ed0d1ae69eaa299f9f"
+    },
+    {
+      "OldPath": "book_0681.txt",
+      "NewPath": "data/corpus/book_0681.txt",
+      "ExpectedHash": "85755adedc83d932ca6c71d94de8559a53b7731ab4e7e88b60885b351c9be92c"
+    },
+    {
+      "OldPath": "book_0682.txt",
+      "NewPath": "data/corpus/book_0682.txt",
+      "ExpectedHash": "50bc94de618154d26544fb3e824c856dffea9391114ca27196850f2043971db7"
+    },
+    {
+      "OldPath": "book_0683.txt",
+      "NewPath": "data/corpus/book_0683.txt",
+      "ExpectedHash": "dfbc2093df91ec9210d290ad27fed62ac181a42614a20d5ee40eb2b5b553f944"
+    },
+    {
+      "OldPath": "book_0684.txt",
+      "NewPath": "data/corpus/book_0684.txt",
+      "ExpectedHash": "bbb4fcbce38484c78e772f685cd39b38144e223822446a521a698d8ca81de67c"
+    },
+    {
+      "OldPath": "book_0685.txt",
+      "NewPath": "data/corpus/book_0685.txt",
+      "ExpectedHash": "4f807792de3b22f4f6587dc675db7f47b462fd73ad2b6dfe3f35f412a0cd2894"
+    },
+    {
+      "OldPath": "book_0686.txt",
+      "NewPath": "data/corpus/book_0686.txt",
+      "ExpectedHash": "2c92061ccba5d5b32f180764f29f581d0848bb3dee1b4ef514c996a7c36ccaa7"
+    },
+    {
+      "OldPath": "book_0687.txt",
+      "NewPath": "data/corpus/book_0687.txt",
+      "ExpectedHash": "a6ac3e6b259b4f60ac4896514d86b688aa9fa5a633e3eed08c1f90cb90849dfd"
+    },
+    {
+      "OldPath": "book_0688.txt",
+      "NewPath": "data/corpus/book_0688.txt",
+      "ExpectedHash": "4344361950a53da4c2f112cc87f70f7321c0c212752c0825f396f7fff0c480d7"
+    },
+    {
+      "OldPath": "book_0689.txt",
+      "NewPath": "data/corpus/book_0689.txt",
+      "ExpectedHash": "5e12e04ab7234aa6f59a3da16e90236ff507f14b826f9e7b28c1ef5076120c9b"
+    },
+    {
+      "OldPath": "book_0690.txt",
+      "NewPath": "data/corpus/book_0690.txt",
+      "ExpectedHash": "b43623eee63b6cee98be3290dda86382fe8ca3813d47b4552f51d4a86d0b36d6"
+    },
+    {
+      "OldPath": "book_0691.txt",
+      "NewPath": "data/corpus/book_0691.txt",
+      "ExpectedHash": "56b63a3bf05067954944999b0cb9390869f6758ee58a4270d26f407704cf97a5"
+    },
+    {
+      "OldPath": "book_0692.txt",
+      "NewPath": "data/corpus/book_0692.txt",
+      "ExpectedHash": "ba1684731a6268c3aa18cde113d4614f19cab346a70fb5186a24d8b427799347"
+    },
+    {
+      "OldPath": "book_0693.txt",
+      "NewPath": "data/corpus/book_0693.txt",
+      "ExpectedHash": "2c703cef294e7b6936b10fce0cf99954c3b4b067452b7c2533d3b2cd960ecf1d"
+    },
+    {
+      "OldPath": "book_0694.txt",
+      "NewPath": "data/corpus/book_0694.txt",
+      "ExpectedHash": "930a6ecf03958eb17a270d6fa46c2dd6f117bbdda5a9bc56a6c46e6fed403d66"
+    },
+    {
+      "OldPath": "book_0695.txt",
+      "NewPath": "data/corpus/book_0695.txt",
+      "ExpectedHash": "6145e54dbb23466cc0c14a02077c587da3aee554df50b1eb67515f00630ddec8"
+    },
+    {
+      "OldPath": "book_0696.txt",
+      "NewPath": "data/corpus/book_0696.txt",
+      "ExpectedHash": "1023626e111a1c023536a85aecf5908695e444ffb09d728585fe3c7a14d9e4cc"
+    },
+    {
+      "OldPath": "book_0697.txt",
+      "NewPath": "data/corpus/book_0697.txt",
+      "ExpectedHash": "7635ffb86d4807c9b2a05c7552eb69c241c12055c2ec5c4172a2ff6fcf7d36be"
+    },
+    {
+      "OldPath": "book_0698.txt",
+      "NewPath": "data/corpus/book_0698.txt",
+      "ExpectedHash": "8c34cede223b75740e3bc8c724f4f798e4dc6683f9193a92c8f3e9d4cb817912"
+    },
+    {
+      "OldPath": "book_0699.txt",
+      "NewPath": "data/corpus/book_0699.txt",
+      "ExpectedHash": "735c67c56d31abac950127a1dbb97cbe505b71c04f223b1143d103bff7e37639"
+    },
+    {
+      "OldPath": "book_0700.txt",
+      "NewPath": "data/corpus/book_0700.txt",
+      "ExpectedHash": "10a286c874f374f7ee60e537d3fd23bb574d17754ff2cdd114f938da0096896a"
+    },
+    {
+      "OldPath": "book_0701.txt",
+      "NewPath": "data/corpus/book_0701.txt",
+      "ExpectedHash": "dbcee24bf89ab6f7a6c2110e6dcd58124b99f7335344ae5d42575289191cc571"
+    },
+    {
+      "OldPath": "book_0702.txt",
+      "NewPath": "data/corpus/book_0702.txt",
+      "ExpectedHash": "821b4abae60f708ed722da9e1ac39fca2a5b5f7461c499b856eabdd974357567"
+    },
+    {
+      "OldPath": "book_0703.txt",
+      "NewPath": "data/corpus/book_0703.txt",
+      "ExpectedHash": "a1a3986b6788658e747dbb5e5501b95e964d17d5237770aac88ec5596362508d"
+    },
+    {
+      "OldPath": "book_0704.txt",
+      "NewPath": "data/corpus/book_0704.txt",
+      "ExpectedHash": "1124d348445f7dbb54ad372be5e4d726d8ca943a2c3dfb3b9391fbe69b7b49ca"
+    },
+    {
+      "OldPath": "book_0705.txt",
+      "NewPath": "data/corpus/book_0705.txt",
+      "ExpectedHash": "5c92318117b1166cf66e5eb8f3c54187740d8d202b7fb2c99e994320407ed024"
+    },
+    {
+      "OldPath": "book_0706.txt",
+      "NewPath": "data/corpus/book_0706.txt",
+      "ExpectedHash": "0a4fb5a1810fb482bc4eedf99514e3914628db86936714ee297c63c6d5e62ade"
+    },
+    {
+      "OldPath": "book_0707.txt",
+      "NewPath": "data/corpus/book_0707.txt",
+      "ExpectedHash": "a3401fc369587bf0981b6926a3593aec09fa9c994bf6e65fc590fa15ed3da5be"
+    },
+    {
+      "OldPath": "book_0708.txt",
+      "NewPath": "data/corpus/book_0708.txt",
+      "ExpectedHash": "70123744e3a92c66b9594e71a36413bde4842995b4a57c6676ed804ef4a20332"
+    },
+    {
+      "OldPath": "book_0709.txt",
+      "NewPath": "data/corpus/book_0709.txt",
+      "ExpectedHash": "430ea7b9d768457f8476e91d0e46d795cd6179ebc3c6ab9294bf34d16306e279"
+    },
+    {
+      "OldPath": "book_0710.txt",
+      "NewPath": "data/corpus/book_0710.txt",
+      "ExpectedHash": "8c5e28c085f1dbe81deae45c0916d3280cc5d374a82335d38042ebeab5384701"
+    },
+    {
+      "OldPath": "book_0711.txt",
+      "NewPath": "data/corpus/book_0711.txt",
+      "ExpectedHash": "08b84b0f716a01394e8b61a44185329e7b540862165603f603db51837ae7f839"
+    },
+    {
+      "OldPath": "book_0712.txt",
+      "NewPath": "data/corpus/book_0712.txt",
+      "ExpectedHash": "32edd241fc38e7b6883415f04b6219796046815a298bcadb6371335c6eef8630"
+    },
+    {
+      "OldPath": "book_0713.txt",
+      "NewPath": "data/corpus/book_0713.txt",
+      "ExpectedHash": "ee3fb35d9b01b4d68a76b1b2656d4d816110c8bfa15bbf970a42cad1f262276d"
+    },
+    {
+      "OldPath": "book_0714.txt",
+      "NewPath": "data/corpus/book_0714.txt",
+      "ExpectedHash": "309f66b92472297693310f79d4ebde6baf668ffe64817b64ed0e9629bcfbd5c3"
+    },
+    {
+      "OldPath": "book_0715.txt",
+      "NewPath": "data/corpus/book_0715.txt",
+      "ExpectedHash": "c58e412f4b741b426eafe20469316dcb50de6c3a58c7249506c26202d7aca0a1"
+    },
+    {
+      "OldPath": "book_0716.txt",
+      "NewPath": "data/corpus/book_0716.txt",
+      "ExpectedHash": "bbcaba1c65ae152cb6ac6c054c70fe13f1c6faf684f7f124f32a10fa8b087e00"
+    },
+    {
+      "OldPath": "book_0717.txt",
+      "NewPath": "data/corpus/book_0717.txt",
+      "ExpectedHash": "80f79e93a06ca209ef67a784fb546730003928634a4033e3feff7b8b52ae60f5"
+    },
+    {
+      "OldPath": "book_0718.txt",
+      "NewPath": "data/corpus/book_0718.txt",
+      "ExpectedHash": "743015d619f4c774027406bdb73998869e4beeac981d06f8dd4c9959e2522a15"
+    },
+    {
+      "OldPath": "book_0719.txt",
+      "NewPath": "data/corpus/book_0719.txt",
+      "ExpectedHash": "3e4feedf93b41a82ba47f5c9f0c04fbe232cf8ad12fb86a856f742728e91408f"
+    },
+    {
+      "OldPath": "book_0720.txt",
+      "NewPath": "data/corpus/book_0720.txt",
+      "ExpectedHash": "bf58937830088d4f22b3e457934b73079b1d3e2c4c37479688ad89706a0bdd5a"
+    },
+    {
+      "OldPath": "book_0721.txt",
+      "NewPath": "data/corpus/book_0721.txt",
+      "ExpectedHash": "290af3e304c3160aa34fd25fc0a7c7e62f1c0f44b4bc3fd794b0f842534ab092"
+    },
+    {
+      "OldPath": "book_0722.txt",
+      "NewPath": "data/corpus/book_0722.txt",
+      "ExpectedHash": "b2bbb91a1df537135c4caa51ce69bbdd898e819664d122f751b72d75fa29ed97"
+    },
+    {
+      "OldPath": "book_0723.txt",
+      "NewPath": "data/corpus/book_0723.txt",
+      "ExpectedHash": "82082f0cd39f78168a1bc9ac6c9ab8928c78ad42bba1e9f8c3c34e19886f2888"
+    },
+    {
+      "OldPath": "book_0724.txt",
+      "NewPath": "data/corpus/book_0724.txt",
+      "ExpectedHash": "b60200db1a04c3a0feaac5c0485bd15d79603e3ba5c96bac9c561c38bf0dee12"
+    },
+    {
+      "OldPath": "book_0725.txt",
+      "NewPath": "data/corpus/book_0725.txt",
+      "ExpectedHash": "389a17116712562cab9829dc03b00a7cebd29bc5fb091eb715222ae1de3ea8cb"
+    },
+    {
+      "OldPath": "book_0726.txt",
+      "NewPath": "data/corpus/book_0726.txt",
+      "ExpectedHash": "3b618e48f5fbf560799dfeaaab7e90f2398b95b30e551cfc7ae4c2ce0384e7c2"
+    },
+    {
+      "OldPath": "book_0727.txt",
+      "NewPath": "data/corpus/book_0727.txt",
+      "ExpectedHash": "b7a6c655706243dc0e4fe0e3b8fc081abc1c43f2f744cde3f640e6c63c714ba6"
+    },
+    {
+      "OldPath": "book_0728.txt",
+      "NewPath": "data/corpus/book_0728.txt",
+      "ExpectedHash": "6ed5785ef2b8ec39da2815ec0a16d18b68175c4904a98c82b75b7a3f6b261b36"
+    },
+    {
+      "OldPath": "book_0729.txt",
+      "NewPath": "data/corpus/book_0729.txt",
+      "ExpectedHash": "74c6d00e4eafa066bd0340c76de6eeb3b655f7374ad08ace29f5d85d16ef4a8b"
+    },
+    {
+      "OldPath": "book_0730.txt",
+      "NewPath": "data/corpus/book_0730.txt",
+      "ExpectedHash": "e7b7d0347971632e97565f0f84fdc4e27bb506f78b3c2b8b8190ed3ad74c719e"
+    },
+    {
+      "OldPath": "book_0731.txt",
+      "NewPath": "data/corpus/book_0731.txt",
+      "ExpectedHash": "39c7886c92f401896dcb0fe00100dc76a491793cb23b2554460e18faae665bd4"
+    },
+    {
+      "OldPath": "book_0732.txt",
+      "NewPath": "data/corpus/book_0732.txt",
+      "ExpectedHash": "d9c8578730cbcaa9788a5e903bb10459af96216fc9685759cccf718b36087e83"
+    },
+    {
+      "OldPath": "book_0733.txt",
+      "NewPath": "data/corpus/book_0733.txt",
+      "ExpectedHash": "c0e8e49778d991268641b86bed1b994710a8c653ea0958f2c257ef301e45ea91"
+    },
+    {
+      "OldPath": "book_0734.txt",
+      "NewPath": "data/corpus/book_0734.txt",
+      "ExpectedHash": "31491c480181e5f888a56dbedfe53265a0dba5510e94fcf08281c362a325fd5a"
+    },
+    {
+      "OldPath": "book_0735.txt",
+      "NewPath": "data/corpus/book_0735.txt",
+      "ExpectedHash": "4c3f7619cef13c5814a1d0df1b95aa70ca02634bfc15482e08e39065be19d58f"
+    },
+    {
+      "OldPath": "book_0736.txt",
+      "NewPath": "data/corpus/book_0736.txt",
+      "ExpectedHash": "551dc036d040cc51c5a55b3f0a8a0c6d3f18bc697a9726157fa25ec1ddb3ac00"
+    },
+    {
+      "OldPath": "book_0737.txt",
+      "NewPath": "data/corpus/book_0737.txt",
+      "ExpectedHash": "f361d867cba074649215e2bf6d98b091375037eb82142675fc560d61fbc53fc5"
+    },
+    {
+      "OldPath": "book_0738.txt",
+      "NewPath": "data/corpus/book_0738.txt",
+      "ExpectedHash": "ca6a718ee2e375feeb249f605b5f2c5209bc6dc58c2b7629001b06fe27c549d0"
+    },
+    {
+      "OldPath": "book_0739.txt",
+      "NewPath": "data/corpus/book_0739.txt",
+      "ExpectedHash": "a1891dbda92520537c3f7a65f25ad8f96f45dd1addd4de06cf47f31c9f10f35c"
+    },
+    {
+      "OldPath": "book_0740.txt",
+      "NewPath": "data/corpus/book_0740.txt",
+      "ExpectedHash": "e196b172854f3bd66e56c92a47681b4122622310630fd413c579c59b81de63b8"
+    },
+    {
+      "OldPath": "book_0741.txt",
+      "NewPath": "data/corpus/book_0741.txt",
+      "ExpectedHash": "5766b71b14b8cdfa6d494dfb5dbca0d0e4879fba380d1ae136676a0116b8e333"
+    },
+    {
+      "OldPath": "book_0742.txt",
+      "NewPath": "data/corpus/book_0742.txt",
+      "ExpectedHash": "ce5ffffd1d88733c9b97dd64be04dab91e34015078c1fab1ec5ababe61adcd8a"
+    },
+    {
+      "OldPath": "book_0743.txt",
+      "NewPath": "data/corpus/book_0743.txt",
+      "ExpectedHash": "d42ca1443d86551257106a28fd1c2d07280bf2c9dac989a7421554ca43c63947"
+    },
+    {
+      "OldPath": "book_0744.txt",
+      "NewPath": "data/corpus/book_0744.txt",
+      "ExpectedHash": "8bc658964c1cd130952c79d29303366768d9e1c3f22af1dce7121ec31d060bba"
+    },
+    {
+      "OldPath": "book_0745.txt",
+      "NewPath": "data/corpus/book_0745.txt",
+      "ExpectedHash": "76c846c038802bb05176058e68328b38b01d574a2b32d7d12278e10b1116431c"
+    },
+    {
+      "OldPath": "book_0746.txt",
+      "NewPath": "data/corpus/book_0746.txt",
+      "ExpectedHash": "00579207e380627c8f0ed3ddaf4c6a6bbc187c23f32d132f61482aed7a916794"
+    },
+    {
+      "OldPath": "book_0747.txt",
+      "NewPath": "data/corpus/book_0747.txt",
+      "ExpectedHash": "d9ff77ffb289ee81fba899cbb71bb892994268db23bd9f370cd9d48a5f25367d"
+    },
+    {
+      "OldPath": "book_0748.txt",
+      "NewPath": "data/corpus/book_0748.txt",
+      "ExpectedHash": "e6221fe5ceb150bf46e2f68c2b643c3c7f8d374a14e93821f8e1eb7368fa6435"
+    },
+    {
+      "OldPath": "book_0749.txt",
+      "NewPath": "data/corpus/book_0749.txt",
+      "ExpectedHash": "f716a50e18a8f8ce9186e03c740a5caecde8e0e50af8a50b1517de0fa691ea28"
+    },
+    {
+      "OldPath": "book_0750.txt",
+      "NewPath": "data/corpus/book_0750.txt",
+      "ExpectedHash": "7f4212cf3accc26a86357f44b02b574ef0fbe97fff4b0e7db790d73b3035489a"
+    },
+    {
+      "OldPath": "book_0751.txt",
+      "NewPath": "data/corpus/book_0751.txt",
+      "ExpectedHash": "3db14a4d30ebf27995403a10e616d534e8b9496c203768deb199d70b012a82d1"
+    },
+    {
+      "OldPath": "book_0752.txt",
+      "NewPath": "data/corpus/book_0752.txt",
+      "ExpectedHash": "fabe9bb7a9b9d29730c4bf6cfd8798de37ffe197f34479f713dadc59d22fcc0a"
+    },
+    {
+      "OldPath": "book_0753.txt",
+      "NewPath": "data/corpus/book_0753.txt",
+      "ExpectedHash": "d37815977883f9a3158798a67dc9f0ecc884477193249e2983f1cf68c23aea2c"
+    },
+    {
+      "OldPath": "book_0754.txt",
+      "NewPath": "data/corpus/book_0754.txt",
+      "ExpectedHash": "51a3b03b72c8647b1e2633e0e6259e0032eb6f15158af7fc927167476a1e2b8a"
+    },
+    {
+      "OldPath": "book_0755.txt",
+      "NewPath": "data/corpus/book_0755.txt",
+      "ExpectedHash": "c13554957edc778ee2da7f9aafd0ba3cbd1ebb4b3ece749967b36a10f2efd8fc"
+    },
+    {
+      "OldPath": "book_0756.txt",
+      "NewPath": "data/corpus/book_0756.txt",
+      "ExpectedHash": "0e84c52e43931833ca39c8af7de189eef2b4fe50256fa5c2c6503922008a497d"
+    },
+    {
+      "OldPath": "book_0757.txt",
+      "NewPath": "data/corpus/book_0757.txt",
+      "ExpectedHash": "121dd5d33d13137bf851108c59f5ced9c1ff9d21d193077b1e5ec6ecd33cf52b"
+    },
+    {
+      "OldPath": "book_0758.txt",
+      "NewPath": "data/corpus/book_0758.txt",
+      "ExpectedHash": "7d6a5b7345da6b4c9dce1dbe280b73c45944973f8f1f8b1f4c3167506c8ed7b4"
+    },
+    {
+      "OldPath": "book_0759.txt",
+      "NewPath": "data/corpus/book_0759.txt",
+      "ExpectedHash": "06e3fce1a9f14af41d30f3dea09d5d6ac2856809ae5567822079b4525121ea36"
+    },
+    {
+      "OldPath": "book_0760.txt",
+      "NewPath": "data/corpus/book_0760.txt",
+      "ExpectedHash": "045b53b8b9e956571c2ae46cf2b858d2e820de211516ca8ed79b90c21b93c16b"
+    },
+    {
+      "OldPath": "book_0761.txt",
+      "NewPath": "data/corpus/book_0761.txt",
+      "ExpectedHash": "49e703dd9eed0fb4e56c1786e75cfe6600cd686da0085b3d2898844ce1defa02"
+    },
+    {
+      "OldPath": "book_0762.txt",
+      "NewPath": "data/corpus/book_0762.txt",
+      "ExpectedHash": "e52bbb2508f923e6ff6dcbb3f422193c4ba0b795d1acda6dbdcc9fb65b5d475e"
+    },
+    {
+      "OldPath": "book_0763.txt",
+      "NewPath": "data/corpus/book_0763.txt",
+      "ExpectedHash": "4860cacd5d391df33c94452246b66f0b91d95cece98df303f980a4026b136997"
+    },
+    {
+      "OldPath": "book_0764.txt",
+      "NewPath": "data/corpus/book_0764.txt",
+      "ExpectedHash": "768329501dbd44b04fa9f5a7ad0acc74c7036ccd355c6f514bfd4ba777b3a9dc"
+    },
+    {
+      "OldPath": "book_0765.txt",
+      "NewPath": "data/corpus/book_0765.txt",
+      "ExpectedHash": "eb3fd965d01b19eafbb1ea2423f9a308fccdc8b79983940f7edf43ad0581afd5"
+    },
+    {
+      "OldPath": "book_0766.txt",
+      "NewPath": "data/corpus/book_0766.txt",
+      "ExpectedHash": "ca243c65aedcf06c106a5abd332c43020b83f2a672860b9c15d52755004ac3e5"
+    },
+    {
+      "OldPath": "book_0767.txt",
+      "NewPath": "data/corpus/book_0767.txt",
+      "ExpectedHash": "a54c20d189c614da33c0c3ea13d4d157cb2df5fb0eed8875bb5485f54098a422"
+    },
+    {
+      "OldPath": "book_0768.txt",
+      "NewPath": "data/corpus/book_0768.txt",
+      "ExpectedHash": "9ced966fd0214f2e77c2af1907c2006be672d219f6ee79a95f56e65b39e1a122"
+    },
+    {
+      "OldPath": "book_0769.txt",
+      "NewPath": "data/corpus/book_0769.txt",
+      "ExpectedHash": "3a5cd5ecd064167318986e9a0fd285a6b2eba5b155155a02f8bcb415fb44cf62"
+    },
+    {
+      "OldPath": "book_0770.txt",
+      "NewPath": "data/corpus/book_0770.txt",
+      "ExpectedHash": "c6f0cb3ba3a14dba6fcda824a6c096908ccb72ee1479c4e12137ea9ed3d3e11e"
+    },
+    {
+      "OldPath": "book_0771.txt",
+      "NewPath": "data/corpus/book_0771.txt",
+      "ExpectedHash": "190ef60d6641a17f956835c28de278c3f46510a7bd8bdd87cc994391d3456a06"
+    },
+    {
+      "OldPath": "book_0772.txt",
+      "NewPath": "data/corpus/book_0772.txt",
+      "ExpectedHash": "4bb15763d0a99ecd1ded6fe1e83098e6b4f49de98d93ed9a53aa96a39b7abfd6"
+    },
+    {
+      "OldPath": "book_0773.txt",
+      "NewPath": "data/corpus/book_0773.txt",
+      "ExpectedHash": "6add3627eea40d37f9bbdce92bd5fa7a0bcfa6898c56feeda91d83b1918648bc"
+    },
+    {
+      "OldPath": "book_0774.txt",
+      "NewPath": "data/corpus/book_0774.txt",
+      "ExpectedHash": "886d62c9121c16b9e8be37f22131566d3283bfa51bac57e29a1b95f07f4e53ed"
+    },
+    {
+      "OldPath": "book_0775.txt",
+      "NewPath": "data/corpus/book_0775.txt",
+      "ExpectedHash": "2c8f770121ad6d887e019403a8b5f2dc0d63bb55b2b4d8c200bc52fe5ea4c136"
+    },
+    {
+      "OldPath": "book_0776.txt",
+      "NewPath": "data/corpus/book_0776.txt",
+      "ExpectedHash": "97b0f3f6746fe4c87e29b63a4fddc71b8cfd9a85bccb141cbda26a1c497ca545"
+    },
+    {
+      "OldPath": "book_0777.txt",
+      "NewPath": "data/corpus/book_0777.txt",
+      "ExpectedHash": "1727c92d1f5c55329755f35b0f74763bf6d3b18f4f96c55743910a407e9d5fd8"
+    },
+    {
+      "OldPath": "book_0778.txt",
+      "NewPath": "data/corpus/book_0778.txt",
+      "ExpectedHash": "776200793e2d71766b23c2f338c683931da7029751ccddb29f6d9e89f29d4fe6"
+    },
+    {
+      "OldPath": "book_0779.txt",
+      "NewPath": "data/corpus/book_0779.txt",
+      "ExpectedHash": "34281d089071ba428b236fe5e7d3e831760cc8efffc50724c0e3779b1e857d0e"
+    },
+    {
+      "OldPath": "book_0780.txt",
+      "NewPath": "data/corpus/book_0780.txt",
+      "ExpectedHash": "5c54034304e02913672a20ec66bd5b8157b953415f4e3f28deb320383fa52e2f"
+    },
+    {
+      "OldPath": "book_0781.txt",
+      "NewPath": "data/corpus/book_0781.txt",
+      "ExpectedHash": "f10e8de15ce54f0c7285fee76ce4a02bf6eaaf56e024b7ab7fef145474332a27"
+    },
+    {
+      "OldPath": "book_0782.txt",
+      "NewPath": "data/corpus/book_0782.txt",
+      "ExpectedHash": "a8ee41644edba2fc51defaf5df0477fc821ff204ae20dadbc9ed0319e905ce46"
+    },
+    {
+      "OldPath": "book_0783.txt",
+      "NewPath": "data/corpus/book_0783.txt",
+      "ExpectedHash": "07f4da7c96bbf41b74b6e4d9cbd162238e8aafe6d159a71e40adab6ac7eb9551"
+    },
+    {
+      "OldPath": "book_0784.txt",
+      "NewPath": "data/corpus/book_0784.txt",
+      "ExpectedHash": "23d5af7c3240f695f013939525060eccd05c72af97f7f10754d9725b2de0d4b0"
+    },
+    {
+      "OldPath": "book_0785.txt",
+      "NewPath": "data/corpus/book_0785.txt",
+      "ExpectedHash": "96cbb9778e868d327e0d68d0e3b0d85ae8e0c069970ee20918966d6b37080966"
+    },
+    {
+      "OldPath": "book_0786.txt",
+      "NewPath": "data/corpus/book_0786.txt",
+      "ExpectedHash": "1977f8a025d6b66281a48da7d95849c5a856d4b493c1def91d86f7fe05b46113"
+    },
+    {
+      "OldPath": "book_0787.txt",
+      "NewPath": "data/corpus/book_0787.txt",
+      "ExpectedHash": "b77a6cd534a68cf27d4836b891225c31522099b75bd2355e33b790dbd4d22735"
+    },
+    {
+      "OldPath": "book_0788.txt",
+      "NewPath": "data/corpus/book_0788.txt",
+      "ExpectedHash": "f8da18f2e18b3625391193d413ae17d130a63825f9ca1a20600675f4b90a5029"
+    },
+    {
+      "OldPath": "book_0789.txt",
+      "NewPath": "data/corpus/book_0789.txt",
+      "ExpectedHash": "086d13e6a722b5881ab10f1631efe227d9ad0430cfea6a13d261f7cf550453d4"
+    },
+    {
+      "OldPath": "book_0790.txt",
+      "NewPath": "data/corpus/book_0790.txt",
+      "ExpectedHash": "8ae9cf8c1c7e3707e9f2ebec051fde98c22d0ed7565d4bec8fa5e6268c6c63fb"
+    },
+    {
+      "OldPath": "book_0791.txt",
+      "NewPath": "data/corpus/book_0791.txt",
+      "ExpectedHash": "a8e65ccc422dc07d813a5176e28d184de8c6c8b5cef0d98b58da16e697341722"
+    },
+    {
+      "OldPath": "book_0792.txt",
+      "NewPath": "data/corpus/book_0792.txt",
+      "ExpectedHash": "c590911612cf985b5e89e7013b66789f5e3bbee9b871094077e2e30e5dbf691a"
+    },
+    {
+      "OldPath": "book_0793.txt",
+      "NewPath": "data/corpus/book_0793.txt",
+      "ExpectedHash": "3fe9e75a206073813e4f3342801283eb05d0edea5c858d0c928c430400a52598"
+    },
+    {
+      "OldPath": "book_0794.txt",
+      "NewPath": "data/corpus/book_0794.txt",
+      "ExpectedHash": "915c241dc882a47dc74e8a5531dbd484a7bef5578553c0ff5ae8398cbceb072a"
+    },
+    {
+      "OldPath": "book_0795.txt",
+      "NewPath": "data/corpus/book_0795.txt",
+      "ExpectedHash": "f4828f17271eadb82aafeeace7ad99f510df2ae8ebf21e7911b4022c103ba9e4"
+    },
+    {
+      "OldPath": "book_0796.txt",
+      "NewPath": "data/corpus/book_0796.txt",
+      "ExpectedHash": "3d2c7c6ecc0f000ad65b466e9606f7c8ec027fc4426fe1dd0ff6f68fb77bfeb0"
+    },
+    {
+      "OldPath": "book_0797.txt",
+      "NewPath": "data/corpus/book_0797.txt",
+      "ExpectedHash": "200c5124f9363a5c8c371149a95f0885d2c6818397cae6c2d7fd7cf74c4400cc"
+    },
+    {
+      "OldPath": "book_0798.txt",
+      "NewPath": "data/corpus/book_0798.txt",
+      "ExpectedHash": "b883a330afb216bed1600599929f766aac930b029b7fbe93c14619c5b578a16a"
+    },
+    {
+      "OldPath": "book_0799.txt",
+      "NewPath": "data/corpus/book_0799.txt",
+      "ExpectedHash": "efc20afb03912cd7473cba8f9d3ef21b184c3f0c86e8e0f804bea4380a8a40e4"
+    },
+    {
+      "OldPath": "book_0800.txt",
+      "NewPath": "data/corpus/book_0800.txt",
+      "ExpectedHash": "57c9c64d3842c4c97b6e26a7abf9d4d8e22b02b378a2ae471acb3aed3d22520c"
+    },
+    {
+      "OldPath": "book_0801.txt",
+      "NewPath": "data/corpus/book_0801.txt",
+      "ExpectedHash": "c34ab2fca5ad580b4079ed5b17ccd2c23e76d662983fb0b50da636b46d9c462f"
+    },
+    {
+      "OldPath": "book_0802.txt",
+      "NewPath": "data/corpus/book_0802.txt",
+      "ExpectedHash": "a6ff7c3cc2d0d182fa2d45d88ffe56d3b30e9d26ddd41c8b38d248a82e953df1"
+    },
+    {
+      "OldPath": "book_0803.txt",
+      "NewPath": "data/corpus/book_0803.txt",
+      "ExpectedHash": "39d46a6440ecfdbe031a3d15c15053395ca533d5580fb97d5c628f3af38751d7"
+    },
+    {
+      "OldPath": "book_0804.txt",
+      "NewPath": "data/corpus/book_0804.txt",
+      "ExpectedHash": "6daddf9d68e88ed94158c7c808458557fc72896e31cdf36b01af8bb17402c498"
+    },
+    {
+      "OldPath": "book_0805.txt",
+      "NewPath": "data/corpus/book_0805.txt",
+      "ExpectedHash": "c9bd8f8a05e240447600a5ddc6c7af79d5c01006d3247849fd590d061a57999c"
+    },
+    {
+      "OldPath": "book_0806.txt",
+      "NewPath": "data/corpus/book_0806.txt",
+      "ExpectedHash": "8d3dc51460faacf26a25de463cdd74dbb4a910ed265303d173d9ad510f8f4ab4"
+    },
+    {
+      "OldPath": "book_0807.txt",
+      "NewPath": "data/corpus/book_0807.txt",
+      "ExpectedHash": "c7e1c486883c25caaa6a14628e2839f9de9b72642fcbecab92f05d04891b9366"
+    },
+    {
+      "OldPath": "book_0808.txt",
+      "NewPath": "data/corpus/book_0808.txt",
+      "ExpectedHash": "59b67228be52d317444fd8ce17579f398e5336fa9d529820fa7bcedf4b21ca01"
+    },
+    {
+      "OldPath": "book_0809.txt",
+      "NewPath": "data/corpus/book_0809.txt",
+      "ExpectedHash": "23e2a183303b9a83449a288e529ac4817054c54efc6b79c032e8ac02e0af531d"
+    },
+    {
+      "OldPath": "book_0810.txt",
+      "NewPath": "data/corpus/book_0810.txt",
+      "ExpectedHash": "a615f585e0bc3c2ce9ff34f34756e6ac5e39d71ac260e5d4fa883979cef17a40"
+    },
+    {
+      "OldPath": "book_0811.txt",
+      "NewPath": "data/corpus/book_0811.txt",
+      "ExpectedHash": "a514948fc8be803b0a9bc519a9d71045adeb303599d77e13cc82fce0b1d193c7"
+    },
+    {
+      "OldPath": "book_0812.txt",
+      "NewPath": "data/corpus/book_0812.txt",
+      "ExpectedHash": "ea6123c0b6ce846527f71c423f70aa5cc60f3d22e84250b5e15f26435ca081eb"
+    },
+    {
+      "OldPath": "book_0813.txt",
+      "NewPath": "data/corpus/book_0813.txt",
+      "ExpectedHash": "105afc3485afb5c78b97d7cb05875819e16a85c6971c0d3ef56d8cfc83cad0e4"
+    },
+    {
+      "OldPath": "book_0814.txt",
+      "NewPath": "data/corpus/book_0814.txt",
+      "ExpectedHash": "db05f81ec3ff6c87d6f0f89b9b6d5bf9e060081a6d0cd37874d753ec6c9e55bf"
+    },
+    {
+      "OldPath": "book_0815.txt",
+      "NewPath": "data/corpus/book_0815.txt",
+      "ExpectedHash": "399eab6f3c018380a83bddae85a478a2c75f19412d3bb8f4f50a79a20e21f428"
+    },
+    {
+      "OldPath": "book_0816.txt",
+      "NewPath": "data/corpus/book_0816.txt",
+      "ExpectedHash": "1545b567b4b42b0bba67f7a8cdcd403b2658e5787a32d568698300c6ab5ef2fc"
+    },
+    {
+      "OldPath": "book_0817.txt",
+      "NewPath": "data/corpus/book_0817.txt",
+      "ExpectedHash": "8d8c543c08169e2fbbf257bbeaa23779c447ef50bf8663d47ac35df2269e2532"
+    },
+    {
+      "OldPath": "book_0818.txt",
+      "NewPath": "data/corpus/book_0818.txt",
+      "ExpectedHash": "7c461575b7c323cb99e5705de67ec8fa73e18ab3ee426f4cc262e7b3df1a4a93"
+    },
+    {
+      "OldPath": "book_0819.txt",
+      "NewPath": "data/corpus/book_0819.txt",
+      "ExpectedHash": "e6d3f15c9e0c98e4eb80e1fef936f89de46d3b25d8c63da4143f959ce6279af8"
+    },
+    {
+      "OldPath": "book_0820.txt",
+      "NewPath": "data/corpus/book_0820.txt",
+      "ExpectedHash": "8f197242e2962ba540f2800c89b8dad7f2b0f19262e22960e135e45457a84736"
+    },
+    {
+      "OldPath": "book_0821.txt",
+      "NewPath": "data/corpus/book_0821.txt",
+      "ExpectedHash": "91b9c553649bc7c7b60d5a1818eed157a3be330f761c54d7b3637c81a4edcf7a"
+    },
+    {
+      "OldPath": "book_0822.txt",
+      "NewPath": "data/corpus/book_0822.txt",
+      "ExpectedHash": "dff45dc12663671c9642d5a718483252294721352215370bedb3ef1d4707ae94"
+    },
+    {
+      "OldPath": "book_0823.txt",
+      "NewPath": "data/corpus/book_0823.txt",
+      "ExpectedHash": "1c78170561b6b7bc5fd7793ad33a93e42c6e9b135a06b73898aa44e6eb047d8a"
+    },
+    {
+      "OldPath": "book_0824.txt",
+      "NewPath": "data/corpus/book_0824.txt",
+      "ExpectedHash": "36186abd7e13ee5479c88d7885648b643b2fb66aed281369d22875f8abf998a9"
+    },
+    {
+      "OldPath": "book_0825.txt",
+      "NewPath": "data/corpus/book_0825.txt",
+      "ExpectedHash": "9e319dd1e698709d0d3c10a2dad64b7fddb917507db7bac4d385394284eccdb9"
+    },
+    {
+      "OldPath": "book_0826.txt",
+      "NewPath": "data/corpus/book_0826.txt",
+      "ExpectedHash": "b0beace8259c8b3c6fbaa91505f14d4fad1baccf43bf734ca19c33d220067d1e"
+    },
+    {
+      "OldPath": "book_0827.txt",
+      "NewPath": "data/corpus/book_0827.txt",
+      "ExpectedHash": "ca3147ec6e999f9ea5cdd85d8e07cc627b0ef072779b08034c67cc8ea4cafa83"
+    },
+    {
+      "OldPath": "book_0828.txt",
+      "NewPath": "data/corpus/book_0828.txt",
+      "ExpectedHash": "6adbab9314204c3181878b3881f53a38f79960d16309a8435fab803f2ac672f0"
+    },
+    {
+      "OldPath": "book_0829.txt",
+      "NewPath": "data/corpus/book_0829.txt",
+      "ExpectedHash": "55f655a0b43a7a86f62ddc837de46d0c74ab3c4644b49e4525488fee66fee411"
+    },
+    {
+      "OldPath": "book_0830.txt",
+      "NewPath": "data/corpus/book_0830.txt",
+      "ExpectedHash": "d0c15590e4ffed6e67d8fa3aaa7a765a738d4a7c6c80f795cf4506a794811b92"
+    },
+    {
+      "OldPath": "book_0831.txt",
+      "NewPath": "data/corpus/book_0831.txt",
+      "ExpectedHash": "8cd9b89e0098128f813051faa164dc5030e90e95e05f4d8d79e83f9548de8697"
+    },
+    {
+      "OldPath": "book_0832.txt",
+      "NewPath": "data/corpus/book_0832.txt",
+      "ExpectedHash": "39d1ea31f485163f9a4b6f0b5b469b65033cab117a59c5aa5f522c9226509191"
+    },
+    {
+      "OldPath": "book_0833.txt",
+      "NewPath": "data/corpus/book_0833.txt",
+      "ExpectedHash": "7fd42acf2a1a4cc3809a67151ec49c621673321d06dfed377b43be369f06e4d8"
+    },
+    {
+      "OldPath": "book_0834.txt",
+      "NewPath": "data/corpus/book_0834.txt",
+      "ExpectedHash": "033c138bd7a0fc425d479869498374197686cb1491c0fc87ba69d2e3771a766a"
+    },
+    {
+      "OldPath": "book_0835.txt",
+      "NewPath": "data/corpus/book_0835.txt",
+      "ExpectedHash": "ba8864ea9d2a2ff980afa4b1491a72636c848c2c31765e8c963f857e9d5c6e55"
+    },
+    {
+      "OldPath": "book_0836.txt",
+      "NewPath": "data/corpus/book_0836.txt",
+      "ExpectedHash": "25866e5c17e00fa2422f2b44e07ca8743d10710c21b5bde873a6f92be8eadde4"
+    },
+    {
+      "OldPath": "book_0837.txt",
+      "NewPath": "data/corpus/book_0837.txt",
+      "ExpectedHash": "4f98a9ac985ac2fa69cc310058b319176be774857bf9c764f483cc42dfdeb466"
+    },
+    {
+      "OldPath": "book_0838.txt",
+      "NewPath": "data/corpus/book_0838.txt",
+      "ExpectedHash": "13af35ab8de2c200c3169362044fe7472cacd8fddbc7dc4ac96526df914928e9"
+    },
+    {
+      "OldPath": "book_0839.txt",
+      "NewPath": "data/corpus/book_0839.txt",
+      "ExpectedHash": "94db7a5f8cc6df3b7270f1914264bb73ecfe3347fa6a0a3f4241a9fc94ffd410"
+    },
+    {
+      "OldPath": "book_0840.txt",
+      "NewPath": "data/corpus/book_0840.txt",
+      "ExpectedHash": "914319efc6b4acdddbda44f473aa010ea92bcffd893ed2af606a6ca01f5b774b"
+    },
+    {
+      "OldPath": "book_0841.txt",
+      "NewPath": "data/corpus/book_0841.txt",
+      "ExpectedHash": "704a809f760423de81d70fe5c820d041b09f3dae56b780e8d4f7779b80e94be8"
+    },
+    {
+      "OldPath": "book_0842.txt",
+      "NewPath": "data/corpus/book_0842.txt",
+      "ExpectedHash": "5eb3e35129b342cd307b762b890887606e73f67b92f5783d106e366f7bc5cc30"
+    },
+    {
+      "OldPath": "book_0843.txt",
+      "NewPath": "data/corpus/book_0843.txt",
+      "ExpectedHash": "ae3f89cff0f71a3d228d5ab4ce10770a1546983e6f492d362e84dae98c80699d"
+    },
+    {
+      "OldPath": "book_0844.txt",
+      "NewPath": "data/corpus/book_0844.txt",
+      "ExpectedHash": "5f35e92ef78e6c373fa99d0a4a36386020b4e110e1eb4f337c746f7f803b337e"
+    },
+    {
+      "OldPath": "book_0845.txt",
+      "NewPath": "data/corpus/book_0845.txt",
+      "ExpectedHash": "f19ff5decd74b89b0801cbc6da0e0cc1b376c6e52a4f9a961284c0d55d9b8894"
+    },
+    {
+      "OldPath": "book_0846.txt",
+      "NewPath": "data/corpus/book_0846.txt",
+      "ExpectedHash": "5b27a0e90cdc9a523731e98037c357cafeae13325a1ae14a60ecf9bcb7c70f8f"
+    },
+    {
+      "OldPath": "book_0847.txt",
+      "NewPath": "data/corpus/book_0847.txt",
+      "ExpectedHash": "cfdd4301781ca0cabfef31c9c949a1e97b732dd91f4b528aba06d75dd938240e"
+    },
+    {
+      "OldPath": "book_0848.txt",
+      "NewPath": "data/corpus/book_0848.txt",
+      "ExpectedHash": "099e850f1c9723fc341b67be91dc6717dcc3c29983fb0d9cc896fd04c5497e89"
+    },
+    {
+      "OldPath": "book_0849.txt",
+      "NewPath": "data/corpus/book_0849.txt",
+      "ExpectedHash": "6bbd5cb968d7b665be4702a173e5c0ccd780dadd1e57f4f9c9660f0e7ca98e78"
+    },
+    {
+      "OldPath": "book_0850.txt",
+      "NewPath": "data/corpus/book_0850.txt",
+      "ExpectedHash": "1fb9ec497ee7c5d3dbce159ecc9598d5ddd34e9e7c7fad03504873a88841c5be"
+    },
+    {
+      "OldPath": "book_0851.txt",
+      "NewPath": "data/corpus/book_0851.txt",
+      "ExpectedHash": "1428f1e802ac20f273e235ab77e6a654a9d1bd2c0a097130f52859570f87b416"
+    },
+    {
+      "OldPath": "book_0852.txt",
+      "NewPath": "data/corpus/book_0852.txt",
+      "ExpectedHash": "524b9b842540e16f16782d9a7089b8946ddafcd112b4733aad59fffcb7777d7a"
+    },
+    {
+      "OldPath": "book_0853.txt",
+      "NewPath": "data/corpus/book_0853.txt",
+      "ExpectedHash": "c9b7baa67f7c41228361d6efb372ba9da218d766a1ef0337fbbfebbf608e0c63"
+    },
+    {
+      "OldPath": "book_0854.txt",
+      "NewPath": "data/corpus/book_0854.txt",
+      "ExpectedHash": "08ef352cc59dc945caab7dc4e7159f0a2ca7612b5b76639dd49b23a85b0a8a46"
+    },
+    {
+      "OldPath": "book_0855.txt",
+      "NewPath": "data/corpus/book_0855.txt",
+      "ExpectedHash": "f804ff77b9ee9a89a169d81aa9f3b0559d297d13b0e99bf9937635163b98c7f4"
+    },
+    {
+      "OldPath": "book_0856.txt",
+      "NewPath": "data/corpus/book_0856.txt",
+      "ExpectedHash": "dc7a4335a280b7951b0471601340dfd48a28dd8f532413ae9f879c7dd75b97b9"
+    },
+    {
+      "OldPath": "book_0857.txt",
+      "NewPath": "data/corpus/book_0857.txt",
+      "ExpectedHash": "88c3fb3a1b3bf94a5e909e933fd42ad44364999e7f83bf13226195770b52d542"
+    },
+    {
+      "OldPath": "book_0858.txt",
+      "NewPath": "data/corpus/book_0858.txt",
+      "ExpectedHash": "48c5917cd497cb7583bae96d006f37660d8196ab54fa6a3cd19fd68edac6245f"
+    },
+    {
+      "OldPath": "book_0859.txt",
+      "NewPath": "data/corpus/book_0859.txt",
+      "ExpectedHash": "6a4507ce6bed0fe5e3fb024cefe3804a41125639b23536ff7495075173b0e167"
+    },
+    {
+      "OldPath": "book_0860.txt",
+      "NewPath": "data/corpus/book_0860.txt",
+      "ExpectedHash": "0b3248dd17603f37d801544324e2a8292a19e03b6b8ee25c062ae1fce89aa76a"
+    },
+    {
+      "OldPath": "book_0861.txt",
+      "NewPath": "data/corpus/book_0861.txt",
+      "ExpectedHash": "b234214925eb3180e0413e4c4fcd4ea4d56eca33b2f52db57c15f33237a0617d"
+    },
+    {
+      "OldPath": "book_0862.txt",
+      "NewPath": "data/corpus/book_0862.txt",
+      "ExpectedHash": "d0831c27dea7596af0e3dea27281b7ac8a04e6e5960216dfdf19a1ccbad23869"
+    },
+    {
+      "OldPath": "book_0863.txt",
+      "NewPath": "data/corpus/book_0863.txt",
+      "ExpectedHash": "01a905d6dcba437a8ca92c476ae75d7d670d42fdfd199e231bf4e22a5e574ec0"
+    },
+    {
+      "OldPath": "book_0864.txt",
+      "NewPath": "data/corpus/book_0864.txt",
+      "ExpectedHash": "4b697abf211d50211aa2ff8d0d12030adb8c0d71fe4227fc02a08e98ed3bd834"
+    },
+    {
+      "OldPath": "book_0865.txt",
+      "NewPath": "data/corpus/book_0865.txt",
+      "ExpectedHash": "ac0b6a110acf97ca03ad5442cece62f7d4fa9eaf5908181346b89afae88cbdec"
+    },
+    {
+      "OldPath": "book_0866.txt",
+      "NewPath": "data/corpus/book_0866.txt",
+      "ExpectedHash": "b569554c0b353f96221556e55c9d5c6b39c6bcd4b51d35652cb0768b602f6143"
+    },
+    {
+      "OldPath": "book_0867.txt",
+      "NewPath": "data/corpus/book_0867.txt",
+      "ExpectedHash": "a4f076380af88fad7e5f2d11c5899988106ec4a237b7f3d9d8e46f8131ca1289"
+    },
+    {
+      "OldPath": "book_0868.txt",
+      "NewPath": "data/corpus/book_0868.txt",
+      "ExpectedHash": "dc89b52e14f8562fc98d8cf446027a2cdea8d2ac070fd08b2277ea0baa7fbf67"
+    },
+    {
+      "OldPath": "book_0869.txt",
+      "NewPath": "data/corpus/book_0869.txt",
+      "ExpectedHash": "ae9bded7d3b4b15bac53e9c5bf07a68bede628be61a5cbedd32600b9fbf81364"
+    },
+    {
+      "OldPath": "book_0870.txt",
+      "NewPath": "data/corpus/book_0870.txt",
+      "ExpectedHash": "e6dbfb75cd1a34234087d189f37f2ce85dfcbbd0c181e7f0185ccb90cfe8d645"
+    },
+    {
+      "OldPath": "book_0871.txt",
+      "NewPath": "data/corpus/book_0871.txt",
+      "ExpectedHash": "5cabce8764b0a0e6ec0f394e102119c18ea10dc6dc07f932b11c9edb5b32b9d8"
+    },
+    {
+      "OldPath": "book_0872.txt",
+      "NewPath": "data/corpus/book_0872.txt",
+      "ExpectedHash": "cf26cde9493ef522d3a8a244cfb21edc1bb739f4471d7bacca6116f578ccedd8"
+    },
+    {
+      "OldPath": "book_0873.txt",
+      "NewPath": "data/corpus/book_0873.txt",
+      "ExpectedHash": "b5faaea5fc164c4f13403ffe6acbfa2c8b36108c37f4ce44145104ace7def4f5"
+    },
+    {
+      "OldPath": "book_0874.txt",
+      "NewPath": "data/corpus/book_0874.txt",
+      "ExpectedHash": "c2105dfe775db02f70f7d13e7d7c3b8443137e250b25cb45ceb32936462bb9f1"
+    },
+    {
+      "OldPath": "book_0875.txt",
+      "NewPath": "data/corpus/book_0875.txt",
+      "ExpectedHash": "c6afba6df3231f99995ce329eb311bce1bba57adebe56859a957789988de893c"
+    },
+    {
+      "OldPath": "book_0876.txt",
+      "NewPath": "data/corpus/book_0876.txt",
+      "ExpectedHash": "7741f41e4d57e4177377a0b8e2528d9e983c8656131f2daedb0433370e697e3d"
+    },
+    {
+      "OldPath": "book_0877.txt",
+      "NewPath": "data/corpus/book_0877.txt",
+      "ExpectedHash": "2ceb1a6b8feed66561f8955890a8c575afd16cf549a2fc802866e939d8bd68c9"
+    },
+    {
+      "OldPath": "book_0878.txt",
+      "NewPath": "data/corpus/book_0878.txt",
+      "ExpectedHash": "b5b6841762110736efc510d9e0f645985d4c5df509887e2bc11e8d4f869d3fd9"
+    },
+    {
+      "OldPath": "book_0879.txt",
+      "NewPath": "data/corpus/book_0879.txt",
+      "ExpectedHash": "4b9ad887dffe27273abde553e933e278958c1dc0c6165aba692549f83edb795c"
+    },
+    {
+      "OldPath": "book_0880.txt",
+      "NewPath": "data/corpus/book_0880.txt",
+      "ExpectedHash": "0e551cf093c298ce8e9b2e7debc26ebe60ff47799a70f1e878defc4efff4b5e2"
+    },
+    {
+      "OldPath": "book_0881.txt",
+      "NewPath": "data/corpus/book_0881.txt",
+      "ExpectedHash": "71ce31c678233c78fd2bdcd6660c117c083abd832181b51324edb97ea8a468b8"
+    },
+    {
+      "OldPath": "book_0882.txt",
+      "NewPath": "data/corpus/book_0882.txt",
+      "ExpectedHash": "518992157a574782d65821010304726fbd149ae072e7f6e7fbc26472160e0e52"
+    },
+    {
+      "OldPath": "book_0883.txt",
+      "NewPath": "data/corpus/book_0883.txt",
+      "ExpectedHash": "cf24c4da4fea9e70475733e3ec36fed15be6143224a5df7071fb8052fdc4a053"
+    },
+    {
+      "OldPath": "book_0884.txt",
+      "NewPath": "data/corpus/book_0884.txt",
+      "ExpectedHash": "2bdeb4c86498a849a3cd5cf31772e2d94a6dadd6d26c06f43167da3626fc0fca"
+    },
+    {
+      "OldPath": "book_0885.txt",
+      "NewPath": "data/corpus/book_0885.txt",
+      "ExpectedHash": "080ced7c9ecc88d71f2398460677087057595fa9165ce9c14d9059d2e7277936"
+    },
+    {
+      "OldPath": "book_0886.txt",
+      "NewPath": "data/corpus/book_0886.txt",
+      "ExpectedHash": "7e435411a8bc717cbc488972f42abc11d5e0b328eef3a85b45fbad10ff113f0b"
+    },
+    {
+      "OldPath": "book_0887.txt",
+      "NewPath": "data/corpus/book_0887.txt",
+      "ExpectedHash": "8f54e54a24c467f83bab7205d1645ad02da9a8a2dcfe495ebb55f5a7560c8a0a"
+    },
+    {
+      "OldPath": "book_0888.txt",
+      "NewPath": "data/corpus/book_0888.txt",
+      "ExpectedHash": "34346da55dd8081f76c54819e544a5765f6fe235f8b5dae2969a5072baf1d232"
+    },
+    {
+      "OldPath": "book_0889.txt",
+      "NewPath": "data/corpus/book_0889.txt",
+      "ExpectedHash": "023620ad208f3f3af78d266f052a659b1df8cd2ab124ee5c2ee549e3197d73d0"
+    },
+    {
+      "OldPath": "book_0890.txt",
+      "NewPath": "data/corpus/book_0890.txt",
+      "ExpectedHash": "00e96b4a4ed63552c756c86febfd94771218745931613f36e5c823a72fcfa711"
+    },
+    {
+      "OldPath": "book_0891.txt",
+      "NewPath": "data/corpus/book_0891.txt",
+      "ExpectedHash": "f9955f44afd7b86d0bb0d40ec23bc133b42237f3285765341ec9a899eaa450bc"
+    },
+    {
+      "OldPath": "book_0892.txt",
+      "NewPath": "data/corpus/book_0892.txt",
+      "ExpectedHash": "498efb3615b58f23942334b285d61f3e6bd1e76dc4191140c9cee8ad4a78bde4"
+    },
+    {
+      "OldPath": "book_0893.txt",
+      "NewPath": "data/corpus/book_0893.txt",
+      "ExpectedHash": "b5d82b136eb9680ad4288525b43619c12ede2481ccc4a4bc3fb9de20216b3057"
+    },
+    {
+      "OldPath": "book_0894.txt",
+      "NewPath": "data/corpus/book_0894.txt",
+      "ExpectedHash": "ee89374d5db2897684b7926c9309bd558014d1b747c90de2d173b2fd4fb52fb2"
+    },
+    {
+      "OldPath": "book_0895.txt",
+      "NewPath": "data/corpus/book_0895.txt",
+      "ExpectedHash": "b9108ffeb7a8a28db39f41a26df54d3495c4f2c957d0995123e0a57f5830f578"
+    },
+    {
+      "OldPath": "book_0896.txt",
+      "NewPath": "data/corpus/book_0896.txt",
+      "ExpectedHash": "e99fe78d88e94724b5c1361096c97b97450c3495683bf06d8c8cc007b80e5666"
+    },
+    {
+      "OldPath": "book_0897.txt",
+      "NewPath": "data/corpus/book_0897.txt",
+      "ExpectedHash": "570876fd975cdabccae5c7ad14bcce600eec5269eef32729ae22f7bda2f6fb57"
+    },
+    {
+      "OldPath": "book_0898.txt",
+      "NewPath": "data/corpus/book_0898.txt",
+      "ExpectedHash": "8465c6a70dc46826a51befd6666f0eb323c6177c3ae9f5516452872173e75364"
+    },
+    {
+      "OldPath": "book_0899.txt",
+      "NewPath": "data/corpus/book_0899.txt",
+      "ExpectedHash": "027eb72c397f969aa0bb8b4831d126be0f5205cad50f0f6f79d420daa65e6411"
+    },
+    {
+      "OldPath": "book_0900.txt",
+      "NewPath": "data/corpus/book_0900.txt",
+      "ExpectedHash": "c98dc7d5e2cff69cc434becd3acae083edcb63f5a423d62fbc6d710f85b4d1e4"
+    },
+    {
+      "OldPath": "book_0901.txt",
+      "NewPath": "data/corpus/book_0901.txt",
+      "ExpectedHash": "f964576f79deebeb100dfd19006cd749284ba41e9b5dbb5a4c767482d01f79f8"
+    },
+    {
+      "OldPath": "book_0902.txt",
+      "NewPath": "data/corpus/book_0902.txt",
+      "ExpectedHash": "a8b40fd16accfe2ce983bfc5093f0aa98eabca53f6b07fc2b70ed3bc8994a9b3"
+    },
+    {
+      "OldPath": "book_0903.txt",
+      "NewPath": "data/corpus/book_0903.txt",
+      "ExpectedHash": "b9ad7517fa46b0ed368d613727d4e888363be11bba7927f9ceec3e1d62cb83e9"
+    },
+    {
+      "OldPath": "book_0904.txt",
+      "NewPath": "data/corpus/book_0904.txt",
+      "ExpectedHash": "75f82968928f19cc6b625739a30aa2edbea1fc4c63af394f7c277f28c4a0e52b"
+    },
+    {
+      "OldPath": "book_0905.txt",
+      "NewPath": "data/corpus/book_0905.txt",
+      "ExpectedHash": "61bfdab7223256235a699e9d92c582cfba5fd65994a0201585f66ef5f53995a6"
+    },
+    {
+      "OldPath": "book_0906.txt",
+      "NewPath": "data/corpus/book_0906.txt",
+      "ExpectedHash": "17e24913e6194a5beab38aa3dac77bedf1eb8a9bad67eb013bee5ac89aa9db7c"
+    },
+    {
+      "OldPath": "book_0907.txt",
+      "NewPath": "data/corpus/book_0907.txt",
+      "ExpectedHash": "57f72df6a923a6afadf5cdd89df8b645eed80adf63311da37cb517736873f0ce"
+    },
+    {
+      "OldPath": "book_0908.txt",
+      "NewPath": "data/corpus/book_0908.txt",
+      "ExpectedHash": "aa1c79212ef0b4b042ee035d3070c7c58599fc142f20c614be54223880a1e2f4"
+    },
+    {
+      "OldPath": "book_0909.txt",
+      "NewPath": "data/corpus/book_0909.txt",
+      "ExpectedHash": "7d551e4e682d3ccd79a3902c2aab884a7ab1acb152725813c29925b90050461c"
+    },
+    {
+      "OldPath": "book_0910.txt",
+      "NewPath": "data/corpus/book_0910.txt",
+      "ExpectedHash": "ff8028069da79c753cc06435bdff0e200b164b5d5060e97243089514945204db"
+    },
+    {
+      "OldPath": "book_0911.txt",
+      "NewPath": "data/corpus/book_0911.txt",
+      "ExpectedHash": "d69f4a5d9c1bf36fa5dccea3cdec5e1c4174b8b8033e8cf5bfb4b8d34d46998e"
+    },
+    {
+      "OldPath": "book_0912.txt",
+      "NewPath": "data/corpus/book_0912.txt",
+      "ExpectedHash": "87c1468eb7c9f4d938082faae6821df62a14b7ff15018b536a2ebc72b8eb32df"
+    },
+    {
+      "OldPath": "book_0913.txt",
+      "NewPath": "data/corpus/book_0913.txt",
+      "ExpectedHash": "162df6b74687607beb70e5be90164f44ba3e4d532132bc04cb8cc09451298b31"
+    },
+    {
+      "OldPath": "book_0914.txt",
+      "NewPath": "data/corpus/book_0914.txt",
+      "ExpectedHash": "d7e733150e994c3030d2dd1a45dc023a040c27d994a39b9517603b497ca56072"
+    },
+    {
+      "OldPath": "book_0915.txt",
+      "NewPath": "data/corpus/book_0915.txt",
+      "ExpectedHash": "325d23454edc58172c9209a3c70a692429bd9aeafc3b84e69cbe40a0509bcfd6"
+    },
+    {
+      "OldPath": "book_0916.txt",
+      "NewPath": "data/corpus/book_0916.txt",
+      "ExpectedHash": "3df0975b81bb09ac7f01cf295c843d2b49b8d59ca7315178bbe16b61aed2b755"
+    },
+    {
+      "OldPath": "book_0917.txt",
+      "NewPath": "data/corpus/book_0917.txt",
+      "ExpectedHash": "f1ec610d7a3bfeaabcc95ecd0a6ebfcacebe5357fc89937c85ff2ed4b2fc6148"
+    },
+    {
+      "OldPath": "book_0918.txt",
+      "NewPath": "data/corpus/book_0918.txt",
+      "ExpectedHash": "8d19a2a866ed49b917e19d67cf9cb059da51bee0825ed65b82db6716647c9293"
+    },
+    {
+      "OldPath": "book_0919.txt",
+      "NewPath": "data/corpus/book_0919.txt",
+      "ExpectedHash": "2c0d00e12b10d393ceec78326c246c42f9a4bab6b52d6c9cb96ee63026d9a61f"
+    },
+    {
+      "OldPath": "book_0920.txt",
+      "NewPath": "data/corpus/book_0920.txt",
+      "ExpectedHash": "64db640c499f59199f49cf7270ddc19b5a58fbda1f141829099363faf2274c4b"
+    },
+    {
+      "OldPath": "book_0921.txt",
+      "NewPath": "data/corpus/book_0921.txt",
+      "ExpectedHash": "bf46692ebc75577d2902315d08cc380437431cdd81acf2109793b6adc7fc8dc2"
+    },
+    {
+      "OldPath": "book_0922.txt",
+      "NewPath": "data/corpus/book_0922.txt",
+      "ExpectedHash": "c511dbe805cbabdfbe40448b5448929bd6516858569b79e9a71f4444d8df9afe"
+    },
+    {
+      "OldPath": "book_0923.txt",
+      "NewPath": "data/corpus/book_0923.txt",
+      "ExpectedHash": "9b424fc6574bf314f0990a42c3342a803b24ddddbb5e11734823ed866e18ea04"
+    },
+    {
+      "OldPath": "book_0924.txt",
+      "NewPath": "data/corpus/book_0924.txt",
+      "ExpectedHash": "300410398d274b6160418e1b9ca3e31e47d5fdbd2b3740c0bd68c45a731b2dd6"
+    },
+    {
+      "OldPath": "book_0925.txt",
+      "NewPath": "data/corpus/book_0925.txt",
+      "ExpectedHash": "ec80403df582941c6ad98859cd8b991ec45cdc3bd23bc978497c59415d603082"
+    },
+    {
+      "OldPath": "book_0926.txt",
+      "NewPath": "data/corpus/book_0926.txt",
+      "ExpectedHash": "5d9f62c6384ee56c4f699f3aa80ee0f234d8c5f97c9ba90ec67ab89c073cbedb"
+    },
+    {
+      "OldPath": "book_0927.txt",
+      "NewPath": "data/corpus/book_0927.txt",
+      "ExpectedHash": "01dfe134cdea5a8e350239f2e72554995eb8d4d626d4de6fb56e94d2713d8eb9"
+    },
+    {
+      "OldPath": "book_0928.txt",
+      "NewPath": "data/corpus/book_0928.txt",
+      "ExpectedHash": "4a6c9a4e411a2179e0e1cb376658d46ab4706ea50044bff8a3cb8ae4e676fd66"
+    },
+    {
+      "OldPath": "book_0929.txt",
+      "NewPath": "data/corpus/book_0929.txt",
+      "ExpectedHash": "65d14a3f7999757ae538d3a31db29519913101a4a0c8c7b6447bc6c6a27a306c"
+    },
+    {
+      "OldPath": "book_0930.txt",
+      "NewPath": "data/corpus/book_0930.txt",
+      "ExpectedHash": "1d2eafb04783071dcc007cad599128c27dee1c2611a65551602f925a317da72b"
+    },
+    {
+      "OldPath": "book_0931.txt",
+      "NewPath": "data/corpus/book_0931.txt",
+      "ExpectedHash": "46ddb3e99783bc0e88108cd41204c7a0e5df575ee9760f3d0e0fde198b014456"
+    },
+    {
+      "OldPath": "book_0932.txt",
+      "NewPath": "data/corpus/book_0932.txt",
+      "ExpectedHash": "3b09261b2c836e98809a3267ecc1bc8251a5914e0e2138e004abe78caa90b30a"
+    },
+    {
+      "OldPath": "book_0933.txt",
+      "NewPath": "data/corpus/book_0933.txt",
+      "ExpectedHash": "68e2e763ec6c7664462c1c972eb8ae69bd3b182971916a73ee7e2983532c9af9"
+    },
+    {
+      "OldPath": "book_0934.txt",
+      "NewPath": "data/corpus/book_0934.txt",
+      "ExpectedHash": "c532c032464af53e3003d8deaea7579ad9d190c9ccad1f7d5b55a9d3ef2879a3"
+    },
+    {
+      "OldPath": "book_0935.txt",
+      "NewPath": "data/corpus/book_0935.txt",
+      "ExpectedHash": "cd47cca6fd485b90b0aa9abec91e19b26b969804987e0837bb047c7710c30c56"
+    },
+    {
+      "OldPath": "book_0936.txt",
+      "NewPath": "data/corpus/book_0936.txt",
+      "ExpectedHash": "89315ef0dfe2b6d3760aa413648d56e7d6a5a45f9ce936c7d82c32810aabe8e8"
+    },
+    {
+      "OldPath": "book_0937.txt",
+      "NewPath": "data/corpus/book_0937.txt",
+      "ExpectedHash": "bd2325b5c1d1639e712dbc530f178b69339622c645ced9d8a16da8e41ecba654"
+    },
+    {
+      "OldPath": "book_0938.txt",
+      "NewPath": "data/corpus/book_0938.txt",
+      "ExpectedHash": "5a06fc87ca355e02c208bf86e308b41bc06a7cd5aefd1594d3fa72e2a813ee98"
+    },
+    {
+      "OldPath": "book_0939.txt",
+      "NewPath": "data/corpus/book_0939.txt",
+      "ExpectedHash": "69937b3ebd0452aa07d09527346028597934c8cce4a3968bd41daabc952ccbf7"
+    },
+    {
+      "OldPath": "book_0940.txt",
+      "NewPath": "data/corpus/book_0940.txt",
+      "ExpectedHash": "90dd0c84e29608d28f27d288dd1b724cdbf332803c6e7aac2eee252d921991ec"
+    },
+    {
+      "OldPath": "book_0941.txt",
+      "NewPath": "data/corpus/book_0941.txt",
+      "ExpectedHash": "227882b49c7a2da3244f2fec82529dea07903a4e20ba987b4f84f237fb318f4d"
+    },
+    {
+      "OldPath": "book_0942.txt",
+      "NewPath": "data/corpus/book_0942.txt",
+      "ExpectedHash": "ec108664c22e2b1ccd4d23fa5196cd7b55d1cd41ecc54625c4161f042a86fd56"
+    },
+    {
+      "OldPath": "book_0943.txt",
+      "NewPath": "data/corpus/book_0943.txt",
+      "ExpectedHash": "30e13c472df98c50b579fb560347d562750eddc9feaad533382af7df2b2cda81"
+    },
+    {
+      "OldPath": "book_0944.txt",
+      "NewPath": "data/corpus/book_0944.txt",
+      "ExpectedHash": "a95d9d99001968a93396733afccc311df2b2e4cd77de043b4dc09e3bad074114"
+    },
+    {
+      "OldPath": "book_0945.txt",
+      "NewPath": "data/corpus/book_0945.txt",
+      "ExpectedHash": "4709039a75a19d5d1c4e887732847c60102d79cc2eecb358be75a3593c0d677d"
+    },
+    {
+      "OldPath": "book_0946.txt",
+      "NewPath": "data/corpus/book_0946.txt",
+      "ExpectedHash": "ec1cb3ead33a5e21c6dce03aae2835bcf9a51b04a95a8387eca621eb7a805c6a"
+    },
+    {
+      "OldPath": "book_0947.txt",
+      "NewPath": "data/corpus/book_0947.txt",
+      "ExpectedHash": "29f279d895ae8f9f037645858f5c157f0f702561d91426ccf39626a745a0372c"
+    },
+    {
+      "OldPath": "book_0948.txt",
+      "NewPath": "data/corpus/book_0948.txt",
+      "ExpectedHash": "3fe803b2621a987a6c69c3c6be7d097c400ce57fa7e8f8eda44f39c35e280a31"
+    },
+    {
+      "OldPath": "book_0949.txt",
+      "NewPath": "data/corpus/book_0949.txt",
+      "ExpectedHash": "beafc9f6234553d798de470be991e127a8f775150aacba01fbabadac3f0f8980"
+    },
+    {
+      "OldPath": "book_0950.txt",
+      "NewPath": "data/corpus/book_0950.txt",
+      "ExpectedHash": "aeb7cbbd76daee1fa25a1ece90997304b3fc47e8fe1399609b00a7015a93709a"
+    },
+    {
+      "OldPath": "book_0951.txt",
+      "NewPath": "data/corpus/book_0951.txt",
+      "ExpectedHash": "9a7f4722d4a24bc7bed4c75a83a74fc17db5d8bbd341fbe9c018707335113079"
+    },
+    {
+      "OldPath": "book_0952.txt",
+      "NewPath": "data/corpus/book_0952.txt",
+      "ExpectedHash": "9f16de7b9f9057c0517b60e63a760c16cf1f6ec5a98608856d6682ed8dc7bda3"
+    },
+    {
+      "OldPath": "book_0953.txt",
+      "NewPath": "data/corpus/book_0953.txt",
+      "ExpectedHash": "575a67b553b3ecd0dce3f1b90aa0554daf125311fe26e6402f86089550fe4272"
+    },
+    {
+      "OldPath": "book_0954.txt",
+      "NewPath": "data/corpus/book_0954.txt",
+      "ExpectedHash": "128122e703cc905d86d233fdd55e3edaed0fa1280964f92f847270f60b23d361"
+    },
+    {
+      "OldPath": "book_0955.txt",
+      "NewPath": "data/corpus/book_0955.txt",
+      "ExpectedHash": "1309241f5cf5e6fea44c3e71f334875d7849e5fc5b5d2a448ddeb29db25416d7"
+    },
+    {
+      "OldPath": "book_0956.txt",
+      "NewPath": "data/corpus/book_0956.txt",
+      "ExpectedHash": "5e3357d011ee89335de537efa1f89c01995b5750319019dc4fd2dd8d910ee790"
+    },
+    {
+      "OldPath": "book_0957.txt",
+      "NewPath": "data/corpus/book_0957.txt",
+      "ExpectedHash": "a826b1cbe5d8745db4b55504e634e8f51696cc384246d2371e32bd77933dc968"
+    },
+    {
+      "OldPath": "book_0958.txt",
+      "NewPath": "data/corpus/book_0958.txt",
+      "ExpectedHash": "a3858804716c6683e2f203cdc63ccb845445138bb381a67fba7f46e91ae4c254"
+    },
+    {
+      "OldPath": "book_0959.txt",
+      "NewPath": "data/corpus/book_0959.txt",
+      "ExpectedHash": "6292eb8fcb68c8b3bac1f36bf16a7f272ab20892f4f45fa69f146ccf159db657"
+    },
+    {
+      "OldPath": "book_0960.txt",
+      "NewPath": "data/corpus/book_0960.txt",
+      "ExpectedHash": "363390d804f43cdf1af74d9189e8123381f7b83b44a19597a2320ca85ce02aee"
+    },
+    {
+      "OldPath": "book_0961.txt",
+      "NewPath": "data/corpus/book_0961.txt",
+      "ExpectedHash": "fe3cfcac4ab3f0524143d187c3e5ed423e7a4c8b353202650985dc7f25edb1d7"
+    },
+    {
+      "OldPath": "book_0962.txt",
+      "NewPath": "data/corpus/book_0962.txt",
+      "ExpectedHash": "57d10cccd1d8dbcea775609fa54942ae5fa4c4d06043edf900dd9bb6d901f9e9"
+    },
+    {
+      "OldPath": "book_0963.txt",
+      "NewPath": "data/corpus/book_0963.txt",
+      "ExpectedHash": "db6193b967aeaf975685125a489772f3f40072c34e4fed46ee3eb0f200505e83"
+    },
+    {
+      "OldPath": "book_0964.txt",
+      "NewPath": "data/corpus/book_0964.txt",
+      "ExpectedHash": "367c21d4994fb281fef6e12544fd99e573897cff92f416d34037b9d4724c4b8b"
+    },
+    {
+      "OldPath": "book_0965.txt",
+      "NewPath": "data/corpus/book_0965.txt",
+      "ExpectedHash": "81dcd577e36cf9550a4f729d744afd7d80aeb1399f358625864200637f1bc4ba"
+    },
+    {
+      "OldPath": "book_0966.txt",
+      "NewPath": "data/corpus/book_0966.txt",
+      "ExpectedHash": "260771552684626103d3e3f3ec95937ca38a69b48ce641457d2f8e386f41f2f4"
+    },
+    {
+      "OldPath": "book_0967.txt",
+      "NewPath": "data/corpus/book_0967.txt",
+      "ExpectedHash": "2669a3527262363dc28cb085ab56d0c7f5074cdf41bfdba4ff11716884414ad9"
+    },
+    {
+      "OldPath": "book_0968.txt",
+      "NewPath": "data/corpus/book_0968.txt",
+      "ExpectedHash": "97275a080fb6f4520c1c39747a50fc13ad3fc42d4fdb49e6511768f3f20cd123"
+    },
+    {
+      "OldPath": "book_0969.txt",
+      "NewPath": "data/corpus/book_0969.txt",
+      "ExpectedHash": "0f954fdffa50fdf9842d8295bbc1b5433be38fbd9a25446b2c3cf326af12c259"
+    },
+    {
+      "OldPath": "book_0970.txt",
+      "NewPath": "data/corpus/book_0970.txt",
+      "ExpectedHash": "eb724ef3b1777fdab847f7a6c28260465c74e39c1ddf69e89aeb7ba4f614cea5"
+    },
+    {
+      "OldPath": "book_0971.txt",
+      "NewPath": "data/corpus/book_0971.txt",
+      "ExpectedHash": "5abdc1b4aa923c0f75c55b32e586a568dd2f5032c46fe98322d2f45c14c7ec19"
+    },
+    {
+      "OldPath": "book_0972.txt",
+      "NewPath": "data/corpus/book_0972.txt",
+      "ExpectedHash": "d2cfd96594a7bc32925a4eaff7087ed4eb6e86d4e268c260400c4d81bb6e928a"
+    },
+    {
+      "OldPath": "book_0973.txt",
+      "NewPath": "data/corpus/book_0973.txt",
+      "ExpectedHash": "70cafba42663b3fd834abecfd7f6fc935b00c9cfe1dc7ff13b36871b25e04a28"
+    },
+    {
+      "OldPath": "book_0974.txt",
+      "NewPath": "data/corpus/book_0974.txt",
+      "ExpectedHash": "382430f9ef6e94641c0f275cd023bc2cd72ecf1e2bd063f2b74d8d144eb5a615"
+    },
+    {
+      "OldPath": "book_0975.txt",
+      "NewPath": "data/corpus/book_0975.txt",
+      "ExpectedHash": "148236ae17313953d2688845706666dfe02f7ba4ec6792bb2715288d9411e236"
+    },
+    {
+      "OldPath": "book_0976.txt",
+      "NewPath": "data/corpus/book_0976.txt",
+      "ExpectedHash": "b03789722d9ea05df3121016df0bd633b5bd6d704fde0aae52f37b9910d22e3d"
+    },
+    {
+      "OldPath": "book_0977.txt",
+      "NewPath": "data/corpus/book_0977.txt",
+      "ExpectedHash": "0e4956cff546c85de7d3f7cefe4eedfa82f8e9f4557ea8912b4da259a8bea454"
+    },
+    {
+      "OldPath": "book_0978.txt",
+      "NewPath": "data/corpus/book_0978.txt",
+      "ExpectedHash": "0dcd040344d2e5c185370a5fa3360d3612eecdd8047b1a9fb2c9fdb1c17f7f6e"
+    },
+    {
+      "OldPath": "book_0979.txt",
+      "NewPath": "data/corpus/book_0979.txt",
+      "ExpectedHash": "5722e54ae78108a253b95363d83be28546c6a92aadd675753b7dffbbb41b1ba3"
+    },
+    {
+      "OldPath": "book_0980.txt",
+      "NewPath": "data/corpus/book_0980.txt",
+      "ExpectedHash": "02d70f960d204639c7ea48b15a2071b30a9157c238d7ecec234d9f12fa9adced"
+    },
+    {
+      "OldPath": "book_0981.txt",
+      "NewPath": "data/corpus/book_0981.txt",
+      "ExpectedHash": "2da988188999cc87e20bb5fca7fad57e62aa1ac55f645d13ad37d7addadadcd9"
+    },
+    {
+      "OldPath": "book_0982.txt",
+      "NewPath": "data/corpus/book_0982.txt",
+      "ExpectedHash": "164be9f3c01f3d8d59afc75310df49e0774aeb873f0a6cdbe51ff9f511f81cf2"
+    },
+    {
+      "OldPath": "book_0983.txt",
+      "NewPath": "data/corpus/book_0983.txt",
+      "ExpectedHash": "d360d008edb3cff2fe575950687912ced793282dcb4eb65e98dc06ddd71bfb82"
+    },
+    {
+      "OldPath": "book_0984.txt",
+      "NewPath": "data/corpus/book_0984.txt",
+      "ExpectedHash": "fede69716c46bcdf9f83cb747269bbff759a74674ac01fe6bf17e70bdaec8161"
+    },
+    {
+      "OldPath": "book_0985.txt",
+      "NewPath": "data/corpus/book_0985.txt",
+      "ExpectedHash": "82fbb767e266954e2de869dc8c32007a4d1a46a9977e0cd9b8531ce4fea53122"
+    },
+    {
+      "OldPath": "book_0986.txt",
+      "NewPath": "data/corpus/book_0986.txt",
+      "ExpectedHash": "cce885abe8414b5ba0764a95721b3dc2bfb45c3b2d192c26852042a06292d096"
+    },
+    {
+      "OldPath": "book_0987.txt",
+      "NewPath": "data/corpus/book_0987.txt",
+      "ExpectedHash": "b2bffdab16852552ae88976b96a2d74f8a60acaa4cd29bc5d9dc8a2ebb9c745b"
+    },
+    {
+      "OldPath": "book_0988.txt",
+      "NewPath": "data/corpus/book_0988.txt",
+      "ExpectedHash": "d9829f97c575407eb6685951bf5204b75ee054f458a1d1d588d9bfc6341f5561"
+    },
+    {
+      "OldPath": "book_0989.txt",
+      "NewPath": "data/corpus/book_0989.txt",
+      "ExpectedHash": "109f2419c5e948a1fb6adc651118337076bfefe3bb9c5291bc4cfb0902eebc7f"
+    },
+    {
+      "OldPath": "book_0990.txt",
+      "NewPath": "data/corpus/book_0990.txt",
+      "ExpectedHash": "92cbe9290412da36b424e57e348799d5cefccefd3597568b5c6b510a91df796d"
+    },
+    {
+      "OldPath": "book_0991.txt",
+      "NewPath": "data/corpus/book_0991.txt",
+      "ExpectedHash": "c07d9585a5098dc0715679d0bb8b17a93f81f259e0fbfe0b248745822e18cdab"
+    },
+    {
+      "OldPath": "book_0992.txt",
+      "NewPath": "data/corpus/book_0992.txt",
+      "ExpectedHash": "a7b890e72d0adde0c07bb3b1f261dc14a967b5401b4383929352e5935f9ddd9c"
+    },
+    {
+      "OldPath": "book_0993.txt",
+      "NewPath": "data/corpus/book_0993.txt",
+      "ExpectedHash": "f68b8f4d3f2f0d99c126c5a44fe653c87d20ab4a877dad58c07e7bd34011b30e"
+    },
+    {
+      "OldPath": "book_0994.txt",
+      "NewPath": "data/corpus/book_0994.txt",
+      "ExpectedHash": "9b129c88223aa54a8ce1deff636eb399b738409c47395d01291b6e34b300c8de"
+    },
+    {
+      "OldPath": "book_0995.txt",
+      "NewPath": "data/corpus/book_0995.txt",
+      "ExpectedHash": "7d40fdb3317fe5ee3999a610fe370f783fedfb13a8a03db5b62446d6a32f2d20"
+    },
+    {
+      "OldPath": "book_0996.txt",
+      "NewPath": "data/corpus/book_0996.txt",
+      "ExpectedHash": "71a10023ae1091c30869d0303519f9b056be81fbc95bd30d0187819b138ca3cf"
+    },
+    {
+      "OldPath": "book_0997.txt",
+      "NewPath": "data/corpus/book_0997.txt",
+      "ExpectedHash": "471646ee10f09f76422a8040e460ef27b5d11c0690d0c99d22e115f8f3b601e5"
+    },
+    {
+      "OldPath": "book_0998.txt",
+      "NewPath": "data/corpus/book_0998.txt",
+      "ExpectedHash": "15ecae1114b3b337783ede34fd29048b3db5ddb63eaed1792e98a3667aac3769"
+    },
+    {
+      "OldPath": "book_0999.txt",
+      "NewPath": "data/corpus/book_0999.txt",
+      "ExpectedHash": "b877a5efe4c04109fccf1f962a7f7e828cfcee8400a5367f888f7183ed2db0cc"
+    },
+    {
+      "OldPath": "book_1000.txt",
+      "NewPath": "data/corpus/book_1000.txt",
+      "ExpectedHash": "c25296689200c69c7c9761ee6990e61a57409d09d3986252b3fb58c6d6892df4"
+    },
+    {
+      "OldPath": "selected_stories.csv",
+      "NewPath": "data/metadata/selected_stories.csv",
+      "ExpectedHash": "cfcf99b2f9e7a194bca62b96774039541c038f72f89ebfa4668dad63cf8f08f1"
+    },
+    {
+      "OldPath": "labels.jsonl",
+      "NewPath": "data/metadata/labels.jsonl",
+      "ExpectedHash": "cb0b3215ec665455159ab7bdc6c7ed565909f3ed1d7d0b53cf1346d7d5c06bb7"
+    },
+    {
+      "OldPath": "gd1_stats.py",
+      "NewPath": "gd1/gd1_stats.py",
+      "ExpectedHash": "b9f12e1d882f1835c11f07759f5f4cf70f7e453db5cb5c95441d2a78349bcccf"
+    },
+    {
+      "OldPath": "gd1_out/doc_stats.csv",
+      "NewPath": "gd1/results/doc_stats.csv",
+      "ExpectedHash": "11d75f711187cb9feb8f6ecb2d64137c5e7ceee313b18161e8e469553dd1e66c"
+    },
+    {
+      "OldPath": "gd1_out/doc_top_terms.csv",
+      "NewPath": "gd1/results/doc_top_terms.csv",
+      "ExpectedHash": "a0c55467207070da67950df7fa408e0b6cedaf7bc3aea4a379541f95ab6e6ae4"
+    },
+    {
+      "OldPath": "gd1_out/docs_with_labels.csv",
+      "NewPath": "gd1/results/docs_with_labels.csv",
+      "ExpectedHash": "952815c66d57052357824d0f64a819752b44ba84da730784dc2bc096749be729"
+    },
+    {
+      "OldPath": "gd1_out/fig_confidence.png",
+      "NewPath": "gd1/results/fig_confidence.png",
+      "ExpectedHash": "14ce164be668532484a642e91f7ebf850354c7b761272262b3694e020bc55eb9"
+    },
+    {
+      "OldPath": "gd1_out/fig_label_counts.png",
+      "NewPath": "gd1/results/fig_label_counts.png",
+      "ExpectedHash": "e8d32c0c07810dc296992461b7923d157870927b65d7a6ba3ce111e2c1e048ab"
+    },
+    {
+      "OldPath": "gd1_out/fig_length_hist.png",
+      "NewPath": "gd1/results/fig_length_hist.png",
+      "ExpectedHash": "3dcd1223a5a7cb397b31c48f143c3649026f8e6ce06be68fb931af4e9be506f8"
+    },
+    {
+      "OldPath": "gd1_out/fig_svd_scatter.png",
+      "NewPath": "gd1/results/fig_svd_scatter.png",
+      "ExpectedHash": "d5ec7cff176c3ad4fc9d812f1029606312a1eb2d41cadd443fa47a1df960042f"
+    },
+    {
+      "OldPath": "gd1_out/fig_zipf.png",
+      "NewPath": "gd1/results/fig_zipf.png",
+      "ExpectedHash": "bf14522583bc83ec591e87e9f532940b3dc12e45101c283aa31ac26aabc733f4"
+    },
+    {
+      "OldPath": "gd1_out/files_below_min_length.csv",
+      "NewPath": "gd1/results/files_below_min_length.csv",
+      "ExpectedHash": "1e8085d02db6819d978db247d5148894c2a2bca8d4c9e4b01c6503c0c45b49b9"
+    },
+    {
+      "OldPath": "gd1_out/kmeans_silhouette.csv",
+      "NewPath": "gd1/results/kmeans_silhouette.csv",
+      "ExpectedHash": "93e423c2adcc078dd8094f06865bb8bf121bd95ab7bd75c86d0ced4f34adae77"
+    },
+    {
+      "OldPath": "gd1_out/label_coverage.csv",
+      "NewPath": "gd1/results/label_coverage.csv",
+      "ExpectedHash": "41bfff2d72e386800684ed3bf9a2f7152962d72573ad1e3e341f708b8e794d23"
+    },
+    {
+      "OldPath": "gd1_out/label_distribution.csv",
+      "NewPath": "gd1/results/label_distribution.csv",
+      "ExpectedHash": "7a960931dfb8245ca3b805ce4742db554868970925a8843325aeb4ead1e30d90"
+    },
+    {
+      "OldPath": "gd1_out/label_duplicate_entries.csv",
+      "NewPath": "gd1/results/label_duplicate_entries.csv",
+      "ExpectedHash": "b1e5c5806a36ade2664d79ede5f46f8cf1d37d73a66a15db2cdca5bd1b3149d2"
+    },
+    {
+      "OldPath": "gd1_out/label_top_terms.csv",
+      "NewPath": "gd1/results/label_top_terms.csv",
+      "ExpectedHash": "05d7f8e35116d83e4522edd1dfff11b2e7de6e426408d7582daaf1dbfdc2ff47"
+    },
+    {
+      "OldPath": "gd1_out/label_vs_kmeans_crosstab.csv",
+      "NewPath": "gd1/results/label_vs_kmeans_crosstab.csv",
+      "ExpectedHash": "c5f4046ef57f262fa25cea164b1bd01a774bde6bab3714ad74ffbc7d9a380c91"
+    },
+    {
+      "OldPath": "gd1_out/labels_not_in_dataset.csv",
+      "NewPath": "gd1/results/labels_not_in_dataset.csv",
+      "ExpectedHash": "b1e5c5806a36ade2664d79ede5f46f8cf1d37d73a66a15db2cdca5bd1b3149d2"
+    },
+    {
+      "OldPath": "gd1_out/near_duplicates.csv",
+      "NewPath": "gd1/results/near_duplicates.csv",
+      "ExpectedHash": "6c77186be7d3ae350bde7ef0a1faf3300813c12cc2653b76184c596af40797d2"
+    },
+    {
+      "OldPath": "gd1_out/residue_per_file.csv",
+      "NewPath": "gd1/results/residue_per_file.csv",
+      "ExpectedHash": "c7193bf73ecda6a59f3f49bf1397b4219012c57d67c6780c91c9abdac7d14b58"
+    },
+    {
+      "OldPath": "gd1_out/summary.json",
+      "NewPath": "gd1/results/summary.json",
+      "ExpectedHash": "4a41b9292e89c56018b5a012850326e2f798f2cb01b72c2d45d525c0cac238c6"
+    },
+    {
+      "OldPath": "gd1_out/top_words_no_stopwords.csv",
+      "NewPath": "gd1/results/top_words_no_stopwords.csv",
+      "ExpectedHash": "9b132e5158ba913768293f7d06a730718dbf82bce18fefd08a342cc264728edb"
+    },
+    {
+      "OldPath": "gd1_out/top_words_raw.csv",
+      "NewPath": "gd1/results/top_words_raw.csv",
+      "ExpectedHash": "8bc4f4bed3915b31c636e30c857035f5fe0d60045d819cfc5bdcd01797cbab6a"
+    },
+    {
+      "OldPath": "label_content_audit/label_content_review_log.csv",
+      "NewPath": "data/provenance/label_content_review_log.csv",
+      "ExpectedHash": "673b217ee95d20ebf536b9e15da4f342cf22c99b2673d74d529d9ea051303dfc"
+    },
+    {
+      "OldPath": "docs/GD1-CSDLDPT-23-03.pdf",
+      "NewPath": "docs/gd1/GD1-CSDLDPT-23-03.pdf",
+      "ExpectedHash": "e354f23133a9f22e328d72f4d0bc8b1ae478a21b64e14c423e241055fbc37162"
+    },
+    {
+      "OldPath": "docs/DOI_CHIEU_CAC_TAP_TAC_PHAM.md",
+      "NewPath": "docs/gd2/DOI_CHIEU_CAC_TAP_TAC_PHAM.md",
+      "ExpectedHash": "696567edfb74a6c439cb315614f3465c9ae430e9cefb694b315e27adc648a78e"
+    },
+    {
+      "OldPath": "docs/GD2_metadata_audit.json",
+      "NewPath": "docs/audit/GD2_metadata_audit.json",
+      "ExpectedHash": "c9fb2aa3c2087ab52af35416d26f57e46471116b3914228f0ec876e4aaa92538"
+    },
+    {
+      "OldPath": "docs/GD2_metadata_title_changes.json",
+      "NewPath": "docs/audit/GD2_metadata_title_changes.json",
+      "ExpectedHash": "5c5c4acfc08c2c6871bd6e27bc574e0d4db14ee7385b798e8fe3b82b841e77d9"
+    },
+    {
+      "OldPath": "docs/GD2_planning_audit.json",
+      "NewPath": "docs/audit/GD2_planning_audit.json",
+      "ExpectedHash": "409b2def38f753192661bc3677e3ecfb8d995cb9ead2a187fd40c6ef38051169"
+    },
+    {
+      "OldPath": "docs/GD2_volume_verification.json",
+      "NewPath": "docs/audit/GD2_volume_verification.json",
+      "ExpectedHash": "f8c5d0edc867a89976485bad499d0fdf7527357321e642daa70314065a1fc6ff"
+    },
+    {
+      "OldPath": "docs/KE_HOACH_GD2.md",
+      "NewPath": "docs/gd2/KE_HOACH_GD2.md",
+      "ExpectedHash": "8248d3b86ac45c9df0f9fe08cd84ee0c4c9e894adec44f7531879404ee6ae4e0"
+    },
+    {
+      "OldPath": "docs/PHAC_THAO_BAO_CAO_GD2.md",
+      "NewPath": "docs/gd2/PHAC_THAO_BAO_CAO_GD2.md",
+      "ExpectedHash": "a55bbbb7510381a6084351a52d035d3a96496b975fff9b1d0e77151de7cdb5ed"
+    }
+  ]
+}

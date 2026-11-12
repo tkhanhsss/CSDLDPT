@@ -1,0 +1,2 @@
+# Preserve exact bytes: corpus, query locks and baseline evidence use SHA256.
+* -text

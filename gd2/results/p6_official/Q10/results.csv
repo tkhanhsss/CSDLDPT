@@ -1,0 +1,4 @@
+rank,doc_id,filename,title,author_display,label_code,score,zero_score,relative_path,copy_path,raw_sha256
+1,980,book_0980.txt,THE SURVIVORS OF THE CHANCELLOR.,Jules Verne,maritime_nautical,0.08377462086723594,False,data/corpus/book_0980.txt,rank1_book_0980.txt,02d70f960d204639c7ea48b15a2071b30a9157c238d7ecec234d9f12fa9adced
+2,731,book_0731.txt,Mathilda,MARY WOLLSTONECRAFT SHELLEY,literary_other,0.07631691592256998,False,data/corpus/book_0731.txt,rank2_book_0731.txt,39c7886c92f401896dcb0fe00100dc76a491793cb23b2554460e18faae665bd4
+3,2,book_0002.txt,The Exiles,Honoré de Balzac,fantasy_supernatural,0.0707221091829994,False,data/corpus/book_0002.txt,rank3_book_0002.txt,09fed25327e8175d011c0fcea5f41d620c0c496d334b5174b66522cf14a440fa

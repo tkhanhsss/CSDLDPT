@@ -1,0 +1,4 @@
+rank,doc_id,filename,title,author_display,label_code,score,zero_score,relative_path,copy_path,raw_sha256
+1,733,book_0733.txt,THE CLUB OF QUEER TRADES,G. K. Chesterton,mystery_crime,0.08644224856531173,False,data/corpus/book_0733.txt,rank1_book_0733.txt,c0e8e49778d991268641b86bed1b994710a8c653ea0958f2c257ef301e45ea91
+2,659,book_0659.txt,"""To let""",B. M. CROKER,literary_other,0.08616183541680224,False,data/corpus/book_0659.txt,rank2_book_0659.txt,d67c6c57f0edd6985f105b73ad3e26e91694039c5b5f7d80ca0b5dbba0ba781b
+3,638,book_0638.txt,The Thirty-Nine Steps,John Buchan,mystery_crime,0.08047372043623405,False,data/corpus/book_0638.txt,rank3_book_0638.txt,13434170dff1ac98710c5dbb0402e3af8ea2102761133a673b0d9c53c8fdbbab

@@ -1,0 +1,23 @@
+{
+  "purpose": "Read-only input audit for GD2 planning; no TF-IDF retraining",
+  "n_files": 1000,
+  "total_words": 34344608,
+  "min_words": 12072,
+  "max_words": 53913,
+  "below_12000": 0,
+  "word_count_mismatches_with_gd1": [],
+  "actual_utf8_bom_files": 0,
+  "all_decode_utf8_sig": true,
+  "normalized_duplicate_groups": [],
+  "label_rows": 1000,
+  "unique_label_files": 1000,
+  "label_distribution_matches_gd1": true,
+  "label_missing_files": [],
+  "label_extra_files": [],
+  "metadata_keys_in_labels": [
+    "confidence_level",
+    "filename",
+    "primary"
+  ],
+  "pdf_sha256": "e354f23133a9f22e328d72f4d0bc8b1ae478a21b64e14c423e241055fbc37162"
+}

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "frozen_before_retrieval": true,
+  "query_count": 12,
+  "top_k": 3,
+  "main_illustration": "Q01",
+  "preselected_exploratory_case": "Q12",
+  "exploratory_note": "Scientific prose is a candidate for discussing limitations; no result quality has been observed. Retain all 12 regardless of scores.",
+  "grades": {
+    "2": "Clearly related to the central topic/situation, supported by document content.",
+    "1": "Partial relation or broad shared setting only.",
+    "0": "No substantial content relation; shared names/common words are insufficient."
+  },
+  "binary_relevant_grade": 2,
+  "precision_at_3": "Number of grade-2 documents among Top-3 / 3",
+  "mean_precision_at_3": "Arithmetic mean across all 12 fixed queries",
+  "reviewers": "Two group members grade independently, then discuss disagreements; preserve each initial grade and evidence. Do not invent completed human grading.",
+  "blind_grading": "Shuffle query-document pairs and hide scores/ranks where practicable.",
+  "empty_vector_policy": "Report separately; do not silently replace or drop a fixed query. Any protocol change must be recorded before claiming an aggregate measure.",
+  "prohibited_selection_basis": "No retrieval scores or P@3 used to choose/replace excerpts.",
+  "not_reported_without_more_judgments": [
+    "Recall@3",
+    "MAP",
+    "nDCG"
+  ]
+}

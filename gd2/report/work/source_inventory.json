@@ -1,0 +1,102 @@
+{
+  "source": "C:\\Users\\Tung Khanh Luong\\Desktop\\CSDLDPT\\docs\\gd1\\GD1-CSDLDPT-23-03.docx",
+  "sha256": "0cfb1ce133ec3bb8db2d77d5f764c4ed5e726a04aa0bb1367457bc47b7b62efd",
+  "parts": {
+    "[Content_Types].xml": {
+      "bytes": 2147,
+      "sha256": "97a750f59030d0026b639aa2a675b5fba7eb4c1aa35e3764ba9ca043cbd49955"
+    },
+    "_rels/.rels": {
+      "bytes": 590,
+      "sha256": "e19238d7a71fa7a2490776252686f70e2de6238c87cd509b5e3a3cc07c2ea4df"
+    },
+    "word/document.xml": {
+      "bytes": 205220,
+      "sha256": "e84b8af70d6c29b94558566f4f4676cdf66b0adf0622e668a75060df2d19d273"
+    },
+    "word/_rels/document.xml.rels": {
+      "bytes": 2279,
+      "sha256": "59d529af35c03f1a40542b5846a336e906033f0f5c8d2aa6346493b7b293607a"
+    },
+    "word/footnotes.xml": {
+      "bytes": 3196,
+      "sha256": "ce80fa821ef2c337101f26ed8acf84de6502451729d3511dd03e4236f167b588"
+    },
+    "word/endnotes.xml": {
+      "bytes": 3190,
+      "sha256": "62bb4ac28c298dfc052263297d86579a4744097805abee455f4c1d514318455c"
+    },
+    "word/footer1.xml": {
+      "bytes": 2925,
+      "sha256": "63b96ef5f0e8096e9d1b3c50fca6ca3ff396c9ddaf6ed02a44bdaa6420e134ee"
+    },
+    "word/footer2.xml": {
+      "bytes": 3367,
+      "sha256": "f651af884980aa67ca71d80ebfd2d0cf461a15042d8921879e241aadeeec1a18"
+    },
+    "word/media/image1.png": {
+      "bytes": 4205,
+      "sha256": "347d6742013b55a2a0e16a2b81c7c190e37e5b1801c7197ebee2585be70b177c"
+    },
+    "word/media/image2.png": {
+      "bytes": 95740,
+      "sha256": "8f344ba868cee88895d2d951316bbcb9d8a8392319a0499be97c4ddc1f95ce6c"
+    },
+    "word/media/image3.png": {
+      "bytes": 107323,
+      "sha256": "9a34d0d284e298741ac8aeb75a248ea526c82f56434b7cee25262385154711eb"
+    },
+    "word/media/image4.png": {
+      "bytes": 309935,
+      "sha256": "809d9993bb031a60f765aac053633217b7db9a5457a2074b92bee2fd982c1ecf"
+    },
+    "word/media/image5.png": {
+      "bytes": 164073,
+      "sha256": "89ab9dcb38b2f7ffbad1ee06551fc70159d45915d3b81e178d8a0b887f45f501"
+    },
+    "word/theme/theme1.xml": {
+      "bytes": 8393,
+      "sha256": "70a70d84494772c1855ec6c2f9a16e0fc6cc41bdb0ce3743563ed943b63e07b8"
+    },
+    "word/settings.xml": {
+      "bytes": 30757,
+      "sha256": "4aed93b0eae7047b926c1f7338b41ce3fa5582715cc41dac325ab75bf16c961c"
+    },
+    "customXml/item1.xml": {
+      "bytes": 306,
+      "sha256": "6484d95a7eb59c4beac874cc1fae10b7f7f4cfb7caeb09dfc375ad3ac4ad6ba0"
+    },
+    "customXml/itemProps1.xml": {
+      "bytes": 341,
+      "sha256": "786407277f8bbdb1df979589c397c07e0dcdbf6518a7aaec24277b179be91694"
+    },
+    "word/numbering.xml": {
+      "bytes": 36112,
+      "sha256": "2369df90a177bfee8e6e4dd6b17ab6498df922599f46d07441e0706109a1c836"
+    },
+    "word/styles.xml": {
+      "bytes": 55714,
+      "sha256": "89e785f252ec09c1e0b3ca85a11736ab6bc540235cf762b5231217c3596a3330"
+    },
+    "word/webSettings.xml": {
+      "bytes": 3075,
+      "sha256": "b2f062aafa224004b5df250ce8b89789aaca0ff0f76092d133585b9be04f9fee"
+    },
+    "word/fontTable.xml": {
+      "bytes": 4181,
+      "sha256": "329fa0b0c4de1e667af42ee9bfb4d54b885d76032f0642d9354b91827c2623c3"
+    },
+    "docProps/core.xml": {
+      "bytes": 804,
+      "sha256": "d7925582be5aa33b6a346790d768d8ade8264cd0e9f30d9774f7bc54dde044c4"
+    },
+    "docProps/app.xml": {
+      "bytes": 999,
+      "sha256": "8bb5823f11354449e7a07125cd94b607cc043e808fd68d9abbd11fd0df0cf3f3"
+    },
+    "customXml/_rels/item1.xml.rels": {
+      "bytes": 296,
+      "sha256": "80482f86e196171d66001e0e74d1900408a3aaf2463e54005d251b5f2db9a0b0"
+    }
+  }
+}

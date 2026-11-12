@@ -1,0 +1,4 @@
+rank,doc_id,filename,title,author_display,label_code,score,zero_score,relative_path,copy_path,raw_sha256
+1,868,book_0868.txt,Island Nights’ Entertainments,Robert Louis Stevenson,fantasy_supernatural,0.0792906940851968,False,data/corpus/book_0868.txt,rank1_book_0868.txt,dc89b52e14f8562fc98d8cf446027a2cdea8d2ac070fd08b2277ea0baa7fbf67
+2,929,book_0929.txt,"Rounding Cape Horn, and Other Sea Stories",WALTER MCROBERTS,maritime_nautical,0.07644722897759103,False,data/corpus/book_0929.txt,rank2_book_0929.txt,65d14a3f7999757ae538d3a31db29519913101a4a0c8c7b6447bc6c6a27a306c
+3,412,book_0412.txt,TESSA,Louis Becke,maritime_nautical,0.07347805090070086,False,data/corpus/book_0412.txt,rank3_book_0412.txt,e57d22a3ae01de4eee39067bb62d44defa8f2cedabe1c0344ec96bb4b9744f0d

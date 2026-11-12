@@ -1,0 +1,4 @@
+rank,doc_id,filename,title,author_display,label_code,score,zero_score,relative_path,copy_path,raw_sha256
+1,62,book_0062.txt,The Candle and the Cat,Mary Finley Leonard,children_animals,0.09555724496016159,False,data/corpus/book_0062.txt,rank1_book_0062.txt,afe469be23260fe2bb2da858da530369432f6e2de897750c05bceeb48009a9be
+2,415,book_0415.txt,Miss Merivale's Mistake,Mrs. Henry Clarke,romance_social,0.08754241156097356,False,data/corpus/book_0415.txt,rank2_book_0415.txt,24e1725dfa169a8690630cd87fe378a516602ec56295bfe5906584acdc6c0eb0
+3,202,book_0202.txt,Some Christmas Stories,CHARLES DICKENS,romance_social,0.08151214614022169,False,data/corpus/book_0202.txt,rank3_book_0202.txt,0562999c3b09cd4a0508ec15b586619ce089ae2f7cb96fc0d052f238aeccde69

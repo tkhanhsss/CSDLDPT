@@ -1,0 +1,176 @@
+{
+  "date": "2026-11-04",
+  "archive_path": "archive/preparation_2026-11-04.zip",
+  "archive_sha256": "18e365b547d4b4b8a5b2aebc14205236e3e143ea7d31cbb344cc76ce30869d95",
+  "archive_size_bytes": 1910774,
+  "file_count": 31,
+  "skipped_reparse_points": [
+    "tmp/metadata_edit/node_modules"
+  ],
+  "all_archived_file_hashes_verified": true,
+  "files": [
+    {
+      "path": "tmp/capture_result.json",
+      "size_bytes": 195,
+      "sha256": "ed27af6225b7320f0c66a2af64e201ca25c76aba1daa47edd54b905178864b46"
+    },
+    {
+      "path": "tmp/finalize_preparation.py",
+      "size_bytes": 2426,
+      "sha256": "20cd3ba04fa66449b431755780e98f444ce2911b8a8e887e9ce0f9c3b431c9ed"
+    },
+    {
+      "path": "tmp/metadata_edit/book_0637.txt.edit.png",
+      "size_bytes": 7569,
+      "sha256": "adbd566837e9f46de8ec6cba3e8fded0d8e0fd2163cd679b56d2202200871f32"
+    },
+    {
+      "path": "tmp/metadata_edit/book_0637.txt.inspect.png",
+      "size_bytes": 7039,
+      "sha256": "753052282ab6b722511194a10ad7725f1808dd34ee0f152eb4ea15c72fe60c3f"
+    },
+    {
+      "path": "tmp/metadata_edit/book_0797.txt.edit.png",
+      "size_bytes": 7765,
+      "sha256": "3cead6caa1a97cc970dd939434a0f2c28b27095e4bbfc0718897d6d0861ef544"
+    },
+    {
+      "path": "tmp/metadata_edit/book_0797.txt.inspect.png",
+      "size_bytes": 7060,
+      "sha256": "f0402ae5da38c90e85806a6184a0922c23fa72bef2c0345f8414010888567576"
+    },
+    {
+      "path": "tmp/metadata_edit/book_0927.txt.edit.png",
+      "size_bytes": 6732,
+      "sha256": "00738022d5b9fafb1f4c501379b762da89580310f436fc72497388e9afd78e0a"
+    },
+    {
+      "path": "tmp/metadata_edit/book_0927.txt.inspect.png",
+      "size_bytes": 6044,
+      "sha256": "adc9512cfcdc93e1982b7ac1072217205e31e37a6e09a192fd7ad88fcd5f071f"
+    },
+    {
+      "path": "tmp/metadata_edit/book_0988.txt.edit.png",
+      "size_bytes": 6839,
+      "sha256": "6e4f7a27247a9362ffe4e42fe3877bff09be14d70a429bd3b39b646c3b33847d"
+    },
+    {
+      "path": "tmp/metadata_edit/book_0988.txt.inspect.png",
+      "size_bytes": 6087,
+      "sha256": "3bf4223b811ce5697a079955e3bbdc95a9cf17f099a8f51debff9d6009f89c2e"
+    },
+    {
+      "path": "tmp/metadata_edit/edit_titles.mjs",
+      "size_bytes": 3104,
+      "sha256": "6349599c709d412c36b22ffb75b6b1bc2f675f67783e8cebccac0ec9e08b036d"
+    },
+    {
+      "path": "tmp/metadata_edit/selected_stories.before-earl-title-edit.csv",
+      "size_bytes": 79329,
+      "sha256": "c1bc1585bc599eee134f747489a41477e87cb35bf5b507d464b7867237ff6fe9"
+    },
+    {
+      "path": "tmp/metadata_edit/selected_stories.before-title-edit.csv",
+      "size_bytes": 79306,
+      "sha256": "7a498010c9ed332dd598b6495a4eaed66b55456f23cede9e06865d61776ab11c"
+    },
+    {
+      "path": "tmp/pdfs/audit_for_plan.json",
+      "size_bytes": 673,
+      "sha256": "409b2def38f753192661bc3677e3ecfb8d995cb9ead2a187fd40c6ef38051169"
+    },
+    {
+      "path": "tmp/pdfs/audit_for_plan.py",
+      "size_bytes": 2288,
+      "sha256": "8961527e486583ce37be14b7871b01d85a4d26eb377c5c891fe7d7034ad6d3c2"
+    },
+    {
+      "path": "tmp/pdfs/check_metadata_pairs.py",
+      "size_bytes": 1460,
+      "sha256": "eead976e411a6af6fff53a1b6f8bccf6679d456c0453c0332ce633184ca73210"
+    },
+    {
+      "path": "tmp/pdfs/gd1-09.png",
+      "size_bytes": 213633,
+      "sha256": "471649815deccea1908efb82706db14f2be68b31c2c2882429f99633fc975e13"
+    },
+    {
+      "path": "tmp/pdfs/gd1-10.png",
+      "size_bytes": 307363,
+      "sha256": "4c1f3de31b52bd5e6138d9dda123f95bed097dbc87cbfa58446430af4755fdd6"
+    },
+    {
+      "path": "tmp/pdfs/gd1-11.png",
+      "size_bytes": 206228,
+      "sha256": "a9f99a598b2f0e83450e76bb0d78e719de5d55dda40c1ee5a351f7b6ac6dbd77"
+    },
+    {
+      "path": "tmp/pdfs/gd1-12.png",
+      "size_bytes": 262214,
+      "sha256": "2f0b2fa124f9b06ca65e14cb43add33b50621f61cd663bb908f62cc94edf0880"
+    },
+    {
+      "path": "tmp/pdfs/gd1-13.png",
+      "size_bytes": 251944,
+      "sha256": "97227b897fdd61c02a48a5c85d80f329e88b563050cd1a5bd14eecf4ab4cb922"
+    },
+    {
+      "path": "tmp/pdfs/gd1-14.png",
+      "size_bytes": 138961,
+      "sha256": "22865166f82a997c8dbce657ec270239b74a45025d03ff080a096e44ed565b02"
+    },
+    {
+      "path": "tmp/pdfs/gd1_extracted.txt",
+      "size_bytes": 25621,
+      "sha256": "584d658d011ddf6d1d2161a8d03cae1a9993bcdad7a507a82dff5fbea22dd29f"
+    },
+    {
+      "path": "tmp/pdfs/verify_book_volumes.py",
+      "size_bytes": 3287,
+      "sha256": "a39b98777d26618829633aa7c0bfbdc5567a27c20a93ba72d5174374d37edb75"
+    },
+    {
+      "path": "tmp/prepare_baseline.py",
+      "size_bytes": 7302,
+      "sha256": "b4d257d689b60fc6beaacce61caf3786502ae24b21b3df508bc5c00d27f6ea93"
+    },
+    {
+      "path": "tmp/reorganization_plan.json",
+      "size_bytes": 179515,
+      "sha256": "5550e95cab3f577af086eaf9c540a3630c2037e1a5a88f301ea0fd419806d7f0"
+    },
+    {
+      "path": "tmp/reorganize_project.ps1",
+      "size_bytes": 2704,
+      "sha256": "b90d25ce5e048094a7237aeb5faa8db77d7423ecf3166968af7efe5bd0df770b"
+    },
+    {
+      "path": "tmp/source_verification/pg58443.txt",
+      "size_bytes": 525100,
+      "sha256": "90f27f76871a876035e2061a2d6f98e686c763c1a3a5a324cb6aaa703638d466"
+    },
+    {
+      "path": "tmp/source_verification/pg70755.txt",
+      "size_bytes": 320163,
+      "sha256": "5394f2018783b5d81ac503f22ae07dbbc98b9ea68aab91ba6357d619bbb9afdf"
+    },
+    {
+      "path": "tmp/source_verification/pg70756.txt",
+      "size_bytes": 329477,
+      "sha256": "2287b2f1a48f0eda6f2fd936ca42b9144ff90f27f7ad02eafd43a37e2c8a07ee"
+    },
+    {
+      "path": "tmp/update_preparation_docs.py",
+      "size_bytes": 7142,
+      "sha256": "6b21b2b2a50f6236ae60829815efbe6775601aed9e9daabf2da5f1430526a630"
+    }
+  ],
+  "temporary_directory_removed": false,
+  "cleanup_strategy": "archive_directory_move_after_recursive_delete_policy_rejection",
+  "archived_directory": "archive/preparation_files_2026-11-04",
+  "temporary_directory_moved": true,
+  "root_tmp_absent": true,
+  "archived_directory_files_verified": true,
+  "external_runtime_preserved": true,
+  "automatic_review_note": "Recursive temporary-directory deletion was blocked by policy without a detailed reason; files preserved by moving directory into archive."
+}

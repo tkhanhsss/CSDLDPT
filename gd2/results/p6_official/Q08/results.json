@@ -1,0 +1,65 @@
+{
+  "query_id": "Q08",
+  "query_path": "C:\\Users\\Tung Khanh Luong\\Desktop\\CSDLDPT\\gd2\\queries\\Q08.txt",
+  "query_sha256": "1043b052280905c4c51e9d09ba9f47fd092e3fb6752aeaa9c6be3f9fc48a8443",
+  "build_id": "gd2-p3-0274798c40134e5e91eb3452500cda71",
+  "status": "ok",
+  "word_count": 1008,
+  "statistics": {
+    "content_token_count": 427,
+    "unique_stems": 348,
+    "in_vocabulary_types": 134,
+    "oov_types": 214,
+    "oov_tokens": 272,
+    "nnz": 134
+  },
+  "query_l2_raw": 38.21302217483499,
+  "top3": [
+    {
+      "rank": 1,
+      "doc_id": 153,
+      "filename": "book_0153.txt",
+      "title": "CINDERELLA OR, THE LITTLE GLASS SLIPPER AND OTHER STORIES",
+      "author_display": "Anonymous",
+      "label_code": "literary_other",
+      "score": 0.10224913930433006,
+      "zero_score": false,
+      "relative_path": "data/corpus/book_0153.txt",
+      "copy_path": "rank1_book_0153.txt",
+      "raw_sha256": "a666dd1223a704e2a0d4b82bf4bc7d5c2f47012fc8e52e358b62d49c8233ce57"
+    },
+    {
+      "rank": 2,
+      "doc_id": 110,
+      "filename": "book_0110.txt",
+      "title": "HEEDLESS HETTY",
+      "author_display": "ANNETTE LYSTER",
+      "label_code": "children_animals",
+      "score": 0.09405645606551243,
+      "zero_score": false,
+      "relative_path": "data/corpus/book_0110.txt",
+      "copy_path": "rank2_book_0110.txt",
+      "raw_sha256": "134415c533e08f5883b7a3eabc8b6d6780091f97eed1af40bbdc436f2bf331ef"
+    },
+    {
+      "rank": 3,
+      "doc_id": 373,
+      "filename": "book_0373.txt",
+      "title": "Paste Jewels",
+      "author_display": "JOHN KENDRICK BANGS",
+      "label_code": "romance_social",
+      "score": 0.09072754035045431,
+      "zero_score": false,
+      "relative_path": "data/corpus/book_0373.txt",
+      "copy_path": "rank3_book_0373.txt",
+      "raw_sha256": "65bfb8fa95f8bae5ca7f2c1c968817941367ec2f501b9961752f9a5653f00658"
+    }
+  ],
+  "message": "",
+  "timing_seconds": {
+    "transform": 0.0050005000084638596,
+    "score": 0.006300100008957088,
+    "ranking": 0.0002471000043442473,
+    "total_before_report": 0.05614590000186581
+  }
+}

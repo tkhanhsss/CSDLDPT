@@ -1,0 +1,8 @@
+# Python 3.10.11; versions frozen in the pre-GD2 baseline.
+numpy==2.2.6
+scipy==1.15.3
+scikit-learn==1.7.2
+nltk==3.10.3
+# Imported by the unchanged GD1 reference module during P2 verification.
+pandas==2.3.3
+matplotlib==3.10.9

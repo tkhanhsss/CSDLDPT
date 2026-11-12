@@ -1,0 +1,25 @@
+{
+  "query_id": "Q01",
+  "query_path": "C:\\Users\\Tung Khanh Luong\\Desktop\\CSDLDPT\\gd2\\evaluation\\p6\\performance\\empty_vector.txt",
+  "query_sha256": "f53bd0322aa7ee545c547c38c9f4d356b34576fa8c00335ba47d61b369f6b40c",
+  "build_id": "gd2-p3-0274798c40134e5e91eb3452500cda71",
+  "status": "empty_vector",
+  "word_count": 9,
+  "statistics": {
+    "content_token_count": 0,
+    "unique_stems": 0,
+    "in_vocabulary_types": 0,
+    "oov_types": 0,
+    "oov_tokens": 0,
+    "nnz": 0
+  },
+  "query_l2_raw": 0.0,
+  "top3": [],
+  "message": "No query features in the corpus vocabulary; no results returned.",
+  "timing_seconds": {
+    "transform": 0.0002607000060379505,
+    "score": 0.002036800011410378,
+    "ranking": 0.0003243999963160604,
+    "total_before_report": 0.030327000000397675
+  }
+}

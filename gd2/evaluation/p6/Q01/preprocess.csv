@@ -1,0 +1,16 @@
+token_index,original_token,character_start,character_end,token,base,decision,stem
+1,Number,0,6,number,number,kept,number
+2,Lauriston,10,19,lauriston,lauriston,kept,lauriston
+3,Gardens,20,27,gardens,gardens,kept,garden
+4,wore,28,32,wore,wore,kept,wore
+5,an,33,35,an,an,stopword,
+6,ill,36,39,ill,ill,kept,ill
+7,omened,40,46,omened,omened,kept,omen
+8,and,47,50,and,and,stopword,
+9,minatory,51,59,minatory,minatory,kept,minatori
+10,look,60,64,look,look,kept,look
+11,It,66,68,it,it,stopword,
+12,was,70,73,was,was,stopword,
+13,one,74,77,one,one,stopword,
+14,of,78,80,of,of,stopword,
+15,four,81,85,four,four,stopword,

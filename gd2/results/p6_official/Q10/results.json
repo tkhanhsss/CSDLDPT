@@ -1,0 +1,65 @@
+{
+  "query_id": "Q10",
+  "query_path": "C:\\Users\\Tung Khanh Luong\\Desktop\\CSDLDPT\\gd2\\queries\\Q10.txt",
+  "query_sha256": "ada33b420b7d801d30b0c273871ecae912c145cee6e143a637ff14a43486b38a",
+  "build_id": "gd2-p3-0274798c40134e5e91eb3452500cda71",
+  "status": "ok",
+  "word_count": 998,
+  "statistics": {
+    "content_token_count": 399,
+    "unique_stems": 274,
+    "in_vocabulary_types": 100,
+    "oov_types": 174,
+    "oov_tokens": 265,
+    "nnz": 100
+  },
+  "query_l2_raw": 35.35124942066976,
+  "top3": [
+    {
+      "rank": 1,
+      "doc_id": 980,
+      "filename": "book_0980.txt",
+      "title": "THE SURVIVORS OF THE CHANCELLOR.",
+      "author_display": "Jules Verne",
+      "label_code": "maritime_nautical",
+      "score": 0.08377462086723594,
+      "zero_score": false,
+      "relative_path": "data/corpus/book_0980.txt",
+      "copy_path": "rank1_book_0980.txt",
+      "raw_sha256": "02d70f960d204639c7ea48b15a2071b30a9157c238d7ecec234d9f12fa9adced"
+    },
+    {
+      "rank": 2,
+      "doc_id": 731,
+      "filename": "book_0731.txt",
+      "title": "Mathilda",
+      "author_display": "MARY WOLLSTONECRAFT SHELLEY",
+      "label_code": "literary_other",
+      "score": 0.07631691592256998,
+      "zero_score": false,
+      "relative_path": "data/corpus/book_0731.txt",
+      "copy_path": "rank2_book_0731.txt",
+      "raw_sha256": "39c7886c92f401896dcb0fe00100dc76a491793cb23b2554460e18faae665bd4"
+    },
+    {
+      "rank": 3,
+      "doc_id": 2,
+      "filename": "book_0002.txt",
+      "title": "The Exiles",
+      "author_display": "Honoré de Balzac",
+      "label_code": "fantasy_supernatural",
+      "score": 0.0707221091829994,
+      "zero_score": false,
+      "relative_path": "data/corpus/book_0002.txt",
+      "copy_path": "rank3_book_0002.txt",
+      "raw_sha256": "09fed25327e8175d011c0fcea5f41d620c0c496d334b5174b66522cf14a440fa"
+    }
+  ],
+  "message": "",
+  "timing_seconds": {
+    "transform": 0.004668099994887598,
+    "score": 0.005567000000155531,
+    "ranking": 0.0003341999981785193,
+    "total_before_report": 0.054222299993853085
+  }
+}

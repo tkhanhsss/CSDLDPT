@@ -1,0 +1,384 @@
+{
+  "method": "Title aliases and author review; exhaustive query 12-grams; source 30-token anchors at step 30; hashes verified against exact tokens.",
+  "limitation": "No match is screening evidence, not proof across every translation, paraphrase or unseen edition.",
+  "metadata_sha256": "fe705c8751caacaeede1f67bf07f0b80227ef965d7cd0f0890f441efa4227a37",
+  "selection_sha256": "e809d3fbdfb813350642d0a23cab38b8748cab520bdf351ea15580290a9a3d4a",
+  "corpus_files": 1000,
+  "queries": {
+    "Q01": {
+      "title_aliases": [
+        "A Study in Scarlet",
+        "Study in Scarlet"
+      ],
+      "title_matches": [],
+      "same_or_similar_author_rows": [
+        {
+          "new_filename": "book_0564.txt",
+          "title": "THE DOINGS OF RAFFLES HAW",
+          "author": "Arthur Conan Doyle"
+        },
+        {
+          "new_filename": "book_0604.txt",
+          "title": "BEYOND THE CITY",
+          "author": "Arthur Conan Doyle"
+        },
+        {
+          "new_filename": "book_0812.txt",
+          "title": "A desert drama",
+          "author": "Arthur Conan Doyle"
+        },
+        {
+          "new_filename": "book_0862.txt",
+          "title": "THE MYSTERY OF CLOOMBER",
+          "author": "Arthur Conan Doyle"
+        }
+      ],
+      "source_body_tokens": 43764,
+      "query_12gram_hits": [],
+      "source_30gram_hits": [],
+      "review_note": "Four Doyle works in metadata are different titles; neither Scarlet nor a Sherlock Holmes collection is listed. Full-source anchors and query shingles have no corpus matches.",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-11-06T00:10:38+07:00"
+    },
+    "Q02": {
+      "title_aliases": [
+        "The Hound of the Baskervilles",
+        "Hound of the Baskervilles"
+      ],
+      "title_matches": [],
+      "same_or_similar_author_rows": [
+        {
+          "new_filename": "book_0564.txt",
+          "title": "THE DOINGS OF RAFFLES HAW",
+          "author": "Arthur Conan Doyle"
+        },
+        {
+          "new_filename": "book_0604.txt",
+          "title": "BEYOND THE CITY",
+          "author": "Arthur Conan Doyle"
+        },
+        {
+          "new_filename": "book_0812.txt",
+          "title": "A desert drama",
+          "author": "Arthur Conan Doyle"
+        },
+        {
+          "new_filename": "book_0862.txt",
+          "title": "THE MYSTERY OF CLOOMBER",
+          "author": "Arthur Conan Doyle"
+        }
+      ],
+      "source_body_tokens": 59636,
+      "query_12gram_hits": [],
+      "source_30gram_hits": [],
+      "review_note": "Same four Doyle works checked; no Baskervilles title/alias. The excerpt concerns a manuscript and family legend, distinct from the other listed works.",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-11-06T00:10:38+07:00"
+    },
+    "Q03": {
+      "title_aliases": [
+        "Moby Dick",
+        "Moby-Dick",
+        "The Whale"
+      ],
+      "title_matches": [],
+      "same_or_similar_author_rows": [],
+      "source_body_tokens": 216631,
+      "query_12gram_hits": [],
+      "source_30gram_hits": [],
+      "review_note": "No Melville author row or Moby Dick/The Whale title alias; no query/source anchor overlap.",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-11-06T00:10:38+07:00"
+    },
+    "Q04": {
+      "title_aliases": [
+        "Two Years Before the Mast"
+      ],
+      "title_matches": [],
+      "same_or_similar_author_rows": [
+        {
+          "new_filename": "book_0351.txt",
+          "title": "WITH THE FRENCH FLYING CORPS",
+          "author": "CARROLL DANA WINSLOW"
+        }
+      ],
+      "source_body_tokens": 170377,
+      "query_12gram_hits": [],
+      "source_30gram_hits": [],
+      "review_note": "Broad Dana author-key hit is Carroll Dana Winslow, not Richard Henry Dana; source author/title differ. No query/source anchor overlap.",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-11-06T00:10:38+07:00"
+    },
+    "Q05": {
+      "title_aliases": [
+        "The Time Machine",
+        "Time Machine"
+      ],
+      "title_matches": [],
+      "same_or_similar_author_rows": [
+        {
+          "new_filename": "book_0215.txt",
+          "title": "The siege of Vicksburg, from the diary of Seth J. Wells",
+          "author": "Seth J. Wells"
+        },
+        {
+          "new_filename": "book_0374.txt",
+          "title": "THE CLUE OF THE GOLD COIN",
+          "author": "HELEN WELLS"
+        },
+        {
+          "new_filename": "book_0506.txt",
+          "title": "EIGHT GIRLS AND A DOG",
+          "author": "Carolyn Wells"
+        },
+        {
+          "new_filename": "book_0579.txt",
+          "title": "AN OPEN-EYED CONSPIRACY AN IDYL OF SARATOGA",
+          "author": "William Dean Howells"
+        },
+        {
+          "new_filename": "book_0655.txt",
+          "title": "QUESTIONABLE SHAPES",
+          "author": "William Dean Howells"
+        },
+        {
+          "new_filename": "book_0707.txt",
+          "title": "The Door in the Wall And Other Stories",
+          "author": "H. G. Wells"
+        },
+        {
+          "new_filename": "book_0941.txt",
+          "title": "SUBURBAN SKETCHES",
+          "author": "William Dean Howells"
+        },
+        {
+          "new_filename": "book_0974.txt",
+          "title": "Two Little Women and Treasure House",
+          "author": "CAROLYN WELLS"
+        },
+        {
+          "new_filename": "book_0999.txt",
+          "title": "Patty—Bride",
+          "author": "CAROLYN WELLS"
+        }
+      ],
+      "source_body_tokens": 32772,
+      "query_12gram_hits": [],
+      "source_30gram_hits": [],
+      "review_note": "The genuine H. G. Wells row is The Door in the Wall And Other Stories, a different collection. Other substring hits are Carolyn/Seth Wells and Howells. No Time Machine title or source-anchor overlap.",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-11-06T00:10:38+07:00"
+    },
+    "Q06": {
+      "title_aliases": [
+        "The War of the Worlds",
+        "War of the Worlds"
+      ],
+      "title_matches": [],
+      "same_or_similar_author_rows": [
+        {
+          "new_filename": "book_0215.txt",
+          "title": "The siege of Vicksburg, from the diary of Seth J. Wells",
+          "author": "Seth J. Wells"
+        },
+        {
+          "new_filename": "book_0374.txt",
+          "title": "THE CLUE OF THE GOLD COIN",
+          "author": "HELEN WELLS"
+        },
+        {
+          "new_filename": "book_0506.txt",
+          "title": "EIGHT GIRLS AND A DOG",
+          "author": "Carolyn Wells"
+        },
+        {
+          "new_filename": "book_0579.txt",
+          "title": "AN OPEN-EYED CONSPIRACY AN IDYL OF SARATOGA",
+          "author": "William Dean Howells"
+        },
+        {
+          "new_filename": "book_0655.txt",
+          "title": "QUESTIONABLE SHAPES",
+          "author": "William Dean Howells"
+        },
+        {
+          "new_filename": "book_0707.txt",
+          "title": "The Door in the Wall And Other Stories",
+          "author": "H. G. Wells"
+        },
+        {
+          "new_filename": "book_0941.txt",
+          "title": "SUBURBAN SKETCHES",
+          "author": "William Dean Howells"
+        },
+        {
+          "new_filename": "book_0974.txt",
+          "title": "Two Little Women and Treasure House",
+          "author": "CAROLYN WELLS"
+        },
+        {
+          "new_filename": "book_0999.txt",
+          "title": "Patty—Bride",
+          "author": "CAROLYN WELLS"
+        }
+      ],
+      "source_body_tokens": 60627,
+      "query_12gram_hits": [],
+      "source_30gram_hits": [],
+      "review_note": "Reviewed the same Wells/Howells name candidates; none is War of the Worlds. No query/source anchor overlap.",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-11-06T00:10:38+07:00"
+    },
+    "Q07": {
+      "title_aliases": [
+        "Pride and Prejudice"
+      ],
+      "title_matches": [],
+      "same_or_similar_author_rows": [],
+      "source_body_tokens": 127864,
+      "query_12gram_hits": [],
+      "source_30gram_hits": [],
+      "review_note": "No Austen author row or Pride and Prejudice alias. Chapter VI excerpt excludes illustration captions; no overlap.",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-11-06T00:10:38+07:00"
+    },
+    "Q08": {
+      "title_aliases": [
+        "Jane Eyre"
+      ],
+      "title_matches": [],
+      "same_or_similar_author_rows": [],
+      "source_body_tokens": 188599,
+      "query_12gram_hits": [],
+      "source_30gram_hits": [],
+      "review_note": "No Bronte author row or Jane Eyre title alias. Continuous prose from Chapter IV; no overlap.",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-11-06T00:10:38+07:00"
+    },
+    "Q09": {
+      "title_aliases": [
+        "Treasure Island"
+      ],
+      "title_matches": [],
+      "same_or_similar_author_rows": [
+        {
+          "new_filename": "book_0143.txt",
+          "title": "The Silverado Squatters",
+          "author": "ROBERT LOUIS STEVENSON"
+        },
+        {
+          "new_filename": "book_0290.txt",
+          "title": "The strange case of Dr. Jekyll and Mr. Hyde",
+          "author": "Robert Louis Stevenson"
+        },
+        {
+          "new_filename": "book_0336.txt",
+          "title": "TALES AND FANTASIES",
+          "author": "ROBERT LOUIS STEVENSON"
+        },
+        {
+          "new_filename": "book_0816.txt",
+          "title": "WEIR OF HERMISTON AN UNFINISHED ROMANCE",
+          "author": "ROBERT LOUIS STEVENSON"
+        },
+        {
+          "new_filename": "book_0840.txt",
+          "title": "MEMORIES AND PORTRAITS",
+          "author": "ROBERT LOUIS STEVENSON"
+        },
+        {
+          "new_filename": "book_0868.txt",
+          "title": "Island Nights’ Entertainments",
+          "author": "Robert Louis Stevenson"
+        }
+      ],
+      "source_body_tokens": 69090,
+      "query_12gram_hits": [],
+      "source_30gram_hits": [],
+      "review_note": "Reviewed six Stevenson entries including Tales and Fantasies, Memories and Portraits, and Island Nights Entertainments. None is Treasure Island; full-source anchors screen the entire source against all files including collections, with no match.",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-11-06T00:10:38+07:00"
+    },
+    "Q10": {
+      "title_aliases": [
+        "The Count of Monte Cristo",
+        "Count of Monte-Cristo",
+        "Le Comte de Monte Cristo"
+      ],
+      "title_matches": [],
+      "same_or_similar_author_rows": [
+        {
+          "new_filename": "book_0050.txt",
+          "title": "MURAT",
+          "author": "Alexandre Dumas"
+        },
+        {
+          "new_filename": "book_0394.txt",
+          "title": "The Sicilian Bandit",
+          "author": "Alexandre Dumas"
+        },
+        {
+          "new_filename": "book_0536.txt",
+          "title": "URBAIN GRANDIER",
+          "author": "Alexandre Dumas"
+        },
+        {
+          "new_filename": "book_0594.txt",
+          "title": "JOAN OF NAPLES",
+          "author": "Alexandre Dumas"
+        },
+        {
+          "new_filename": "book_0704.txt",
+          "title": "ALI PACHA",
+          "author": "Alexandre Dumas"
+        }
+      ],
+      "source_body_tokens": 467008,
+      "query_12gram_hits": [],
+      "source_30gram_hits": [],
+      "review_note": "Five Dumas titles reviewed: Murat, The Sicilian Bandit, Urbain Grandier, Joan of Naples, Ali Pacha. They are different works; no Monte Cristo alias or source-anchor match.",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-11-06T00:10:38+07:00"
+    },
+    "Q11": {
+      "title_aliases": [
+        "Walden",
+        "Walden or Life in the Woods"
+      ],
+      "title_matches": [],
+      "same_or_similar_author_rows": [
+        {
+          "new_filename": "book_0378.txt",
+          "title": "The Maine Woods",
+          "author": "Henry David Thoreau"
+        },
+        {
+          "new_filename": "book_0626.txt",
+          "title": "Cape Cod",
+          "author": "Henry David Thoreau"
+        }
+      ],
+      "source_body_tokens": 116919,
+      "query_12gram_hits": [],
+      "source_30gram_hits": [],
+      "review_note": "Thoreau entries are The Maine Woods and Cape Cod, different works from Walden. Source ebook also contains Civil Disobedience; the selected passage is explicitly within Walden, The Ponds. Full ebook anchors have no corpus match.",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-11-06T00:10:38+07:00"
+    },
+    "Q12": {
+      "title_aliases": [
+        "On the Origin of Species",
+        "Origin of Species"
+      ],
+      "title_matches": [],
+      "same_or_similar_author_rows": [],
+      "source_body_tokens": 155901,
+      "query_12gram_hits": [],
+      "source_30gram_hits": [],
+      "review_note": "No Darwin author row or Origin of Species alias. Scientific prose intentionally retained as an exploratory case before retrieval; no overlap.",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-11-06T00:10:38+07:00"
+    }
+  },
+  "review_completed_at": "2026-11-06T00:10:38+07:00"
+}

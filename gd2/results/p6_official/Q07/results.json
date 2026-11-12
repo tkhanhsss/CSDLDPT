@@ -1,0 +1,65 @@
+{
+  "query_id": "Q07",
+  "query_path": "C:\\Users\\Tung Khanh Luong\\Desktop\\CSDLDPT\\gd2\\queries\\Q07.txt",
+  "query_sha256": "f1e25ac1f25370f0580629d186e2f1edb3a7a7830f7ccdbbdcd5a93a21bbd3b0",
+  "build_id": "gd2-p3-0274798c40134e5e91eb3452500cda71",
+  "status": "ok",
+  "word_count": 1025,
+  "statistics": {
+    "content_token_count": 354,
+    "unique_stems": 249,
+    "in_vocabulary_types": 65,
+    "oov_types": 184,
+    "oov_tokens": 272,
+    "nnz": 65
+  },
+  "query_l2_raw": 29.877447491673443,
+  "top3": [
+    {
+      "rank": 1,
+      "doc_id": 62,
+      "filename": "book_0062.txt",
+      "title": "The Candle and the Cat",
+      "author_display": "Mary Finley Leonard",
+      "label_code": "children_animals",
+      "score": 0.09555724496016159,
+      "zero_score": false,
+      "relative_path": "data/corpus/book_0062.txt",
+      "copy_path": "rank1_book_0062.txt",
+      "raw_sha256": "afe469be23260fe2bb2da858da530369432f6e2de897750c05bceeb48009a9be"
+    },
+    {
+      "rank": 2,
+      "doc_id": 415,
+      "filename": "book_0415.txt",
+      "title": "Miss Merivale's Mistake",
+      "author_display": "Mrs. Henry Clarke",
+      "label_code": "romance_social",
+      "score": 0.08754241156097356,
+      "zero_score": false,
+      "relative_path": "data/corpus/book_0415.txt",
+      "copy_path": "rank2_book_0415.txt",
+      "raw_sha256": "24e1725dfa169a8690630cd87fe378a516602ec56295bfe5906584acdc6c0eb0"
+    },
+    {
+      "rank": 3,
+      "doc_id": 202,
+      "filename": "book_0202.txt",
+      "title": "Some Christmas Stories",
+      "author_display": "CHARLES DICKENS",
+      "label_code": "romance_social",
+      "score": 0.08151214614022169,
+      "zero_score": false,
+      "relative_path": "data/corpus/book_0202.txt",
+      "copy_path": "rank3_book_0202.txt",
+      "raw_sha256": "0562999c3b09cd4a0508ec15b586619ce089ae2f7cb96fc0d052f238aeccde69"
+    }
+  ],
+  "message": "",
+  "timing_seconds": {
+    "transform": 0.0036866000009467825,
+    "score": 0.004997900003218092,
+    "ranking": 0.00024330000451300293,
+    "total_before_report": 0.04591369999980088
+  }
+}

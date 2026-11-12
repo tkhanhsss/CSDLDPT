@@ -1,0 +1,217 @@
+{
+  "selection_date": "2026-11-05",
+  "selection_basis": "Six content groups, two different works each; no retrieval results used.",
+  "main_illustration": "Q01",
+  "exploratory_case": "Q12",
+  "items": [
+    {
+      "query_id": "Q01",
+      "source_id": 244,
+      "source_title": "A Study in Scarlet",
+      "source_author": "Arthur Conan Doyle",
+      "content_group": "mystery_crime",
+      "chapter_or_section": "Part I, Chapter III: The Lauriston Gardens Mystery",
+      "start_anchor": "Number 3, Lauriston Gardens wore",
+      "title_aliases": [
+        "A Study in Scarlet",
+        "Study in Scarlet"
+      ],
+      "author_keys": [
+        "doyle"
+      ],
+      "selection_reason": "Investigating a murder scene; concrete situation for the main illustration."
+    },
+    {
+      "query_id": "Q02",
+      "source_id": 2852,
+      "source_title": "The Hound of the Baskervilles",
+      "source_author": "Arthur Conan Doyle",
+      "content_group": "mystery_crime",
+      "chapter_or_section": "Chapter 2: The Curse of the Baskervilles",
+      "start_anchor": "“I have in my pocket a manuscript,",
+      "title_aliases": [
+        "The Hound of the Baskervilles",
+        "Hound of the Baskervilles"
+      ],
+      "author_keys": [
+        "doyle"
+      ],
+      "selection_reason": "A threatening family legend discussed during an investigation."
+    },
+    {
+      "query_id": "Q03",
+      "source_id": 2701,
+      "source_title": "Moby Dick; Or, The Whale",
+      "source_author": "Herman Melville",
+      "content_group": "maritime_nautical",
+      "chapter_or_section": "Chapter 48: The First Lowering",
+      "start_anchor": "The phantoms, for so they then seemed,",
+      "title_aliases": [
+        "Moby Dick",
+        "Moby-Dick",
+        "The Whale"
+      ],
+      "author_keys": [
+        "melville"
+      ],
+      "selection_reason": "Launching boats and whaling at sea."
+    },
+    {
+      "query_id": "Q04",
+      "source_id": 2055,
+      "source_title": "Two Years Before the Mast",
+      "source_author": "Richard Henry Dana Jr.",
+      "content_group": "maritime_nautical",
+      "chapter_or_section": "Chapter III: Ship's Duties--Tropics",
+      "start_anchor": "As we had now a long \"spell\" of fine weather,",
+      "title_aliases": [
+        "Two Years Before the Mast"
+      ],
+      "author_keys": [
+        "dana"
+      ],
+      "selection_reason": "Duties, watches and organisation aboard a merchant ship."
+    },
+    {
+      "query_id": "Q05",
+      "source_id": 35,
+      "source_title": "The Time Machine",
+      "source_author": "H. G. Wells",
+      "content_group": "science_fiction_speculative",
+      "chapter_or_section": "IV: Time Travelling",
+      "start_anchor": "“I told some of you last Thursday",
+      "title_aliases": [
+        "The Time Machine",
+        "Time Machine"
+      ],
+      "author_keys": [
+        "wells"
+      ],
+      "selection_reason": "The mechanism and experience of travelling through time."
+    },
+    {
+      "query_id": "Q06",
+      "source_id": 36,
+      "source_title": "The War of the Worlds",
+      "source_author": "H. G. Wells",
+      "content_group": "science_fiction_speculative",
+      "chapter_or_section": "Book One, V: The Heat-Ray",
+      "start_anchor": "After the glimpse I had had of the Martians",
+      "title_aliases": [
+        "The War of the Worlds",
+        "War of the Worlds"
+      ],
+      "author_keys": [
+        "wells"
+      ],
+      "selection_reason": "Encounter with Martians and a destructive unfamiliar weapon."
+    },
+    {
+      "query_id": "Q07",
+      "source_id": 1342,
+      "source_title": "Pride and Prejudice",
+      "source_author": "Jane Austen",
+      "content_group": "romance_social",
+      "chapter_or_section": "Chapter VI",
+      "start_anchor": "The ladies of Longbourn soon waited",
+      "title_aliases": [
+        "Pride and Prejudice"
+      ],
+      "author_keys": [
+        "austen"
+      ],
+      "selection_reason": "Social visits, impressions and attitudes to courtship."
+    },
+    {
+      "query_id": "Q08",
+      "source_id": 1260,
+      "source_title": "Jane Eyre: An Autobiography",
+      "source_author": "Charlotte Brontë",
+      "content_group": "romance_social",
+      "chapter_or_section": "Chapter IV",
+      "start_anchor": "From my discourse with Mr. Lloyd,",
+      "title_aliases": [
+        "Jane Eyre"
+      ],
+      "author_keys": [
+        "bront"
+      ],
+      "selection_reason": "Childhood dependency, unequal treatment within a household, and emotional isolation."
+    },
+    {
+      "query_id": "Q09",
+      "source_id": 120,
+      "source_title": "Treasure Island",
+      "source_author": "Robert Louis Stevenson",
+      "content_group": "adventure_exploration",
+      "chapter_or_section": "I: The Old Sea-dog at the Admiral Benbow",
+      "start_anchor": "Squire Trelawney, Dr. Livesey, and the rest",
+      "title_aliases": [
+        "Treasure Island"
+      ],
+      "author_keys": [
+        "stevenson"
+      ],
+      "selection_reason": "Arrival of a seafarer and the beginning of a dangerous adventure."
+    },
+    {
+      "query_id": "Q10",
+      "source_id": 1184,
+      "source_title": "The Count of Monte Cristo",
+      "source_author": "Alexandre Dumas; Auguste Maquet",
+      "content_group": "adventure_exploration",
+      "chapter_or_section": "Chapter 21: The Island of Tiboulen",
+      "start_anchor": "Dantès, although stunned and almost suffocated,",
+      "title_aliases": [
+        "The Count of Monte Cristo",
+        "Count of Monte-Cristo",
+        "Le Comte de Monte Cristo"
+      ],
+      "author_keys": [
+        "dumas",
+        "maquet"
+      ],
+      "selection_reason": "Escape from imprisonment and survival in the sea."
+    },
+    {
+      "query_id": "Q11",
+      "source_id": 205,
+      "source_title": "Walden",
+      "source_author": "Henry David Thoreau",
+      "content_group": "nature_animals",
+      "chapter_or_section": "Walden: The Ponds",
+      "start_anchor": "Sometimes, having had a surfeit of human society",
+      "title_aliases": [
+        "Walden",
+        "Walden or Life in the Woods"
+      ],
+      "author_keys": [
+        "thoreau"
+      ],
+      "selection_reason": "Observation of ponds, landscape and a life close to nature."
+    },
+    {
+      "query_id": "Q12",
+      "source_id": 1228,
+      "source_title": "On the Origin of Species",
+      "source_author": "Charles Darwin",
+      "content_group": "nature_animals",
+      "chapter_or_section": "Chapter III: Struggle for Existence",
+      "start_anchor": "Before entering on the subject of this chapter,",
+      "title_aliases": [
+        "On the Origin of Species",
+        "Origin of Species"
+      ],
+      "author_keys": [
+        "darwin"
+      ],
+      "selection_reason": "Scientific discussion of ecological competition; designated in advance as an exploratory difficult case, not a confirmed low-quality result."
+    }
+  ],
+  "selection_adjustments": [
+    {
+      "query_id": "Q07",
+      "reason": "Chapter III excerpt crossed an illustration caption; Chapter VI has an uninterrupted prose excerpt. No retrieval scores used."
+    }
+  ]
+}

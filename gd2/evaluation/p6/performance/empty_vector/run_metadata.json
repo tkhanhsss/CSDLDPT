@@ -1,0 +1,14 @@
+{
+  "build_id": "gd2-p3-0274798c40134e5e91eb3452500cda71",
+  "created_at": "2026-11-06T01:19:37+07:00",
+  "database": "C:\\Users\\Tung Khanh Luong\\Desktop\\CSDLDPT\\gd2\\database\\documents.sqlite",
+  "trace": true,
+  "n_queries": 1,
+  "load_seconds": 4.323437400002149,
+  "total_seconds": 4.370969899988268,
+  "exit_code": 0,
+  "source_sha256": {
+    "search.py": "8f8faf8a48e59d86621a80da468915bc670562f168412633eae7672cfaf8bb65",
+    "preprocess.py": "d25e7a624591fdce25ad1fe8619b58ed8518af849454cb7fbdc79d63f26d25ec"
+  }
+}

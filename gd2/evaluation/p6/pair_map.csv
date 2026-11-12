@@ -1,0 +1,37 @@
+query_id,rank,filename,title,author,score,query_path,document_path,pair_id
+Q01,3,book_0638.txt,The Thirty-Nine Steps,John Buchan,0.08047372043623405,gd2/queries/Q01.txt,data/corpus/book_0638.txt,P001
+Q04,3,book_0850.txt,"FANNY CAMPBELL, THE FEMALE PIRATE CAPTAIN A Tale Of The Revolution",Maturin M. Ballou,0.14198545271798035,gd2/queries/Q04.txt,data/corpus/book_0850.txt,P002
+Q06,2,book_0727.txt,The radium pool,Ed Earl Repp,0.10257450914713472,gd2/queries/Q06.txt,data/corpus/book_0727.txt,P003
+Q05,3,book_0606.txt,An aviator's luck,Frank Cobb,0.08471155554304788,gd2/queries/Q05.txt,data/corpus/book_0606.txt,P004
+Q05,2,book_0618.txt,The green girl,Jack Williamson,0.09951321937656465,gd2/queries/Q05.txt,data/corpus/book_0618.txt,P005
+Q11,3,book_0510.txt,IN THE WILDERNESS,Charles Dudley Warner,0.10868191163489094,gd2/queries/Q11.txt,data/corpus/book_0510.txt,P006
+Q08,3,book_0373.txt,Paste Jewels,JOHN KENDRICK BANGS,0.09072754035045431,gd2/queries/Q08.txt,data/corpus/book_0373.txt,P007
+Q03,2,book_0975.txt,THE END OF THE TETHER,Joseph Conrad,0.08675443609585293,gd2/queries/Q03.txt,data/corpus/book_0975.txt,P008
+Q01,2,book_0659.txt,"""To let""",B. M. CROKER,0.08616183541680224,gd2/queries/Q01.txt,data/corpus/book_0659.txt,P009
+Q10,3,book_0002.txt,The Exiles,Honoré de Balzac,0.0707221091829994,gd2/queries/Q10.txt,data/corpus/book_0002.txt,P010
+Q11,1,book_0626.txt,Cape Cod,Henry David Thoreau,0.13153108038035363,gd2/queries/Q11.txt,data/corpus/book_0626.txt,P011
+Q09,2,book_0929.txt,"Rounding Cape Horn, and Other Sea Stories",WALTER MCROBERTS,0.07644722897759103,gd2/queries/Q09.txt,data/corpus/book_0929.txt,P012
+Q08,2,book_0110.txt,HEEDLESS HETTY,ANNETTE LYSTER,0.09405645606551243,gd2/queries/Q08.txt,data/corpus/book_0110.txt,P013
+Q10,2,book_0731.txt,Mathilda,MARY WOLLSTONECRAFT SHELLEY,0.07631691592256998,gd2/queries/Q10.txt,data/corpus/book_0731.txt,P014
+Q06,3,book_0842.txt,WOMAN FROM ANOTHER PLANET,Frank Belknap Long,0.09936376092705729,gd2/queries/Q06.txt,data/corpus/book_0842.txt,P015
+Q07,1,book_0062.txt,The Candle and the Cat,Mary Finley Leonard,0.09555724496016159,gd2/queries/Q07.txt,data/corpus/book_0062.txt,P016
+Q04,1,book_0300.txt,A BUNCH OF ROPE YARNS,STANTON H. KING,0.15216760322066272,gd2/queries/Q04.txt,data/corpus/book_0300.txt,P017
+Q12,2,book_0938.txt,"The Dawn of Reason; or, Mental Traits in the Lower Animals",James Weir Jr.,0.09444002716319498,gd2/queries/Q12.txt,data/corpus/book_0938.txt,P018
+Q02,2,book_0505.txt,Is Polite Society Polite? And Other Essays,Julia Ward Howe,0.06503419498146372,gd2/queries/Q02.txt,data/corpus/book_0505.txt,P019
+Q09,3,book_0412.txt,TESSA,Louis Becke,0.07347805090070086,gd2/queries/Q09.txt,data/corpus/book_0412.txt,P020
+Q03,1,book_0467.txt,THE BOY AVIATORS IN AFRICA OR AN AERIAL IVORY TRAIL,John Henry Goldfrap,0.08761580490950682,gd2/queries/Q03.txt,data/corpus/book_0467.txt,P021
+Q12,3,book_0389.txt,‘That Very Mab’,May Kendall; Andrew Lang,0.0796642881827584,gd2/queries/Q12.txt,data/corpus/book_0389.txt,P022
+Q09,1,book_0868.txt,Island Nights’ Entertainments,Robert Louis Stevenson,0.0792906940851968,gd2/queries/Q09.txt,data/corpus/book_0868.txt,P023
+Q07,3,book_0202.txt,Some Christmas Stories,CHARLES DICKENS,0.08151214614022169,gd2/queries/Q07.txt,data/corpus/book_0202.txt,P024
+Q11,2,book_0378.txt,The Maine Woods,Henry David Thoreau,0.12276789554395341,gd2/queries/Q11.txt,data/corpus/book_0378.txt,P025
+Q08,1,book_0153.txt,"CINDERELLA OR, THE LITTLE GLASS SLIPPER AND OTHER STORIES",Anonymous,0.10224913930433006,gd2/queries/Q08.txt,data/corpus/book_0153.txt,P026
+Q12,1,book_0977.txt,THE COMING RACE,Edward Bulwer Lytton,0.09740912325940312,gd2/queries/Q12.txt,data/corpus/book_0977.txt,P027
+Q05,1,book_0707.txt,The Door in the Wall And Other Stories,H. G. Wells,0.1062300307225309,gd2/queries/Q05.txt,data/corpus/book_0707.txt,P028
+Q04,2,book_0980.txt,THE SURVIVORS OF THE CHANCELLOR.,Jules Verne,0.15091334611764293,gd2/queries/Q04.txt,data/corpus/book_0980.txt,P029
+Q10,1,book_0980.txt,THE SURVIVORS OF THE CHANCELLOR.,Jules Verne,0.08377462086723594,gd2/queries/Q10.txt,data/corpus/book_0980.txt,P030
+Q07,2,book_0415.txt,Miss Merivale's Mistake,Mrs. Henry Clarke,0.08754241156097356,gd2/queries/Q07.txt,data/corpus/book_0415.txt,P031
+Q01,1,book_0733.txt,THE CLUB OF QUEER TRADES,G. K. Chesterton,0.08644224856531173,gd2/queries/Q01.txt,data/corpus/book_0733.txt,P032
+Q06,1,book_0707.txt,The Door in the Wall And Other Stories,H. G. Wells,0.11328456553465109,gd2/queries/Q06.txt,data/corpus/book_0707.txt,P033
+Q03,3,book_0936.txt,THE DREADNOUGHT BOYS ON A SUBMARINE,John Henry Goldfrap,0.08333936702480729,gd2/queries/Q03.txt,data/corpus/book_0936.txt,P034
+Q02,3,book_0233.txt,THE POOR CLARE,Elizabeth Cleghorn Gaskell,0.06471713052059251,gd2/queries/Q02.txt,data/corpus/book_0233.txt,P035
+Q02,1,book_0880.txt,GEOFFREY THE LOLLARD.,FRANCES EASTWOOD,0.06670651585951687,gd2/queries/Q02.txt,data/corpus/book_0880.txt,P036

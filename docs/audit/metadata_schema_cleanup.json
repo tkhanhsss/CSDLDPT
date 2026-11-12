@@ -1,0 +1,313 @@
+{
+  "date": "2026-11-04T18:30:47+07:00",
+  "reason": "Theo yêu cầu người dùng, bỏ cột tên tệp trước đổi tên khỏi CSV, CSDL và tài liệu liên quan.",
+  "current_metadata_columns": [
+    "new_filename",
+    "title",
+    "author"
+  ],
+  "csv_changes": [
+    {
+      "path": "archive/preparation_files_2026-11-04/metadata_edit/selected_stories.before-earl-title-edit.csv",
+      "rows": 1000,
+      "before_sha256": "c1bc1585bc599eee134f747489a41477e87cb35bf5b507d464b7867237ff6fe9",
+      "after_sha256": "e9df9bfe7589639772f444dd127d2ffe422e7ff8ca482c4df3c6e990fdd8d71d",
+      "remaining_values_unchanged": true
+    },
+    {
+      "path": "archive/preparation_files_2026-11-04/metadata_edit/selected_stories.before-title-edit.csv",
+      "rows": 1000,
+      "before_sha256": "7a498010c9ed332dd598b6495a4eaed66b55456f23cede9e06865d61776ab11c",
+      "after_sha256": "67463d593e0608f92fc0f089d8f858e2a98bf52aec91523869b51ae52be034f8",
+      "remaining_values_unchanged": true
+    },
+    {
+      "path": "baselines/pre_gd2_2026-11-04/snapshots/data/metadata/selected_stories.csv",
+      "rows": 1000,
+      "before_sha256": "cfcf99b2f9e7a194bca62b96774039541c038f72f89ebfa4668dad63cf8f08f1",
+      "after_sha256": "fe705c8751caacaeede1f67bf07f0b80227ef965d7cd0f0890f441efa4227a37",
+      "remaining_values_unchanged": true
+    },
+    {
+      "path": "data/metadata/selected_stories.csv",
+      "rows": 1000,
+      "before_sha256": "cfcf99b2f9e7a194bca62b96774039541c038f72f89ebfa4668dad63cf8f08f1",
+      "after_sha256": "fe705c8751caacaeede1f67bf07f0b80227ef965d7cd0f0890f441efa4227a37",
+      "remaining_values_unchanged": true
+    }
+  ],
+  "p3_before": {
+    "status": "passed",
+    "phase": "P3",
+    "build_id": "gd2-p3-684d29d3dc034619a74e8677c40a7070",
+    "created_at": "2026-11-04T17:49:00+07:00",
+    "timezone": "Asia/Bangkok",
+    "database_filename": "documents.sqlite",
+    "database_sha256": "7b13722a1a4c133cbf09a8920c712ddbb27ef49a8709eb4d3044e94fcd64f923",
+    "size_bytes": 68030464,
+    "page_count": 16609,
+    "page_size": 4096,
+    "sqlite_version": "3.40.1",
+    "p2_verification_sha256": "952ef5919ba60d497f5096ec37745f203db4bd281478468ea3da42ab8e308455",
+    "source_sha256": {
+      "gd2/src/database.py": "dcbd57300c9cfe5d4d43936c02771ce9b3c6a6ea11f560b45a662e32c433411c",
+      "gd2/src/build_database.py": "c144523bfa35101b2d8bc6ad68fa8d8b707382661982dd0b5abce04493487a6e",
+      "gd2/src/verify_database.py": "6c65d30763abd0d5b4129a48c8a4975f31d2e26396d37a0d6c2ce2a8223fb16a",
+      "gd2/database/schema.sql": "c90f4ed25c0057ce504247914aedc95054ebc670a0d2220915f7745d0b9df3f3",
+      "data/metadata/selected_stories.csv": "cfcf99b2f9e7a194bca62b96774039541c038f72f89ebfa4668dad63cf8f08f1",
+      "data/metadata/labels.jsonl": "cb0b3215ec665455159ab7bdc6c7ed565909f3ed1d7d0b53cf1346d7d5c06bb7",
+      "docs/audit/GD2_volume_verification.json": "f8c5d0edc867a89976485bad499d0fdf7527357321e642daa70314065a1fc6ff",
+      "gd1/gd1_stats.py": "b9f12e1d882f1835c11f07759f5f4cf70f7e453db5cb5c95441d2a78349bcccf",
+      "gd2/config/configuration.json": "ded934da18fca0323fcca26b9701494309e92d24a17ed1982bb3438d9de8ec1d",
+      "gd2/config/stopwords.json": "9d5a538835fb9f75e5da50ba7b1470f7a5241d8e021eaf98a4fcc26e21f418ad",
+      "gd2/src/preprocess.py": "d25e7a624591fdce25ad1fe8619b58ed8518af849454cb7fbdc79d63f26d25ec"
+    },
+    "p2_checks": {
+      "status": "passed",
+      "artifact_files_checked": 10,
+      "baseline_ok": true,
+      "features": {
+        "shape": [
+          1000,
+          34416
+        ],
+        "nnz": 1926766,
+        "dtype": "float64",
+        "zero_rows": 0,
+        "df_min": 3,
+        "df_max": 600,
+        "idf_min": 1.510159844780013,
+        "idf_max": 6.52246041819533,
+        "l2_norm_min": 0.9999999999999972,
+        "l2_norm_max": 1.0000000000000016,
+        "max_l2_error": 2.7755575615628914e-15,
+        "max_formula_error": 3.885780586188048e-16,
+        "tolerance": 1e-10
+      }
+    },
+    "checks": {
+      "integrity_check": "ok",
+      "foreign_key_violations": 0,
+      "sql_df_mismatches": 0,
+      "table_rows": {
+        "build_info": 1,
+        "labels": 14,
+        "documents": 1000,
+        "terms": 34416,
+        "document_terms": 1926766
+      },
+      "features": {
+        "shape": [
+          1000,
+          34416
+        ],
+        "nnz": 1926766,
+        "dtype": "float64",
+        "zero_rows": 0,
+        "df_min": 3,
+        "df_max": 600,
+        "idf_min": 1.510159844780013,
+        "idf_max": 6.52246041819533,
+        "l2_norm_min": 0.9999999999999972,
+        "l2_norm_max": 1.0000000000000016,
+        "max_l2_error": 2.7755575615628914e-15,
+        "max_formula_error": 3.885780586188048e-16,
+        "tolerance": 1e-10
+      },
+      "p2_comparison": {
+        "max_count_difference": 0.0,
+        "max_weight_difference": 0.0,
+        "df_idf_l2_raw_exact": true,
+        "mappings_exact": true
+      }
+    },
+    "label_distribution": {
+      "adventure_exploration": 92,
+      "children_animals": 3,
+      "fantasy_supernatural": 73,
+      "historical_biographical": 91,
+      "literary_other": 182,
+      "maritime_nautical": 34,
+      "mystery_crime": 85,
+      "myth_folklore": 34,
+      "nature_animals": 36,
+      "religion_philosophy": 53,
+      "romance_social": 167,
+      "science_fiction_speculative": 34,
+      "travel_geography": 46,
+      "war_military": 70
+    },
+    "timing_seconds": {
+      "transaction_insert_and_validate": 25.69239729999981,
+      "reopen_load_and_validate": 10.518601199999921,
+      "total_before_report": 39.239642399999866
+    }
+  },
+  "p2_artifacts_unchanged": {
+    "counts.npz": {
+      "sha256": "9fc997ef0c824de65f5fa05af214665b04dfe1f93ff093445c6e6d4d47f1be57",
+      "size_bytes": 4495059
+    },
+    "df.npy": {
+      "sha256": "4055f273869c71fbb281d673a7ced97b34544a465a1fd36733e5145a3d3409f2",
+      "size_bytes": 275456
+    },
+    "documents.csv": {
+      "sha256": "4e1eda8b7533bf55c39990f85d593f072cc0eebe09d269167f6f9eaf2ab75fbe",
+      "size_bytes": 184864
+    },
+    "idf.npy": {
+      "sha256": "5cc61b9e60eb384a9051fbbf20dce0fed5d755207c88779f0fa0ee8379e38d7a",
+      "size_bytes": 275456
+    },
+    "l2_raw.npy": {
+      "sha256": "82e4f88c7177e09fc649b0dc0d966145a5e6a5ba51eaaee2a14184956f93637b",
+      "size_bytes": 8128
+    },
+    "preprocess_sample.csv": {
+      "sha256": "0579e67cdf7a8aa197cb03c93b25a800b17aa2c331f62fb69b1d46a42d1e2cc3",
+      "size_bytes": 673
+    },
+    "term_samples.csv": {
+      "sha256": "cb1b4f2a0e86230ee7eb84e56baa1d5b89e6083aa15c51df66b22d68bd5779d5",
+      "size_bytes": 257
+    },
+    "terms.csv": {
+      "sha256": "f72d287deb007a167eed1ed04fef73def923ded9c75bf003686a570b42ea5033",
+      "size_bytes": 1394694
+    },
+    "tfidf.npz": {
+      "sha256": "2c8562f647d1ab59f2243b50e5e4a5e1f9a6617cf359f5b44ee6bf553834bef4",
+      "size_bytes": 13631922
+    },
+    "top5_comparison.csv": {
+      "sha256": "7514f7504135ad900d8445f803a7cf4824ed264466140450f721345b4d07be88",
+      "size_bytes": 102108
+    }
+  },
+  "p2_report_before_sha256": "952ef5919ba60d497f5096ec37745f203db4bd281478468ea3da42ab8e308455",
+  "p2_report_after_sha256": "bb5da44cfd9b940b95fc68114723bb00f40a7f5d945e38876eb13072a162cf5c",
+  "baseline_integrity_before_sha256": "eed8384a857049c4cc75ccdda551573df4ad44ab44ee4c2938591e58be81e4a4",
+  "baseline_integrity_after_sha256": "bdd23e6b4d0950bdc5424b2baf5c991fec81cc70a1b838542d110adef6d48be8",
+  "p3_after": {
+    "status": "passed",
+    "phase": "P3",
+    "build_id": "gd2-p3-c8aca629d6634d01aa25ef8d396a3eed",
+    "created_at": "2026-11-04T18:31:16+07:00",
+    "timezone": "Asia/Bangkok",
+    "database_filename": "documents.sqlite",
+    "database_sha256": "77a9c54c8ecd6c4c86f3b333f2124de3ff051663f9d1b0034347743018dcba6f",
+    "size_bytes": 67985408,
+    "page_count": 16598,
+    "page_size": 4096,
+    "sqlite_version": "3.40.1",
+    "p2_verification_sha256": "bb5da44cfd9b940b95fc68114723bb00f40a7f5d945e38876eb13072a162cf5c",
+    "source_sha256": {
+      "gd2/src/database.py": "1f1a3dd16ce1f5dc53c4122ae34d2c207f77d57e29c27095496d837ca0da1e02",
+      "gd2/src/build_database.py": "d62e4dc1d068072a23064d275f831a8accc6fd34e9f3721565c864bce125dd50",
+      "gd2/src/verify_database.py": "6c65d30763abd0d5b4129a48c8a4975f31d2e26396d37a0d6c2ce2a8223fb16a",
+      "gd2/database/schema.sql": "16b40b136224be925f90bf50a146161e0844a54c4d55ea621e5c1c2443014c7a",
+      "data/metadata/selected_stories.csv": "fe705c8751caacaeede1f67bf07f0b80227ef965d7cd0f0890f441efa4227a37",
+      "data/metadata/labels.jsonl": "cb0b3215ec665455159ab7bdc6c7ed565909f3ed1d7d0b53cf1346d7d5c06bb7",
+      "docs/audit/GD2_volume_verification.json": "f8c5d0edc867a89976485bad499d0fdf7527357321e642daa70314065a1fc6ff",
+      "gd1/gd1_stats.py": "b9f12e1d882f1835c11f07759f5f4cf70f7e453db5cb5c95441d2a78349bcccf",
+      "gd2/config/configuration.json": "ded934da18fca0323fcca26b9701494309e92d24a17ed1982bb3438d9de8ec1d",
+      "gd2/config/stopwords.json": "9d5a538835fb9f75e5da50ba7b1470f7a5241d8e021eaf98a4fcc26e21f418ad",
+      "gd2/src/preprocess.py": "d25e7a624591fdce25ad1fe8619b58ed8518af849454cb7fbdc79d63f26d25ec"
+    },
+    "p2_checks": {
+      "status": "passed",
+      "artifact_files_checked": 10,
+      "baseline_ok": true,
+      "features": {
+        "shape": [
+          1000,
+          34416
+        ],
+        "nnz": 1926766,
+        "dtype": "float64",
+        "zero_rows": 0,
+        "df_min": 3,
+        "df_max": 600,
+        "idf_min": 1.510159844780013,
+        "idf_max": 6.52246041819533,
+        "l2_norm_min": 0.9999999999999972,
+        "l2_norm_max": 1.0000000000000016,
+        "max_l2_error": 2.7755575615628914e-15,
+        "max_formula_error": 3.885780586188048e-16,
+        "tolerance": 1e-10
+      }
+    },
+    "checks": {
+      "integrity_check": "ok",
+      "foreign_key_violations": 0,
+      "sql_df_mismatches": 0,
+      "table_rows": {
+        "build_info": 1,
+        "labels": 14,
+        "documents": 1000,
+        "terms": 34416,
+        "document_terms": 1926766
+      },
+      "features": {
+        "shape": [
+          1000,
+          34416
+        ],
+        "nnz": 1926766,
+        "dtype": "float64",
+        "zero_rows": 0,
+        "df_min": 3,
+        "df_max": 600,
+        "idf_min": 1.510159844780013,
+        "idf_max": 6.52246041819533,
+        "l2_norm_min": 0.9999999999999972,
+        "l2_norm_max": 1.0000000000000016,
+        "max_l2_error": 2.7755575615628914e-15,
+        "max_formula_error": 3.885780586188048e-16,
+        "tolerance": 1e-10
+      },
+      "p2_comparison": {
+        "max_count_difference": 0.0,
+        "max_weight_difference": 0.0,
+        "df_idf_l2_raw_exact": true,
+        "mappings_exact": true
+      }
+    },
+    "label_distribution": {
+      "adventure_exploration": 92,
+      "children_animals": 3,
+      "fantasy_supernatural": 73,
+      "historical_biographical": 91,
+      "literary_other": 182,
+      "maritime_nautical": 34,
+      "mystery_crime": 85,
+      "myth_folklore": 34,
+      "nature_animals": 36,
+      "religion_philosophy": 53,
+      "romance_social": 167,
+      "science_fiction_speculative": 34,
+      "travel_geography": 46,
+      "war_military": 70
+    },
+    "timing_seconds": {
+      "transaction_insert_and_validate": 27.022086400000262,
+      "reopen_load_and_validate": 10.775476200000412,
+      "total_before_report": 40.57099730000027
+    }
+  },
+  "documents_columns": [
+    "doc_id",
+    "filename",
+    "relative_path",
+    "raw_sha256",
+    "normalized_sha256",
+    "word_count",
+    "label_code",
+    "label_confidence",
+    "title",
+    "author_display",
+    "l2_raw"
+  ],
+  "status": "completed"
+}

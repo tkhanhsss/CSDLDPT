@@ -1,0 +1,7 @@
+token_index,original_token,character_start,character_end,token,base,decision,stem
+1,the,0,3,the,the,stopword,
+2,and,4,7,and,and,stopword,
+3,a,8,9,a,a,short_base,
+4,chapter,10,17,chapter,chapter,stopword,
+5,I,18,19,i,i,short_base,
+6,LX,20,22,lx,lx,stopword,

@@ -1,0 +1,82 @@
+{
+  "created_at": "2026-11-06T05:29:36+07:00",
+  "status": "awaiting_consensus_on_two_pairs",
+  "validated_forms": {
+    "A": {
+      "name": "Khanh",
+      "complete_pairs": 36,
+      "grade_distribution": {
+        "0": 11,
+        "1": 21,
+        "2": 4
+      }
+    },
+    "B": {
+      "name": "Trong",
+      "complete_pairs": 36,
+      "grade_distribution": {
+        "1": 19,
+        "0": 13,
+        "2": 4
+      }
+    }
+  },
+  "verbatim_evidence_check": "passed_for_both_forms",
+  "exact_agreements": 34,
+  "initial_exact_agreement": 0.9444444444444444,
+  "binary_agreements": 36,
+  "official_mean_precision_at_3": null,
+  "note": "Only grade 0 versus 1 disagreements; neither is binary-relevant under the frozen protocol. Final consensus has not been received.",
+  "disagreements": [
+    {
+      "pair_id": "P034",
+      "query_id": "Q03",
+      "rank": 3,
+      "filename": "book_0936.txt",
+      "title": "THE DREADNOUGHT BOYS ON A SUBMARINE",
+      "reviewer_A": {
+        "pair_id": "P034",
+        "reviewer": "Khanh",
+        "grade": "1",
+        "query_evidence": "Starbuck was now pulling obliquely\nacross Stubb’s bow; and when for a minute or so the two boats were\npretty near to each other, Stubb hailed the mate.",
+        "document_evidence": "I have put my best work of head\nand hand into the Lockyer submarine, and Uncle Sam gets first call on\nher services.”\n\n“You remind me of a copy",
+        "reason": "Truy vấn tập trung vào cảnh hạ thuyền săn cá voi và những người lính biển chèo thuyền thủ công đuổi bắt cá voi trên đại dương. Tài liệu mô tả các thủy thủ phục vụ trên tàu ngầm quân sự hiện đại. Hai bên liên quan ở bối cảnh hàng hải và nhiệm vụ của thủy thủ đoàn, nhưng khác biệt hoàn toàn về công nghệ tàu thuyền và tình huống hạ thuyền săn bắt sinh vật biển cổ điển. Vì vậy tôi chọn mức 1."
+      },
+      "reviewer_B": {
+        "pair_id": "P034",
+        "reviewer": "Trong",
+        "grade": "0",
+        "query_evidence": "Starbuck was now pulling obliquely\nacross Stubb’s bow; and when for a minute or so the two boats were\npretty near to each other, Stubb hailed the mate.",
+        "document_evidence": "I have put my best work of head\nand hand into the Lockyer submarine, and Uncle Sam gets first call on\nher services.”\n\n“You remind me of a copy",
+        "reason": "Truy vấn tập trung vào cảnh hạ thuyền chèo tay và các thủy thủ dùng mái chèo đuổi theo cá voi trên biển. Tài liệu mô tả việc chế tạo và thử nghiệm tàu ngầm quân sự phục vụ hải quân hiện đại. Hai bên khác biệt hoàn toàn về công nghệ, bối cảnh và tình huống: thuyền săn cá voi cổ thế kỷ 19 đối lập với tàu ngầm cơ khí thế kỷ 20. Vì vậy tôi chọn mức 0."
+      }
+    },
+    {
+      "pair_id": "P003",
+      "query_id": "Q06",
+      "rank": 2,
+      "filename": "book_0727.txt",
+      "title": "The radium pool",
+      "reviewer_A": {
+        "pair_id": "P003",
+        "reviewer": "Khanh",
+        "grade": "1",
+        "query_evidence": "It was as if some\ninvisible jet impinged upon them and flashed into white flame. It was\nas if each man were suddenly and momentarily turned to fire.\n\nThen,",
+        "document_evidence": "glare of the\ngreen rays cast off by the pool.\n\n\"'My God, Sands!' I shouted eagerly, forgetting momentarily my sorrows\nand",
+        "reason": "Truy vấn tập trung vào vũ khí tia nhiệt vô hình của người ngoài hành tinh thiêu cháy các nạn nhân trong nháy mắt. Tài liệu mô tả một phát hiện viễn tưởng về hồ phóng xạ radium phát ra các tia sáng kỳ lạ trong hang động ngầm. Hai bên liên quan ở yếu tố khoa học viễn tưởng với những tia năng lượng hủy diệt kỳ bí, nhưng khác ở tình huống: tài liệu là cuộc thám hiểm hang động phóng xạ dưới lòng đất chứ không có sinh vật Sao Hỏa xâm lăng Trái Đất. Vì vậy tôi chọn mức 1."
+      },
+      "reviewer_B": {
+        "pair_id": "P003",
+        "reviewer": "Trong",
+        "grade": "0",
+        "query_evidence": "It was as if some\ninvisible jet impinged upon them and flashed into white flame. It was\nas if each man were suddenly and momentarily turned to fire.\n\nThen,",
+        "document_evidence": "glare of the\ngreen rays cast off by the pool.\n\n\"'My God, Sands!' I shouted eagerly, forgetting momentarily my sorrows\nand",
+        "reason": "Truy vấn tập trung vào cảnh vũ khí tia nhiệt của người Sao Hỏa hủy diệt chớp nhoáng các nạn nhân trên mặt đất. Tài liệu mô tả hai người phát hiện hồ phóng xạ radium phát sáng màu xanh lục trong lòng hang động hoang mạc. Hai bên khác biệt hoàn toàn về chủ đề: một bên là cuộc xâm lăng của người ngoài hành tinh bằng vũ khí hủy diệt, bên kia là câu chuyện thám hiểm tìm kho báu khoáng sản phóng xạ dưới đất. Vì vậy tôi chọn mức 0."
+      }
+    }
+  ],
+  "source_sha256": {
+    "reviewer_A.csv": "34071ad37cbb33833a3fc317be52d4ae0e7a112331ae5a80719fee3969725adc",
+    "reviewer_B.csv": "88ae097a6868abf289c2a21eec3a0b0e34ec0b7cad481b8687ce3926e5ab3d50"
+  }
+}

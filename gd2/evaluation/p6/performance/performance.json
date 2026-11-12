@@ -1,0 +1,64 @@
+{
+  "status": "passed",
+  "created_at": "2026-11-06T01:19:38+07:00",
+  "build_id": "gd2-p3-0274798c40134e5e91eb3452500cda71",
+  "database_sha256": "46d8295c0a909a886a8880c4b2898a4f08d939a61d2fe21f1002b6cef9b922ea",
+  "p5_lock_sha256": "7073d8625a6a38ed0731e7a6ca4fd91481c4dbb1602bb8afe2de1880ec6507d3",
+  "hardware": {
+    "logical_cpus": 12,
+    "physical_cores": 6,
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "ram_bytes": 17013252096
+  },
+  "operating_system": "Windows-10-10.0.26200-SP0",
+  "python": "3.10.11",
+  "sqlite": "3.40.1",
+  "packages": {
+    "numpy": "2.2.6",
+    "scipy": "1.15.3",
+    "scikit-learn": "1.7.2",
+    "nltk": "3.10.3"
+  },
+  "method": {
+    "query_warmups": 1,
+    "measured_repeats_per_query": 5,
+    "database_load_repeats": 5,
+    "warm_scope": "Read/decode TXT + transform + XqT + rank all 1000; X and stem cache warm; excludes output copies, trace and interpreter startup",
+    "load_scope": "load_database: SQLite read, reconstruct index, lightweight validation; excludes interpreter startup and vocabulary dict; OS cache not flushed, not a cold-disk claim",
+    "construction_scope": "Historic measured P2/P3 stages, not rebuilt during P6; see original report scopes"
+  },
+  "load_seconds_median": 4.188263300005929,
+  "query_total_seconds_median_all_60": 0.0071587000056752,
+  "query_total_seconds_min_all_60": 0.005894199988688342,
+  "query_total_seconds_max_all_60": 0.009486499999184161,
+  "historic_p2_timing_seconds": {
+    "gd2_build": 28.290225900000223,
+    "gd1_reference": 179.86059149999983,
+    "total_before_report": 212.16587059999983
+  },
+  "historic_p3_timing_seconds": {
+    "transaction_insert_and_validate": 26.008829500000502,
+    "reopen_load_and_validate": 11.055640199999289,
+    "total_before_report": 39.87120059999961
+  },
+  "size_bytes": {
+    "sqlite": 67866624,
+    "corpus_txt": 192171854,
+    "query_txt": 68338,
+    "tfidf_csr_arrays": 23125196
+  },
+  "memory_note": "CSR array bytes only, not process peak RAM or full DatabaseIndex",
+  "empty_vector": {
+    "status": "empty_vector",
+    "returned_files": 0,
+    "part_of_official_12": false
+  },
+  "deterministic_repeats": true,
+  "source_sha256": {
+    "benchmark.py": "cc4bb8f529a60ba8ff3be3dc7202c47222add0d63a0ea0de275a7fd6304f3886",
+    "evaluate.py": "edbce875f825cc70adf7c50a97852ef10ff92c09440c416e9b959855d2909203",
+    "search.py": "8f8faf8a48e59d86621a80da468915bc670562f168412633eae7672cfaf8bb65",
+    "database.py": "f25d161b7626769e076214728e26503a2310a2a0ac49338ed668d93f68c13684",
+    "preprocess.py": "d25e7a624591fdce25ad1fe8619b58ed8518af849454cb7fbdc79d63f26d25ec"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "baseline_id": "pre_gd2_2026-11-04",
+  "corpus_files_checked": 1000,
+  "gd1_assets_checked": 26,
+  "baseline_files_checked": 32,
+  "metadata_rows": 1000,
+  "label_rows": 1000,
+  "tfidf_rebuilt": false,
+  "problems": [],
+  "completed_on": "2026-11-04",
+  "metadata_title_edits_complete": true,
+  "gd1_clarification_document": "docs/gd2/LAM_RO_GD1_TRUOC_GD2.md",
+  "folder_organization_complete": true,
+  "temporary_files_disposition": "archived, not deleted",
+  "next_step": "P2: rebuild TF-IDF using frozen GD1 configuration"
+}

@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-04",
+  "source": "selected_stories.csv",
+  "changes": [
+    {
+      "row": 638,
+      "column": 3,
+      "filename": "book_0637.txt",
+      "before": "Grania, The Story of an Island (Complete)",
+      "after": "Grania, The Story of an Island (Vol. I, Parts I-II)"
+    },
+    {
+      "row": 798,
+      "column": 3,
+      "filename": "book_0797.txt",
+      "before": "Grania, The Story of an Island (Complete)",
+      "after": "Grania, The Story of an Island (Vol. II, Parts III-IV)"
+    },
+    {
+      "row": 928,
+      "column": 3,
+      "filename": "book_0927.txt",
+      "before": "The Earl's promise",
+      "after": "The Earl's Promise (Vol. 1 of 3)"
+    },
+    {
+      "row": 989,
+      "column": 3,
+      "filename": "book_0988.txt",
+      "before": "The Earl's promise",
+      "after": "The Earl's Promise (Vol. 2 of 3)"
+    }
+  ]
+}

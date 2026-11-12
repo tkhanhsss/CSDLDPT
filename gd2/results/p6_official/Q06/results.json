@@ -1,0 +1,65 @@
+{
+  "query_id": "Q06",
+  "query_path": "C:\\Users\\Tung Khanh Luong\\Desktop\\CSDLDPT\\gd2\\queries\\Q06.txt",
+  "query_sha256": "66e4b482af5c7d70d0fa358b7c1d513fddcc2076c35fbfc3892a4e5141f7901c",
+  "build_id": "gd2-p3-0274798c40134e5e91eb3452500cda71",
+  "status": "ok",
+  "word_count": 989,
+  "statistics": {
+    "content_token_count": 434,
+    "unique_stems": 295,
+    "in_vocabulary_types": 127,
+    "oov_types": 168,
+    "oov_tokens": 271,
+    "nnz": 127
+  },
+  "query_l2_raw": 36.074398491679226,
+  "top3": [
+    {
+      "rank": 1,
+      "doc_id": 707,
+      "filename": "book_0707.txt",
+      "title": "The Door in the Wall And Other Stories",
+      "author_display": "H. G. Wells",
+      "label_code": "science_fiction_speculative",
+      "score": 0.11328456553465109,
+      "zero_score": false,
+      "relative_path": "data/corpus/book_0707.txt",
+      "copy_path": "rank1_book_0707.txt",
+      "raw_sha256": "a3401fc369587bf0981b6926a3593aec09fa9c994bf6e65fc590fa15ed3da5be"
+    },
+    {
+      "rank": 2,
+      "doc_id": 727,
+      "filename": "book_0727.txt",
+      "title": "The radium pool",
+      "author_display": "Ed Earl Repp",
+      "label_code": "science_fiction_speculative",
+      "score": 0.10257450914713472,
+      "zero_score": false,
+      "relative_path": "data/corpus/book_0727.txt",
+      "copy_path": "rank2_book_0727.txt",
+      "raw_sha256": "b7a6c655706243dc0e4fe0e3b8fc081abc1c43f2f744cde3f640e6c63c714ba6"
+    },
+    {
+      "rank": 3,
+      "doc_id": 842,
+      "filename": "book_0842.txt",
+      "title": "WOMAN FROM ANOTHER PLANET",
+      "author_display": "Frank Belknap Long",
+      "label_code": "science_fiction_speculative",
+      "score": 0.09936376092705729,
+      "zero_score": false,
+      "relative_path": "data/corpus/book_0842.txt",
+      "copy_path": "rank3_book_0842.txt",
+      "raw_sha256": "5eb3e35129b342cd307b762b890887606e73f67b92f5783d106e366f7bc5cc30"
+    }
+  ],
+  "message": "",
+  "timing_seconds": {
+    "transform": 0.0038677999982610345,
+    "score": 0.005451199991512112,
+    "ranking": 0.0003009000065503642,
+    "total_before_report": 0.054197300007217564
+  }
+}

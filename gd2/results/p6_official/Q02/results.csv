@@ -1,0 +1,4 @@
+rank,doc_id,filename,title,author_display,label_code,score,zero_score,relative_path,copy_path,raw_sha256
+1,880,book_0880.txt,GEOFFREY THE LOLLARD.,FRANCES EASTWOOD,historical_biographical,0.06670651585951687,False,data/corpus/book_0880.txt,rank1_book_0880.txt,0e551cf093c298ce8e9b2e7debc26ebe60ff47799a70f1e878defc4efff4b5e2
+2,505,book_0505.txt,Is Polite Society Polite? And Other Essays,Julia Ward Howe,literary_other,0.06503419498146372,False,data/corpus/book_0505.txt,rank2_book_0505.txt,3b84faa6271acc9d525b6793ca16867a70bb0fed9f4dfe8a56b276b41556cd17
+3,233,book_0233.txt,THE POOR CLARE,Elizabeth Cleghorn Gaskell,fantasy_supernatural,0.06471713052059251,False,data/corpus/book_0233.txt,rank3_book_0233.txt,c47fc2a3ccf516e9ecc850a3938eb2b12265159814ab138f80b4706b9fcc910b

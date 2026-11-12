@@ -1,0 +1,65 @@
+{
+  "query_id": "Q04",
+  "query_path": "C:\\Users\\Tung Khanh Luong\\Desktop\\CSDLDPT\\gd2\\queries\\Q04.txt",
+  "query_sha256": "bcb3613a2963b76c1b8fdb98b17978b1d6b9a3addf752b7db8fcdcd379bf1a7a",
+  "build_id": "gd2-p3-0274798c40134e5e91eb3452500cda71",
+  "status": "ok",
+  "word_count": 997,
+  "statistics": {
+    "content_token_count": 366,
+    "unique_stems": 216,
+    "in_vocabulary_types": 78,
+    "oov_types": 138,
+    "oov_tokens": 244,
+    "nnz": 78
+  },
+  "query_l2_raw": 33.50297111731803,
+  "top3": [
+    {
+      "rank": 1,
+      "doc_id": 300,
+      "filename": "book_0300.txt",
+      "title": "A BUNCH OF ROPE YARNS",
+      "author_display": "STANTON H. KING",
+      "label_code": "maritime_nautical",
+      "score": 0.15216760322066272,
+      "zero_score": false,
+      "relative_path": "data/corpus/book_0300.txt",
+      "copy_path": "rank1_book_0300.txt",
+      "raw_sha256": "e7dd32efe93562dea1463c303e762a199aef2e2c4242159c3dd64d20d32b0566"
+    },
+    {
+      "rank": 2,
+      "doc_id": 980,
+      "filename": "book_0980.txt",
+      "title": "THE SURVIVORS OF THE CHANCELLOR.",
+      "author_display": "Jules Verne",
+      "label_code": "maritime_nautical",
+      "score": 0.15091334611764293,
+      "zero_score": false,
+      "relative_path": "data/corpus/book_0980.txt",
+      "copy_path": "rank2_book_0980.txt",
+      "raw_sha256": "02d70f960d204639c7ea48b15a2071b30a9157c238d7ecec234d9f12fa9adced"
+    },
+    {
+      "rank": 3,
+      "doc_id": 850,
+      "filename": "book_0850.txt",
+      "title": "FANNY CAMPBELL, THE FEMALE PIRATE CAPTAIN A Tale Of The Revolution",
+      "author_display": "Maturin M. Ballou",
+      "label_code": "maritime_nautical",
+      "score": 0.14198545271798035,
+      "zero_score": false,
+      "relative_path": "data/corpus/book_0850.txt",
+      "copy_path": "rank3_book_0850.txt",
+      "raw_sha256": "1fb9ec497ee7c5d3dbce159ecc9598d5ddd34e9e7c7fad03504873a88841c5be"
+    }
+  ],
+  "message": "",
+  "timing_seconds": {
+    "transform": 0.004228200006764382,
+    "score": 0.0059883999929297715,
+    "ranking": 0.0005032000044593588,
+    "total_before_report": 0.05099809999228455
+  }
+}

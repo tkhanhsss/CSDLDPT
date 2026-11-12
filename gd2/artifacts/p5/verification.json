@@ -1,0 +1,28 @@
+{
+  "status": "passed",
+  "phase": "P5",
+  "checks": {
+    "status": "passed",
+    "queries": 12,
+    "distinct_works": 12,
+    "groups": {
+      "mystery_crime": 2,
+      "maritime_nautical": 2,
+      "science_fiction_speculative": 2,
+      "romance_social": 2,
+      "adventure_exploration": 2,
+      "nature_animals": 2
+    },
+    "word_count_min": 965,
+    "word_count_max": 1025,
+    "word_count_total": 12011,
+    "source_substrings_exact": true,
+    "locked_files_checked": 36,
+    "deep_overlap_screen": false,
+    "retrieval_run": false
+  },
+  "deep_recheck_performed": true,
+  "deep_recheck_result": "passed; zero query/source overlap hits across all 1000 files",
+  "unit_tests_passed": 22,
+  "official_queries_retrieved": false
+}

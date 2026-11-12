@@ -1,0 +1,4 @@
+rank,doc_id,filename,title,author_display,label_code,score,zero_score,relative_path,copy_path,raw_sha256
+1,467,book_0467.txt,THE BOY AVIATORS IN AFRICA OR AN AERIAL IVORY TRAIL,John Henry Goldfrap,adventure_exploration,0.08761580490950682,False,data/corpus/book_0467.txt,rank1_book_0467.txt,19ab28faf062aab80ae34a453842b466beb013b7fc46ac62776e6cb28463afcb
+2,975,book_0975.txt,THE END OF THE TETHER,Joseph Conrad,maritime_nautical,0.08675443609585293,False,data/corpus/book_0975.txt,rank2_book_0975.txt,148236ae17313953d2688845706666dfe02f7ba4ec6792bb2715288d9411e236
+3,936,book_0936.txt,THE DREADNOUGHT BOYS ON A SUBMARINE,John Henry Goldfrap,war_military,0.08333936702480729,False,data/corpus/book_0936.txt,rank3_book_0936.txt,89315ef0dfe2b6d3760aa413648d56e7d6a5a45f9ce936c7d82c32810aabe8e8

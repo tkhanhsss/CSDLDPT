@@ -1,0 +1,65 @@
+{
+  "query_id": "Q11",
+  "query_path": "C:\\Users\\Tung Khanh Luong\\Desktop\\CSDLDPT\\gd2\\queries\\Q11.txt",
+  "query_sha256": "edf665261b12566fc193860419c20b3bf8c070f17a39512d658e1dd680f24a07",
+  "build_id": "gd2-p3-0274798c40134e5e91eb3452500cda71",
+  "status": "ok",
+  "word_count": 998,
+  "statistics": {
+    "content_token_count": 418,
+    "unique_stems": 328,
+    "in_vocabulary_types": 138,
+    "oov_types": 190,
+    "oov_tokens": 263,
+    "nnz": 138
+  },
+  "query_l2_raw": 34.808251629975686,
+  "top3": [
+    {
+      "rank": 1,
+      "doc_id": 626,
+      "filename": "book_0626.txt",
+      "title": "Cape Cod",
+      "author_display": "Henry David Thoreau",
+      "label_code": "travel_geography",
+      "score": 0.13153108038035363,
+      "zero_score": false,
+      "relative_path": "data/corpus/book_0626.txt",
+      "copy_path": "rank1_book_0626.txt",
+      "raw_sha256": "23a00a906c166b2d0374459b1a54c75abb31eb2a1c8d66a08b7d0f9f7a2a19d1"
+    },
+    {
+      "rank": 2,
+      "doc_id": 378,
+      "filename": "book_0378.txt",
+      "title": "The Maine Woods",
+      "author_display": "Henry David Thoreau",
+      "label_code": "adventure_exploration",
+      "score": 0.12276789554395341,
+      "zero_score": false,
+      "relative_path": "data/corpus/book_0378.txt",
+      "copy_path": "rank2_book_0378.txt",
+      "raw_sha256": "7ee443ebec7ad5e41722aefbe9d00358f428314ca5503c51fff1320c4480601a"
+    },
+    {
+      "rank": 3,
+      "doc_id": 510,
+      "filename": "book_0510.txt",
+      "title": "IN THE WILDERNESS",
+      "author_display": "Charles Dudley Warner",
+      "label_code": "nature_animals",
+      "score": 0.10868191163489094,
+      "zero_score": false,
+      "relative_path": "data/corpus/book_0510.txt",
+      "copy_path": "rank3_book_0510.txt",
+      "raw_sha256": "ce452088dc01c1c20dcd4bab9da4962760659d246894e5490dd5b647c020ba7b"
+    }
+  ],
+  "message": "",
+  "timing_seconds": {
+    "transform": 0.00483150000218302,
+    "score": 0.006763500001397915,
+    "ranking": 0.00029149999318178743,
+    "total_before_report": 0.05404170000110753
+  }
+}

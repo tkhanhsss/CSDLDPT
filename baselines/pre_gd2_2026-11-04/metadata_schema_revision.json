@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-04T18:30:47+07:00",
+  "reason": "Theo yêu cầu người dùng, bỏ cột tên tệp trước đổi tên khỏi CSV, CSDL và tài liệu liên quan.",
+  "columns": [
+    "new_filename",
+    "title",
+    "author"
+  ],
+  "csv_changes": [
+    {
+      "path": "archive/preparation_files_2026-11-04/metadata_edit/selected_stories.before-earl-title-edit.csv",
+      "rows": 1000,
+      "before_sha256": "c1bc1585bc599eee134f747489a41477e87cb35bf5b507d464b7867237ff6fe9",
+      "after_sha256": "e9df9bfe7589639772f444dd127d2ffe422e7ff8ca482c4df3c6e990fdd8d71d",
+      "remaining_values_unchanged": true
+    },
+    {
+      "path": "archive/preparation_files_2026-11-04/metadata_edit/selected_stories.before-title-edit.csv",
+      "rows": 1000,
+      "before_sha256": "7a498010c9ed332dd598b6495a4eaed66b55456f23cede9e06865d61776ab11c",
+      "after_sha256": "67463d593e0608f92fc0f089d8f858e2a98bf52aec91523869b51ae52be034f8",
+      "remaining_values_unchanged": true
+    },
+    {
+      "path": "baselines/pre_gd2_2026-11-04/snapshots/data/metadata/selected_stories.csv",
+      "rows": 1000,
+      "before_sha256": "cfcf99b2f9e7a194bca62b96774039541c038f72f89ebfa4668dad63cf8f08f1",
+      "after_sha256": "fe705c8751caacaeede1f67bf07f0b80227ef965d7cd0f0890f441efa4227a37",
+      "remaining_values_unchanged": true
+    },
+    {
+      "path": "data/metadata/selected_stories.csv",
+      "rows": 1000,
+      "before_sha256": "cfcf99b2f9e7a194bca62b96774039541c038f72f89ebfa4668dad63cf8f08f1",
+      "after_sha256": "fe705c8751caacaeede1f67bf07f0b80227ef965d7cd0f0890f441efa4227a37",
+      "remaining_values_unchanged": true
+    }
+  ],
+  "corpus_and_feature_parameters_changed": false
+}

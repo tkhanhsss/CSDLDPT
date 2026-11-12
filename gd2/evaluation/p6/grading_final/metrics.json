@@ -1,0 +1,86 @@
+{
+  "status": "complete",
+  "queries": 12,
+  "pairs": 36,
+  "mean_precision_at_3": 0.1111111111111111,
+  "fraction_queries_with_relevant_top3": 0.25,
+  "initial_exact_agreement": 0.9444444444444444,
+  "disagreement_pairs": [
+    "P003",
+    "P034"
+  ],
+  "grade_distribution": {
+    "0": 11,
+    "1": 21,
+    "2": 4
+  },
+  "per_query": [
+    {
+      "query_id": "Q01",
+      "relevant_at_3": 0,
+      "precision_at_3": 0.0
+    },
+    {
+      "query_id": "Q02",
+      "relevant_at_3": 0,
+      "precision_at_3": 0.0
+    },
+    {
+      "query_id": "Q03",
+      "relevant_at_3": 0,
+      "precision_at_3": 0.0
+    },
+    {
+      "query_id": "Q04",
+      "relevant_at_3": 1,
+      "precision_at_3": 0.3333333333333333
+    },
+    {
+      "query_id": "Q05",
+      "relevant_at_3": 0,
+      "precision_at_3": 0.0
+    },
+    {
+      "query_id": "Q06",
+      "relevant_at_3": 0,
+      "precision_at_3": 0.0
+    },
+    {
+      "query_id": "Q07",
+      "relevant_at_3": 0,
+      "precision_at_3": 0.0
+    },
+    {
+      "query_id": "Q08",
+      "relevant_at_3": 0,
+      "precision_at_3": 0.0
+    },
+    {
+      "query_id": "Q09",
+      "relevant_at_3": 0,
+      "precision_at_3": 0.0
+    },
+    {
+      "query_id": "Q10",
+      "relevant_at_3": 0,
+      "precision_at_3": 0.0
+    },
+    {
+      "query_id": "Q11",
+      "relevant_at_3": 2,
+      "precision_at_3": 0.6666666666666666
+    },
+    {
+      "query_id": "Q12",
+      "relevant_at_3": 1,
+      "precision_at_3": 0.3333333333333333
+    }
+  ],
+  "created_at": "2026-11-06T16:41:47+07:00",
+  "build_id": "gd2-p3-0274798c40134e5e91eb3452500cda71",
+  "judgments_sha256": {
+    "reviewer_A.csv": "34071ad37cbb33833a3fc317be52d4ae0e7a112331ae5a80719fee3969725adc",
+    "reviewer_B.csv": "88ae097a6868abf289c2a21eec3a0b0e34ec0b7cad481b8687ce3926e5ab3d50",
+    "consensus.csv": "3a8ecd970973ad654a3139c78365a280c88df673bd5827f16f5ebaed48c700e5"
+  }
+}

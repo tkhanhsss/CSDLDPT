@@ -1,0 +1,106 @@
+{
+  "status": "passed",
+  "phase": "P3",
+  "build_id": "gd2-p3-0274798c40134e5e91eb3452500cda71",
+  "created_at": "2026-11-04T18:49:51+07:00",
+  "timezone": "Asia/Bangkok",
+  "database_filename": "documents.sqlite",
+  "database_sha256": "46d8295c0a909a886a8880c4b2898a4f08d939a61d2fe21f1002b6cef9b922ea",
+  "size_bytes": 67866624,
+  "page_count": 16569,
+  "page_size": 4096,
+  "sqlite_version": "3.40.1",
+  "p2_verification_sha256": "bb5da44cfd9b940b95fc68114723bb00f40a7f5d945e38876eb13072a162cf5c",
+  "source_sha256": {
+    "gd2/src/database.py": "f25d161b7626769e076214728e26503a2310a2a0ac49338ed668d93f68c13684",
+    "gd2/src/build_database.py": "c99fd3629da461e0380f1a44217dc1a9cfb1948bcd1d6515e27ef6caad2f63e2",
+    "gd2/src/verify_database.py": "6c65d30763abd0d5b4129a48c8a4975f31d2e26396d37a0d6c2ce2a8223fb16a",
+    "gd2/database/schema.sql": "c4927aab8009dbedadc24606d9d4b19a9393c88d9b5673c95f3e74c74fdce6d7",
+    "data/metadata/selected_stories.csv": "fe705c8751caacaeede1f67bf07f0b80227ef965d7cd0f0890f441efa4227a37",
+    "data/metadata/labels.jsonl": "cb0b3215ec665455159ab7bdc6c7ed565909f3ed1d7d0b53cf1346d7d5c06bb7",
+    "gd1/gd1_stats.py": "b9f12e1d882f1835c11f07759f5f4cf70f7e453db5cb5c95441d2a78349bcccf",
+    "gd2/config/configuration.json": "ded934da18fca0323fcca26b9701494309e92d24a17ed1982bb3438d9de8ec1d",
+    "gd2/config/stopwords.json": "9d5a538835fb9f75e5da50ba7b1470f7a5241d8e021eaf98a4fcc26e21f418ad",
+    "gd2/src/preprocess.py": "d25e7a624591fdce25ad1fe8619b58ed8518af849454cb7fbdc79d63f26d25ec"
+  },
+  "p2_checks": {
+    "status": "passed",
+    "artifact_files_checked": 10,
+    "baseline_ok": true,
+    "features": {
+      "shape": [
+        1000,
+        34416
+      ],
+      "nnz": 1926766,
+      "dtype": "float64",
+      "zero_rows": 0,
+      "df_min": 3,
+      "df_max": 600,
+      "idf_min": 1.510159844780013,
+      "idf_max": 6.52246041819533,
+      "l2_norm_min": 0.9999999999999972,
+      "l2_norm_max": 1.0000000000000016,
+      "max_l2_error": 2.7755575615628914e-15,
+      "max_formula_error": 3.885780586188048e-16,
+      "tolerance": 1e-10
+    }
+  },
+  "checks": {
+    "integrity_check": "ok",
+    "foreign_key_violations": 0,
+    "sql_df_mismatches": 0,
+    "table_rows": {
+      "build_info": 1,
+      "labels": 14,
+      "documents": 1000,
+      "terms": 34416,
+      "document_terms": 1926766
+    },
+    "features": {
+      "shape": [
+        1000,
+        34416
+      ],
+      "nnz": 1926766,
+      "dtype": "float64",
+      "zero_rows": 0,
+      "df_min": 3,
+      "df_max": 600,
+      "idf_min": 1.510159844780013,
+      "idf_max": 6.52246041819533,
+      "l2_norm_min": 0.9999999999999972,
+      "l2_norm_max": 1.0000000000000016,
+      "max_l2_error": 2.7755575615628914e-15,
+      "max_formula_error": 3.885780586188048e-16,
+      "tolerance": 1e-10
+    },
+    "p2_comparison": {
+      "max_count_difference": 0.0,
+      "max_weight_difference": 0.0,
+      "df_idf_l2_raw_exact": true,
+      "mappings_exact": true
+    }
+  },
+  "label_distribution": {
+    "adventure_exploration": 92,
+    "children_animals": 3,
+    "fantasy_supernatural": 73,
+    "historical_biographical": 91,
+    "literary_other": 182,
+    "maritime_nautical": 34,
+    "mystery_crime": 85,
+    "myth_folklore": 34,
+    "nature_animals": 36,
+    "religion_philosophy": 53,
+    "romance_social": 167,
+    "science_fiction_speculative": 34,
+    "travel_geography": 46,
+    "war_military": 70
+  },
+  "timing_seconds": {
+    "transaction_insert_and_validate": 26.008829500000502,
+    "reopen_load_and_validate": 11.055640199999289,
+    "total_before_report": 39.87120059999961
+  }
+}

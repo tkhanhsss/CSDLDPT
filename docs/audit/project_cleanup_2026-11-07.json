@@ -1,0 +1,103 @@
+{
+  "date": "2026-11-07",
+  "action": "Reversible cleanup by moving generated files outside project",
+  "backup_directory": "C:\\Users\\Tung Khanh Luong\\AppData\\Local\\Temp\\CSDLDPT_cleanup_20261107_044636",
+  "moved": [
+    {
+      "source": "C:\\Users\\Tung Khanh Luong\\Desktop\\CSDLDPT\\gd1\\__pycache__",
+      "destination": "C:\\Users\\Tung Khanh Luong\\AppData\\Local\\Temp\\CSDLDPT_cleanup_20261107_044636\\gd1\\__pycache__",
+      "relative": "gd1/__pycache__",
+      "file_count": 1,
+      "bytes": 25437
+    },
+    {
+      "source": "C:\\Users\\Tung Khanh Luong\\Desktop\\CSDLDPT\\gd2\\__pycache__",
+      "destination": "C:\\Users\\Tung Khanh Luong\\AppData\\Local\\Temp\\CSDLDPT_cleanup_20261107_044636\\gd2\\__pycache__",
+      "relative": "gd2/__pycache__",
+      "file_count": 1,
+      "bytes": 233
+    },
+    {
+      "source": "C:\\Users\\Tung Khanh Luong\\Desktop\\CSDLDPT\\gd2\\src\\__pycache__",
+      "destination": "C:\\Users\\Tung Khanh Luong\\AppData\\Local\\Temp\\CSDLDPT_cleanup_20261107_044636\\gd2\\src\\__pycache__",
+      "relative": "gd2/src/__pycache__",
+      "file_count": 14,
+      "bytes": 105450
+    },
+    {
+      "source": "C:\\Users\\Tung Khanh Luong\\Desktop\\CSDLDPT\\gd2\\tests\\__pycache__",
+      "destination": "C:\\Users\\Tung Khanh Luong\\AppData\\Local\\Temp\\CSDLDPT_cleanup_20261107_044636\\gd2\\tests\\__pycache__",
+      "relative": "gd2/tests/__pycache__",
+      "file_count": 5,
+      "bytes": 31601
+    },
+    {
+      "source": "C:\\Users\\Tung Khanh Luong\\Desktop\\CSDLDPT\\gd2\\report\\work\\reference_render",
+      "destination": "C:\\Users\\Tung Khanh Luong\\AppData\\Local\\Temp\\CSDLDPT_cleanup_20261107_044636\\gd2\\report\\work\\reference_render",
+      "relative": "gd2/report/work/reference_render",
+      "file_count": 14,
+      "bytes": 2028786
+    },
+    {
+      "source": "C:\\Users\\Tung Khanh Luong\\Desktop\\CSDLDPT\\gd2\\report\\work\\render_v1",
+      "destination": "C:\\Users\\Tung Khanh Luong\\AppData\\Local\\Temp\\CSDLDPT_cleanup_20261107_044636\\gd2\\report\\work\\render_v1",
+      "relative": "gd2/report/work/render_v1",
+      "file_count": 47,
+      "bytes": 8252824
+    },
+    {
+      "source": "C:\\Users\\Tung Khanh Luong\\Desktop\\CSDLDPT\\gd2\\report\\work\\render_final",
+      "destination": "C:\\Users\\Tung Khanh Luong\\AppData\\Local\\Temp\\CSDLDPT_cleanup_20261107_044636\\gd2\\report\\work\\render_final",
+      "relative": "gd2/report/work/render_final",
+      "file_count": 40,
+      "bytes": 8209031
+    },
+    {
+      "source": "C:\\Users\\Tung Khanh Luong\\Desktop\\CSDLDPT\\gd2\\report\\work\\reference.pdf",
+      "destination": "C:\\Users\\Tung Khanh Luong\\AppData\\Local\\Temp\\CSDLDPT_cleanup_20261107_044636\\gd2\\report\\work\\reference.pdf",
+      "relative": "gd2/report/work/reference.pdf",
+      "file_count": 1,
+      "bytes": 1065528
+    },
+    {
+      "source": "C:\\Users\\Tung Khanh Luong\\Desktop\\CSDLDPT\\gd2\\report\\work\\pdf_text.txt",
+      "destination": "C:\\Users\\Tung Khanh Luong\\AppData\\Local\\Temp\\CSDLDPT_cleanup_20261107_044636\\gd2\\report\\work\\pdf_text.txt",
+      "relative": "gd2/report/work/pdf_text.txt",
+      "file_count": 1,
+      "bytes": 85605
+    },
+    {
+      "source": "C:\\Users\\Tung Khanh Luong\\Desktop\\CSDLDPT\\gd2\\report\\work\\finish_p7.py",
+      "destination": "C:\\Users\\Tung Khanh Luong\\AppData\\Local\\Temp\\CSDLDPT_cleanup_20261107_044636\\gd2\\report\\work\\finish_p7.py",
+      "relative": "gd2/report/work/finish_p7.py",
+      "file_count": 1,
+      "bytes": 4680
+    },
+    {
+      "source": "C:\\Users\\Tung Khanh Luong\\Desktop\\CSDLDPT\\archive\\preparation_files_2026-11-04",
+      "destination": "C:\\Users\\Tung Khanh Luong\\AppData\\Local\\Temp\\CSDLDPT_cleanup_20261107_044636\\archive\\preparation_files_2026-11-04",
+      "relative": "archive/preparation_files_2026-11-04",
+      "file_count": 31,
+      "bytes": 2974508
+    }
+  ],
+  "archived_files": 31,
+  "verified_snapshot": "archive/preparation_files_snapshot_2026-11-07.zip",
+  "snapshot_sha256": "C30A4CBBE98266301B9BC8AEBDA6F71F2ACBDD9BA4CC7C68CA2D242CF9CDEAD7",
+  "deletion_blocked_by_automatic_review": true,
+  "runtime_junction_moved_with_parent_only": true,
+  "files_moved": 156,
+  "bytes_moved_out_of_project": 22783683,
+  "net_project_bytes_reduced_before_audit_docs": 20881570,
+  "verification": {
+    "baseline_ok": true,
+    "corpus_files_checked": 1000,
+    "gd1_assets_checked": 26,
+    "baseline_files_checked": 33,
+    "p7_report_verification": "passed",
+    "p6_frozen_hashes_checked": 15,
+    "final_docx_pdf_unchanged": true
+  },
+  "post_verification_text_copy": "post_verification/pdf_text.txt",
+  "external_runtime_still_present": true
+}

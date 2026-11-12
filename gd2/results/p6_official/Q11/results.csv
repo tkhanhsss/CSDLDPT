@@ -1,0 +1,4 @@
+rank,doc_id,filename,title,author_display,label_code,score,zero_score,relative_path,copy_path,raw_sha256
+1,626,book_0626.txt,Cape Cod,Henry David Thoreau,travel_geography,0.13153108038035363,False,data/corpus/book_0626.txt,rank1_book_0626.txt,23a00a906c166b2d0374459b1a54c75abb31eb2a1c8d66a08b7d0f9f7a2a19d1
+2,378,book_0378.txt,The Maine Woods,Henry David Thoreau,adventure_exploration,0.12276789554395341,False,data/corpus/book_0378.txt,rank2_book_0378.txt,7ee443ebec7ad5e41722aefbe9d00358f428314ca5503c51fff1320c4480601a
+3,510,book_0510.txt,IN THE WILDERNESS,Charles Dudley Warner,nature_animals,0.10868191163489094,False,data/corpus/book_0510.txt,rank3_book_0510.txt,ce452088dc01c1c20dcd4bab9da4962760659d246894e5490dd5b647c020ba7b

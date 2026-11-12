@@ -1,0 +1,138 @@
+{
+  "checked_at": "2026-11-04",
+  "normalization": "GD1 word regex, lowercasing and apostrophe normalization; compare every token between matched opening and ending anchors",
+  "documents": [
+    {
+      "filename": "book_0637.txt",
+      "verified_scope": "Vol. I; Parts I-II",
+      "source_url": "https://www.gutenberg.org/ebooks/58443",
+      "source_text_url": "https://www.gutenberg.org/cache/epub/58443/pg58443.txt",
+      "raw_sha256": "a7da5a273f49c6c8f126245106ebf1fd3f4d970941b9e218c5b55e9d65eb7840",
+      "local_word_count": 41213,
+      "matched_source_span_word_count": 41202,
+      "comparison_local_skipped_prefix_words": 8,
+      "normalized_span_exact_match": false,
+      "chapter_headings": [
+        "CHAPTER I",
+        "CHAPTER II",
+        "CHAPTER III",
+        "CHAPTER IV",
+        "CHAPTER V",
+        "CHAPTER VI",
+        "CHAPTER VII",
+        "CHAPTER I",
+        "CHAPTER II",
+        "CHAPTER III",
+        "CHAPTER IV",
+        "CHAPTER V",
+        "CHAPTER VI",
+        "CHAPTER VII",
+        "CHAPTER VIII",
+        "CHAPTER IX"
+      ],
+      "part_headings": [
+        "PART I",
+        "PART I",
+        "PART II",
+        "PART II"
+      ],
+      "token_alignment_ratio": 0.9999635953256398,
+      "differences": [
+        {
+          "operation": "delete",
+          "local_tokens": [
+            "part",
+            "ii",
+            "april"
+          ],
+          "source_tokens": []
+        }
+      ]
+    },
+    {
+      "filename": "book_0797.txt",
+      "verified_scope": "Vol. II; Parts III-IV",
+      "source_url": "https://www.gutenberg.org/ebooks/58443",
+      "source_text_url": "https://www.gutenberg.org/cache/epub/58443/pg58443.txt",
+      "raw_sha256": "200c5124f9363a5c8c371149a95f0885d2c6818397cae6c2d7fd7cf74c4400cc",
+      "local_word_count": 46812,
+      "matched_source_span_word_count": 46805,
+      "comparison_local_skipped_prefix_words": 7,
+      "normalized_span_exact_match": true,
+      "chapter_headings": [
+        "CHAPTER I",
+        "CHAPTER II",
+        "CHAPTER III",
+        "CHAPTER IV",
+        "CHAPTER V",
+        "CHAPTER VI",
+        "CHAPTER VII",
+        "CHAPTER VIII",
+        "CHAPTER IX",
+        "CHAPTER X",
+        "CHAPTER XI",
+        "CHAPTER I",
+        "CHAPTER II",
+        "CHAPTER III",
+        "CHAPTER IV",
+        "CHAPTER V",
+        "CHAPTER VI",
+        "CHAPTER VII"
+      ],
+      "part_headings": [
+        "PART III",
+        "PART IV"
+      ]
+    },
+    {
+      "filename": "book_0927.txt",
+      "verified_scope": "Vol. 1 of 3",
+      "source_url": "https://www.gutenberg.org/ebooks/70755",
+      "source_text_url": "https://www.gutenberg.org/cache/epub/70755/pg70755.txt",
+      "raw_sha256": "01dfe134cdea5a8e350239f2e72554995eb8d4d626d4de6fb56e94d2713d8eb9",
+      "local_word_count": 51277,
+      "matched_source_span_word_count": 51277,
+      "comparison_local_skipped_prefix_words": 0,
+      "normalized_span_exact_match": true,
+      "chapter_headings": [
+        "CHAPTER I.",
+        "CHAPTER II.",
+        "CHAPTER III.",
+        "CHAPTER IV.",
+        "CHAPTER V.",
+        "CHAPTER VI.",
+        "CHAPTER VII.",
+        "CHAPTER VIII.",
+        "CHAPTER IX.",
+        "CHAPTER X.",
+        "CHAPTER XI."
+      ],
+      "part_headings": []
+    },
+    {
+      "filename": "book_0988.txt",
+      "verified_scope": "Vol. 2 of 3",
+      "source_url": "https://www.gutenberg.org/ebooks/70756",
+      "source_text_url": "https://www.gutenberg.org/cache/epub/70756/pg70756.txt",
+      "raw_sha256": "d9829f97c575407eb6685951bf5204b75ee054f458a1d1d588d9bfc6341f5561",
+      "local_word_count": 53226,
+      "matched_source_span_word_count": 53226,
+      "comparison_local_skipped_prefix_words": 0,
+      "normalized_span_exact_match": true,
+      "chapter_headings": [
+        "CHAPTER I.",
+        "CHAPTER II.",
+        "CHAPTER III.",
+        "CHAPTER IV.",
+        "CHAPTER V.",
+        "CHAPTER VI.",
+        "CHAPTER VII.",
+        "CHAPTER VIII.",
+        "CHAPTER IX.",
+        "CHAPTER X.",
+        "CHAPTER XI."
+      ],
+      "part_headings": []
+    }
+  ]
+}

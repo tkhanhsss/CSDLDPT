@@ -1,0 +1,82 @@
+{
+  "baseline_id": "pre_gd2_2026-11-04",
+  "date": "2026-11-04",
+  "timezone": "Asia/Bangkok",
+  "corpus": {
+    "directory": "data/corpus",
+    "pattern": "book_*.txt",
+    "n_files": 1000,
+    "row_order": "filename ascending",
+    "min_words": 12000,
+    "word_count_regex": "[a-z]+(?:'[a-z]+)?",
+    "words_per_page_assumption": 600
+  },
+  "preprocessing": {
+    "apostrophe_replacements": {
+      "’": "'",
+      "‘": "'",
+      "ʼ": "'"
+    },
+    "lowercase": true,
+    "token_base": "token.split(\"'\")[0]",
+    "min_base_length": 2,
+    "filter_before_stemming": true,
+    "stemmer": "nltk.stem.PorterStemmer",
+    "stemmer_mode": "NLTK_EXTENSIONS",
+    "stopword_source": "scikit-learn ENGLISH_STOP_WORDS + EXTRA_STOP"
+  },
+  "tfidf": {
+    "analyzer": "word",
+    "binary": false,
+    "decode_error": "strict",
+    "dtype": "float64",
+    "encoding": "utf-8",
+    "input": "content",
+    "lowercase": false,
+    "max_df": 0.6,
+    "max_features": null,
+    "min_df": 3,
+    "ngram_range": [
+      1,
+      1
+    ],
+    "norm": "l2",
+    "preprocessor": null,
+    "smooth_idf": true,
+    "stop_words": null,
+    "strip_accents": null,
+    "sublinear_tf": true,
+    "token_pattern": null,
+    "tokenizer": "gd1_stats.content_tokens",
+    "use_idf": true,
+    "vocabulary": null
+  },
+  "query": {
+    "fit_on_corpus_only": true,
+    "ranking": "cosine / dot product after L2",
+    "top_k": 3,
+    "label_or_metadata_used_in_score": false
+  },
+  "reference_gd1_versions": {
+    "python": "3.10.11",
+    "numpy": "2.2.6",
+    "pandas": "2.3.3",
+    "matplotlib": "3.10.9",
+    "scikit_learn": "1.7.2",
+    "scipy": "1.15.3",
+    "nltk": "3.10.3"
+  },
+  "capture_versions": {
+    "python": "3.10.11",
+    "numpy": "2.2.6",
+    "pandas": "2.3.3",
+    "matplotlib": "3.10.9",
+    "scikit_learn": "1.7.2",
+    "scipy": "1.15.3",
+    "nltk": "3.10.3"
+  },
+  "all_versions_match_gd1": true,
+  "expected_feature_count_from_gd1": 34416,
+  "tfidf_rebuilt": false,
+  "note": "Vocabulary, IDF and matrix were not persisted in GD1; rebuild and compare in GD2."
+}

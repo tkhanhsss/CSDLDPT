@@ -1,0 +1,65 @@
+{
+  "query_id": "Q01",
+  "query_path": "C:\\Users\\Tung Khanh Luong\\Desktop\\CSDLDPT\\gd2\\artifacts\\p4_final\\inputs\\technical_maritime.txt",
+  "query_sha256": "0a4ead0fd40bd8da5001804f99a263e251db8efb19e692ae6cefb5bbf5ffa907",
+  "build_id": "gd2-p3-0274798c40134e5e91eb3452500cda71",
+  "status": "ok",
+  "word_count": 17,
+  "statistics": {
+    "content_token_count": 9,
+    "unique_stems": 9,
+    "in_vocabulary_types": 5,
+    "oov_types": 4,
+    "oov_tokens": 4,
+    "nnz": 5
+  },
+  "query_l2_raw": 3.8681536801440903,
+  "top3": [
+    {
+      "rank": 1,
+      "doc_id": 487,
+      "filename": "book_0487.txt",
+      "title": "A NEW ROBINSON CRUSOE",
+      "author_display": "W. L. ALDEN",
+      "label_code": "adventure_exploration",
+      "score": 0.08819101516070367,
+      "zero_score": false,
+      "relative_path": "data/corpus/book_0487.txt",
+      "copy_path": "rank1_book_0487.txt",
+      "raw_sha256": "a694ec3d2a7939314e421ab7c602843bd2be447463d5f059f3cf33d158c05d2e"
+    },
+    {
+      "rank": 2,
+      "doc_id": 745,
+      "filename": "book_0745.txt",
+      "title": "SIX LITTLE BUNKERS AT CAPTAIN BEN'S",
+      "author_display": "LAURA LEE HOPE",
+      "label_code": "adventure_exploration",
+      "score": 0.08481487059691796,
+      "zero_score": false,
+      "relative_path": "data/corpus/book_0745.txt",
+      "copy_path": "rank2_book_0745.txt",
+      "raw_sha256": "76c846c038802bb05176058e68328b38b01d574a2b32d7d12278e10b1116431c"
+    },
+    {
+      "rank": 3,
+      "doc_id": 310,
+      "filename": "book_0310.txt",
+      "title": "WRECKED ON THE FEEJEES",
+      "author_display": "William S. Cary",
+      "label_code": "maritime_nautical",
+      "score": 0.08021149932858433,
+      "zero_score": false,
+      "relative_path": "data/corpus/book_0310.txt",
+      "copy_path": "rank3_book_0310.txt",
+      "raw_sha256": "e515e5ceeaed73d5aaeb8e20e6836103f89d98f30e3594f2bb1d24b34c976891"
+    }
+  ],
+  "message": "",
+  "timing_seconds": {
+    "transform": 0.0005438999996840721,
+    "score": 0.0036175000004732283,
+    "ranking": 0.0002441000006001559,
+    "total_before_report": 0.010253999999804364
+  }
+}

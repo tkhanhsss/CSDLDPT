@@ -1,0 +1,65 @@
+{
+  "query_id": "Q05",
+  "query_path": "C:\\Users\\Tung Khanh Luong\\Desktop\\CSDLDPT\\gd2\\queries\\Q05.txt",
+  "query_sha256": "9f98da24b8f40268d2fa5e4d7effb28852b2ce12da339eb45cf9ce96e9f585c0",
+  "build_id": "gd2-p3-0274798c40134e5e91eb3452500cda71",
+  "status": "ok",
+  "word_count": 994,
+  "statistics": {
+    "content_token_count": 441,
+    "unique_stems": 289,
+    "in_vocabulary_types": 108,
+    "oov_types": 181,
+    "oov_tokens": 305,
+    "nnz": 108
+  },
+  "query_l2_raw": 34.170294871463675,
+  "top3": [
+    {
+      "rank": 1,
+      "doc_id": 707,
+      "filename": "book_0707.txt",
+      "title": "The Door in the Wall And Other Stories",
+      "author_display": "H. G. Wells",
+      "label_code": "science_fiction_speculative",
+      "score": 0.1062300307225309,
+      "zero_score": false,
+      "relative_path": "data/corpus/book_0707.txt",
+      "copy_path": "rank1_book_0707.txt",
+      "raw_sha256": "a3401fc369587bf0981b6926a3593aec09fa9c994bf6e65fc590fa15ed3da5be"
+    },
+    {
+      "rank": 2,
+      "doc_id": 618,
+      "filename": "book_0618.txt",
+      "title": "The green girl",
+      "author_display": "Jack Williamson",
+      "label_code": "science_fiction_speculative",
+      "score": 0.09951321937656465,
+      "zero_score": false,
+      "relative_path": "data/corpus/book_0618.txt",
+      "copy_path": "rank2_book_0618.txt",
+      "raw_sha256": "fb70ac48570de8110ac4e7f55e31222a86dff21238cf8215a9821dc2ddc3ee12"
+    },
+    {
+      "rank": 3,
+      "doc_id": 606,
+      "filename": "book_0606.txt",
+      "title": "An aviator's luck",
+      "author_display": "Frank Cobb",
+      "label_code": "mystery_crime",
+      "score": 0.08471155554304788,
+      "zero_score": false,
+      "relative_path": "data/corpus/book_0606.txt",
+      "copy_path": "rank3_book_0606.txt",
+      "raw_sha256": "e02c66668278fee890a147e88076f9b844bfb0aa0fbe1d29e672bd99a8c0fd64"
+    }
+  ],
+  "message": "",
+  "timing_seconds": {
+    "transform": 0.004350299990619533,
+    "score": 0.005300700009684078,
+    "ranking": 0.0002803000097628683,
+    "total_before_report": 0.049123400007374585
+  }
+}

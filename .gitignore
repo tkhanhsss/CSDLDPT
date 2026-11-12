@@ -1,0 +1,27 @@
+# Local environments and generated caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+node_modules/
+.DS_Store
+Thumbs.db
+~$*
+
+# Local credentials
+.env
+.env.*
+!.env.example
+
+# Reproducible report previews; retain manifests and final deliverables
+gd2/report/work/render_*/
+gd2/report/work/reference_render/
+gd2/report/work/reference.pdf
+gd2/report/work/pdf_text.txt
+
+# Transient SQLite sidecars
+*.sqlite-wal
+*.sqlite-shm
+*.sqlite-journal

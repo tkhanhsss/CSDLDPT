@@ -1,0 +1,4 @@
+rank,doc_id,filename,title,author_display,label_code,score,zero_score,relative_path,copy_path,raw_sha256
+1,707,book_0707.txt,The Door in the Wall And Other Stories,H. G. Wells,science_fiction_speculative,0.1062300307225309,False,data/corpus/book_0707.txt,rank1_book_0707.txt,a3401fc369587bf0981b6926a3593aec09fa9c994bf6e65fc590fa15ed3da5be
+2,618,book_0618.txt,The green girl,Jack Williamson,science_fiction_speculative,0.09951321937656465,False,data/corpus/book_0618.txt,rank2_book_0618.txt,fb70ac48570de8110ac4e7f55e31222a86dff21238cf8215a9821dc2ddc3ee12
+3,606,book_0606.txt,An aviator's luck,Frank Cobb,mystery_crime,0.08471155554304788,False,data/corpus/book_0606.txt,rank3_book_0606.txt,e02c66668278fee890a147e88076f9b844bfb0aa0fbe1d29e672bd99a8c0fd64

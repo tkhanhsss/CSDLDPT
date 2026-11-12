@@ -1,0 +1,117 @@
+{
+  "status": "passed",
+  "created_at": "2026-11-06T01:18:15+07:00",
+  "build_id": "gd2-p3-0274798c40134e5e91eb3452500cda71",
+  "database_sha256": "46d8295c0a909a886a8880c4b2898a4f08d939a61d2fe21f1002b6cef9b922ea",
+  "p5_check": {
+    "status": "passed",
+    "queries": 12,
+    "distinct_works": 12,
+    "groups": {
+      "mystery_crime": 2,
+      "maritime_nautical": 2,
+      "science_fiction_speculative": 2,
+      "romance_social": 2,
+      "adventure_exploration": 2,
+      "nature_animals": 2
+    },
+    "word_count_min": 965,
+    "word_count_max": 1025,
+    "word_count_total": 12011,
+    "source_substrings_exact": true,
+    "locked_files_checked": 36,
+    "deep_overlap_screen": false,
+    "retrieval_run": false
+  },
+  "queries": [
+    {
+      "query_id": "Q01",
+      "scores_checked": 1000,
+      "copies_checked": 3,
+      "max_score_error": 5.551115123125783e-17,
+      "max_contribution_error": 4.163336342344337e-17
+    },
+    {
+      "query_id": "Q02",
+      "scores_checked": 1000,
+      "copies_checked": 3,
+      "max_score_error": 2.7755575615628914e-17,
+      "max_contribution_error": 1.3877787807814457e-17
+    },
+    {
+      "query_id": "Q03",
+      "scores_checked": 1000,
+      "copies_checked": 3,
+      "max_score_error": 0.0,
+      "max_contribution_error": 2.7755575615628914e-17
+    },
+    {
+      "query_id": "Q04",
+      "scores_checked": 1000,
+      "copies_checked": 3,
+      "max_score_error": 5.551115123125783e-17,
+      "max_contribution_error": 2.7755575615628914e-17
+    },
+    {
+      "query_id": "Q05",
+      "scores_checked": 1000,
+      "copies_checked": 3,
+      "max_score_error": 4.163336342344337e-17,
+      "max_contribution_error": 2.7755575615628914e-17
+    },
+    {
+      "query_id": "Q06",
+      "scores_checked": 1000,
+      "copies_checked": 3,
+      "max_score_error": 4.163336342344337e-17,
+      "max_contribution_error": 1.3877787807814457e-17
+    },
+    {
+      "query_id": "Q07",
+      "scores_checked": 1000,
+      "copies_checked": 3,
+      "max_score_error": 2.7755575615628914e-17,
+      "max_contribution_error": 1.3877787807814457e-17
+    },
+    {
+      "query_id": "Q08",
+      "scores_checked": 1000,
+      "copies_checked": 3,
+      "max_score_error": 0.0,
+      "max_contribution_error": 2.7755575615628914e-17
+    },
+    {
+      "query_id": "Q09",
+      "scores_checked": 1000,
+      "copies_checked": 3,
+      "max_score_error": 0.0,
+      "max_contribution_error": 1.3877787807814457e-17
+    },
+    {
+      "query_id": "Q10",
+      "scores_checked": 1000,
+      "copies_checked": 3,
+      "max_score_error": 0.0,
+      "max_contribution_error": 2.7755575615628914e-17
+    },
+    {
+      "query_id": "Q11",
+      "scores_checked": 1000,
+      "copies_checked": 3,
+      "max_score_error": 4.163336342344337e-17,
+      "max_contribution_error": 5.551115123125783e-17
+    },
+    {
+      "query_id": "Q12",
+      "scores_checked": 1000,
+      "copies_checked": 3,
+      "max_score_error": 2.7755575615628914e-17,
+      "max_contribution_error": 2.7755575615628914e-17
+    }
+  ],
+  "scores_checked": 12000,
+  "copies_checked": 36,
+  "reference": "Independent dense query formula using frozen SQLite vocabulary/IDF; sparse X @ dense q",
+  "human_judgments": "pending",
+  "mean_precision_at_3": null
+}

@@ -1,0 +1,4 @@
+rank,doc_id,filename,title,author_display,label_code,score,zero_score,relative_path,copy_path,raw_sha256
+1,300,book_0300.txt,A BUNCH OF ROPE YARNS,STANTON H. KING,maritime_nautical,0.15216760322066272,False,data/corpus/book_0300.txt,rank1_book_0300.txt,e7dd32efe93562dea1463c303e762a199aef2e2c4242159c3dd64d20d32b0566
+2,980,book_0980.txt,THE SURVIVORS OF THE CHANCELLOR.,Jules Verne,maritime_nautical,0.15091334611764293,False,data/corpus/book_0980.txt,rank2_book_0980.txt,02d70f960d204639c7ea48b15a2071b30a9157c238d7ecec234d9f12fa9adced
+3,850,book_0850.txt,"FANNY CAMPBELL, THE FEMALE PIRATE CAPTAIN A Tale Of The Revolution",Maturin M. Ballou,maritime_nautical,0.14198545271798035,False,data/corpus/book_0850.txt,rank3_book_0850.txt,1fb9ec497ee7c5d3dbce159ecc9598d5ddd34e9e7c7fad03504873a88841c5be

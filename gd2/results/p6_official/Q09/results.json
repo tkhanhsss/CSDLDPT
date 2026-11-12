@@ -1,0 +1,65 @@
+{
+  "query_id": "Q09",
+  "query_path": "C:\\Users\\Tung Khanh Luong\\Desktop\\CSDLDPT\\gd2\\queries\\Q09.txt",
+  "query_sha256": "0f0b44bab1b716afeb1777e13ba0cd95f2cb72b3ec542582e17d4f8f9003e78d",
+  "build_id": "gd2-p3-0274798c40134e5e91eb3452500cda71",
+  "status": "ok",
+  "word_count": 965,
+  "statistics": {
+    "content_token_count": 371,
+    "unique_stems": 270,
+    "in_vocabulary_types": 87,
+    "oov_types": 183,
+    "oov_tokens": 257,
+    "nnz": 87
+  },
+  "query_l2_raw": 34.66672839087202,
+  "top3": [
+    {
+      "rank": 1,
+      "doc_id": 868,
+      "filename": "book_0868.txt",
+      "title": "Island Nights’ Entertainments",
+      "author_display": "Robert Louis Stevenson",
+      "label_code": "fantasy_supernatural",
+      "score": 0.0792906940851968,
+      "zero_score": false,
+      "relative_path": "data/corpus/book_0868.txt",
+      "copy_path": "rank1_book_0868.txt",
+      "raw_sha256": "dc89b52e14f8562fc98d8cf446027a2cdea8d2ac070fd08b2277ea0baa7fbf67"
+    },
+    {
+      "rank": 2,
+      "doc_id": 929,
+      "filename": "book_0929.txt",
+      "title": "Rounding Cape Horn, and Other Sea Stories",
+      "author_display": "WALTER MCROBERTS",
+      "label_code": "maritime_nautical",
+      "score": 0.07644722897759103,
+      "zero_score": false,
+      "relative_path": "data/corpus/book_0929.txt",
+      "copy_path": "rank2_book_0929.txt",
+      "raw_sha256": "65d14a3f7999757ae538d3a31db29519913101a4a0c8c7b6447bc6c6a27a306c"
+    },
+    {
+      "rank": 3,
+      "doc_id": 412,
+      "filename": "book_0412.txt",
+      "title": "TESSA",
+      "author_display": "Louis Becke",
+      "label_code": "maritime_nautical",
+      "score": 0.07347805090070086,
+      "zero_score": false,
+      "relative_path": "data/corpus/book_0412.txt",
+      "copy_path": "rank3_book_0412.txt",
+      "raw_sha256": "e57d22a3ae01de4eee39067bb62d44defa8f2cedabe1c0344ec96bb4b9744f0d"
+    }
+  ],
+  "message": "",
+  "timing_seconds": {
+    "transform": 0.0032943000114755705,
+    "score": 0.00564130001293961,
+    "ranking": 0.00041989999590441585,
+    "total_before_report": 0.050065399991581216
+  }
+}

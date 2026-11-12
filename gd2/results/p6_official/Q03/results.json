@@ -1,0 +1,65 @@
+{
+  "query_id": "Q03",
+  "query_path": "C:\\Users\\Tung Khanh Luong\\Desktop\\CSDLDPT\\gd2\\queries\\Q03.txt",
+  "query_sha256": "b1e77a88d24585c1704e47ccc7f40a47d19817cb7780ed2c2b3fa8730025608c",
+  "build_id": "gd2-p3-0274798c40134e5e91eb3452500cda71",
+  "status": "ok",
+  "word_count": 1003,
+  "statistics": {
+    "content_token_count": 485,
+    "unique_stems": 325,
+    "in_vocabulary_types": 150,
+    "oov_types": 175,
+    "oov_tokens": 296,
+    "nnz": 150
+  },
+  "query_l2_raw": 47.777298342240194,
+  "top3": [
+    {
+      "rank": 1,
+      "doc_id": 467,
+      "filename": "book_0467.txt",
+      "title": "THE BOY AVIATORS IN AFRICA OR AN AERIAL IVORY TRAIL",
+      "author_display": "John Henry Goldfrap",
+      "label_code": "adventure_exploration",
+      "score": 0.08761580490950682,
+      "zero_score": false,
+      "relative_path": "data/corpus/book_0467.txt",
+      "copy_path": "rank1_book_0467.txt",
+      "raw_sha256": "19ab28faf062aab80ae34a453842b466beb013b7fc46ac62776e6cb28463afcb"
+    },
+    {
+      "rank": 2,
+      "doc_id": 975,
+      "filename": "book_0975.txt",
+      "title": "THE END OF THE TETHER",
+      "author_display": "Joseph Conrad",
+      "label_code": "maritime_nautical",
+      "score": 0.08675443609585293,
+      "zero_score": false,
+      "relative_path": "data/corpus/book_0975.txt",
+      "copy_path": "rank2_book_0975.txt",
+      "raw_sha256": "148236ae17313953d2688845706666dfe02f7ba4ec6792bb2715288d9411e236"
+    },
+    {
+      "rank": 3,
+      "doc_id": 936,
+      "filename": "book_0936.txt",
+      "title": "THE DREADNOUGHT BOYS ON A SUBMARINE",
+      "author_display": "John Henry Goldfrap",
+      "label_code": "war_military",
+      "score": 0.08333936702480729,
+      "zero_score": false,
+      "relative_path": "data/corpus/book_0936.txt",
+      "copy_path": "rank3_book_0936.txt",
+      "raw_sha256": "89315ef0dfe2b6d3760aa413648d56e7d6a5a45f9ce936c7d82c32810aabe8e8"
+    }
+  ],
+  "message": "",
+  "timing_seconds": {
+    "transform": 0.004708400010713376,
+    "score": 0.0051820000080624595,
+    "ranking": 0.00023829999554436654,
+    "total_before_report": 0.05074109999986831
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "query_id": "Q01",
+  "query_path": "C:\\Users\\Tung Khanh Luong\\Desktop\\CSDLDPT\\gd2\\queries\\Q01.txt",
+  "query_sha256": "ff83fb8355579cdae3f194d4adf7e64744a296a2e5389f4c0fffb1b2ca68076d",
+  "build_id": "gd2-p3-0274798c40134e5e91eb3452500cda71",
+  "status": "ok",
+  "word_count": 991,
+  "statistics": {
+    "content_token_count": 426,
+    "unique_stems": 345,
+    "in_vocabulary_types": 149,
+    "oov_types": 196,
+    "oov_tokens": 265,
+    "nnz": 149
+  },
+  "query_l2_raw": 38.400771824172914,
+  "top3": [
+    {
+      "rank": 1,
+      "doc_id": 733,
+      "filename": "book_0733.txt",
+      "title": "THE CLUB OF QUEER TRADES",
+      "author_display": "G. K. Chesterton",
+      "label_code": "mystery_crime",
+      "score": 0.08644224856531173,
+      "zero_score": false,
+      "relative_path": "data/corpus/book_0733.txt",
+      "copy_path": "rank1_book_0733.txt",
+      "raw_sha256": "c0e8e49778d991268641b86bed1b994710a8c653ea0958f2c257ef301e45ea91"
+    },
+    {
+      "rank": 2,
+      "doc_id": 659,
+      "filename": "book_0659.txt",
+      "title": "\"To let\"",
+      "author_display": "B. M. CROKER",
+      "label_code": "literary_other",
+      "score": 0.08616183541680224,
+      "zero_score": false,
+      "relative_path": "data/corpus/book_0659.txt",
+      "copy_path": "rank2_book_0659.txt",
+      "raw_sha256": "d67c6c57f0edd6985f105b73ad3e26e91694039c5b5f7d80ca0b5dbba0ba781b"
+    },
+    {
+      "rank": 3,
+      "doc_id": 638,
+      "filename": "book_0638.txt",
+      "title": "The Thirty-Nine Steps",
+      "author_display": "John Buchan",
+      "label_code": "mystery_crime",
+      "score": 0.08047372043623405,
+      "zero_score": false,
+      "relative_path": "data/corpus/book_0638.txt",
+      "copy_path": "rank3_book_0638.txt",
+      "raw_sha256": "13434170dff1ac98710c5dbb0402e3af8ea2102761133a673b0d9c53c8fdbbab"
+    }
+  ],
+  "message": "",
+  "timing_seconds": {
+    "transform": 0.007003999999142252,
+    "score": 0.007643300006748177,
+    "ranking": 0.0011759000044548884,
+    "total_before_report": 0.05882519998704083
+  }
+}

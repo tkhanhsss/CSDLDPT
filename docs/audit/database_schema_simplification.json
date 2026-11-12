@@ -1,0 +1,44 @@
+{
+  "reason": "Bỏ các trường nguồn và trạng thái đối chiếu khỏi CSDL theo yêu cầu người dùng; giữ metadata hiển thị và đặc trưng.",
+  "schema_version": 3,
+  "previous_build_id": "gd2-p3-c8aca629d6634d01aa25ef8d396a3eed",
+  "previous_database_sha256": "77a9c54c8ecd6c4c86f3b333f2124de3ff051663f9d1b0034347743018dcba6f",
+  "current_build_id": "gd2-p3-7cec696ef05849bd843784d552064b1f",
+  "current_database_sha256": "d3c926d45bfb64191a2b3aa7d8c7793b4ec4ab2ba02bddea263d29f54d2df248",
+  "checks": {
+    "integrity_check": "ok",
+    "foreign_key_violations": 0,
+    "sql_df_mismatches": 0,
+    "table_rows": {
+      "build_info": 1,
+      "labels": 14,
+      "documents": 1000,
+      "terms": 34416,
+      "document_terms": 1926766
+    },
+    "features": {
+      "shape": [
+        1000,
+        34416
+      ],
+      "nnz": 1926766,
+      "dtype": "float64",
+      "zero_rows": 0,
+      "df_min": 3,
+      "df_max": 600,
+      "idf_min": 1.510159844780013,
+      "idf_max": 6.52246041819533,
+      "l2_norm_min": 0.9999999999999972,
+      "l2_norm_max": 1.0000000000000016,
+      "max_l2_error": 2.7755575615628914e-15,
+      "max_formula_error": 3.885780586188048e-16,
+      "tolerance": 1e-10
+    },
+    "p2_comparison": {
+      "max_count_difference": 0.0,
+      "max_weight_difference": 0.0,
+      "df_idf_l2_raw_exact": true,
+      "mappings_exact": true
+    }
+  }
+}

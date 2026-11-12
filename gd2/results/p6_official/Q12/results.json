@@ -1,0 +1,65 @@
+{
+  "query_id": "Q12",
+  "query_path": "C:\\Users\\Tung Khanh Luong\\Desktop\\CSDLDPT\\gd2\\queries\\Q12.txt",
+  "query_sha256": "0b0e0e780e48575f30b60d4c0e54b1efa159e24dfcbb2fdd07e5282983126cde",
+  "build_id": "gd2-p3-0274798c40134e5e91eb3452500cda71",
+  "status": "ok",
+  "word_count": 1025,
+  "statistics": {
+    "content_token_count": 411,
+    "unique_stems": 242,
+    "in_vocabulary_types": 106,
+    "oov_types": 136,
+    "oov_tokens": 260,
+    "nnz": 106
+  },
+  "query_l2_raw": 35.649594632881694,
+  "top3": [
+    {
+      "rank": 1,
+      "doc_id": 977,
+      "filename": "book_0977.txt",
+      "title": "THE COMING RACE",
+      "author_display": "Edward Bulwer Lytton",
+      "label_code": "science_fiction_speculative",
+      "score": 0.09740912325940312,
+      "zero_score": false,
+      "relative_path": "data/corpus/book_0977.txt",
+      "copy_path": "rank1_book_0977.txt",
+      "raw_sha256": "0e4956cff546c85de7d3f7cefe4eedfa82f8e9f4557ea8912b4da259a8bea454"
+    },
+    {
+      "rank": 2,
+      "doc_id": 938,
+      "filename": "book_0938.txt",
+      "title": "The Dawn of Reason; or, Mental Traits in the Lower Animals",
+      "author_display": "James Weir Jr.",
+      "label_code": "nature_animals",
+      "score": 0.09444002716319498,
+      "zero_score": false,
+      "relative_path": "data/corpus/book_0938.txt",
+      "copy_path": "rank2_book_0938.txt",
+      "raw_sha256": "5a06fc87ca355e02c208bf86e308b41bc06a7cd5aefd1594d3fa72e2a813ee98"
+    },
+    {
+      "rank": 3,
+      "doc_id": 389,
+      "filename": "book_0389.txt",
+      "title": "‘That Very Mab’",
+      "author_display": "May Kendall; Andrew Lang",
+      "label_code": "religion_philosophy",
+      "score": 0.0796642881827584,
+      "zero_score": false,
+      "relative_path": "data/corpus/book_0389.txt",
+      "copy_path": "rank3_book_0389.txt",
+      "raw_sha256": "4ce1110af440d44c3ef03f17c79d48a6204b2271302b056dee5e63a1acf57486"
+    }
+  ],
+  "message": "",
+  "timing_seconds": {
+    "transform": 0.004070199996931478,
+    "score": 0.005639599999994971,
+    "ranking": 0.0003364000003784895,
+    "total_before_report": 0.11241719999816269
+  }
+}

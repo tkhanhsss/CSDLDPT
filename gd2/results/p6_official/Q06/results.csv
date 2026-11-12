@@ -1,0 +1,4 @@
+rank,doc_id,filename,title,author_display,label_code,score,zero_score,relative_path,copy_path,raw_sha256
+1,707,book_0707.txt,The Door in the Wall And Other Stories,H. G. Wells,science_fiction_speculative,0.11328456553465109,False,data/corpus/book_0707.txt,rank1_book_0707.txt,a3401fc369587bf0981b6926a3593aec09fa9c994bf6e65fc590fa15ed3da5be
+2,727,book_0727.txt,The radium pool,Ed Earl Repp,science_fiction_speculative,0.10257450914713472,False,data/corpus/book_0727.txt,rank2_book_0727.txt,b7a6c655706243dc0e4fe0e3b8fc081abc1c43f2f744cde3f640e6c63c714ba6
+3,842,book_0842.txt,WOMAN FROM ANOTHER PLANET,Frank Belknap Long,science_fiction_speculative,0.09936376092705729,False,data/corpus/book_0842.txt,rank3_book_0842.txt,5eb3e35129b342cd307b762b890887606e73f67b92f5783d106e366f7bc5cc30

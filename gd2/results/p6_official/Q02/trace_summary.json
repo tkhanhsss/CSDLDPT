@@ -1,0 +1,29 @@
+{
+  "query_l2_raw": 41.96137111157841,
+  "contributions": [
+    {
+      "rank": 1,
+      "filename": "book_0880.txt",
+      "score": 0.06670651585951687,
+      "sum_contributions": 0.06670651585951687,
+      "absolute_error": 0.0
+    },
+    {
+      "rank": 2,
+      "filename": "book_0505.txt",
+      "score": 0.06503419498146372,
+      "sum_contributions": 0.0650341949814637,
+      "absolute_error": 1.3877787807814457e-17
+    },
+    {
+      "rank": 3,
+      "filename": "book_0233.txt",
+      "score": 0.06471713052059251,
+      "sum_contributions": 0.06471713052059251,
+      "absolute_error": 0.0
+    }
+  ],
+  "idf_source": "SQLite terms.idf",
+  "tf": "1 + ln(count)",
+  "tolerance": 1e-10
+}

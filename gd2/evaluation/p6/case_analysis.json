@@ -1,0 +1,96 @@
+{
+  "created_by": "Codex",
+  "kind": "technical_content_commentary_not_human_grades",
+  "offset_convention": "0-based end-exclusive Unicode codepoints after UTF-8-sig decode, CRLF preserved; lines 1-based",
+  "gregson": {
+    "df": 3,
+    "idf": 6.52246041819533,
+    "term_id": "12873",
+    "term": "gregson",
+    "query_weight": "0.35645417880271674",
+    "document_weight": "0.09774240775365489",
+    "contribution": "0.03484068969002935",
+    "rank2_score": 0.08616183541680224,
+    "fraction_of_score": 0.4043633648411712,
+    "interpretation": "Q01 detective Gregson and the political agent Daniel Gregson are different characters. Their shared stem contributes to ranking without entity disambiguation; this observation is not a whole-document relevance grade."
+  },
+  "evidence": [
+    {
+      "query_id": "Q01",
+      "purpose": "query_scene",
+      "file": "gd2/queries/Q01.txt",
+      "sha256": "ff83fb8355579cdae3f194d4adf7e64744a296a2e5389f4c0fffb1b2ca68076d",
+      "character_start": 2546,
+      "character_end": 2703,
+      "line_start": 43,
+      "line_end": 45,
+      "quote": "“I have had so much to do inside the house,” the detective said\r\nevasively. “My colleague, Mr. Lestrade, is here. I had relied upon him\r\nto look after this.”"
+    },
+    {
+      "query_id": "Q01",
+      "purpose": "rank1_literary_reference",
+      "file": "data/corpus/book_0733.txt",
+      "sha256": "c0e8e49778d991268641b86bed1b994710a8c653ea0958f2c257ef301e45ea91",
+      "character_start": 25469,
+      "character_end": 26007,
+      "line_start": 482,
+      "line_end": 489,
+      "quote": "“Facts,” murmured Basil, like one mentioning some strange, far-off\nanimals, “how facts obscure the truth. I may be silly--in fact, I'm\noff my head--but I never could believe in that man--what's his name,\nin those capital stories?--Sherlock Holmes. Every detail points to\nsomething, certainly; but generally to the wrong thing. Facts point in\nall directions, it seems to me, like the thousands of twigs on a tree.\nIt's only the life of the tree that has unity and goes up--only the\ngreen blood that springs, like a fountain, at the stars.”"
+    },
+    {
+      "query_id": "Q01",
+      "purpose": "rank1_police_scene",
+      "file": "data/corpus/book_0733.txt",
+      "sha256": "c0e8e49778d991268641b86bed1b994710a8c653ea0958f2c257ef301e45ea91",
+      "character_start": 100359,
+      "character_end": 100502,
+      "line_start": 2049,
+      "line_end": 2051,
+      "quote": "“The constable instantly flashed his lantern on me, or the draggled,\ndrunken old woman that was my travesty. 'Now then, mum,' he began\ngruffly."
+    },
+    {
+      "query_id": "Q01",
+      "purpose": "rank2_different_person",
+      "file": "data/corpus/book_0659.txt",
+      "sha256": "d67c6c57f0edd6985f105b73ad3e26e91694039c5b5f7d80ca0b5dbba0ba781b",
+      "character_start": 169420,
+      "character_end": 170187,
+      "line_start": 3273,
+      "line_end": 3285,
+      "quote": "\nDaniel Gregson, Esq., B.S.C., political agent to the Rajah of\nOonomore (a child of seven years of age), and Percy Goring, his\njunior assistant, were travelling from their own state to attend the\ngreat Delhi durbar. Mr. Gregson was a civilian of twenty-five years’\nstanding, short of neck, short of stature, and short of temper. His red\nface, pale prominent eyes, and fierce bushy brows had gained for him\nthe nickname of “The Prawn;” but he was also known as a marvellously\nclever financier, ambitious, shrewd, and prompt in action; and by those\nwho were under him, he was less loved than feared. Young Goring was\njust twenty-six, and much more eager to discuss good shooting, or\na good dance, than the assessment of land, the opium trade, or even\nacting allowances!"
+    },
+    {
+      "query_id": "Q01",
+      "purpose": "rank3_discovery",
+      "file": "data/corpus/book_0638.txt",
+      "sha256": "13434170dff1ac98710c5dbb0402e3af8ea2102761133a673b0d9c53c8fdbbab",
+      "character_start": 23825,
+      "character_end": 23939,
+      "line_start": 452,
+      "line_end": 453,
+      "quote": "My guest was lying sprawled on his back. There was a long knife through\nhis heart which skewered him to the floor."
+    },
+    {
+      "query_id": "Q12",
+      "purpose": "query_natural_selection",
+      "file": "gd2/queries/Q12.txt",
+      "sha256": "0b0e0e780e48575f30b60d4c0e54b1efa159e24dfcbb2fdd07e5282983126cde",
+      "character_start": 1437,
+      "character_end": 3097,
+      "line_start": 23,
+      "line_end": 46,
+      "quote": "Again, it may be asked, how is it that varieties, which I have called\r\nincipient species, become ultimately converted into good and distinct\r\nspecies, which in most cases obviously differ from each other far more\r\nthan do the varieties of the same species? How do those groups of\r\nspecies, which constitute what are called distinct genera, and which\r\ndiffer from each other more than do the species of the same genus,\r\narise? All these results, as we shall more fully see in the next\r\nchapter, follow inevitably from the struggle for life. Owing to this\r\nstruggle for life, any variation, however slight and from whatever\r\ncause proceeding, if it be in any degree profitable to an individual of\r\nany species, in its infinitely complex relations to other organic\r\nbeings and to external nature, will tend to the preservation of that\r\nindividual, and will generally be inherited by its offspring. The\r\noffspring, also, will thus have a better chance of surviving, for, of\r\nthe many individuals of any species which are periodically born, but a\r\nsmall number can survive. I have called this principle, by which each\r\nslight variation, if useful, is preserved, by the term of Natural\r\nSelection, in order to mark its relation to man’s power of selection.\r\nWe have seen that man by selection can certainly produce great results,\r\nand can adapt organic beings to his own uses, through the accumulation\r\nof slight but useful variations, given to him by the hand of Nature.\r\nBut Natural Selection, as we shall hereafter see, is a power\r\nincessantly ready for action, and is as immeasurably superior to man’s\r\nfeeble efforts, as the works of Nature are to those of Art."
+    },
+    {
+      "query_id": "Q12",
+      "purpose": "rank1_fictional_biology",
+      "file": "data/corpus/book_0977.txt",
+      "sha256": "0e4956cff546c85de7d3f7cefe4eedfa82f8e9f4557ea8912b4da259a8bea454",
+      "character_start": 64314,
+      "character_end": 65803,
+      "line_start": 1055,
+      "line_end": 1076,
+      "quote": "The chief care of the supreme magistrate was to communicate with certain\nactive departments charged with the administration of special details.\nThe most important and essential of such details was that connected with\nthe due provision of light. Of this department my host, Aph-Lin, was\nthe chief. Another department, which might be called the foreign,\ncommunicated with the neighbouring kindred states, principally for the\npurpose of ascertaining all new inventions; and to a third department\nall such inventions and improvements in machinery were committed for\ntrial. Connected with this department was the College of Sages--a\ncollege especially favoured by such of the Ana as were widowed and\nchildless, and by the young unmarried females, amongst whom Zee was\nthe most active, and, if what we call renown or distinction was a thing\nacknowledged by this people (which I shall later show it is not), among\nthe more renowned or distinguished. It is by the female Professors\nof this College that those studies which are deemed of least use in\npractical life--as purely speculative philosophy, the history of remote\nperiods, and such sciences as entomology, conchology, &c.--are the more\ndiligently cultivated. Zee, whose mind, active as Aristotle’s, equally\nembraced the largest domains and the minutest details of thought, had\nwritten two volumes on the parasite insect that dwells amid the hairs\nof a tiger’s* paw, which work was considered the best authority on that\ninteresting subject."
+    }
+  ]
+}

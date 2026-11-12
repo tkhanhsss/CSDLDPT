@@ -1,0 +1,20 @@
+{
+  "recorded_at": "2026-11-06T16:41:32+07:00",
+  "source": "User message in this conversation",
+  "raw_message": "P304 = 1; P003 = 1",
+  "pair_id_correction": {
+    "as_typed": "P304",
+    "interpreted_as": "P034",
+    "basis": "Only pending IDs were P034 and P003; P304 does not exist in the 36-pair map. Interpretation stated to user."
+  },
+  "resolutions": {
+    "P034": "1",
+    "P003": "1"
+  },
+  "other_pairs": "Retain the identical grade in both independent forms for the other 34 pairs.",
+  "evidence_and_reason": "Retain reviewer A verbatim for the 34 matching grades and the two grade-1 resolutions; both original forms retained.",
+  "original_forms_sha256": {
+    "reviewer_A.csv": "34071ad37cbb33833a3fc317be52d4ae0e7a112331ae5a80719fee3969725adc",
+    "reviewer_B.csv": "88ae097a6868abf289c2a21eec3a0b0e34ec0b7cad481b8687ce3926e5ab3d50"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "phase": "P6",
+  "status": "complete",
+  "created_at": "2026-11-06T01:29:32+07:00",
+  "build_id": "gd2-p3-0274798c40134e5e91eb3452500cda71",
+  "official_query_count": 12,
+  "scores_checked": 12000,
+  "copies_verified": 36,
+  "max_score_error": 5.551115123125783e-17,
+  "max_contribution_error": 5.551115123125783e-17,
+  "python_tests": {
+    "passed": 27,
+    "command": "python -m unittest discover -s gd2/tests -v"
+  },
+  "grading_form_script_checks": {
+    "forms": 2,
+    "passed": true,
+    "command": "node gd2/tests/check_grading_forms.cjs",
+    "scope": "Generated scripts with mocked DOM; CSV export/import Unicode, quotes, commas, multiline, missing grade"
+  },
+  "p5_and_baseline_check_after_work": {
+    "status": "passed",
+    "queries": 12,
+    "distinct_works": 12,
+    "groups": {
+      "mystery_crime": 2,
+      "maritime_nautical": 2,
+      "science_fiction_speculative": 2,
+      "romance_social": 2,
+      "adventure_exploration": 2,
+      "nature_animals": 2
+    },
+    "word_count_min": 965,
+    "word_count_max": 1025,
+    "word_count_total": 12011,
+    "source_substrings_exact": true,
+    "locked_files_checked": 36,
+    "deep_overlap_screen": false,
+    "retrieval_run": false
+  },
+  "corpus_unchanged": true,
+  "database_unchanged": true,
+  "case_excerpts_verified": 7,
+  "os_cim": {
+    "Caption": "Microsoft Windows 11 Pro",
+    "Version": "10.0.26200",
+    "BuildNumber": "26200"
+  },
+  "performance_directory": "gd2/evaluation/p6/performance_final",
+  "human_grading": {
+    "status": "complete",
+    "reviewers": [
+      "Khanh",
+      "Trong"
+    ],
+    "pairs": 36,
+    "resolved_pairs": {
+      "P034": 1,
+      "P003": 1
+    },
+    "mean_precision_at_3": 0.1111111111111111,
+    "fraction_queries_with_relevant_top3": 0.25,
+    "initial_exact_agreement": 0.9444444444444444,
+    "grade_distribution": {
+      "0": 11,
+      "1": 21,
+      "2": 4
+    },
+    "metrics_path": "gd2/evaluation/p6/grading_final/metrics.json",
+    "decision_path": "gd2/evaluation/p6/consensus_decision.json"
+  },
+  "files_sha256": {
+    "gd2/src/evaluate.py": "edbce875f825cc70adf7c50a97852ef10ff92c09440c416e9b959855d2909203",
+    "gd2/src/benchmark.py": "cc4bb8f529a60ba8ff3be3dc7202c47222add0d63a0ea0de275a7fd6304f3886",
+    "gd2/tests/test_evaluate.py": "40fb554397acd834661d8d1ca30bcc73540feacf1447cf9e768ebe79ac72c6ee",
+    "gd2/tests/check_grading_forms.cjs": "b60311fbb667212febd7cf9d6693dd430bf8f0a73234fa318fe8e1674f43f088",
+    "gd2/evaluation/p6/evaluation_manifest.json": "c5cb6dd924a0a9f67a2c6d95240ec97d2e5c880f43cf44ceaf4d946edd754be3",
+    "gd2/evaluation/p6/technical_verification.json": "275a44934858d2e50d8f09192d4e22c4a67c428d38b7b84978740562f04be85d",
+    "gd2/evaluation/p6/performance_final/performance.json": "4f653705f4e42944ebb88c0f84042b736355d5ffb26de2ab8c2ea5bea96920de",
+    "gd2/evaluation/p6/case_analysis.json": "5b484bf0cf6ade873e5e9486abc64ec212e653e6d0e531b6df6723beae895efa",
+    "docs/gd2/BIEN_BAN_P6.md": "4b8d870e8c2618106a393aa40aad38779b84409bd8727a674e6738a78146a4bb",
+    "gd2/evaluation/p6/reviewer_A.csv": "34071ad37cbb33833a3fc317be52d4ae0e7a112331ae5a80719fee3969725adc",
+    "gd2/evaluation/p6/reviewer_B.csv": "88ae097a6868abf289c2a21eec3a0b0e34ec0b7cad481b8687ce3926e5ab3d50",
+    "gd2/evaluation/p6/consensus.csv": "3a8ecd970973ad654a3139c78365a280c88df673bd5827f16f5ebaed48c700e5",
+    "gd2/evaluation/p6/consensus_decision.json": "8fffae2205c68d34e07ec134f91337f4f3d9bf75113f5524ce573c99d0ce22c8",
+    "gd2/evaluation/p6/grading_final/metrics.json": "0964d2c26b04a92d13ecb9ccb98981001d26baf150a1d2f9e1fee467bcf4b215",
+    "gd2/evaluation/p6/grading_final/comparison.csv": "4346cfc21d7692017ee31b38c976676f6be710e4bb2c5c25629be8a29355bc57",
+    "gd2/evaluation/p6/grading_final/precision_at_3.csv": "5e327f3de49d3f3334ddf755622fff17ccd82e04b0e52ca342f240e8866c12b8",
+    "README.md": "fd1757397de90068fbbb27177fab9fab4b7621451c0fd8e790d26e5855f9c3af",
+    "gd2/README.md": "93ff19a8d3bd8cd52e34235fd82fa202f510591ba92f57d75eb24ed5754f6900",
+    "gd2/evaluation/p6/README.md": "3376fe7bada8a91189a3801ac07f0420ce6ca7d4a0cafe292abe05e114dea9c6",
+    "docs/gd2/KE_HOACH_GD2.md": "becea655db3987f87c03a668a4efb956e8bbb30a5ca630fbd886c60fe024ce4e"
+  },
+  "completed_at": "2026-11-06T16:43:39+07:00",
+  "final_metrics_independent_fraction": "1/9"
+}

@@ -1,0 +1,8 @@
+term,term_id,df,idf,status
+adventur,,,,not_in_vocabulary
+detect,8046,503,1.686178511243852,retained
+love,,,,not_in_vocabulary
+mysteri,,,,not_in_vocabulary
+ocean,20756,496,1.700164753218592,retained
+ship,,,,not_in_vocabulary
+war,,,,not_in_vocabulary
