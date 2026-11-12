@@ -7,8 +7,8 @@ Ngày chốt: 04/11/2026. Đã triển khai và kiểm chứng P4; xem BIEN_BAN_
 CLI:
 
 ```powershell
-python -m gd2.src.search --query input.txt --out gd2/results/run01
-python -m gd2.src.search --query Q01.txt Q02.txt --out gd2/results/run02 --trace
+python -m gd2.src.search --query input.txt --out work/run01
+python -m gd2.src.search --query Q01.txt Q02.txt --out work/run02 --trace
 ```
 
 `--query` nhận một hoặc nhiều đường dẫn TXT; `--database` mặc định là `gd2/database/documents.sqlite`. Một lần chạy nạp CSDL một lần rồi xử lý tuần tự các tệp. Chương trình dùng vocabulary/IDF đã nạp và tokenizer chung, không fit lại, không cần đọc artifact P2 để tìm kiếm. Ghi thời gian nạp kho riêng với thời gian từng truy vấn.

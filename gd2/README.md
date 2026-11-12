@@ -4,7 +4,7 @@ P7 đã có [PDF hợp nhất](report/GD1-GD2-CSDLDPT-23-03.pdf) và [bản Word
 
 P3 đã tạo `database/documents.sqlite`: 1.000 tài liệu, 34.416 term, 1.926.766 trọng số; ma trận đọc lại khớp P2 hoàn toàn. Xem [biên bản P3](../docs/gd2/BIEN_BAN_P3.md).
 
-Kiểm tra CSDL hiện có: `python -m gd2.src.verify_database`. Dựng bản mới: `python -u -m gd2.src.build_database --out gd2/database/documents_recheck.sqlite`. Không ghi đè tệp hiện có. Các tham số `--p2` cho phép chỉ định thư mục tham chiếu P2 khác đã qua kiểm chứng.
+Kiểm tra CSDL hiện có bằng `python -m gd2.src.verify_database`. Dựng bản mới bằng `python -u -m gd2.src.build_database --out work/documents_recheck.sqlite`. Tham số `--p2` cho phép chỉ định thư mục tham chiếu P2 khác đã qua kiểm chứng.
 
 `database/schema.sql` định nghĩa năm bảng; `database/verify.sql` chứa truy vấn kiểm chứng thủ công. `database/documents.verification.json` lưu hash CSDL, nguồn, số liệu và thời gian. SQLite phải từ 3.37 để hỗ trợ STRICT; bản hiện tại dùng 3.40.1.
 
@@ -34,11 +34,10 @@ Chạy các lệnh dưới đây từ thư mục gốc `CSDLDPT`, bằng Python 
 ```powershell
 python tools/verify_baseline.py
 python -m unittest discover -s gd2/tests -v
-python -u -m gd2.src.build_features
 python -m gd2.src.verify_features
 ```
 
-Lệnh dựng mặc định xuất vào `gd2/artifacts/p2`. Để tái lập lần khác, dùng `python -u -m gd2.src.build_features --out gd2/artifacts/p2_recheck`. Lệnh từ chối ghi đè một thư mục đã tồn tại. Chỉ công bố thư mục kết quả sau khi tất cả kiểm tra đạt; bản dựng lỗi không được coi là dữ liệu đầu vào hợp lệ của P3.
+Để dựng lại đặc trưng, dùng `python -u -m gd2.src.build_features --out work/p2_recheck`. Chọn một thư mục đầu ra mới cho mỗi lần chạy. Đặc trưng chính thức nằm ở `gd2/artifacts/p2`.
 
 ## Quy trình
 
@@ -80,9 +79,9 @@ GD1 không lưu ma trận gốc, nên đối chiếu lịch sử chỉ có số 
 
 ## Tìm kiếm P4
 
-Từ thư mục gốc: `python -m gd2.src.search --query query.txt --out gd2/results/run_new --trace`. Bỏ `--trace` khi chỉ cần Top-3 và ba TXT; truyền nhiều đường dẫn sau `--query` để nạp kho một lần cho cả lô. Thư mục đầu ra phải chưa tồn tại.
+Từ thư mục gốc, chạy `python -m gd2.src.search --query gd2/queries/Q01.txt --out work/search_q01 --trace`. Bỏ `--trace` khi chỉ cần Top-3 và ba TXT. Truyền nhiều đường dẫn sau `--query` để nạp kho một lần cho cả lô. Chọn một thư mục đầu ra mới cho mỗi lần chạy.
 
-Kiểm chứng kỹ thuật: `python -m gd2.src.verify_search --out gd2/artifacts/p4_recheck`. Bằng chứng cuối đã lưu tại `gd2/artifacts/p4_final`. Các đầu vào kiểm thử này không thuộc bộ truy vấn chính thức P5.
+Kiểm chứng kỹ thuật bằng `python -m gd2.src.verify_search --out work/p4_recheck`. Bằng chứng cuối nằm tại `gd2/artifacts/p4_final`.
 
 ## Bộ truy vấn P5
 
@@ -95,9 +94,9 @@ Kiểm chứng kỹ thuật: `python -m gd2.src.verify_search --out gd2/artifact
 Hai thành viên chấm riêng bằng `evaluation/p6/reviewer_A.html` và `reviewer_B.html`, xuất CSV rồi đối chiếu và điền `consensus.csv`. Xem [hướng dẫn chấm](evaluation/p6/README.md). Đã chốt hai bất đồng P034 = 1 và P003 = 1 theo phản hồi người dùng. Kết quả cuối tại `evaluation/p6/grading_final`: Mean P@3 = 11,11%, 3/12 truy vấn có kết quả mức 2; P6 đã nghiệm thu. Hai phiếu độc lập vẫn nguyên byte.
 
 ```powershell
-python -m gd2.src.evaluate prepare --run gd2/results/p6_official --out gd2/evaluation/p6_new
-python -m gd2.src.benchmark --out gd2/evaluation/performance_new
-python -m gd2.src.evaluate grade --out gd2/evaluation/p6/grading_recheck
+python -m gd2.src.evaluate prepare --run gd2/results/p6_official --out work/p6_new
+python -m gd2.src.benchmark --out work/performance_new
+python -m gd2.src.evaluate grade --out work/grading_recheck
 node gd2/tests/check_grading_forms.cjs
 ```
 

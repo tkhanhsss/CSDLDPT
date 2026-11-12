@@ -9,6 +9,8 @@ node_modules/
 .DS_Store
 Thumbs.db
 ~$*
+/work/
+/experiments/_work/
 
 # Local credentials
 .env
@@ -20,6 +22,7 @@ gd2/report/work/render_*/
 gd2/report/work/reference_render/
 gd2/report/work/reference.pdf
 gd2/report/work/pdf_text.txt
+gd2/report/work/build_manifest.json
 
 # Transient SQLite sidecars
 *.sqlite-wal

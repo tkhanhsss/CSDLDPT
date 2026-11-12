@@ -1,0 +1,53 @@
+<!doctype html><html lang="vi"><meta charset="utf-8"><title>Phiếu chấm thử nghiệm @@ROLE@@</title>
+<style>body{font:17px/1.5 system-ui;max-width:1050px;margin:30px auto;padding:0 20px;color:#1d2833}section{border-top:2px solid #b8cad8;margin-top:35px;padding-top:12px}pre{white-space:pre-wrap;font:16px/1.65 Georgia;max-height:600px;overflow:auto;padding:20px;background:#f2f5f7}label{display:block;margin:12px 0}textarea{display:block;width:98%;min-height:70px;font:16px system-ui}select,input,button{font:16px system-ui;padding:8px}header{background:#eef6ff;padding:18px}button,summary{cursor:pointer}summary{padding:10px}</style>
+<h1>Phiếu chấm độc lập @@ROLE@@</h1><header>
+<p>Chấm @@COUNT@@ cặp theo nội dung chính của truy vấn. Mức 2 sát chủ đề hoặc tình huống trung tâm. Mức 1 liên quan một phần hoặc chung bối cảnh. Mức 0 không liên quan đáng kể. Trùng tên hoặc từ không đủ để chọn mức 2.</p>
+<p>Đọc đầy đủ truy vấn và phần cần thiết của tài liệu. Mọi cặp đều cần hai trích dẫn nguyên văn và lý do. Không xem bảng xếp hạng, điểm cũ, phương pháp hoặc phiếu của người kia trước khi nộp.</p>
+<label>Tên người chấm <input id="reviewer" placeholder="Nhập tên thành viên"></label>
+<button onclick="saveCSV()">Tải CSV điểm đã nhập</button>
+<button onclick="document.getElementById('restore').click()">Nạp lại CSV đang chấm</button>
+<input hidden id="restore" type="file" accept=".csv"><p id="status"></p>
+<p>Xuất CSV thường xuyên. Dữ liệu chưa xuất sẽ mất khi đóng hoặc tải lại trang.</p></header>
+@@SECTIONS@@
+<button onclick="saveCSV()">Tải CSV điểm đã nhập</button>
+<script>
+const fields=['pair_id','reviewer','grade','query_evidence','document_evidence','reason'];
+const sections=Array.from(document.querySelectorAll('section'));
+const quote=x=>'"'+String(x).replaceAll('"','""')+'"';
+function saveCSV(){
+  const reviewer=document.getElementById('reviewer').value.trim();
+  if(!reviewer){alert('Nhập tên người chấm trước khi xuất.');return;}
+  const rows=sections.map(s=>[s.dataset.pair,reviewer,...fields.slice(2).map(f=>s.querySelector('.'+f).value)]);
+  const csv='\ufeff'+[fields,...rows].map(r=>r.map(quote).join(',')).join('\r\n');
+  const url=URL.createObjectURL(new Blob([csv],{type:'text/csv;charset=utf-8'}));
+  const a=document.createElement('a');a.href=url;a.download='reviewer_@@ROLE@@.csv';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);
+  const complete=rows.filter(r=>r[2]!==''&&r.slice(3).every(v=>v.trim())).length;
+  document.getElementById('status').textContent=complete+'/'+sections.length+' cặp đã đủ điểm và bằng chứng. CSV đã xuất, hãy giữ tệp này.';
+}
+function parseCSV(text){
+  const rows=[];let row=[],cell='',quoted=false;
+  for(let i=0;i<text.length;i++){
+    const c=text[i];
+    if(c==='"'){if(quoted&&text[i+1]==='"'){cell+='"';i++;}else quoted=!quoted;}
+    else if(c===','&&!quoted){row.push(cell);cell='';}
+    else if((c==='\n'||c==='\r')&&!quoted){if(c==='\r'&&text[i+1]==='\n')i++;row.push(cell);rows.push(row);row=[];cell='';}
+    else cell+=c;
+  }
+  if(quoted)throw Error('CSV chưa đóng dấu nháy');
+  if(cell||row.length){row.push(cell);rows.push(row);}return rows;
+}
+document.getElementById('restore').onchange=async e=>{
+  if(!e.target.files.length)return;
+  try{
+    const rows=parseCSV((await e.target.files[0].text()).replace(/^\uFEFF/,''));
+    if(JSON.stringify(rows.shift())!==JSON.stringify(fields))throw Error('Sai cột CSV');
+    const map=new Map(rows.map(r=>[r[0],r]));
+    if(map.size!==sections.length||rows.length!==sections.length||sections.some(s=>!map.has(s.dataset.pair)))throw Error('Sai danh sách cặp');
+    if(rows.some(r=>r.length!==fields.length||!['','0','1','2'].includes(r[2])))throw Error('Sai dữ liệu hoặc mức chấm');
+    if(new Set(rows.map(r=>r[1])).size!==1)throw Error('Tên người chấm không nhất quán');
+    document.getElementById('reviewer').value=rows[0][1];
+    sections.forEach(s=>fields.slice(2).forEach((f,i)=>s.querySelector('.'+f).value=map.get(s.dataset.pair)[i+2]));
+    document.getElementById('status').textContent='Đã nạp điểm từ CSV.';
+  }catch(err){alert(err.message);}
+};
+</script></html>

@@ -376,7 +376,8 @@ CSDLDPT/
   docs/audit/                         # bằng chứng kiểm tra và đổi đường dẫn
   baselines/pre_gd2_2026-11-04/         # manifest, cấu hình, stopword, snapshot
   tools/verify_baseline.py             # kiểm tra mốc chỉ đọc
-  archive/                            # lịch sử tệp tạm đã nén
+  docs/audit/archive/                 # hồ sơ chuẩn bị đã nén
+  work/                               # kết quả chạy lại trên máy
   gd2/                                # đã có mã và sản phẩm P2–P3
     src/, config/, database/
     queries/, sources/, results/, evaluation/, report/

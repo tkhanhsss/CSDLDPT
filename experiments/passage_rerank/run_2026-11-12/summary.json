@@ -1,0 +1,133 @@
+{
+  "created_at": "2026-11-12T12:06:17.851804+00:00",
+  "status": "pending_human_grading",
+  "parameters": {
+    "candidates": 30,
+    "width_raw_words": 1000,
+    "stride_raw_words": 500,
+    "tail": "last full window anchored at last word; deduplicate starts",
+    "score": "max passage cosine using frozen corpus vocabulary and IDF",
+    "document_tie": "filename ascending",
+    "passage_tie": "earliest start"
+  },
+  "queries": 12,
+  "ranking_slots": 72,
+  "unique_pairs": 58,
+  "shared_pairs": 14,
+  "new_pairs": 22,
+  "unique_candidate_documents": 262,
+  "passages_scored": 27898,
+  "candidate_winners_checked_independently": 360,
+  "max_cosine_error": 1.1102230246251565e-16,
+  "build_id": "gd2-p3-0274798c40134e5e91eb3452500cda71",
+  "database_load_seconds": 3.2027170000001206,
+  "elapsed_seconds": 59.48239769999964,
+  "timing_note": "One exploratory run, cache reused Q01 to Q12. Not a warm benchmark. Validation and export excluded from query timers.",
+  "mean_precision_at_3": null,
+  "official_baseline_checks": [
+    {
+      "query_id": "Q01",
+      "scores_checked": 1000,
+      "copies_checked": 3,
+      "max_score_error": 5.551115123125783e-17,
+      "max_contribution_error": 4.163336342344337e-17
+    },
+    {
+      "query_id": "Q02",
+      "scores_checked": 1000,
+      "copies_checked": 3,
+      "max_score_error": 2.7755575615628914e-17,
+      "max_contribution_error": 1.3877787807814457e-17
+    },
+    {
+      "query_id": "Q03",
+      "scores_checked": 1000,
+      "copies_checked": 3,
+      "max_score_error": 0.0,
+      "max_contribution_error": 2.7755575615628914e-17
+    },
+    {
+      "query_id": "Q04",
+      "scores_checked": 1000,
+      "copies_checked": 3,
+      "max_score_error": 5.551115123125783e-17,
+      "max_contribution_error": 2.7755575615628914e-17
+    },
+    {
+      "query_id": "Q05",
+      "scores_checked": 1000,
+      "copies_checked": 3,
+      "max_score_error": 4.163336342344337e-17,
+      "max_contribution_error": 2.7755575615628914e-17
+    },
+    {
+      "query_id": "Q06",
+      "scores_checked": 1000,
+      "copies_checked": 3,
+      "max_score_error": 4.163336342344337e-17,
+      "max_contribution_error": 1.3877787807814457e-17
+    },
+    {
+      "query_id": "Q07",
+      "scores_checked": 1000,
+      "copies_checked": 3,
+      "max_score_error": 2.7755575615628914e-17,
+      "max_contribution_error": 1.3877787807814457e-17
+    },
+    {
+      "query_id": "Q08",
+      "scores_checked": 1000,
+      "copies_checked": 3,
+      "max_score_error": 0.0,
+      "max_contribution_error": 2.7755575615628914e-17
+    },
+    {
+      "query_id": "Q09",
+      "scores_checked": 1000,
+      "copies_checked": 3,
+      "max_score_error": 0.0,
+      "max_contribution_error": 1.3877787807814457e-17
+    },
+    {
+      "query_id": "Q10",
+      "scores_checked": 1000,
+      "copies_checked": 3,
+      "max_score_error": 0.0,
+      "max_contribution_error": 2.7755575615628914e-17
+    },
+    {
+      "query_id": "Q11",
+      "scores_checked": 1000,
+      "copies_checked": 3,
+      "max_score_error": 4.163336342344337e-17,
+      "max_contribution_error": 5.551115123125783e-17
+    },
+    {
+      "query_id": "Q12",
+      "scores_checked": 1000,
+      "copies_checked": 3,
+      "max_score_error": 2.7755575615628914e-17,
+      "max_contribution_error": 2.7755575615628914e-17
+    }
+  ],
+  "query_lock_check": {
+    "status": "passed",
+    "queries": 12,
+    "distinct_works": 12,
+    "groups": {
+      "mystery_crime": 2,
+      "maritime_nautical": 2,
+      "science_fiction_speculative": 2,
+      "romance_social": 2,
+      "adventure_exploration": 2,
+      "nature_animals": 2
+    },
+    "word_count_min": 965,
+    "word_count_max": 1025,
+    "word_count_total": 12011,
+    "source_substrings_exact": true,
+    "locked_files_checked": 36,
+    "deep_overlap_screen": false,
+    "retrieval_run": false
+  }
+}

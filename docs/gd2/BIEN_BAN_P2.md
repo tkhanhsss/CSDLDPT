@@ -70,7 +70,7 @@ python -m gd2.src.verify_features
 Để tái lập từ corpus vào thư mục mới:
 
 ```powershell
-python -u -m gd2.src.build_features --out gd2/artifacts/p2_recheck
+python -u -m gd2.src.build_features --out work/p2_recheck
 ```
 
 ## Giới hạn bằng chứng và bước tiếp theo

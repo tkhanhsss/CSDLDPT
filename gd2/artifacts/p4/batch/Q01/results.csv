@@ -1,4 +1,0 @@
-rank,doc_id,filename,title,author_display,label_code,score,zero_score,relative_path,copy_path,raw_sha256
-1,487,book_0487.txt,A NEW ROBINSON CRUSOE,W. L. ALDEN,adventure_exploration,0.08819101516070367,False,data/corpus/book_0487.txt,rank1_book_0487.txt,a694ec3d2a7939314e421ab7c602843bd2be447463d5f059f3cf33d158c05d2e
-2,745,book_0745.txt,SIX LITTLE BUNKERS AT CAPTAIN BEN'S,LAURA LEE HOPE,adventure_exploration,0.08481487059691796,False,data/corpus/book_0745.txt,rank2_book_0745.txt,76c846c038802bb05176058e68328b38b01d574a2b32d7d12278e10b1116431c
-3,310,book_0310.txt,WRECKED ON THE FEEJEES,William S. Cary,maritime_nautical,0.08021149932858433,False,data/corpus/book_0310.txt,rank3_book_0310.txt,e515e5ceeaed73d5aaeb8e20e6836103f89d98f30e3594f2bb1d24b34c976891

@@ -1,0 +1,59 @@
+query_id,filename,title,query_path,document_path,baseline_top3_rank,passage_top3_rank,pair_id
+Q04,book_0524.txt,"The life of John Thompson, a fugitive slave",gd2/queries/Q04.txt,data/corpus/book_0524.txt,,1,E001
+Q06,book_0952.txt,Rip Foster Rides the Gray Planet,gd2/queries/Q06.txt,data/corpus/book_0952.txt,,3,E002
+Q09,book_0412.txt,TESSA,gd2/queries/Q09.txt,data/corpus/book_0412.txt,3,,E003
+Q12,book_0219.txt,"The Girl's Own Paper, Vol. XX. No. 1008, April 22, 1899",gd2/queries/Q12.txt,data/corpus/book_0219.txt,,1,E004
+Q09,book_0741.txt,The ocean wireless boys of the iceberg patrol,gd2/queries/Q09.txt,data/corpus/book_0741.txt,,2,E005
+Q10,book_0021.txt,COMING HOME,gd2/queries/Q10.txt,data/corpus/book_0021.txt,,1,E006
+Q01,book_0733.txt,THE CLUB OF QUEER TRADES,gd2/queries/Q01.txt,data/corpus/book_0733.txt,1,,E007
+Q08,book_0373.txt,Paste Jewels,gd2/queries/Q08.txt,data/corpus/book_0373.txt,3,,E008
+Q05,book_0564.txt,THE DOINGS OF RAFFLES HAW,gd2/queries/Q05.txt,data/corpus/book_0564.txt,,2,E009
+Q12,book_0501.txt,"Universal Brotherhood, Volume XIII, No. 10, January 1899",gd2/queries/Q12.txt,data/corpus/book_0501.txt,,3,E010
+Q07,book_0062.txt,The Candle and the Cat,gd2/queries/Q07.txt,data/corpus/book_0062.txt,1,3,E011
+Q06,book_0727.txt,The radium pool,gd2/queries/Q06.txt,data/corpus/book_0727.txt,2,,E012
+Q08,book_0933.txt,The Boys' And Girls' Library,gd2/queries/Q08.txt,data/corpus/book_0933.txt,,2,E013
+Q10,book_0450.txt,IN THE VINE COUNTRY,gd2/queries/Q10.txt,data/corpus/book_0450.txt,,3,E014
+Q01,book_0638.txt,The Thirty-Nine Steps,gd2/queries/Q01.txt,data/corpus/book_0638.txt,3,,E015
+Q02,book_0880.txt,GEOFFREY THE LOLLARD.,gd2/queries/Q02.txt,data/corpus/book_0880.txt,1,,E016
+Q05,book_0606.txt,An aviator's luck,gd2/queries/Q05.txt,data/corpus/book_0606.txt,3,,E017
+Q04,book_0980.txt,THE SURVIVORS OF THE CHANCELLOR.,gd2/queries/Q04.txt,data/corpus/book_0980.txt,2,3,E018
+Q08,book_0757.txt,Far above rubies (Vol. 1 of 3),gd2/queries/Q08.txt,data/corpus/book_0757.txt,,3,E019
+Q02,book_0982.txt,CONFESSIONS OF A BOOK-LOVER,gd2/queries/Q02.txt,data/corpus/book_0982.txt,,2,E020
+Q03,book_0936.txt,THE DREADNOUGHT BOYS ON A SUBMARINE,gd2/queries/Q03.txt,data/corpus/book_0936.txt,3,,E021
+Q09,book_0868.txt,Island Nights’ Entertainments,gd2/queries/Q09.txt,data/corpus/book_0868.txt,1,3,E022
+Q02,book_0233.txt,THE POOR CLARE,gd2/queries/Q02.txt,data/corpus/book_0233.txt,3,,E023
+Q10,book_0002.txt,The Exiles,gd2/queries/Q10.txt,data/corpus/book_0002.txt,3,2,E024
+Q09,book_0929.txt,"Rounding Cape Horn, and Other Sea Stories",gd2/queries/Q09.txt,data/corpus/book_0929.txt,2,,E025
+Q01,book_0659.txt,"""To let""",gd2/queries/Q01.txt,data/corpus/book_0659.txt,2,1,E026
+Q01,book_0164.txt,A DOUBLE BARRELLED DETECTIVE STORY,gd2/queries/Q01.txt,data/corpus/book_0164.txt,,2,E027
+Q04,book_0850.txt,"FANNY CAMPBELL, THE FEMALE PIRATE CAPTAIN A Tale Of The Revolution",gd2/queries/Q04.txt,data/corpus/book_0850.txt,3,2,E028
+Q06,book_0842.txt,WOMAN FROM ANOTHER PLANET,gd2/queries/Q06.txt,data/corpus/book_0842.txt,3,2,E029
+Q05,book_0707.txt,The Door in the Wall And Other Stories,gd2/queries/Q05.txt,data/corpus/book_0707.txt,1,,E030
+Q03,book_0146.txt,THE FATAL BOOTS.,gd2/queries/Q03.txt,data/corpus/book_0146.txt,,3,E031
+Q11,book_0210.txt,Queer Little Folks,gd2/queries/Q11.txt,data/corpus/book_0210.txt,,2,E032
+Q10,book_0980.txt,THE SURVIVORS OF THE CHANCELLOR.,gd2/queries/Q10.txt,data/corpus/book_0980.txt,1,,E033
+Q02,book_0228.txt,The Merrie Tales of Jacques Tournebroche,gd2/queries/Q02.txt,data/corpus/book_0228.txt,,3,E034
+Q05,book_0516.txt,BILL BOLTON and the Winged Cartwheels,gd2/queries/Q05.txt,data/corpus/book_0516.txt,,3,E035
+Q08,book_0110.txt,HEEDLESS HETTY,gd2/queries/Q08.txt,data/corpus/book_0110.txt,2,,E036
+Q01,book_0206.txt,Ranson's Folly,gd2/queries/Q01.txt,data/corpus/book_0206.txt,,3,E037
+Q11,book_0378.txt,The Maine Woods,gd2/queries/Q11.txt,data/corpus/book_0378.txt,2,,E038
+Q11,book_0626.txt,Cape Cod,gd2/queries/Q11.txt,data/corpus/book_0626.txt,1,1,E039
+Q07,book_0415.txt,Miss Merivale's Mistake,gd2/queries/Q07.txt,data/corpus/book_0415.txt,2,1,E040
+Q03,book_0975.txt,THE END OF THE TETHER,gd2/queries/Q03.txt,data/corpus/book_0975.txt,2,,E041
+Q12,book_0389.txt,‘That Very Mab’,gd2/queries/Q12.txt,data/corpus/book_0389.txt,3,,E042
+Q08,book_0153.txt,"CINDERELLA OR, THE LITTLE GLASS SLIPPER AND OTHER STORIES",gd2/queries/Q08.txt,data/corpus/book_0153.txt,1,1,E043
+Q07,book_0202.txt,Some Christmas Stories,gd2/queries/Q07.txt,data/corpus/book_0202.txt,3,,E044
+Q03,book_0467.txt,THE BOY AVIATORS IN AFRICA OR AN AERIAL IVORY TRAIL,gd2/queries/Q03.txt,data/corpus/book_0467.txt,1,2,E045
+Q05,book_0618.txt,The green girl,gd2/queries/Q05.txt,data/corpus/book_0618.txt,2,1,E046
+Q06,book_0923.txt,The red planet,gd2/queries/Q06.txt,data/corpus/book_0923.txt,,1,E047
+Q12,book_0938.txt,"The Dawn of Reason; or, Mental Traits in the Lower Animals",gd2/queries/Q12.txt,data/corpus/book_0938.txt,2,2,E048
+Q02,book_0505.txt,Is Polite Society Polite? And Other Essays,gd2/queries/Q02.txt,data/corpus/book_0505.txt,2,1,E049
+Q09,book_0382.txt,Adventures in Holland and at Waterloo; and Expedition to Portugal,gd2/queries/Q09.txt,data/corpus/book_0382.txt,,1,E050
+Q04,book_0300.txt,A BUNCH OF ROPE YARNS,gd2/queries/Q04.txt,data/corpus/book_0300.txt,1,,E051
+Q10,book_0731.txt,Mathilda,gd2/queries/Q10.txt,data/corpus/book_0731.txt,2,,E052
+Q11,book_0650.txt,THE VILLAGE WATCH-TOWER,gd2/queries/Q11.txt,data/corpus/book_0650.txt,,3,E053
+Q06,book_0707.txt,The Door in the Wall And Other Stories,gd2/queries/Q06.txt,data/corpus/book_0707.txt,1,,E054
+Q12,book_0977.txt,THE COMING RACE,gd2/queries/Q12.txt,data/corpus/book_0977.txt,1,,E055
+Q07,book_0938.txt,"The Dawn of Reason; or, Mental Traits in the Lower Animals",gd2/queries/Q07.txt,data/corpus/book_0938.txt,,2,E056
+Q11,book_0510.txt,IN THE WILDERNESS,gd2/queries/Q11.txt,data/corpus/book_0510.txt,3,,E057
+Q03,book_0973.txt,PRINCESS SARAH AND OTHER STORIES,gd2/queries/Q03.txt,data/corpus/book_0973.txt,,1,E058

@@ -8,7 +8,7 @@ P7 hoàn tất ngày 07/11/2026. Dùng [PDF](GD1-GD2-CSDLDPT-23-03.pdf) để n�
 - `render_word.ps1`: mở bản báo cáo do P7 tạo trong Word ẩn, cập nhật field, lưu và xuất PDF. Không mở nguồn GD1 để ghi.
 - `verify_report.py`: đối chiếu nội dung GD1, công thức/ảnh, toàn văn Q01, 36 dòng điểm chấm, hash P6, số trang và caption.
 - `assets`: ba sơ đồ của Chương 3–4.
-- `work`: hợp đồng mẫu, inventory và các manifest kiểm tra. Các PNG, PDF tham chiếu, bản trích văn bản và script cập nhật một lần đã được dọn ra ngoài dự án ngày 07/11/2026; xem `../../docs/audit/project_cleanup_2026-11-07.json` để khôi phục nếu cần.
+- `work`: ba manifest cần để kiểm tra nguồn Word GD1, lần xuất PDF và kết quả rà soát hình thức.
 - `../artifacts/p7/verification.json`: kết quả kiểm tra và hash sản phẩm cuối.
 
 ## Dựng lại

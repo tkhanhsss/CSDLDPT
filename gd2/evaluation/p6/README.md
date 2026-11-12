@@ -17,7 +17,7 @@ Mức 2: liên quan rõ với chủ đề/tình huống trung tâm; mức 1: ch�
 `reviewer_A.csv`, `reviewer_B.csv` và `consensus.csv` ban đầu trống. Giữ bản gốc hai CSV đã nộp; đưa bản sao đúng tên vào thư mục này. Chạy lệnh dưới đây với thư mục mới để lưu ảnh chụp phiếu và lập `comparison.csv`:
 
 ```powershell
-python -m gd2.src.evaluate grade --out gd2/evaluation/p6/grading_round_1
+python -m gd2.src.evaluate grade --out work/grading_recheck
 ```
 
 Hai thành viên xem các bất đồng rồi thống nhất `consensus.csv`, cùng schema với hai phiếu. Cột `reviewer` ở phiếu thống nhất dùng một tên chung, ví dụ `Thanh vien A + Thanh vien B`; trích dẫn và lý do vẫn bắt buộc. Không sửa điểm ban đầu của A/B. Lần cuối đã lưu ở `grading_final`; khi kiểm tra lại dùng tên mới như `grading_recheck`, không ghi đè thư mục đã có.
@@ -30,10 +30,8 @@ Nếu còn điểm trống, lệnh trả `awaiting_human_judgments`, P@3 là `nu
 - `top3_all.csv`, `query_statistics.csv`: bảng tổng hợp dùng cho P7.
 - `Q01/`: bảng rút gọn 15 token, 15 term, Top-10 và đóng góp có tổng phần còn lại.
 - `technical_verification.json`, `evaluation_manifest.json`: kiểm tra điểm, file, CSDL và hash.
-- `performance_final/`: phép đo dùng cho báo cáo, một lần làm nóng + năm lần đo mỗi truy vấn; ca vector rỗng riêng. `performance/` là lượt ban đầu có tác vụ kiểm thử cùng phiên, chỉ giữ lịch sử.
+- `performance_final/`: phép đo dùng cho báo cáo, một lần làm nóng và năm lần đo mỗi truy vấn, cùng ca vector rỗng riêng.
 - `case_analysis.json`, `case_excerpts.md`: nhận xét kỹ thuật và trích dẫn có vị trí, do Codex; không phải chấm người thật.
-- `initial_status/`: trạng thái chưa chấm lúc tạo phiếu, giữ làm lịch sử.
-- `grading_round_1/`: hai phiếu đã nộp, 34 cặp trùng điểm và hai bất đồng trước thống nhất.
 - `consensus_decision.json`: phản hồi chốt hai cặp và cách xử lý lỗi gõ ID.
 - `grading_final/`: đủ 36 mức cuối, bảng đối chiếu, P@3 và hash ba phiếu.
 

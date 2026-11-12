@@ -1,0 +1,10 @@
+{
+  "files_sha256": {
+    "comparison.csv": "f3d59fc2b5e70c334c71a939a3dbb8aa3137b5e09c9385448b807eec095da675",
+    "consensus.csv": "b7e693fa4ec9e7e517187bdcc6b06616afe0e8dfbdeb891b4b65ca44e5a8735e",
+    "consensus_decision.json": "b68e002935d5695a9a03cede64c2ba55be0a28b3a436de7f5159b9c6a2a8b1d7",
+    "KET_QUA.md": "39d98d3d0beff973c7055b9a9e41a976a05b2fe8415e068ea243199f4fbb7bc5",
+    "metrics.json": "97224c6fadc4e504c53c3c00a9b8f576f80478c92eeff5d9faff36fc91da9771",
+    "precision_at_3.csv": "4e10bdd957b84e5518ae496723d38569c87ab3cbb1b60069aaee97479d24a777"
+  }
+}

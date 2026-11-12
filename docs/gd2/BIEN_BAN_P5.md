@@ -60,6 +60,6 @@ python -m gd2.src.verify_queries
 python -m gd2.src.verify_queries --deep
 ```
 
-`prepare_queries` chỉ tạo bản nháp cần rà soát, không tự xác nhận ngoài kho hoặc ghi đè bộ đã chốt. Để tái tạo bản nháp từ nguồn đang lưu: `python -m gd2.src.prepare_queries --out gd2/artifacts/p5_reextract`. Không thay bộ đã khóa sau khi xem kết quả để làm đẹp điểm.
+`prepare_queries` tạo bản nháp để rà soát từ nguồn đang lưu. Chạy `python -m gd2.src.prepare_queries --out work/p5_reextract`. Bộ truy vấn đánh giá chính thức nằm trong `gd2/queries`.
 
 P6 tiếp theo chạy cả 12 TXT trong một lô, xuất trace Q01, chấm 36 cặp Top-3 và đo hiệu năng. Bộ truy vấn đủ điều kiện chuyển bước; chất lượng truy hồi phải chờ thực nghiệm P6.

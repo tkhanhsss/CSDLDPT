@@ -37,7 +37,7 @@ Chạy trên CSDL thật tại [bộ bằng chứng cuối](../../gd2/artifacts/
 
 Bộ bằng chứng gồm câu hàng hải tự viết, một đoạn lấy từ `book_0001.txt` để kiểm tra kỹ thuật, một chuỗi stopword và một chuỗi chỉ có số/ký hiệu. **Không dùng các đầu vào này làm bộ truy vấn P5, không suy ra P@3 hoặc chất lượng tìm kiếm.** Đoạn tự truy hồi đứng đầu với `book_0001.txt` là phép kiểm tra hành vi, không phải bằng chứng về tác phẩm ngoài kho.
 
-Lô kiểm chứng cố ý chứa ca lỗi nên `batch/run_metadata.json` có mã thoát 1; `verification.json` vẫn ghi `passed` vì đây là kết quả mong đợi. Lệnh CLI độc lập ở `gd2/results/p4_cli_smoke` có mã thoát 0. Thư mục `gd2/artifacts/p4` là lần chạy kỹ thuật trước khi bổ sung cột nguyên dạng/vị trí token; dùng `p4_final` cho biên bản hiện hành.
+Lô kiểm chứng cố ý chứa ca lỗi nên `batch/run_metadata.json` có mã thoát 1. `verification.json` ghi `passed` vì đây là kết quả mong đợi. Lệnh CLI độc lập có mã thoát 0. Lần chạy CLI độc lập và bản kiểm chứng kỹ thuật trước đó có thể xem ở commit `17e25f9`.
 
 ## Thời gian
 
@@ -48,15 +48,15 @@ Lô bốn đầu vào có trace: nạp kho 3,260 giây; toàn lô 3,359 giây. H
 Từ thư mục gốc, chọn thư mục đầu ra mới:
 
 ```powershell
-python -m gd2.src.search --query gd2/artifacts/p4_final/inputs/technical_maritime.txt --out gd2/results/demo_new --trace
-python -m gd2.src.search --query first.txt second.txt --out gd2/results/batch_new
+python -m gd2.src.search --query gd2/artifacts/p4_final/inputs/technical_maritime.txt --out work/demo_p4 --trace
+python -m gd2.src.search --query first.txt second.txt --out work/batch_p4
 ```
 
 Kiểm thử và tái lập kiểm chứng vào thư mục mới:
 
 ```powershell
 python -m unittest discover -s gd2/tests -v
-python -m gd2.src.verify_search --out gd2/artifacts/p4_recheck
+python -m gd2.src.verify_search --out work/p4_recheck
 ```
 
 Đặc tả đầy đủ: [HOP_DONG_P4.md](HOP_DONG_P4.md). P5 tiếp theo chọn/chốt 12 đoạn từ tác phẩm ngoài kho, trước khi xem kết quả để đánh giá P6.

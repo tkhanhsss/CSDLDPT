@@ -1,0 +1,308 @@
+{
+  "status": "awaiting_consensus",
+  "created_at": "2026-11-12T13:35:35.532354+00:00",
+  "pairs": 58,
+  "validated_completed": {
+    "A": 58,
+    "B": 58
+  },
+  "judgments_sha256": {
+    "A": "33355f1f3aaf6960921b2f0770b4a566585ee0ded4596883ddafa5475743316e",
+    "B": "57de6ae3c7f7ba50511381042ed80a540996ca74a8aaf4582a0f2f002da97693"
+  },
+  "agreement_count": 48,
+  "exact_agreement": 0.8275862068965517,
+  "disagreement_pairs": [
+    "E002",
+    "E009",
+    "E013",
+    "E019",
+    "E022",
+    "E032",
+    "E038",
+    "E046",
+    "E051",
+    "E053"
+  ],
+  "p_at_3_affecting_disagreements": [
+    "E038",
+    "E051"
+  ],
+  "by_reviewer": {
+    "A": {
+      "baseline": {
+        "relevant_slots": 2,
+        "mean_precision_at_3": 0.05555555555555555,
+        "queries_with_relevant_top3": 2,
+        "per_query": [
+          {
+            "query_id": "Q01",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          },
+          {
+            "query_id": "Q02",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          },
+          {
+            "query_id": "Q03",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          },
+          {
+            "query_id": "Q04",
+            "relevant_at_3": 1,
+            "precision_at_3": 0.3333333333333333
+          },
+          {
+            "query_id": "Q05",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          },
+          {
+            "query_id": "Q06",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          },
+          {
+            "query_id": "Q07",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          },
+          {
+            "query_id": "Q08",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          },
+          {
+            "query_id": "Q09",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          },
+          {
+            "query_id": "Q10",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          },
+          {
+            "query_id": "Q11",
+            "relevant_at_3": 1,
+            "precision_at_3": 0.3333333333333333
+          },
+          {
+            "query_id": "Q12",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          }
+        ]
+      },
+      "passage": {
+        "relevant_slots": 0,
+        "mean_precision_at_3": 0.0,
+        "queries_with_relevant_top3": 0,
+        "per_query": [
+          {
+            "query_id": "Q01",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          },
+          {
+            "query_id": "Q02",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          },
+          {
+            "query_id": "Q03",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          },
+          {
+            "query_id": "Q04",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          },
+          {
+            "query_id": "Q05",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          },
+          {
+            "query_id": "Q06",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          },
+          {
+            "query_id": "Q07",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          },
+          {
+            "query_id": "Q08",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          },
+          {
+            "query_id": "Q09",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          },
+          {
+            "query_id": "Q10",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          },
+          {
+            "query_id": "Q11",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          },
+          {
+            "query_id": "Q12",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          }
+        ]
+      }
+    },
+    "B": {
+      "baseline": {
+        "relevant_slots": 0,
+        "mean_precision_at_3": 0.0,
+        "queries_with_relevant_top3": 0,
+        "per_query": [
+          {
+            "query_id": "Q01",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          },
+          {
+            "query_id": "Q02",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          },
+          {
+            "query_id": "Q03",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          },
+          {
+            "query_id": "Q04",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          },
+          {
+            "query_id": "Q05",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          },
+          {
+            "query_id": "Q06",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          },
+          {
+            "query_id": "Q07",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          },
+          {
+            "query_id": "Q08",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          },
+          {
+            "query_id": "Q09",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          },
+          {
+            "query_id": "Q10",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          },
+          {
+            "query_id": "Q11",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          },
+          {
+            "query_id": "Q12",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          }
+        ]
+      },
+      "passage": {
+        "relevant_slots": 0,
+        "mean_precision_at_3": 0.0,
+        "queries_with_relevant_top3": 0,
+        "per_query": [
+          {
+            "query_id": "Q01",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          },
+          {
+            "query_id": "Q02",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          },
+          {
+            "query_id": "Q03",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          },
+          {
+            "query_id": "Q04",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          },
+          {
+            "query_id": "Q05",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          },
+          {
+            "query_id": "Q06",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          },
+          {
+            "query_id": "Q07",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          },
+          {
+            "query_id": "Q08",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          },
+          {
+            "query_id": "Q09",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          },
+          {
+            "query_id": "Q10",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          },
+          {
+            "query_id": "Q11",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          },
+          {
+            "query_id": "Q12",
+            "relevant_at_3": 0,
+            "precision_at_3": 0.0
+          }
+        ]
+      }
+    }
+  },
+  "consensus_metrics": null,
+  "source_sha256": "768515baf1939852fdd2cd2ecc64ea5e2c6f7ce3f0f98faaf7e0ea0d0a148ea2",
+  "note": "Regraded baseline uses current pooled judgments. Historical P6 metrics remain separate."
+}

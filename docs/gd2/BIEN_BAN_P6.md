@@ -97,7 +97,7 @@ Thời gian xây dựng kế thừa nhật ký đo thật: P2 `gd2_build` 28,290
 
 ## 7. Hai người chấm và P@3
 
-Đã nhận đủ hai phiếu của **Khanh** và **Trong**, mỗi phiếu 36 cặp. Mọi dòng có mức 0/1/2, tên, lý do và trích dẫn từ cả truy vấn lẫn tài liệu; trích dẫn khớp nguyên văn sau chuẩn hóa khoảng trắng. Hai phiếu đã nộp được giữ nguyên byte tại `reviewer_A.csv`, `reviewer_B.csv` và bản sao trong `grading_round_1`, `grading_final`.
+Đã nhận đủ hai phiếu của **Khanh** và **Trong**, mỗi phiếu 36 cặp. Mọi dòng có mức 0/1/2, tên, lý do và trích dẫn từ cả truy vấn lẫn tài liệu; trích dẫn khớp nguyên văn sau chuẩn hóa khoảng trắng. Hai phiếu đã nộp được giữ nguyên byte tại `reviewer_A.csv`, `reviewer_B.csv` và bản sao trong `grading_final`.
 
 Hai phiếu trùng điểm **34/36 cặp = 94,44%**. Hai bất đồng là P034 (Q03, hạng 3) và P003 (Q06, hạng 2): Khanh chấm 1, Trong chấm 0. Người dùng chốt cả hai mức **1**. Tin nhắn ghi `P304 = 1; P003 = 1`; do P304 không tồn tại và chỉ P034/P003 đang chờ chốt, P304 được hiểu là lỗi gõ P034, đã thông báo cách hiểu và lưu nguyên phản hồi tại [consensus_decision.json](../../gd2/evaluation/p6/consensus_decision.json).
 
@@ -130,7 +130,7 @@ Hai phiếu trùng điểm **34/36 cặp = 94,44%**. Hai bất đồng là P034 
 
 Q01 có điểm cuối 1–0–1 và P@3 = 0: minh họa kỹ thuật vẫn đầy đủ, nhưng chủ đề trinh thám chung chưa đủ để người chấm coi là sát tình huống trung tâm. Q04 có một kết quả mức 2 về tổ chức/đời sống thủy thủ tàu buôn. Q11 đạt 2/3 với hai văn bản của Thoreau về quan sát thiên nhiên; hai kết quả cùng tác giả là đặc điểm của ca này, không phải bằng chứng hệ thống hiểu ngữ nghĩa tổng quát. Q12 đạt 1/3 với văn bản khảo cứu động vật và đấu tranh sinh tồn. Các kết luận này dựa trên phiếu đã nộp, không suy ra từ cosine hoặc nhãn.
 
-Bằng chứng cuối: [metrics.json](../../gd2/evaluation/p6/grading_final/metrics.json), [P@3 từng truy vấn](../../gd2/evaluation/p6/grading_final/precision_at_3.csv) và [bảng so sánh hai phiếu/điểm cuối](../../gd2/evaluation/p6/grading_final/comparison.csv). `initial_status` và `grading_round_1` giữ trạng thái lịch sử trước khi chốt, không phải kết quả hiện tại. Không báo Recall/MAP/nDCG vì chưa có phán xét toàn kho.
+Bằng chứng cuối gồm [metrics.json](../../gd2/evaluation/p6/grading_final/metrics.json), [P@3 từng truy vấn](../../gd2/evaluation/p6/grading_final/precision_at_3.csv) và [bảng so sánh hai phiếu/điểm cuối](../../gd2/evaluation/p6/grading_final/comparison.csv). Các bản trung gian trước khi chốt có thể xem ở commit `17e25f9`. Không báo Recall/MAP/nDCG vì chưa có phán xét toàn kho.
 
 ## 8. Tái chạy và nghiệm thu
 
@@ -139,9 +139,9 @@ Chạy từ thư mục gốc dự án, dùng thư mục đích mới:
 ```powershell
 python -m gd2.src.verify_queries
 python -m gd2.src.verify_database
-python -m gd2.src.search --query gd2/queries/Q01.txt gd2/queries/Q02.txt gd2/queries/Q03.txt gd2/queries/Q04.txt gd2/queries/Q05.txt gd2/queries/Q06.txt gd2/queries/Q07.txt gd2/queries/Q08.txt gd2/queries/Q09.txt gd2/queries/Q10.txt gd2/queries/Q11.txt gd2/queries/Q12.txt --out gd2/results/p6_recheck --trace
-python -m gd2.src.evaluate prepare --run gd2/results/p6_recheck --out gd2/evaluation/p6_recheck
-python -m gd2.src.benchmark --out gd2/evaluation/performance_recheck
+python -m gd2.src.search --query gd2/queries/Q01.txt gd2/queries/Q02.txt gd2/queries/Q03.txt gd2/queries/Q04.txt gd2/queries/Q05.txt gd2/queries/Q06.txt gd2/queries/Q07.txt gd2/queries/Q08.txt gd2/queries/Q09.txt gd2/queries/Q10.txt gd2/queries/Q11.txt gd2/queries/Q12.txt --out work/p6_recheck --trace
+python -m gd2.src.evaluate prepare --run work/p6_recheck --out work/evaluation_recheck
+python -m gd2.src.benchmark --out work/performance_recheck
 python -m unittest discover -s gd2/tests -v
 node gd2/tests/check_grading_forms.cjs
 ```
@@ -149,7 +149,7 @@ node gd2/tests/check_grading_forms.cjs
 Khi có phiếu đã điền tại `gd2/evaluation/p6/reviewer_A.csv`, `reviewer_B.csv`, `consensus.csv`:
 
 ```powershell
-python -m gd2.src.evaluate grade --out gd2/evaluation/p6/grading_recheck
+python -m gd2.src.evaluate grade --out work/grading_recheck
 ```
 
 Lệnh lưu ảnh chụp dữ liệu CSV, bảng so sánh và `metrics.json`; chỉ tạo `precision_at_3.csv` khi đủ toàn bộ điểm/bằng chứng. Từ chối ghi đè thư mục đầu ra, sai hash, thiếu/trùng ID cặp, mức không hợp lệ, bằng chứng không có trong văn bản hoặc hai phiếu mang cùng tên người chấm.

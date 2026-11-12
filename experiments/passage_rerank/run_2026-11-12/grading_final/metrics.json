@@ -1,0 +1,183 @@
+{
+  "status": "complete",
+  "created_at": "2026-11-12T15:51:51.169327+00:00",
+  "pairs": 58,
+  "resolved_disagreements": [
+    "E002",
+    "E009",
+    "E013",
+    "E019",
+    "E022",
+    "E032",
+    "E038",
+    "E046",
+    "E051",
+    "E053"
+  ],
+  "initial_agreement_count": 48,
+  "initial_exact_agreement": 0.8275862068965517,
+  "pooled_grade_distribution": {
+    "0": 24,
+    "1": 32,
+    "2": 2
+  },
+  "consensus_metrics": {
+    "baseline": {
+      "relevant_slots": 2,
+      "mean_precision_at_3": 0.05555555555555555,
+      "queries_with_relevant_top3": 2,
+      "per_query": [
+        {
+          "query_id": "Q01",
+          "relevant_at_3": 0,
+          "precision_at_3": 0.0
+        },
+        {
+          "query_id": "Q02",
+          "relevant_at_3": 0,
+          "precision_at_3": 0.0
+        },
+        {
+          "query_id": "Q03",
+          "relevant_at_3": 0,
+          "precision_at_3": 0.0
+        },
+        {
+          "query_id": "Q04",
+          "relevant_at_3": 1,
+          "precision_at_3": 0.3333333333333333
+        },
+        {
+          "query_id": "Q05",
+          "relevant_at_3": 0,
+          "precision_at_3": 0.0
+        },
+        {
+          "query_id": "Q06",
+          "relevant_at_3": 0,
+          "precision_at_3": 0.0
+        },
+        {
+          "query_id": "Q07",
+          "relevant_at_3": 0,
+          "precision_at_3": 0.0
+        },
+        {
+          "query_id": "Q08",
+          "relevant_at_3": 0,
+          "precision_at_3": 0.0
+        },
+        {
+          "query_id": "Q09",
+          "relevant_at_3": 0,
+          "precision_at_3": 0.0
+        },
+        {
+          "query_id": "Q10",
+          "relevant_at_3": 0,
+          "precision_at_3": 0.0
+        },
+        {
+          "query_id": "Q11",
+          "relevant_at_3": 1,
+          "precision_at_3": 0.3333333333333333
+        },
+        {
+          "query_id": "Q12",
+          "relevant_at_3": 0,
+          "precision_at_3": 0.0
+        }
+      ],
+      "grade_distribution": {
+        "0": 12,
+        "1": 22,
+        "2": 2
+      }
+    },
+    "passage": {
+      "relevant_slots": 0,
+      "mean_precision_at_3": 0.0,
+      "queries_with_relevant_top3": 0,
+      "per_query": [
+        {
+          "query_id": "Q01",
+          "relevant_at_3": 0,
+          "precision_at_3": 0.0
+        },
+        {
+          "query_id": "Q02",
+          "relevant_at_3": 0,
+          "precision_at_3": 0.0
+        },
+        {
+          "query_id": "Q03",
+          "relevant_at_3": 0,
+          "precision_at_3": 0.0
+        },
+        {
+          "query_id": "Q04",
+          "relevant_at_3": 0,
+          "precision_at_3": 0.0
+        },
+        {
+          "query_id": "Q05",
+          "relevant_at_3": 0,
+          "precision_at_3": 0.0
+        },
+        {
+          "query_id": "Q06",
+          "relevant_at_3": 0,
+          "precision_at_3": 0.0
+        },
+        {
+          "query_id": "Q07",
+          "relevant_at_3": 0,
+          "precision_at_3": 0.0
+        },
+        {
+          "query_id": "Q08",
+          "relevant_at_3": 0,
+          "precision_at_3": 0.0
+        },
+        {
+          "query_id": "Q09",
+          "relevant_at_3": 0,
+          "precision_at_3": 0.0
+        },
+        {
+          "query_id": "Q10",
+          "relevant_at_3": 0,
+          "precision_at_3": 0.0
+        },
+        {
+          "query_id": "Q11",
+          "relevant_at_3": 0,
+          "precision_at_3": 0.0
+        },
+        {
+          "query_id": "Q12",
+          "relevant_at_3": 0,
+          "precision_at_3": 0.0
+        }
+      ],
+      "grade_distribution": {
+        "0": 17,
+        "1": 19,
+        "2": 0
+      }
+    }
+  },
+  "passage_minus_baseline_percentage_points": -5.555555555555555,
+  "judgments_sha256": {
+    "A": "33355f1f3aaf6960921b2f0770b4a566585ee0ded4596883ddafa5475743316e",
+    "B": "57de6ae3c7f7ba50511381042ed80a540996ca74a8aaf4582a0f2f002da97693"
+  },
+  "decision_sha256": "b68e002935d5695a9a03cede64c2ba55be0a28b3a436de7f5159b9c6a2a8b1d7",
+  "sources_sha256": {
+    "experiments/passage_rerank/finalize.py": "ade20eaaa133fc414269c65eec9c5285c8dfbfe28f32091cb95f074a409179cb",
+    "experiments/passage_rerank/grade.py": "768515baf1939852fdd2cd2ecc64ea5e2c6f7ce3f0f98faaf7e0ea0d0a148ea2"
+  },
+  "evidence_policy": "For agreement retain A evidence. For a resolved pair retain evidence of a reviewer whose grade matches the user decision. User reason is preserved verbatim.",
+  "scope": "Exploratory comparison on previously inspected Q01-Q12. Historical P6 metrics are unchanged.",
+  "consensus_sha256": "b7e693fa4ec9e7e517187bdcc6b06616afe0e8dfbdeb891b4b65ca44e5a8735e"
+}

@@ -1,5 +1,7 @@
 # Bằng chứng chuẩn bị GD2
 
+Hồ sơ chuẩn bị gồm ảnh đối chiếu, mã kiểm tra một lần và ba TXT Gutenberg. Bản ZIP đã kiểm tra đủ 31 tệp nằm tại [archive](archive/preparation_files_snapshot_2026-11-07.zip). Các đường dẫn cũ trong nhật ký mô tả vị trí tại thời điểm lập hồ sơ.
+
 - `project_cleanup_2026-11-07.json`: dọn cache và tệp trung gian báo cáo sau P7, vị trí bản khôi phục ngoài dự án, ZIP đã xác minh và kết quả kiểm tra baseline/báo cáo sau dọn.
 
 - `pre_p4_cleanup.json`: schema v4, kết quả đối chiếu, thời gian nạp thông thường và kiểm thử trước P4.

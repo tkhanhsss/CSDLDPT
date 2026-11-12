@@ -78,7 +78,7 @@ python -m gd2.src.verify_database
 Dựng lại vào một tệp mới:
 
 ```powershell
-python -u -m gd2.src.build_database --out gd2/database/documents_recheck.sqlite
+python -u -m gd2.src.build_database --out work/documents_recheck.sqlite
 python -m gd2.src.verify_database --database gd2/database/documents_recheck.sqlite
 ```
 
